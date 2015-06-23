@@ -1,0 +1,16 @@
+/* 
+    Document   : login
+    Created on : 03.09.2009, 10:39:34
+    Author     : Eugene Dounar <e.dounar@smartdesign.by>
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+  text-align: center;
+}
+
+.login {
+  padding-top: 5em;
+}
+

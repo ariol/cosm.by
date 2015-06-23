@@ -1,0 +1,46 @@
+<?php defined('SYSPATH') OR die('No direct script access.'); ?>
+
+2015-06-12 13:40:50 --- EMERGENCY: Kohana_Exception [ 0 ]: The requested route does not exist: site-line ~ SYSPATH/classes/Kohana/Route.php [ 109 ] in /home/cosm.by/modules/ariol/classes/Extasy/Url.php:52
+2015-06-12 13:40:50 --- DEBUG: #0 /home/cosm.by/modules/ariol/classes/Extasy/Url.php(52): Kohana_Route::get('site-line')
+#1 /home/cosm.by/modules/ariol/classes/Extasy/Html.php(16): Extasy_Url::url_to_route('site-line:index...')
+#2 /home/cosm.by/modules/ariol/classes/Extasy/Grid/Column/Name.php(27): Extasy_Html::link_to_route('site-line:index...', '&nbsp;&nbsp;<i ...', Array)
+#3 /home/cosm.by/modules/ariol/classes/Extasy/Grid/Column.php(71): Extasy_Grid_Column_Name->_field(Object(Model_Line))
+#4 /home/cosm.by/modules/ariol/classes/Extasy/Orm.php(550): Extasy_Grid_Column->field(Object(Model_Line))
+#5 /home/cosm.by/modules/ariol/classes/Controller/Crud.php(176): Extasy_Orm->grid_value('name')
+#6 /home/cosm.by/system/classes/Kohana/Controller.php(84): Controller_Crud->action_get_grid_data()
+#7 [internal function]: Kohana_Controller->execute()
+#8 /home/cosm.by/system/classes/Kohana/Request/Client/Internal.php(97): ReflectionMethod->invoke(Object(Controller_Admin_Line))
+#9 /home/cosm.by/system/classes/Kohana/Request/Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#10 /home/cosm.by/system/classes/Kohana/Request.php(986): Kohana_Request_Client->execute(Object(Request))
+#11 /home/cosm.by/index.php(149): Kohana_Request->execute()
+#12 {main} in /home/cosm.by/modules/ariol/classes/Extasy/Url.php:52
+2015-06-12 13:42:11 --- EMERGENCY: Kohana_Exception [ 0 ]: The video property does not exist in the Model_Category class ~ MODPATH/orm/classes/Kohana/ORM.php [ 687 ] in /home/cosm.by/modules/orm/classes/Kohana/ORM.php:603
+2015-06-12 13:42:11 --- DEBUG: #0 /home/cosm.by/modules/orm/classes/Kohana/ORM.php(603): Kohana_ORM->get('video')
+#1 /home/cosm.by/modules/ariol/classes/Extasy/Orm.php(293): Kohana_ORM->__get('video')
+#2 /home/cosm.by/modules/ariol/classes/CM/Form/Plugin/ORM.php(38): Extasy_Orm->__get('video')
+#3 /home/cosm.by/modules/ariol/classes/CM/Form/Abstract.php(34): CM_Form_Plugin_Orm->construct_form(Object(Form_Admin_Category), Object(Model_Category))
+#4 /home/cosm.by/application/classes/Model/Category.php(124): CM_Form_Abstract->__construct(Object(Model_Category))
+#5 /home/cosm.by/modules/ariol/classes/Controller/Crud.php(214): Model_Category->form()
+#6 /home/cosm.by/modules/ariol/classes/Controller/Crud.php(202): Controller_Crud->process_form(Object(Model_Category))
+#7 /home/cosm.by/system/classes/Kohana/Controller.php(84): Controller_Crud->action_edit()
+#8 [internal function]: Kohana_Controller->execute()
+#9 /home/cosm.by/system/classes/Kohana/Request/Client/Internal.php(97): ReflectionMethod->invoke(Object(Controller_Admin_Category))
+#10 /home/cosm.by/system/classes/Kohana/Request/Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#11 /home/cosm.by/system/classes/Kohana/Request.php(986): Kohana_Request_Client->execute(Object(Request))
+#12 /home/cosm.by/index.php(149): Kohana_Request->execute()
+#13 {main} in /home/cosm.by/modules/orm/classes/Kohana/ORM.php:603
+2015-06-12 13:42:30 --- EMERGENCY: Kohana_Exception [ 0 ]: The s_title property does not exist in the Model_Category class ~ MODPATH/orm/classes/Kohana/ORM.php [ 687 ] in /home/cosm.by/modules/orm/classes/Kohana/ORM.php:603
+2015-06-12 13:42:30 --- DEBUG: #0 /home/cosm.by/modules/orm/classes/Kohana/ORM.php(603): Kohana_ORM->get('s_title')
+#1 /home/cosm.by/modules/ariol/classes/Extasy/Orm.php(293): Kohana_ORM->__get('s_title')
+#2 /home/cosm.by/modules/ariol/classes/CM/Form/Plugin/ORM.php(38): Extasy_Orm->__get('s_title')
+#3 /home/cosm.by/modules/ariol/classes/CM/Form/Abstract.php(34): CM_Form_Plugin_Orm->construct_form(Object(Form_Admin_Category), Object(Model_Category))
+#4 /home/cosm.by/application/classes/Model/Category.php(124): CM_Form_Abstract->__construct(Object(Model_Category))
+#5 /home/cosm.by/modules/ariol/classes/Controller/Crud.php(214): Model_Category->form()
+#6 /home/cosm.by/modules/ariol/classes/Controller/Crud.php(202): Controller_Crud->process_form(Object(Model_Category))
+#7 /home/cosm.by/system/classes/Kohana/Controller.php(84): Controller_Crud->action_edit()
+#8 [internal function]: Kohana_Controller->execute()
+#9 /home/cosm.by/system/classes/Kohana/Request/Client/Internal.php(97): ReflectionMethod->invoke(Object(Controller_Admin_Category))
+#10 /home/cosm.by/system/classes/Kohana/Request/Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#11 /home/cosm.by/system/classes/Kohana/Request.php(986): Kohana_Request_Client->execute(Object(Request))
+#12 /home/cosm.by/index.php(149): Kohana_Request->execute()
+#13 {main} in /home/cosm.by/modules/orm/classes/Kohana/ORM.php:603

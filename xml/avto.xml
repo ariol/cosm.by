@@ -1,0 +1,1450 @@
+<?xml version='1.0' encoding='windows-1251'?>
+			<!DOCTYPE yml_catalog SYSTEM 'shops.dtd'>
+	<yml_catalog date='2015-04-13 15:14'>
+<shop>
+<name>1teh.by</name>
+		<company>ООО &amp;quot;ОдинТех&amp;quot;</company>
+		<url>https://1teh.by</url>
+		<currencies>
+<currency id="BUR" rate="1" />
+</currencies>
+		<categories>
+<category id="85">Автоакустика</category>
+<category id="86">Автомагнитолы</category>
+<category id="87">FM-модуляторы</category>
+<category id="89">Автомобильные усилители</category>
+<category id="90">Автомобильные холодильники</category>
+<category id="91">Автомобильные пылесосы</category>
+<category id="92">Автомобильные видеорегистраторы</category>
+<category id="119">Мойки высокого давления</category>
+<category id="145">Радар-детекторы</category>
+<category id="146">Автокресла</category>
+<category id="120">Автомобильные компрессоры</category>
+<category id="114">Автомобильные инверторы</category>
+<category id="149">Пуско-зарядные устройства</category>
+<category id="131">Домкраты</category>
+</categories>
+		<offers>
+<offer id="6494" available="true">
+<url>https://1teh.by/avto/avtoakustika-mystery-mf-432</url>
+<price>442000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6494/f43f89e8cbbfdda70229d9ebc82751ef.jpg</picture>
+<name>Автоакустика Mystery MF-432</name>
+<vendor>Mystery</vendor>
+<vendorCode>MF-432</vendorCode>
+
+</offer>
+<offer id="6497" available="true">
+<url>https://1teh.by/avto/avtoakustika-mystery-mf-632</url>
+<price>573000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6497/92d1c52b1b0ebd843c264b761afb096b.jpg</picture>
+<name>Автоакустика Mystery MF-632</name>
+<vendor>Mystery</vendor>
+<vendorCode>MF-632</vendorCode>
+
+</offer>
+<offer id="6501" available="true">
+<url>https://1teh.by/avto/avtoakustika-mystery-mo-6933</url>
+<price>1236000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6501/8c28e143fdb02221b307865c60c57d66.jpg</picture>
+<name>Автоакустика Mystery MO-6933</name>
+<vendor>Mystery</vendor>
+<vendorCode>MO-6933</vendorCode>
+
+</offer>
+<offer id="6503" available="true">
+<url>https://1teh.by/avto/avtoakustika-mystery-mr-613</url>
+<price>495000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6503/e471e58e48f7e89807210568b9107fae.jpg</picture>
+<name>Автоакустика Mystery MR-613</name>
+<vendor>Mystery</vendor>
+<vendorCode>MR-613</vendorCode>
+
+</offer>
+<offer id="6506" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gt6930</url>
+<price>645000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6506/096fa177a0564380883f32651829f155.jpg</picture>
+<name>Автоакустика Sony XS-GT6930</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GT6930</vendorCode>
+
+</offer>
+<offer id="6508" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gt6928f</url>
+<price>940000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6508/c3a97d693417bdb7588a09b92141ac3b.jpg</picture>
+<name>Автоакустика Sony XS-GT6928F</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GT6928F</vendorCode>
+
+</offer>
+<offer id="6510" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gt1320r</url>
+<price>435000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6510/18662cb23de3bef17bc273e0366f6471.jpg</picture>
+<name>Автоакустика Sony XS-GT1320R</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GT1320R</vendorCode>
+
+</offer>
+<offer id="6512" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gt1020r</url>
+<price>410000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6512/fdd8324efc7bc2404d9f90f6b8e0c319.jpg</picture>
+<name>Автоакустика Sony XS-GT1020R</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GT1020R</vendorCode>
+
+</offer>
+<offer id="6513" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gt1028f</url>
+<price>370000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6513/01a4852642d6cb6c0b842f77bfa8fe33.jpg</picture>
+<name>Автоакустика Sony XS-GT1028F</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GT1028F</vendorCode>
+
+</offer>
+<offer id="6532" available="true">
+<url>https://1teh.by/avto/avtoakustika-pioneer-ts-a6923is</url>
+<price>1033000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6532/0fe6f674ea0eda8d10188ec9b33f9045.jpg</picture>
+<name>Автоакустика Pioneer TS-A6923IS</name>
+<vendor>Pioneer</vendor>
+<vendorCode>TS-A6923IS</vendorCode>
+
+</offer>
+<offer id="6533" available="true">
+<url>https://1teh.by/avto/avtoakustika-pioneer-gxt-3604b-set-ru</url>
+<price>2020000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6533/fad711d08b1ae0ab660c4af9c7d2eb67.jpg</picture>
+<name>Автоакустика Pioneer GXT-3604B-SET-RU</name>
+<vendor>Pioneer</vendor>
+<vendorCode>GXT-3604B-SET-RU</vendorCode>
+
+</offer>
+<offer id="6534" available="true">
+<url>https://1teh.by/avto/avtoakustika-pioneer-ts-g1723i</url>
+<price>532000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6534/aba473b4c4e0d6d933dd4a7508ac0fa9.jpg</picture>
+<name>Автоакустика Pioneer TS-G1723i</name>
+<vendor>Pioneer</vendor>
+<vendorCode>TS-G1723i</vendorCode>
+
+</offer>
+<offer id="6535" available="true">
+<url>https://1teh.by/avto/avtoakustika-pioneer-ts-wx305b</url>
+<price>1660000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6535/05479f87191f9350b00f6ce5f9b4e2f2.jpg</picture>
+<name>Автоакустика Pioneer TS-WX305B</name>
+<vendor>Pioneer</vendor>
+<vendorCode>TS-WX305B</vendorCode>
+
+</offer>
+<offer id="6536" available="true">
+<url>https://1teh.by/avto/avtoakustika-pioneer-ts-r1350s</url>
+<price>492000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6536/ac7cb54bb889b28d970db3ba30bb6dd1.jpg</picture>
+<name>Автоакустика Pioneer TS-R1350S</name>
+<vendor>Pioneer</vendor>
+<vendorCode>TS-R1350S</vendorCode>
+
+</offer>
+<offer id="6538" available="true">
+<url>https://1teh.by/avto/avtoakustika-pioneer-ts-g172ci</url>
+<price>567000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6538/75d05c299e41a167951d9ff9b306f140.jpg</picture>
+<name>Автоакустика Pioneer TS-G172Ci</name>
+<vendor>Pioneer</vendor>
+<vendorCode>TS-G172Ci</vendorCode>
+
+</offer>
+<offer id="6539" available="true">
+<url>https://1teh.by/avto/avtoakustika-pioneer-ts-a6923i</url>
+<price>1022000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6539/d1135f07a25661598254141def659e58.jpg</picture>
+<name>Автоакустика Pioneer TS-A6923I</name>
+<vendor>Pioneer</vendor>
+<vendorCode>TS-A6923I</vendorCode>
+
+</offer>
+<offer id="6541" available="true">
+<url>https://1teh.by/avto/avtoakustika-blaupunkt-gtb-8200-a</url>
+<price>1771000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6541/57a8cadb09abee1b33fffb1acbe9a927.jpg</picture>
+<name>Автоакустика Blaupunkt GTb 8200 A</name>
+<vendor>Blaupunkt</vendor>
+<vendorCode>GTb 8200 A</vendorCode>
+
+</offer>
+<offer id="6543" available="true">
+<url>https://1teh.by/avto/avtoakustika-blaupunkt-ic-104</url>
+<price>378000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6543/1eb04b119a0adf85349091c3e7590b82.jpg</picture>
+<name>Автоакустика Blaupunkt IC 104</name>
+<vendor>Blaupunkt</vendor>
+<vendorCode>IC 104</vendorCode>
+
+</offer>
+<offer id="6553" available="true">
+<url>https://1teh.by/avto/avtoakustika-blaupunkt-gtx-803-de</url>
+<price>697000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6553/336c9c219f7ab847cf5b587da8eecbf4.jpg</picture>
+<name>Автоакустика Blaupunkt GTx 803 DE</name>
+<vendor>Blaupunkt</vendor>
+<vendorCode>GTx 803 DE</vendorCode>
+
+</offer>
+<offer id="6554" available="true">
+<url>https://1teh.by/avto/avtoakustika-blaupunkt-ic-112</url>
+<price>521000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6554/52daaefa3cbc3be5f9277c6df12ebccc.jpg</picture>
+<name>Автоакустика Blaupunkt IC 112</name>
+<vendor>Blaupunkt</vendor>
+<vendorCode>IC 112</vendorCode>
+
+</offer>
+<offer id="6556" available="true">
+<url>https://1teh.by/avto/avtoakustika-blaupunkt-ic-115</url>
+<price>543000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6556/cb24a5e2bae6fb4cbab2be2c54cfff9a.jpg</picture>
+<name>Автоакустика Blaupunkt IC 115</name>
+<vendor>Blaupunkt</vendor>
+<vendorCode>IC 115</vendorCode>
+
+</offer>
+<offer id="6557" available="true">
+<url>https://1teh.by/avto/avtoakustika-blaupunkt-basspack-2011-box</url>
+<price>2939000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6557/ffb52210fe9387cd07693a72872500c6.jpg</picture>
+<name>Автоакустика Blaupunkt BassPack 2011 Box</name>
+<vendor>Blaupunkt</vendor>
+<vendorCode>BassPack 2011 Box</vendorCode>
+
+</offer>
+<offer id="6558" available="true">
+<url>https://1teh.by/avto/avtoakustika-alpine-sbg-1244bp</url>
+<price>2158000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6558/a23564b41195415f7ddd55bcae39cce1.jpg</picture>
+<name>Автоакустика Alpine SBG-1244BP</name>
+<vendor>Alpine</vendor>
+<vendorCode>SBG-1244BP</vendorCode>
+
+</offer>
+<offer id="6559" available="true">
+<url>https://1teh.by/avto/avtoakustika-alpine-swg-1244</url>
+<price>1497000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6559/280bede061b1f4ab7e0768c80e0b31fd.jpg</picture>
+<name>Автоакустика Alpine SWG-1244</name>
+<vendor>Alpine</vendor>
+<vendorCode>SWG-1244</vendorCode>
+
+</offer>
+<offer id="6560" available="true">
+<url>https://1teh.by/avto/avtoakustika-alpine-sxe-1725s</url>
+<price>838000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6560/b80de00b95491fc7a1cc4ac01a38a2d6.jpg</picture>
+<name>Автоакустика Alpine SXE-1725S</name>
+<vendor>Alpine</vendor>
+<vendorCode>SXE-1725S</vendorCode>
+
+</offer>
+<offer id="6561" available="true">
+<url>https://1teh.by/avto/avtoakustika-alpine-sbg-12kit</url>
+<price>4066000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6561/e1114ab041e285d20571f01f7a18db7c.jpg</picture>
+<name>Автоакустика Alpine SBG-12KIT</name>
+<vendor>Alpine</vendor>
+<vendorCode>SBG-12KIT</vendorCode>
+
+</offer>
+<offer id="6562" available="true">
+<url>https://1teh.by/avto/avtoakustika-edge-ed205</url>
+<price>372000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6562/c50b385c20e0b55779279001f664b3f8.jpg</picture>
+<name>Автоакустика EDGE ED205</name>
+<vendor>EDGE</vendor>
+<vendorCode>ED205</vendorCode>
+
+</offer>
+<offer id="6563" available="true">
+<url>https://1teh.by/avto/avtoakustika-edge-ed209</url>
+<price>687000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6563/a3df6a534cd209a23eed760f4c561629.jpg</picture>
+<name>Автоакустика EDGE ED209</name>
+<vendor>EDGE</vendor>
+<vendorCode>ED209</vendorCode>
+
+</offer>
+<offer id="6565" available="true">
+<url>https://1teh.by/avto/avtoakustika-fli-underground-fu-12a-fu12a-f1</url>
+<price>1846000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/6565/ef3032719af31551249b8f60ef032223.jpg</picture>
+<name>Автоакустика FLI Underground FU 12A (FU12A-F1)</name>
+<vendor>FLI</vendor>
+<vendorCode>Underground FU 12A (FU12A-F1)</vendorCode>
+
+</offer>
+<offer id="6578" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-sony-dsx-a35ue</url>
+<price>940000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6578/a6f896607daba4f4dff877f36cf7e84f.jpg</picture>
+<name>Автомагнитолы Sony DSX-A35UE</name>
+<vendor>Sony</vendor>
+<vendorCode>DSX-A35UE</vendorCode>
+
+</offer>
+<offer id="6583" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-sony-dsx-a35u</url>
+<price>1017000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6583/9f17b65ed6d7e168b3da996ac802c293.jpg</picture>
+<name>Автомагнитолы Sony DSX-A35U</name>
+<vendor>Sony</vendor>
+<vendorCode>DSX-A35U</vendorCode>
+
+</offer>
+<offer id="6586" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-kenwood-kmm-120y</url>
+<price>1268000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6586/4774de2ced1357bef177037819086ef8.jpg</picture>
+<name>Автомагнитолы Kenwood KMM-120Y</name>
+<vendor>Kenwood</vendor>
+<vendorCode>KMM-120Y</vendorCode>
+
+</offer>
+<offer id="6587" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-kenwood-kdc-361u</url>
+<price>2395000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6587/56e29e4b786b6e7ed5d965f93ab6ec1f.jpg</picture>
+<name>Автомагнитолы Kenwood KDC-361U</name>
+<vendor>Kenwood</vendor>
+<vendorCode>KDC-361U</vendorCode>
+
+</offer>
+<offer id="6594" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-jvc-kd-x310bt</url>
+<price>1385000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6594/1905136c95c03fa1720ddd21f3a6d1f7.jpg</picture>
+<name>Автомагнитолы JVC KD-X310BT</name>
+<vendor>JVC</vendor>
+<vendorCode>KD-X310BT</vendorCode>
+
+</offer>
+<offer id="6598" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-jvc-kd-r841bte</url>
+<price>2908000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6598/83adebdacd4709673837a009303a3bb7.jpg</picture>
+<name>Автомагнитолы JVC KD-R841BTE</name>
+<vendor>JVC</vendor>
+<vendorCode>KD-R841BTE</vendorCode>
+
+</offer>
+<offer id="6602" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-jvc-kd-r757ee</url>
+<price>1363000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6602/47851b735da1b05e3e71f8d1de5737d4.jpg</picture>
+<name>Автомагнитолы JVC KD-R757EE</name>
+<vendor>JVC</vendor>
+<vendorCode>KD-R757EE</vendorCode>
+
+</offer>
+<offer id="6604" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-jvc-kd-sd80btey</url>
+<price>3252000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6604/2ef7e1840ffb17012bed79ff9af5e7c5.jpg</picture>
+<name>Автомагнитолы JVC KD-SD80BTEY</name>
+<vendor>JVC</vendor>
+<vendorCode>KD-SD80BTEY</vendorCode>
+
+</offer>
+<offer id="6605" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-jvc-kd-x115ee</url>
+<price>814000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6605/735d8c915782420eabc1f8142691e91f.jpg</picture>
+<name>Автомагнитолы JVC KD-X115EE</name>
+<vendor>JVC</vendor>
+<vendorCode>KD-X115EE</vendorCode>
+
+</offer>
+<offer id="6606" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-jvc-kd-r751e</url>
+<price>2081000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6606/f7f5f4a8d7d43fb33f8ed06e8475f0f3.jpg</picture>
+<name>Автомагнитолы JVC KD-R751E</name>
+<vendor>JVC</vendor>
+<vendorCode>KD-R751E</vendorCode>
+
+</offer>
+<offer id="6608" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-mvh-x560bt</url>
+<price>2103000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6608/61b7a5b333803f0972fb3bfe96043900.jpg</picture>
+<name>Автомагнитолы Pioneer MVH-X560BT</name>
+<vendor>Pioneer</vendor>
+<vendorCode>MVH-X560BT</vendorCode>
+
+</offer>
+<offer id="6611" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-deh-1600ubg</url>
+<price>1433000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6611/5a32208f4082cecdccd3829f00b211ff.jpg</picture>
+<name>Автомагнитолы Pioneer DEH-1600UBG</name>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-1600UBG</vendorCode>
+
+</offer>
+<offer id="6612" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-dvh-770av</url>
+<price>2590000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6612/115c042f21ae57320985244cbd5cf101.jpg</picture>
+<name>Автомагнитолы Pioneer DVH-770AV</name>
+<vendor>Pioneer</vendor>
+<vendorCode>DVH-770AV</vendorCode>
+
+</offer>
+<offer id="6614" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-deh-x3600ui</url>
+<price>1622000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6614/2d238fb3f55c786e02ce2f1a23811d2b.jpg</picture>
+<name>Автомагнитолы Pioneer DEH-X3600UI</name>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-X3600UI</vendorCode>
+
+</offer>
+<offer id="6618" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-mvh-160ui</url>
+<price>1092000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6618/368dacd6cc667ec458669aba97a99c23.jpg</picture>
+<name>Автомагнитолы Pioneer MVH-160UI</name>
+<vendor>Pioneer</vendor>
+<vendorCode>MVH-160UI</vendorCode>
+
+</offer>
+<offer id="6620" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-deh-1600uba</url>
+<price>1405000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6620/52747668e9172a763112727c5ba639c1.jpg</picture>
+<name>Автомагнитолы Pioneer DEH-1600UBA</name>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-1600UBA</vendorCode>
+
+</offer>
+<offer id="6622" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-deh-150mpg</url>
+<price>940000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6622/8524486b5694113e0e38b7d28df85051.jpg</picture>
+<name>Автомагнитолы Pioneer DEH-150MPG</name>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-150MPG</vendorCode>
+
+</offer>
+<offer id="6624" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-mvh-x460ui</url>
+<price>1672000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6624/a2d60dc94b6ccd79a6643f266bfa3124.jpg</picture>
+<name>Автомагнитолы Pioneer MVH-X460UI</name>
+<vendor>Pioneer</vendor>
+<vendorCode>MVH-X460UI</vendorCode>
+
+</offer>
+<offer id="6625" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-blaupunkt-london-120</url>
+<price>1117000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6625/2de50e8607544518e5fd4f73d98d3060.jpg</picture>
+<name>Автомагнитолы Blaupunkt London 120</name>
+<vendor>Blaupunkt</vendor>
+<vendorCode>London 120</vendorCode>
+
+</offer>
+<offer id="6626" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-blaupunkt-amsterdam-130</url>
+<price>1513000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6626/bc6df06faceee26f967aed9d0a1d3fd5.jpg</picture>
+<name>Автомагнитолы Blaupunkt Amsterdam 130</name>
+<vendor>Blaupunkt</vendor>
+<vendorCode>Amsterdam 130</vendorCode>
+
+</offer>
+<offer id="6630" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-alpine-cde-180rr</url>
+<price>1799000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6630/f7931185896fd633abb24ec7855ceeb9.jpg</picture>
+<name>Автомагнитолы Alpine CDE-180RR</name>
+<vendor>Alpine</vendor>
+<vendorCode>CDE-180RR</vendorCode>
+
+</offer>
+<offer id="6631" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-alpine-cde-180rm</url>
+<price>1580000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6631/9f8f5099437aeda58636b40dbb1968f8.jpg</picture>
+<name>Автомагнитолы Alpine CDE-180RM</name>
+<vendor>Alpine</vendor>
+<vendorCode>CDE-180RM</vendorCode>
+
+</offer>
+<offer id="6632" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-alpine-cde-180r</url>
+<price>1799000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6632/7ece905c8d7db5404cc44715ef98f5d1.jpg</picture>
+<name>Автомагнитолы Alpine CDE-180R</name>
+<vendor>Alpine</vendor>
+<vendorCode>CDE-180R</vendorCode>
+
+</offer>
+<offer id="6633" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-alpine-ute-80b</url>
+<price>1425000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/6633/6ae63896eca8df0a063a90c1ca12543d.jpg</picture>
+<name>Автомагнитолы Alpine UTE-80B</name>
+<vendor>Alpine</vendor>
+<vendorCode>UTE-80B</vendorCode>
+
+</offer>
+<offer id="6635" available="true">
+<url>https://1teh.by/avto/fm-modulyatoryi-ilink-pt663c</url>
+<price>203000</price>
+<currencyId>BYR</currencyId>
+<categoryId>87</categoryId>
+<picture>https://1teh.by/files/product/6635/6e81fda0ccc912c12bc016775de11aa7.jpg</picture>
+<name>FM-модуляторы iLink PT663C</name>
+<vendor>iLink</vendor>
+<vendorCode>PT663C</vendorCode>
+
+</offer>
+<offer id="6638" available="true">
+<url>https://1teh.by/avto/fm-modulyatoryi-ilink-ptfm26s</url>
+<price>271000</price>
+<currencyId>BYR</currencyId>
+<categoryId>87</categoryId>
+<picture>https://1teh.by/files/product/6638/3a8d391b8afe46144476c61f6c3ed17c.jpg</picture>
+<name>FM-модуляторы iLink PTFM26S</name>
+<vendor>iLink</vendor>
+<vendorCode>PTFM26S</vendorCode>
+
+</offer>
+<offer id="6639" available="true">
+<url>https://1teh.by/avto/fm-modulyatoryi-ilink-ptfm18a</url>
+<price>282000</price>
+<currencyId>BYR</currencyId>
+<categoryId>87</categoryId>
+<picture>https://1teh.by/files/product/6639/f8d20ef684ba9fe9e7f56097a84563e5.jpg</picture>
+<name>FM-модуляторы iLink PTFM18A</name>
+<vendor>iLink</vendor>
+<vendorCode>PTFM18A</vendorCode>
+
+</offer>
+<offer id="6641" available="true">
+<url>https://1teh.by/avto/fm-modulyatoryi-ilink-pt891n</url>
+<price>264000</price>
+<currencyId>BYR</currencyId>
+<categoryId>87</categoryId>
+<picture>https://1teh.by/files/product/6641/6d00dd80f72f3831d4ca86b28f03a645.jpg</picture>
+<name>FM-модуляторы iLink PT891N</name>
+<vendor>iLink</vendor>
+<vendorCode>PT891N</vendorCode>
+
+</offer>
+<offer id="6642" available="true">
+<url>https://1teh.by/avto/fm-modulyatoryi-ilink-pt665c</url>
+<price>204000</price>
+<currencyId>BYR</currencyId>
+<categoryId>87</categoryId>
+<picture>https://1teh.by/files/product/6642/813666c50be68000b37c52f632b7fc07.jpg</picture>
+<name>FM-модуляторы iLink PT665C</name>
+<vendor>iLink</vendor>
+<vendorCode>PT665C</vendorCode>
+
+</offer>
+<offer id="6645" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-usiliteli-pioneer-gm-a3602</url>
+<price>1062000</price>
+<currencyId>BYR</currencyId>
+<categoryId>89</categoryId>
+<picture>https://1teh.by/files/product/6645/44e448813f61c41fcced0228370aa43f.jpg</picture>
+<name>Автомобильные усилители Pioneer GM-A3602</name>
+<vendor>Pioneer</vendor>
+<vendorCode>GM-A3602</vendorCode>
+
+</offer>
+<offer id="6646" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-holodilniki-mystery-mtc-24</url>
+<price>1375000</price>
+<currencyId>BYR</currencyId>
+<categoryId>90</categoryId>
+<picture>https://1teh.by/files/product/6646/45436508794c186e4d21dcdd13813aab.jpg</picture>
+<name>Автомобильные холодильники Mystery MTC-24</name>
+<vendor>Mystery</vendor>
+<vendorCode>MTC-24</vendorCode>
+
+</offer>
+<offer id="6648" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-holodilniki-mystery-mtc-30</url>
+<price>1481000</price>
+<currencyId>BYR</currencyId>
+<categoryId>90</categoryId>
+<picture>https://1teh.by/files/product/6648/2e5846fafb01244780f9735ebf3fbac6.jpg</picture>
+<name>Автомобильные холодильники Mystery MTC-30</name>
+<vendor>Mystery</vendor>
+<vendorCode>MTC-30</vendorCode>
+
+</offer>
+<offer id="6653" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-pyilesosyi-alca-221</url>
+<price>357000</price>
+<currencyId>BYR</currencyId>
+<categoryId>91</categoryId>
+<picture>https://1teh.by/files/product/6653/3e926e9fab3ca0b83a85599ebd9108f6.jpg</picture>
+<name>Автомобильные пылесосы Alca 221</name>
+<vendor>Alca</vendor>
+<vendorCode>221</vendorCode>
+
+</offer>
+<offer id="6656" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-videoregistratoryi-advocam-fd-gps-black</url>
+<price>1920000</price>
+<currencyId>BYR</currencyId>
+<categoryId>92</categoryId>
+<picture>https://1teh.by/files/product/6656/ad81cc6e0f1f49ceb58d9b6f728e54c6.jpg</picture>
+<name>Автомобильные видеорегистраторы AdvoCam FD-GPS Black</name>
+<vendor>AdvoCam</vendor>
+<vendorCode>FD-GPS Black</vendorCode>
+
+</offer>
+<offer id="11252" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-videoregistratoryi-explay-v003hd-dvr-003hd</url>
+<price>565000</price>
+<currencyId>BYR</currencyId>
+<categoryId>92</categoryId>
+<picture>https://1teh.by/files/product/11252/6d4da5b55ca6c60c6b678e8bd3913046.jpg</picture>
+<name>Автомобильные видеорегистраторы Explay V003HD (DVR-003HD)</name>
+<vendor>Explay</vendor>
+<vendorCode>V003HD (DVR-003HD)</vendorCode>
+
+</offer>
+<offer id="6678" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-videoregistratoryi-prestigio-roadrunner-550</url>
+<price>1367000</price>
+<currencyId>BYR</currencyId>
+<categoryId>92</categoryId>
+<picture>https://1teh.by/files/product/6678/b7f3f6a502859fbb49dc6b3c21abd8cc.jpg</picture>
+<name>Автомобильные видеорегистраторы Prestigio Roadrunner 550</name>
+<vendor>Prestigio</vendor>
+<vendorCode>Roadrunner 550</vendorCode>
+
+</offer>
+<offer id="6681" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-videoregistratoryi-prestigio-roadrunner-300</url>
+<price>905000</price>
+<currencyId>BYR</currencyId>
+<categoryId>92</categoryId>
+<picture>https://1teh.by/files/product/6681/371ab63f858e2097e6b169e137300ab7.jpg</picture>
+<name>Автомобильные видеорегистраторы Prestigio Roadrunner 300</name>
+<vendor>Prestigio</vendor>
+<vendorCode>Roadrunner 300</vendorCode>
+
+</offer>
+<offer id="6687" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-videoregistratoryi-seemax-dvr-rg200</url>
+<price>1552000</price>
+<currencyId>BYR</currencyId>
+<categoryId>92</categoryId>
+<picture>https://1teh.by/files/product/6687/29bc4abc56d2665ac7c07f3ca948c7bf.jpg</picture>
+<name>Автомобильные видеорегистраторы SeeMax DVR RG200</name>
+<vendor>SeeMax</vendor>
+<vendorCode>DVR RG200</vendorCode>
+
+</offer>
+<offer id="6712" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-videoregistratoryi-plark-v100</url>
+<price>1111000</price>
+<currencyId>BYR</currencyId>
+<categoryId>92</categoryId>
+<picture>https://1teh.by/files/product/6712/caf9b02c14ea8396a60f15542c6e647d.jpg</picture>
+<name>Автомобильные видеорегистраторы Plark V100</name>
+<vendor>Plark</vendor>
+<vendorCode>V100</vendorCode>
+
+</offer>
+<offer id="6716" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-videoregistratoryi-globex-hqs-215</url>
+<price>1070000</price>
+<currencyId>BYR</currencyId>
+<categoryId>92</categoryId>
+<picture>https://1teh.by/files/product/6716/9e3f2bb6a35ef19e16ffddd2ca97dc70.jpg</picture>
+<name>Автомобильные видеорегистраторы Globex HQS-215</name>
+<vendor>Globex</vendor>
+<vendorCode>HQS-215</vendorCode>
+
+</offer>
+<offer id="7234" available="true">
+<url>https://1teh.by/avto/moyki-vyisokogo-davleniya-karcher-k-5-compact-1-630-720-0</url>
+<price>5313000</price>
+<currencyId>BYR</currencyId>
+<categoryId>119</categoryId>
+<picture>https://1teh.by/files/product/7234/04bcdc672c5e0308a99184db41c21346.jpg</picture>
+<name>Мойки высокого давления Karcher K 5 Compact (1.630-720.0)</name>
+<vendor>Karcher</vendor>
+<vendorCode>K 5 Compact (1.630-720.0)</vendorCode>
+
+</offer>
+<offer id="7247" available="true">
+<url>https://1teh.by/avto/moyki-vyisokogo-davleniya-karcher-k-3-car-1-601-819-0</url>
+<price>3058000</price>
+<currencyId>BYR</currencyId>
+<categoryId>119</categoryId>
+<picture>https://1teh.by/files/product/7247/413b97c484eaed922b4c6ae9db99a890.jpg</picture>
+<name>Мойки высокого давления Karcher K 3 Car (1.601-819.0)</name>
+<vendor>Karcher</vendor>
+<vendorCode>K 3 Car (1.601-819.0)</vendorCode>
+
+</offer>
+<offer id="7250" available="true">
+<url>https://1teh.by/avto/moyki-vyisokogo-davleniya-karcher-k-2-premium-car-1-673-307-0</url>
+<price>2973000</price>
+<currencyId>BYR</currencyId>
+<categoryId>119</categoryId>
+<picture>https://1teh.by/files/product/7250/e048739756f6bacacf4051040044869f.jpg</picture>
+<name>Мойки высокого давления Karcher K 2 Premium Car (1.673-307.0)</name>
+<vendor>Karcher</vendor>
+<vendorCode>K 2 Premium Car (1.673-307.0)</vendorCode>
+
+</offer>
+<offer id="7251" available="true">
+<url>https://1teh.by/avto/moyki-vyisokogo-davleniya-karcher-k-2-premium-1-673-305-0</url>
+<price>2784000</price>
+<currencyId>BYR</currencyId>
+<categoryId>119</categoryId>
+<picture>https://1teh.by/files/product/7251/772663b6f383ba6b7c0b4aa97a3f696c.jpg</picture>
+<name>Мойки высокого давления Karcher K 2 Premium (1.673-305.0)</name>
+<vendor>Karcher</vendor>
+<vendorCode>K 2 Premium (1.673-305.0)</vendorCode>
+
+</offer>
+<offer id="7252" available="true">
+<url>https://1teh.by/avto/moyki-vyisokogo-davleniya-karcher-k-2-compact-car-1-673-123-0</url>
+<price>2194000</price>
+<currencyId>BYR</currencyId>
+<categoryId>119</categoryId>
+<picture>https://1teh.by/files/product/7252/dff30ff7a6fd8b18fd966e4f86172fac.jpg</picture>
+<name>Мойки высокого давления Karcher K 2 Compact Car (1.673-123.0)</name>
+<vendor>Karcher</vendor>
+<vendorCode>K 2 Compact Car (1.673-123.0)</vendorCode>
+
+</offer>
+<offer id="7437" available="true">
+<url>https://1teh.by/avto/radar-detektoryi-neoline-x-cop-7500</url>
+<price>2181000</price>
+<currencyId>BYR</currencyId>
+<categoryId>145</categoryId>
+<picture>https://1teh.by/files/product/7437/4059abdee8139fab76833adf60e7b047.jpg</picture>
+<name>Радар-детекторы Neoline X-COP 7500</name>
+<vendor>Neoline</vendor>
+<vendorCode>X-COP 7500</vendorCode>
+
+</offer>
+<offer id="7438" available="true">
+<url>https://1teh.by/avto/radar-detektoryi-neoline-x-cop-3500</url>
+<price>1087000</price>
+<currencyId>BYR</currencyId>
+<categoryId>145</categoryId>
+<picture>https://1teh.by/files/product/7438/2f8a01f9ad9796929d82f5ceabb9b351.jpg</picture>
+<name>Радар-детекторы Neoline X-COP 3500</name>
+<vendor>Neoline</vendor>
+<vendorCode>X-COP 3500</vendorCode>
+
+</offer>
+<offer id="7439" available="true">
+<url>https://1teh.by/avto/radar-detektoryi-neoline-x-cop-3000</url>
+<price>974000</price>
+<currencyId>BYR</currencyId>
+<categoryId>145</categoryId>
+<picture>https://1teh.by/files/product/7439/0b7550b9b1c98385956313b8e4543ba1.jpg</picture>
+<name>Радар-детекторы Neoline X-COP 3000</name>
+<vendor>Neoline</vendor>
+<vendorCode>X-COP 3000</vendorCode>
+
+</offer>
+<offer id="7452" available="true">
+<url>https://1teh.by/avto/radar-detektoryi-cobra-ru-935ct</url>
+<price>2603000</price>
+<currencyId>BYR</currencyId>
+<categoryId>145</categoryId>
+<picture>https://1teh.by/files/product/7452/de9974ca188d0492fe504d0ee72ddb4c.jpg</picture>
+<name>Радар-детекторы Cobra RU 935CT</name>
+<vendor>Cobra</vendor>
+<vendorCode>RU 935CT</vendorCode>
+
+</offer>
+<offer id="7597" available="true">
+<url>https://1teh.by/avto/avtokresla-4baby-dragon</url>
+<price>1523000</price>
+<currencyId>BYR</currencyId>
+<categoryId>146</categoryId>
+<picture>https://1teh.by/files/product/7597/a2a9f9f62a194e503a0d100a3a6267a5.jpg</picture>
+<name>Автокресла 4baby Dragon</name>
+<vendor>4baby</vendor>
+<vendorCode>Dragon</vendorCode>
+
+</offer>
+<offer id="7607" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-kompressoryi-heyner-compact-power-non-stop-100-psi-235-000</url>
+<price>473000</price>
+<currencyId>BYR</currencyId>
+<categoryId>120</categoryId>
+<picture>https://1teh.by/files/product/7607/00ff123b703b2d949a3eedd1d5184135.jpg</picture>
+<name>Автомобильные компрессоры Heyner Compact Power &amp;quot;Non-Stop&amp;quot; 100 PSI (235 000)</name>
+<vendor>Heyner</vendor>
+<vendorCode>Compact Power &amp;quot;Non-Stop&amp;quot; 100 PSI (235 000)</vendorCode>
+
+</offer>
+<offer id="7618" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-invertoryi-soyuz-car1500</url>
+<price>510000</price>
+<currencyId>BYR</currencyId>
+<categoryId>114</categoryId>
+<picture>https://1teh.by/files/product/7618/f481452096cd1d825d10c1ecef44d5f7.jpg</picture>
+<name>Автомобильные инверторы Союз CAR1500</name>
+<vendor>Союз</vendor>
+<vendorCode>CAR1500</vendorCode>
+
+</offer>
+<offer id="11864" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-kompressoryi-alca-turbo-100-psi-232-000</url>
+<price>447000</price>
+<currencyId>BYR</currencyId>
+<categoryId>120</categoryId>
+<picture>https://1teh.by/files/product/11864/1f851245c8837deb04a608ddea7dbe18.jpg</picture>
+<name>Автомобильные компрессоры Alca &amp;quot;Turbo&amp;quot; 100 PSI (232 000)</name>
+<vendor>Alca</vendor>
+<vendorCode>&amp;quot;Turbo&amp;quot; 100 PSI (232 000)</vendorCode>
+
+</offer>
+<offer id="11866" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-invertoryi-soyuz-car200</url>
+<price>676000</price>
+<currencyId>BYR</currencyId>
+<categoryId>114</categoryId>
+<picture>https://1teh.by/files/product/11866/7cee90d730a965c9f464db939a644af1.jpg</picture>
+<name>Автомобильные инверторы Союз CAR200</name>
+<vendor>Союз</vendor>
+<vendorCode>CAR200</vendorCode>
+
+</offer>
+<offer id="11851" available="true">
+<url>https://1teh.by/avto/avtokresla-coletto-sportivo-only-isofix</url>
+<price>3062000</price>
+<currencyId>BYR</currencyId>
+<categoryId>146</categoryId>
+<picture>https://1teh.by/files/product/11851/88c2e0934842639bb18fe248ff9c5b78.jpg</picture>
+<name>Автокресла Coletto Sportivo Only Isofix</name>
+<vendor>Coletto</vendor>
+<vendorCode>Sportivo Only Isofix</vendorCode>
+
+</offer>
+<offer id="11852" available="true">
+<url>https://1teh.by/avto/avtokresla-coletto-sportivo-only</url>
+<price>2540000</price>
+<currencyId>BYR</currencyId>
+<categoryId>146</categoryId>
+<picture>https://1teh.by/files/product/11852/31bc95c1cf118f14ea9c437d55125e71.jpg</picture>
+<name>Автокресла Coletto Sportivo Only</name>
+<vendor>Coletto</vendor>
+<vendorCode>Sportivo Only</vendorCode>
+
+</offer>
+<offer id="11834" available="true">
+<url>https://1teh.by/avto/avtokresla-4baby-vito</url>
+<price>1113000</price>
+<currencyId>BYR</currencyId>
+<categoryId>146</categoryId>
+<picture>https://1teh.by/files/product/11834/f9094e6aef3a4af014e16a46228b57cf.jpg</picture>
+<name>Автокресла 4baby Vito</name>
+<vendor>4baby</vendor>
+<vendorCode>Vito</vendorCode>
+
+</offer>
+<offer id="11835" available="true">
+<url>https://1teh.by/avto/avtokresla-4baby-weelmo</url>
+<price>1764000</price>
+<currencyId>BYR</currencyId>
+<categoryId>146</categoryId>
+<picture>https://1teh.by/files/product/11835/4250ee0031e1af14d48a02fc4d78961d.jpg</picture>
+<name>Автокресла 4baby Weelmo</name>
+<vendor>4baby</vendor>
+<vendorCode>Weelmo</vendorCode>
+
+</offer>
+<offer id="11836" available="true">
+<url>https://1teh.by/avto/avtokresla-4baby-voyager</url>
+<price>1275000</price>
+<currencyId>BYR</currencyId>
+<categoryId>146</categoryId>
+<picture>https://1teh.by/files/product/11836/5c49a40fd49bd3229fdc1c78f263ebc7.jpg</picture>
+<name>Автокресла 4baby Voyager</name>
+<vendor>4baby</vendor>
+<vendorCode>Voyager</vendorCode>
+
+</offer>
+<offer id="11243" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-usiliteli-sony-xm-n1004</url>
+<price>1690000</price>
+<currencyId>BYR</currencyId>
+<categoryId>89</categoryId>
+<picture>https://1teh.by/files/product/11243/4c971713f8f8f144f48404aa2af6f0cb.jpg</picture>
+<name>Автомобильные усилители Sony XM-N1004</name>
+<vendor>Sony</vendor>
+<vendorCode>XM-N1004</vendorCode>
+
+</offer>
+<offer id="11244" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-usiliteli-jvc-ks-ax3202</url>
+<price>1516000</price>
+<currencyId>BYR</currencyId>
+<categoryId>89</categoryId>
+<picture>https://1teh.by/files/product/11244/6933e1a575c0d351acfe08f6b0bcc68e.jpg</picture>
+<name>Автомобильные усилители JVC KS-AX3202</name>
+<vendor>JVC</vendor>
+<vendorCode>KS-AX3202</vendorCode>
+
+</offer>
+<offer id="11247" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-pyilesosyi-vitek-vt-1811-b</url>
+<price>1328000</price>
+<currencyId>BYR</currencyId>
+<categoryId>91</categoryId>
+<picture>https://1teh.by/files/product/11247/5c7b7a63a5a59fd7eb7a69e78403ef95.jpg</picture>
+<name>Автомобильные пылесосы Vitek VT-1811 B</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1811 B</vendorCode>
+
+</offer>
+<offer id="11237" available="true">
+<url>https://1teh.by/avto/fm-modulyatoryi-atomic-t892m</url>
+<price>265000</price>
+<currencyId>BYR</currencyId>
+<categoryId>87</categoryId>
+<picture>https://1teh.by/files/product/11237/8b0ce9f811df4da84f0d8685a8bb7022.jpg</picture>
+<name>FM-модуляторы Atomic T892M</name>
+<vendor>Atomic</vendor>
+<vendorCode>T892M</vendorCode>
+
+</offer>
+<offer id="11238" available="true">
+<url>https://1teh.by/avto/fm-modulyatoryi-atomic-t854n</url>
+<price>289000</price>
+<currencyId>BYR</currencyId>
+<categoryId>87</categoryId>
+<picture>https://1teh.by/files/product/11238/cd4bcd8193889931391b20471e11b9cd.jpg</picture>
+<name>FM-модуляторы Atomic T854N</name>
+<vendor>Atomic</vendor>
+<vendorCode>T854N</vendorCode>
+
+</offer>
+<offer id="11235" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-alpine-ive-w530bt</url>
+<price>7315000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/11235/74d14aaf7398a8b52fb1143d7d4b9763.jpg</picture>
+<name>Автомагнитолы Alpine IVE-W530BT</name>
+<vendor>Alpine</vendor>
+<vendorCode>IVE-W530BT</vendorCode>
+
+</offer>
+<offer id="11226" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-kenwood-kdc-130y</url>
+<price>1663000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/11226/3b0d392f69698743fceb405c703cc99c.jpg</picture>
+<name>Автомагнитолы Kenwood KDC-130Y</name>
+<vendor>Kenwood</vendor>
+<vendorCode>KDC-130Y</vendorCode>
+
+</offer>
+<offer id="11219" available="true">
+<url>https://1teh.by/avto/avtoakustika-alpine-sxe-6925s</url>
+<price>1150000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/11219/6940be862734c6f4acc8fc14fc847abb.jpg</picture>
+<name>Автоакустика Alpine SXE-6925S</name>
+<vendor>Alpine</vendor>
+<vendorCode>SXE-6925S</vendorCode>
+
+</offer>
+<offer id="11214" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gt1720r</url>
+<price>524000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/11214/a9a070cafe414d090f12c2a8c271ef91.jpg</picture>
+<name>Автоакустика Sony XS-GT1720R</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GT1720R</vendorCode>
+
+</offer>
+<offer id="11211" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gtr101l</url>
+<price>734000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/11211/d006eabdffec07e1b169425541d03f1c.jpg</picture>
+<name>Автоакустика Sony XS-GTR101L</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GTR101L</vendorCode>
+
+</offer>
+<offer id="12582" available="true">
+<url>https://1teh.by/avto/avtoakustika-supra-rls-730</url>
+<price>419000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/12582/d0ca90afa6471dd4422a3ed4e8cb94c9.jpg</picture>
+<name>Автоакустика Supra RLS-730</name>
+<vendor>Supra</vendor>
+<vendorCode>RLS-730</vendorCode>
+
+</offer>
+<offer id="12584" available="true">
+<url>https://1teh.by/avto/avtoakustika-supra-rls-533</url>
+<price>298000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/12584/aeb4df4b47a7b75af1f0bc8a3b7c7447.jpg</picture>
+<name>Автоакустика Supra RLS-533</name>
+<vendor>Supra</vendor>
+<vendorCode>RLS-533</vendorCode>
+
+</offer>
+<offer id="12586" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gtx1622s</url>
+<price>1121000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/12586/ebc056c7b51202ff61ab864547484f46.jpg</picture>
+<name>Автоакустика Sony XS-GTX1622S</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GTX1622S</vendorCode>
+
+</offer>
+<offer id="12588" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gtx150le</url>
+<price>2320000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/12588/5e28b469d39ea19f315668e99bd4c74f.jpg</picture>
+<name>Автоакустика Sony XS-GTX150LE</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GTX150LE</vendorCode>
+
+</offer>
+<offer id="12589" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-nw1202e</url>
+<price>1740000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/12589/70773cfa361434f514448f9430a00810.jpg</picture>
+<name>Автоакустика Sony XS-NW1202E</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-NW1202E</vendorCode>
+
+</offer>
+<offer id="12592" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gtr121l</url>
+<price>840000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/12592/2824c6e2191c59b507830bef56955bf7.jpg</picture>
+<name>Автоакустика Sony XS-GTR121L</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GTR121L</vendorCode>
+
+</offer>
+<offer id="12593" available="true">
+<url>https://1teh.by/avto/avtoakustika-sony-xs-gtx121lt</url>
+<price>1961000</price>
+<currencyId>BYR</currencyId>
+<categoryId>85</categoryId>
+<picture>https://1teh.by/files/product/12593/150111b7dcffaf350314b84e0739c97e.jpg</picture>
+<name>Автоакустика Sony XS-GTX121LT</name>
+<vendor>Sony</vendor>
+<vendorCode>XS-GTX121LT</vendorCode>
+
+</offer>
+<offer id="12594" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-supra-sfd-111u</url>
+<price>770000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/12594/efdc2d021d45a8974aeacb9e30f47a31.jpg</picture>
+<name>Автомагнитолы Supra SFD-111U</name>
+<vendor>Supra</vendor>
+<vendorCode>SFD-111U</vendorCode>
+
+</offer>
+<offer id="12595" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-supra-sfd-121usc</url>
+<price>796000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/12595/646e246e0e0279f132c284ad7972b640.jpg</picture>
+<name>Автомагнитолы Supra SFD-121USC</name>
+<vendor>Supra</vendor>
+<vendorCode>SFD-121USC</vendorCode>
+
+</offer>
+<offer id="12596" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-supra-sfd-108u</url>
+<price>757000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/12596/bdb6757ce7438b058b125a9d973ae076.jpg</picture>
+<name>Автомагнитолы Supra SFD-108U</name>
+<vendor>Supra</vendor>
+<vendorCode>SFD-108U</vendorCode>
+
+</offer>
+<offer id="12597" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-sony-cdx-g1003er</url>
+<price>1277000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/12597/169c121b292035a577c760ccaba65c1f.jpg</picture>
+<name>Автомагнитолы Sony CDX-G1003ER</name>
+<vendor>Sony</vendor>
+<vendorCode>CDX-G1003ER</vendorCode>
+
+</offer>
+<offer id="12598" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-sony-wx-gt80ue</url>
+<price>1681000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/12598/d6ff9b826d67e176507d99f154f25709.jpg</picture>
+<name>Автомагнитолы Sony WX-GT80UE</name>
+<vendor>Sony</vendor>
+<vendorCode>WX-GT80UE</vendorCode>
+
+</offer>
+<offer id="12602" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-sony-cdx-g1003ur</url>
+<price>1277000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/12602/1078e38769c1b98b282db3b0002d5cb1.jpg</picture>
+<name>Автомагнитолы Sony CDX-G1003UR</name>
+<vendor>Sony</vendor>
+<vendorCode>CDX-G1003UR</vendorCode>
+
+</offer>
+<offer id="12604" available="true">
+<url>https://1teh.by/avto/fm-modulyatoryi-ritmix-fmt-a710</url>
+<price>242000</price>
+<currencyId>BYR</currencyId>
+<categoryId>87</categoryId>
+<picture>https://1teh.by/files/product/12604/1e59fa58c8d4123103fa60108ce00944.jpg</picture>
+<name>FM-модуляторы Ritmix FMT-A710</name>
+<vendor>Ritmix</vendor>
+<vendorCode>FMT-A710</vendorCode>
+
+</offer>
+<offer id="12606" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-usiliteli-sony-xm-sw1</url>
+<price>970000</price>
+<currencyId>BYR</currencyId>
+<categoryId>89</categoryId>
+<picture>https://1teh.by/files/product/12606/77532a878e99ecb44bc2dfb7385c476e.jpg</picture>
+<name>Автомобильные усилители Sony XM-SW1</name>
+<vendor>Sony</vendor>
+<vendorCode>XM-SW1</vendorCode>
+
+</offer>
+<offer id="12611" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-videoregistratoryi-supra-scr-680</url>
+<price>1003000</price>
+<currencyId>BYR</currencyId>
+<categoryId>92</categoryId>
+<picture>https://1teh.by/files/product/12611/f93061349a8ba5153670879d4fd3f2e8.jpg</picture>
+<name>Автомобильные видеорегистраторы Supra SCR-680</name>
+<vendor>Supra</vendor>
+<vendorCode>SCR-680</vendorCode>
+
+</offer>
+<offer id="12612" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-videoregistratoryi-supra-scr-430</url>
+<price>745000</price>
+<currencyId>BYR</currencyId>
+<categoryId>92</categoryId>
+<picture>https://1teh.by/files/product/12612/2b2e950d111f1033193f452d31642a83.jpg</picture>
+<name>Автомобильные видеорегистраторы Supra SCR-430</name>
+<vendor>Supra</vendor>
+<vendorCode>SCR-430</vendorCode>
+
+</offer>
+<offer id="12842" available="true">
+<url>https://1teh.by/avto/radar-detektoryi-ritmix-rad-550st-gps</url>
+<price>1693000</price>
+<currencyId>BYR</currencyId>
+<categoryId>145</categoryId>
+<picture>https://1teh.by/files/product/12842/2567b94533f8f62f08c2e963bf1b674e.jpg</picture>
+<name>Радар-детекторы Ritmix RAD-550ST GPS</name>
+<vendor>Ritmix</vendor>
+<vendorCode>RAD-550ST GPS</vendorCode>
+
+</offer>
+<offer id="13388" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-mvh-07ub</url>
+<price>728000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/13388/4796b2c01f5e0a800799afbda72e511d.jpg</picture>
+<name>Автомагнитолы Pioneer MVH-07UB</name>
+<vendor>Pioneer</vendor>
+<vendorCode>MVH-07UB</vendorCode>
+
+</offer>
+<offer id="13389" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-deh-x5700bt</url>
+<price>2163000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/13389/045fb1c859c222a2c758bed8cf86a705.jpg</picture>
+<name>Автомагнитолы Pioneer DEH-X5700BT</name>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-X5700BT</vendorCode>
+
+</offer>
+<offer id="13390" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-deh-1700ub</url>
+<price>1598000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/13390/fbda2d747369b04c524fcf13b4eccbfb.jpg</picture>
+<name>Автомагнитолы Pioneer DEH-1700UB</name>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-1700UB</vendorCode>
+
+</offer>
+<offer id="13575" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-holodilniki-mystery-mth-16b</url>
+<price>905000</price>
+<currencyId>BYR</currencyId>
+<categoryId>90</categoryId>
+<picture>https://1teh.by/files/product/13575/6bb69e974d80a142e28a5b46f1812488.jpg</picture>
+<name>Автомобильные холодильники Mystery MTH-16B</name>
+<vendor>Mystery</vendor>
+<vendorCode>MTH-16B</vendorCode>
+
+</offer>
+<offer id="13576" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-holodilniki-mystery-mth-21b</url>
+<price>1236000</price>
+<currencyId>BYR</currencyId>
+<categoryId>90</categoryId>
+<picture>https://1teh.by/files/product/13576/044b214eb8d662dda825f4c28bfe2764.jpg</picture>
+<name>Автомобильные холодильники Mystery MTH-21B</name>
+<vendor>Mystery</vendor>
+<vendorCode>MTH-21B</vendorCode>
+
+</offer>
+<offer id="13577" available="true">
+<url>https://1teh.by/avto/avtomobilnyie-holodilniki-mystery-mth-35b</url>
+<price>1389000</price>
+<currencyId>BYR</currencyId>
+<categoryId>90</categoryId>
+<picture>https://1teh.by/files/product/13577/9b5dc45e2858c2d6e37781fbf22a67d9.jpg</picture>
+<name>Автомобильные холодильники Mystery MTH-35B</name>
+<vendor>Mystery</vendor>
+<vendorCode>MTH-35B</vendorCode>
+
+</offer>
+<offer id="13653" available="true">
+<url>https://1teh.by/avto/pusko-zaryadnyie-ustroystva-solaris-ch-6md</url>
+<price>563000</price>
+<currencyId>BYR</currencyId>
+<categoryId>149</categoryId>
+<picture>https://1teh.by/files/product/13653/f4f0d2e3d22eb0fa8e9bbd18db65edb4.jpg</picture>
+<name>Пуско-зарядные устройства Solaris CH 6MD</name>
+<vendor>Solaris</vendor>
+<vendorCode>CH 6MD</vendorCode>
+
+</offer>
+<offer id="13654" available="true">
+<url>https://1teh.by/avto/pusko-zaryadnyie-ustroystva-telwin-geminy-11</url>
+<price>585000</price>
+<currencyId>BYR</currencyId>
+<categoryId>149</categoryId>
+<picture>https://1teh.by/files/product/13654/16555419e4c753cbcb381412eb6f4bd9.jpg</picture>
+<name>Пуско-зарядные устройства Telwin Geminy 11</name>
+<vendor>Telwin</vendor>
+<vendorCode>Geminy 11</vendorCode>
+
+</offer>
+<offer id="13782" available="true">
+<url>https://1teh.by/avto/domkratyi-startul-auto-st8011-12-12t</url>
+<price>457000</price>
+<currencyId>BYR</currencyId>
+<categoryId>131</categoryId>
+<picture>https://1teh.by/files/product/13782/e63fc0892c670fe02ed2b7388120628f.jpg</picture>
+<name>Домкраты Startul Auto ST8011-12 12т.</name>
+<vendor>Startul Auto</vendor>
+<vendorCode>ST8011-12 12</vendorCode>
+
+</offer>
+<offer id="13783" available="true">
+<url>https://1teh.by/avto/domkratyi-startul-auto-st8011-06-6t</url>
+<price>313000</price>
+<currencyId>BYR</currencyId>
+<categoryId>131</categoryId>
+<picture>https://1teh.by/files/product/13783/d5ddf7a50016e236eef60c2496664aec.jpg</picture>
+<name>Домкраты Startul Auto ST8011-06 6т.</name>
+<vendor>Startul Auto</vendor>
+<vendorCode>ST8011-06 6</vendorCode>
+
+</offer>
+<offer id="13917" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-deh-1700ubb</url>
+<price>1130000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/13917/963db6548aab8003cbc1039e411c1350.jpg</picture>
+<name>Автомагнитолы Pioneer DEH-1700UBB</name>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-1700UBB</vendorCode>
+
+</offer>
+<offer id="13918" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-deh-1700ubg</url>
+<price>1130000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/13918/44b557b4f6147960c8b46ee361c23ab9.jpg</picture>
+<name>Автомагнитолы Pioneer DEH-1700UBG</name>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-1700UBG</vendorCode>
+
+</offer>
+<offer id="13919" available="true">
+<url>https://1teh.by/avto/avtomagnitolyi-pioneer-deh-1700uba</url>
+<price>1130000</price>
+<currencyId>BYR</currencyId>
+<categoryId>86</categoryId>
+<picture>https://1teh.by/files/product/13919/2498def73112c9e700c624c384f7b933.jpg</picture>
+<name>Автомагнитолы Pioneer DEH-1700UBA</name>
+<vendor>Pioneer</vendor>
+<vendorCode>DEH-1700UBA</vendorCode>
+
+</offer>
+</offers>
+		</shop>
+
+</yml_catalog>

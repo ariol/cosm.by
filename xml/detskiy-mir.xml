@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1251'?>
+			<!DOCTYPE yml_catalog SYSTEM 'shops.dtd'>
+	<yml_catalog date='2015-04-13 15:14'>
+<shop>
+<name>1teh.by</name>
+		<company>ООО &amp;quot;ОдинТех&amp;quot;</company>
+		<url>https://1teh.by</url>
+		<currencies>
+<currency id="BUR" rate="1" />
+</currencies>
+		<categories>
+<category id="168">Конструкторы LEGO</category>
+</categories>
+		<offers>
+<offer id="7525" available="true">
+<url>https://1teh.by/detskiy-mir/konstruktoryi-lego-lego-42023-construction-crew</url>
+<price>979000</price>
+<currencyId>BYR</currencyId>
+<categoryId>168</categoryId>
+<picture>https://1teh.by/files/product/7525/8f08d1998c67e65232fdddc1d8ae715f.jpg</picture>
+<name>Конструкторы LEGO LEGO 42023 Construction Crew</name>
+<vendor>LEGO</vendor>
+<vendorCode>42023 Construction Crew</vendorCode>
+
+</offer>
+<offer id="7567" available="true">
+<url>https://1teh.by/detskiy-mir/konstruktoryi-lego-lego-75048-the-phantom</url>
+<price>507000</price>
+<currencyId>BYR</currencyId>
+<categoryId>168</categoryId>
+<picture>https://1teh.by/files/product/7567/4e0d3c338ead489ec2309e6ec210a2b5.jpg</picture>
+<name>Конструкторы LEGO LEGO 75048 The Phantom</name>
+<vendor>LEGO</vendor>
+<vendorCode>75048 The Phantom</vendorCode>
+
+</offer>
+<offer id="11809" available="true">
+<url>https://1teh.by/detskiy-mir/konstruktoryi-lego-lego-10553-toddler-build-and-play-cubes</url>
+<price>302000</price>
+<currencyId>BYR</currencyId>
+<categoryId>168</categoryId>
+<picture>https://1teh.by/files/product/11809/9943364403a62753a2fca889656ec648.jpg</picture>
+<name>Конструкторы LEGO LEGO 10553 Toddler Build and Play Cubes</name>
+<vendor>LEGO</vendor>
+<vendorCode>10553 Toddler Build and Play Cubes</vendorCode>
+
+</offer>
+</offers>
+		</shop>
+
+</yml_catalog>

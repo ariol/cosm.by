@@ -1,0 +1,3864 @@
+<?xml version='1.0' encoding='windows-1251'?>
+			<!DOCTYPE yml_catalog SYSTEM 'shops.dtd'>
+	<yml_catalog date='2014-12-22 17:00'>
+<shop>
+<name>1teh.by</name>
+		<company>ООО &amp;quot;ОдинТех&amp;quot;</company>
+		<url>https://1teh.by</url>
+		<currencies>
+<currency id="BUR" rate="1" />
+</currencies>
+		<categories>
+<category id="96">Сумки для фото</category>
+<category id="95">Сумки для ноутбуков</category>
+<category id="93">Гладильные доски</category>
+<category id="97">Мыши</category>
+<category id="112">Кронштейны</category>
+<category id="151">Подставки для ноутбуков</category>
+<category id="153">Шредеры</category>
+</categories>
+		<offers>
+<offer id="11560" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-tbc-410</url>
+<price>942000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11560/82d886cc5ee6444a1a70fca9235f4046.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic TBC-410</name>
+<vendor>Case Logic</vendor>
+<vendorCode>TBC-410</vendorCode>
+
+</offer>
+<offer id="11561" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-dcb-301</url>
+<price>239000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11561/0ecbdb32e06cbf85c4cd43e7d0478264.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic DCB-301</name>
+<vendor>Case Logic</vendor>
+<vendorCode>DCB-301</vendorCode>
+
+</offer>
+<offer id="11563" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-dcb-305</url>
+<price>464000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11563/edc8df11a5fdf019428e019619a545d1.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic DCB-305</name>
+<vendor>Case Logic</vendor>
+<vendorCode>DCB-305</vendorCode>
+
+</offer>
+<offer id="11512" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-evolution-bpeb-115</url>
+<price>820000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/11512/3c7414481c3fb0caa81c783ebf852b16.jpg</picture>
+<name>Сумки для ноутбуков Case Logic Evolution (BPEB-115)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Evolution (BPEB-115)</vendorCode>
+
+</offer>
+<offer id="6721" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-philips-gc260-05</url>
+<price>2927000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/6721/ba52edd8fcd9d12d9c10a9dc4bfdbe19.jpg</picture>
+<name>Гладильные доски Philips GC260/05</name>
+<vendor>Philips</vendor>
+<vendorCode>GC260/05</vendorCode>
+
+</offer>
+<offer id="6723" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-gimi-junior-14400548</url>
+<price>806000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/6723/a2ba63cb29af345558ef6bfa27cc7b0a.jpg</picture>
+<name>Гладильные доски Gimi Junior (14400548)</name>
+<vendor>Gimi</vendor>
+<vendorCode>Junior (14400548)</vendorCode>
+
+</offer>
+<offer id="6724" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-gimi-venezia</url>
+<price>840000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/6724/02de1fb2b2ffc47de55b84d045d667ec.jpg</picture>
+<name>Гладильные доски Gimi Venezia</name>
+<vendor>Gimi</vendor>
+<vendorCode>Venezia</vendorCode>
+
+</offer>
+<offer id="6727" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-gimi-milano</url>
+<price>1145000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/6727/5499dd3a8ebefd97ca0094c5d9cfa293.jpg</picture>
+<name>Гладильные доски Gimi Milano</name>
+<vendor>Gimi</vendor>
+<vendorCode>Milano</vendorCode>
+
+</offer>
+<offer id="6734" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-peroni-1545n-19-19v</url>
+<price>700000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/6734/c997c0c69e1b48fdac8e2092b833e1d9.jpg</picture>
+<name>Гладильные доски Peroni 1545Н-19*19В</name>
+<vendor>Peroni</vendor>
+<vendorCode>1545</vendorCode>
+
+</offer>
+<offer id="6741" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-hp-essential-messenger-h1d25aa</url>
+<price>697000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6741/dbcae05c5ca9dd39b300d11b4bb2c909.jpg</picture>
+<name>Сумки для ноутбуков HP Essential Messenger (H1D25AA)</name>
+<vendor>HP</vendor>
+<vendorCode>Essential Messenger (H1D25AA)</vendorCode>
+
+</offer>
+<offer id="6751" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-trust-sydney-16-notebook-carry-bag-17412</url>
+<price>693000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6751/6b2372e739bad54b727d11b7c959638c.jpg</picture>
+<name>Сумки для ноутбуков Trust Sydney 16&amp;quot; Notebook Carry Bag (17412)</name>
+<vendor>Trust</vendor>
+<vendorCode>Sydney 16&amp;quot; Notebook Carry Bag (17412)</vendorCode>
+
+</offer>
+<offer id="6769" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-miracase-ptms8012-15-6</url>
+<price>356000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6769/40a0b6a7fb13f94abcc29bf69cb88826.jpg</picture>
+<name>Сумки для ноутбуков Miracase PTMS8012 15.6&amp;quot;</name>
+<vendor>Miracase</vendor>
+<vendorCode>PTMS8012 15.6&amp;quot;</vendorCode>
+
+</offer>
+<offer id="6779" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-miracase-ptnh1296gy</url>
+<price>393000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6779/e07fdf14a03711ed21e94ca5afe72665.jpg</picture>
+<name>Сумки для ноутбуков Miracase PTNH1296GY</name>
+<vendor>Miracase</vendor>
+<vendorCode>PTNH1296GY</vendorCode>
+
+</offer>
+<offer id="6781" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-miracase-ptnh1269</url>
+<price>565000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6781/5e6ffbe0999660487a2ebe51dd4fae67.jpg</picture>
+<name>Сумки для ноутбуков Miracase PTNH1269</name>
+<vendor>Miracase</vendor>
+<vendorCode>PTNH1269</vendorCode>
+
+</offer>
+<offer id="6785" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-miracase-ptnl020-15-6</url>
+<price>447000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6785/3d5473a04434062e06acd056bb8e025a.jpg</picture>
+<name>Сумки для ноутбуков Miracase PTNL020 15.6&amp;quot;</name>
+<vendor>Miracase</vendor>
+<vendorCode>PTNL020 15.6&amp;quot;</vendorCode>
+
+</offer>
+<offer id="6786" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-miracase-ptnh1296rd-10-2</url>
+<price>393000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6786/17a3fd09903be56746bf7670ac7d356d.jpg</picture>
+<name>Сумки для ноутбуков Miracase PTNH1296RD 10.2&amp;quot;</name>
+<vendor>Miracase</vendor>
+<vendorCode>PTNH1296RD 10.2&amp;quot;</vendorCode>
+
+</offer>
+<offer id="6787" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-miracase-ptnh1169</url>
+<price>551000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6787/6f921d9deed8d73fdf7028235a074333.jpg</picture>
+<name>Сумки для ноутбуков Miracase PTNH1169</name>
+<vendor>Miracase</vendor>
+<vendorCode>PTNH1169</vendorCode>
+
+</offer>
+<offer id="6796" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-miracase-ptns039setgy</url>
+<price>392000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6796/0c6b32e4c23ba3455333ccf8738884d3.jpg</picture>
+<name>Сумки для ноутбуков Miracase PTNS039setGY</name>
+<vendor>Miracase</vendor>
+<vendorCode>PTNS039setGY</vendorCode>
+
+</offer>
+<offer id="6799" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-miracase-ptns039setpk</url>
+<price>392000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6799/e706923447012e067985f1bf30a50ab7.jpg</picture>
+<name>Сумки для ноутбуков Miracase PTNS039setPK</name>
+<vendor>Miracase</vendor>
+<vendorCode>PTNS039setPK</vendorCode>
+
+</offer>
+<offer id="6801" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-miracase-urbanlife-backpack-15-6-ptms8009backp</url>
+<price>794000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6801/cf04fe8ab265f7f7f700c7f9023e77db.jpg</picture>
+<name>Сумки для ноутбуков Miracase Urbanlife backpack 15.6&amp;quot; (PTMS8009BACKP)</name>
+<vendor>Miracase</vendor>
+<vendorCode>Urbanlife backpack 15.6&amp;quot; (PTMS8009BACKP)</vendorCode>
+
+</offer>
+<offer id="6803" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-targus-tbs044eu</url>
+<price>320000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6803/7e14edb99b07c201c88481e5057d27f7.jpg</picture>
+<name>Сумки для ноутбуков Targus TBS044EU</name>
+<vendor>Targus</vendor>
+<vendorCode>TBS044EU</vendorCode>
+
+</offer>
+<offer id="6805" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-dlc-115</url>
+<price>944000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6805/4affa7ffb964d84ad48bcfc54864e80e.jpg</picture>
+<name>Сумки для ноутбуков Case Logic DLC-115</name>
+<vendor>Case Logic</vendor>
+<vendorCode>DLC-115</vendorCode>
+
+</offer>
+<offer id="6807" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-cadence-bpcb-115</url>
+<price>624000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6807/9983d93c046813438828dba85eee25d1.jpg</picture>
+<name>Сумки для ноутбуков Case Logic Cadence (BPCB-115)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Cadence (BPCB-115)</vendorCode>
+
+</offer>
+<offer id="6811" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-noxc-116</url>
+<price>1135000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6811/03aad53e22e04de09f0050d82e6d6ff0.jpg</picture>
+<name>Сумки для ноутбуков Case Logic NOXC-116</name>
+<vendor>Case Logic</vendor>
+<vendorCode>NOXC-116</vendorCode>
+
+</offer>
+<offer id="6813" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-netbook-sleeve-lneo-10</url>
+<price>318000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6813/e63adb644220abbf8ca0a0a994384fa6.jpg</picture>
+<name>Сумки для ноутбуков Case Logic Netbook Sleeve (LNEO-10)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Netbook Sleeve (LNEO-10)</vendorCode>
+
+</offer>
+<offer id="6814" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-griffith-park-bogb-115</url>
+<price>986000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6814/08bc2d213d6ddc36d85d1131476f5df7.jpg</picture>
+<name>Сумки для ноутбуков Case Logic Griffith Park (BOGB-115)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Griffith Park (BOGB-115)</vendorCode>
+
+</offer>
+<offer id="6815" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-griffith-park-plus-backpack-bogp-115</url>
+<price>1087000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6815/7930e42fd91d1e71a324fca2a9730ff2.jpg</picture>
+<name>Сумки для ноутбуков Case Logic Griffith Park Plus Backpack (BOGP-115)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Griffith Park Plus Backpack (BOGP-115)</vendorCode>
+
+</offer>
+<offer id="6816" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-mlbp-115</url>
+<price>799000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6816/24a8d7485bdc51e738218d47837611e0.jpg</picture>
+<name>Сумки для ноутбуков Case Logic MLBP-115</name>
+<vendor>Case Logic</vendor>
+<vendorCode>MLBP-115</vendorCode>
+
+</offer>
+<offer id="6817" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-laptop-and-tablet-attache-mla-116</url>
+<price>906000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6817/15042a2609ba9bb4b9646d74f8cbc997.jpg</picture>
+<name>Сумки для ноутбуков Case Logic Laptop and Tablet Attache (MLA-116)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Laptop and Tablet Attache (MLA-116)</vendorCode>
+
+</offer>
+<offer id="6818" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-laptop-and-ipad-slim-case-aua-314</url>
+<price>548000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6818/024a47cda65b44e7f72856c82409b30f.jpg</picture>
+<name>Сумки для ноутбуков Case Logic Laptop and iPad Slim Case (AUA-314)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Laptop and iPad Slim Case (AUA-314)</vendorCode>
+
+</offer>
+<offer id="6820" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-qns-113</url>
+<price>618000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6820/fbe7503f450a31affc17706debf6947d.jpg</picture>
+<name>Сумки для ноутбуков Case Logic QNS-113</name>
+<vendor>Case Logic</vendor>
+<vendorCode>QNS-113</vendorCode>
+
+</offer>
+<offer id="6822" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-17-3-laptop-and-ipad-briefcase-anc-317</url>
+<price>628000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6822/0db1a37a12ed2482ba3e1b02f173bead.jpg</picture>
+<name>Сумки для ноутбуков Case Logic 17.3&amp;quot; Laptop and iPad Briefcase (ANC-317)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>17.3&amp;quot; Laptop and iPad Briefcase (ANC-317)</vendorCode>
+
+</offer>
+<offer id="6823" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-aua-316</url>
+<price>743000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6823/e938bac7efaf54e50b7abbb42b4c1295.jpg</picture>
+<name>Сумки для ноутбуков Case Logic AUA-316</name>
+<vendor>Case Logic</vendor>
+<vendorCode>AUA-316</vendorCode>
+
+</offer>
+<offer id="6824" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-vnai-215</url>
+<price>644000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6824/632dc91e7ae63c5f17623e0ade12ffd4.jpg</picture>
+<name>Сумки для ноутбуков Case Logic VNAI-215</name>
+<vendor>Case Logic</vendor>
+<vendorCode>VNAI-215</vendorCode>
+
+</offer>
+<offer id="6838" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-port-designs-palermo-13-3-140340</url>
+<price>949000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6838/f185c91db02825cb3f9a154074d2ad1a.jpg</picture>
+<name>Сумки для ноутбуков Port Designs PALERMO 13,3&apos;&apos; (140340)</name>
+<vendor>Port Designs</vendor>
+<vendorCode>PALERMO 13,3&apos;&apos; (140340)</vendorCode>
+
+</offer>
+<offer id="6839" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-port-designs-berlin-ii-15-6-140372</url>
+<price>927000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6839/cef0b101cee423e9e33ae0127d865b65.jpg</picture>
+<name>Сумки для ноутбуков Port Designs BERLIN II 15,6&apos;&apos; (140372)</name>
+<vendor>Port Designs</vendor>
+<vendorCode>BERLIN II 15,6&apos;&apos; (140372)</vendorCode>
+
+</offer>
+<offer id="6840" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-port-designs-liberty-15-6-202308</url>
+<price>488000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6840/13722853e64ceede723457de62db84ab.jpg</picture>
+<name>Сумки для ноутбуков Port Designs Liberty 15,6&apos;&apos; (202308)</name>
+<vendor>Port Designs</vendor>
+<vendorCode>Liberty 15,6&apos;&apos; (202308)</vendorCode>
+
+</offer>
+<offer id="6841" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-port-designs-palermo-15-6-140341</url>
+<price>914000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6841/dd72abe1557079c9243506cac21d5dc2.jpg</picture>
+<name>Сумки для ноутбуков Port Designs PALERMO 15,6&apos;&apos; (140341)</name>
+<vendor>Port Designs</vendor>
+<vendorCode>PALERMO 15,6&apos;&apos; (140341)</vendorCode>
+
+</offer>
+<offer id="6842" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-port-designs-sochi-toploading-slim-bag-13-14-150031</url>
+<price>962000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6842/574ab4fcbd5a4c73cc1b19e32813cbc5.jpg</picture>
+<name>Сумки для ноутбуков Port Designs SOCHI Toploading slim bag 13/14&apos;&apos; (150031)</name>
+<vendor>Port Designs</vendor>
+<vendorCode>SOCHI Toploading slim bag 13/14&apos;&apos; (150031)</vendorCode>
+
+</offer>
+<offer id="6843" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-port-designs-palermo-13-3-140342</url>
+<price>848000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6843/d45f19e4b7034970027b37c92e2eb5e4.jpg</picture>
+<name>Сумки для ноутбуков Port Designs PALERMO 13,3&apos;&apos; (140342)</name>
+<vendor>Port Designs</vendor>
+<vendorCode>PALERMO 13,3&apos;&apos; (140342)</vendorCode>
+
+</offer>
+<offer id="6845" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-port-designs-london-toploading-14-15-6-160509</url>
+<price>673000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6845/5fbd1b3b6ce4375a82dc231317686ac7.jpg</picture>
+<name>Сумки для ноутбуков Port Designs LONDON Toploading 14/15,6&apos;&apos; (160509)</name>
+<vendor>Port Designs</vendor>
+<vendorCode>LONDON Toploading 14/15,6&apos;&apos; (160509)</vendorCode>
+
+</offer>
+<offer id="6849" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-port-designs-meribel-backpack-15-6-110261</url>
+<price>953000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6849/0841a09a0ab6930f775aab3266938b6a.jpg</picture>
+<name>Сумки для ноутбуков Port Designs MERIBEL Backpack 15,6&apos;&apos; (110261)</name>
+<vendor>Port Designs</vendor>
+<vendorCode>MERIBEL Backpack 15,6&apos;&apos; (110261)</vendorCode>
+
+</offer>
+<offer id="6850" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-port-designs-berlin-ii-13-3-14-140377</url>
+<price>650000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6850/a850481d2a37ffc42b0b93ff2b2ef5dc.jpg</picture>
+<name>Сумки для ноутбуков Port Designs BERLIN II 13,3/14&apos;&apos; (140377)</name>
+<vendor>Port Designs</vendor>
+<vendorCode>BERLIN II 13,3/14&apos;&apos; (140377)</vendorCode>
+
+</offer>
+<offer id="6852" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-sumdex-nun-823mh</url>
+<price>259000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6852/f5a17bb69c32c65d9bc874dd71644444.jpg</picture>
+<name>Сумки для ноутбуков Sumdex NUN-823MH</name>
+<vendor>Sumdex</vendor>
+<vendorCode>NUN-823MH</vendorCode>
+
+</offer>
+<offer id="6853" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-sumdex-pon-459</url>
+<price>515000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6853/4e92d875d037c2118302970accead8f0.jpg</picture>
+<name>Сумки для ноутбуков Sumdex PON-459</name>
+<vendor>Sumdex</vendor>
+<vendorCode>PON-459</vendorCode>
+
+</offer>
+<offer id="6854" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-thule-enroute-blur-tebd-117</url>
+<price>1957000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6854/4b627fc55959ac4d08ef4c8e8fe6c5b1.jpg</picture>
+<name>Сумки для ноутбуков Thule EnRoute Blur (TEBD-117)</name>
+<vendor>Thule</vendor>
+<vendorCode>EnRoute Blur (TEBD-117)</vendorCode>
+
+</offer>
+<offer id="6856" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-thule-gauntlet-13-macbook-pro-tas-113</url>
+<price>902000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6856/6181eb7baada3e70c75bd59ca0acb161.jpg</picture>
+<name>Сумки для ноутбуков Thule Gauntlet 13&amp;quot; MacBook Pro (TAS-113)</name>
+<vendor>Thule</vendor>
+<vendorCode>Gauntlet 13&amp;quot; MacBook Pro (TAS-113)</vendorCode>
+
+</offer>
+<offer id="6857" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-thule-enroute-mosey-temd-115</url>
+<price>1761000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6857/778097ce4fd8c5ea976639f9dd07f7ec.jpg</picture>
+<name>Сумки для ноутбуков Thule EnRoute Mosey (TEMD-115)</name>
+<vendor>Thule</vendor>
+<vendorCode>EnRoute Mosey (TEMD-115)</vendorCode>
+
+</offer>
+<offer id="6858" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-thule-crossover-sling-pack-tcsp-313</url>
+<price>2099000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6858/9c6d6d730be9f842f0ef6ccbe501e36f.jpg</picture>
+<name>Сумки для ноутбуков Thule Crossover Sling Pack (TCSP-313)</name>
+<vendor>Thule</vendor>
+<vendorCode>Crossover Sling Pack (TCSP-313)</vendorCode>
+
+</offer>
+<offer id="6859" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-thule-enroute-strut-tesd-115</url>
+<price>1565000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6859/1df2e960c435097b55a4c52e360bfd8d.jpg</picture>
+<name>Сумки для ноутбуков Thule EnRoute Strut (TESD-115)</name>
+<vendor>Thule</vendor>
+<vendorCode>EnRoute Strut (TESD-115)</vendorCode>
+
+</offer>
+<offer id="6860" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-dritta-15-6-bdr15</url>
+<price>965000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6860/abd6f169ec31df50619228116353938b.jpg</picture>
+<name>Сумки для ноутбуков Tucano Dritta 15.6&amp;quot; (BDR15)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Dritta 15.6&amp;quot; (BDR15)</vendorCode>
+
+</offer>
+<offer id="6861" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-dritta-11-bdr11</url>
+<price>726000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6861/dae16f09de15e2cffbd968feece7aaaf.jpg</picture>
+<name>Сумки для ноутбуков Tucano Dritta 11&amp;quot; (BDR11)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Dritta 11&amp;quot; (BDR11)</vendorCode>
+
+</offer>
+<offer id="6862" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-diago-15-6-bdia15</url>
+<price>839000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6862/19e748594ea8c87a368f5943ca842688.jpg</picture>
+<name>Сумки для ноутбуков Tucano Diago 15.6&amp;quot; (BDIA15)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Diago 15.6&amp;quot; (BDIA15)</vendorCode>
+
+</offer>
+<offer id="6863" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-dritta-black-bdr1314</url>
+<price>812000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6863/e967a20533215417b0698e7c977dfe64.jpg</picture>
+<name>Сумки для ноутбуков Tucano Dritta Black (BDR1314)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Dritta Black (BDR1314)</vendorCode>
+
+</offer>
+<offer id="6864" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-borsa-start-plus-bstp</url>
+<price>632000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6864/3e40e00c9b78a8c365a4892a6f0682d7.jpg</picture>
+<name>Сумки для ноутбуков Tucano Borsa Start Plus (BSTP)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Borsa Start Plus (BSTP)</vendorCode>
+
+</offer>
+<offer id="6865" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-flat-vertical-bflav-nb</url>
+<price>1557000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6865/ef1993007575eb828d49c1108589563a.jpg</picture>
+<name>Сумки для ноутбуков Tucano Flat Vertical (BFLAV-NB)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Flat Vertical (BFLAV-NB)</vendorCode>
+
+</offer>
+<offer id="6866" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-dritta-for-17-bdr17</url>
+<price>650000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6866/c64c549cecc19822414466ea7b6f7fd9.jpg</picture>
+<name>Сумки для ноутбуков Tucano Dritta for 17&amp;quot; (BDR17)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Dritta for 17&amp;quot; (BDR17)</vendorCode>
+
+</offer>
+<offer id="6867" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-dritta-green-bdr1314-c</url>
+<price>812000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6867/19c2935e1947329e1dcd496bd7c5432f.jpg</picture>
+<name>Сумки для ноутбуков Tucano Dritta Green (BDR1314-C)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Dritta Green (BDR1314-C)</vendorCode>
+
+</offer>
+<offer id="6868" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-expanded-work-out-messenger-15-bewoms15</url>
+<price>971000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6868/199ea52f989efd3d21c09a1fbaf43c9c.jpg</picture>
+<name>Сумки для ноутбуков Tucano Expanded Work_Out Messenger 15&amp;quot; (BEWOMS15)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Expanded Work_Out Messenger 15&amp;quot; (BEWOMS15)</vendorCode>
+
+</offer>
+<offer id="6869" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-finatex-extra-small-bfitxs</url>
+<price>824000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6869/6003cd0e3684b6210c81fbdbc95e2ea5.jpg</picture>
+<name>Сумки для ноутбуков Tucano Finatex Extra Small (BFITXS)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Finatex Extra Small (BFITXS)</vendorCode>
+
+</offer>
+<offer id="6870" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-flat-vertical-bflav</url>
+<price>1557000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6870/3c79106c8862884f7ef6b4d40e1b6084.jpg</picture>
+<name>Сумки для ноутбуков Tucano Flat Vertical (BFLAV)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Flat Vertical (BFLAV)</vendorCode>
+
+</offer>
+<offer id="6871" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-bis-computer-bag-15-6-black-bbis15</url>
+<price>663000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6871/52fc08b8e0d3070bd454e4d466fa7224.jpg</picture>
+<name>Сумки для ноутбуков Tucano Bis computer bag 15.6&amp;quot; Black (BBIS15)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Bis computer bag 15.6&amp;quot; Black (BBIS15)</vendorCode>
+
+</offer>
+<offer id="6873" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-area-large-bar1</url>
+<price>696000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6873/8f2b4c38e5642503374bd51db0504b61.jpg</picture>
+<name>Сумки для ноутбуков Tucano Area Large (BAR1)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Area Large (BAR1)</vendorCode>
+
+</offer>
+<offer id="6876" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-leggera-ble</url>
+<price>630000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6876/7bca159d638ba87fe4d252bb1cbb6fa1.jpg</picture>
+<name>Сумки для ноутбуков Tucano Leggera (BLE)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Leggera (BLE)</vendorCode>
+
+</offer>
+<offer id="6877" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-piuma-slim-bps</url>
+<price>819000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6877/fb013128ca7a32206cf7583b78c1f917.jpg</picture>
+<name>Сумки для ноутбуков Tucano Piuma Slim (BPS)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Piuma Slim (BPS)</vendorCode>
+
+</offer>
+<offer id="6878" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-tasca-btas</url>
+<price>797000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6878/c33cc434d1c2e40c78e3b98dde6a12cd.jpg</picture>
+<name>Сумки для ноутбуков Tucano Tasca (BTAS)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Tasca (BTAS)</vendorCode>
+
+</offer>
+<offer id="6879" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-work-out-pc-large-red-wopc-l-r</url>
+<price>903000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6879/86f7bc591d9ba448ec14ecd1f81d69d1.jpg</picture>
+<name>Сумки для ноутбуков Tucano WorK_Out PC Large Red (WOPC-L-R)</name>
+<vendor>Tucano</vendor>
+<vendorCode>WorK_Out PC Large Red (WOPC-L-R)</vendorCode>
+
+</offer>
+<offer id="6880" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-linea-13-gray-blin13-b</url>
+<price>841000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6880/3107a2bab0485fb6028e646faf5c6ee5.jpg</picture>
+<name>Сумки для ноутбуков Tucano Linea 13&amp;quot; Gray (BLIN13-B)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Linea 13&amp;quot; Gray (BLIN13-B)</vendorCode>
+
+</offer>
+<offer id="6881" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-linea-13-blin13</url>
+<price>841000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6881/e43ce54886205c2a7d89b0fbf7c169bc.jpg</picture>
+<name>Сумки для ноутбуков Tucano Linea 13&amp;quot; (BLIN13)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Linea 13&amp;quot; (BLIN13)</vendorCode>
+
+</offer>
+<offer id="6882" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-linea-13-red-blin13-r</url>
+<price>841000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6882/c622f44b962ff30294f7bd67a4365752.jpg</picture>
+<name>Сумки для ноутбуков Tucano Linea 13&amp;quot; Red (BLIN13-R)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Linea 13&amp;quot; Red (BLIN13-R)</vendorCode>
+
+</offer>
+<offer id="6883" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-linea-15-black-blin15</url>
+<price>975000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6883/e88e3c2edc04063bfe1b7890363c43e5.jpg</picture>
+<name>Сумки для ноутбуков Tucano Linea 15&amp;quot; Black (BLIN15)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Linea 15&amp;quot; Black (BLIN15)</vendorCode>
+
+</offer>
+<offer id="6884" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-opera-due-15-4-bop2</url>
+<price>2710000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6884/40b73f470015e8c9b1c8870de9b0b1c1.jpg</picture>
+<name>Сумки для ноутбуков Tucano Opera Due 15.4&amp;quot; (BOP2)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Opera Due 15.4&amp;quot; (BOP2)</vendorCode>
+
+</offer>
+<offer id="6885" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-bis-computer-bag-15-6-beige-bbis15-g</url>
+<price>663000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6885/ed1212a0a2983cf598a8005010b32cbd.jpg</picture>
+<name>Сумки для ноутбуков Tucano Bis computer bag 15.6&amp;quot; Beige (BBIS15-G)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Bis computer bag 15.6&amp;quot; Beige (BBIS15-G)</vendorCode>
+
+</offer>
+<offer id="6886" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-linea-15-gray-blin15-b</url>
+<price>975000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6886/29f090c1bc0f78290661cf891ed70c98.jpg</picture>
+<name>Сумки для ноутбуков Tucano Linea 15&amp;quot; Gray (BLIN15-B)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Linea 15&amp;quot; Gray (BLIN15-B)</vendorCode>
+
+</offer>
+<offer id="6887" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-linea-15-dark-gray-blin15-g</url>
+<price>975000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6887/4af691ed9bdd00952ce53f49b3984b46.jpg</picture>
+<name>Сумки для ноутбуков Tucano Linea 15&amp;quot; Dark Gray (BLIN15-G)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Linea 15&amp;quot; Dark Gray (BLIN15-G)</vendorCode>
+
+</offer>
+<offer id="6888" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-walkonwater-laptop-bowler-bag-15-offwhite-tex-013-01-154</url>
+<price>991000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/6888/726860c03a99a9f1031560a776a83da0.jpg</picture>
+<name>Сумки для ноутбуков Walkonwater Laptop Bowler Bag 15 - Offwhite (Tex 013 01 154)</name>
+<vendor>Walkonwater</vendor>
+<vendorCode>Laptop Bowler Bag 15 - Offwhite (Tex 013 01 154)</vendorCode>
+
+</offer>
+<offer id="6908" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-reflexion-dslr-ipad-backpack-flxb-102</url>
+<price>1304000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/6908/88b6a563c374a697fdcea0116b7f03e2.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic Reflexion DSLR + iPad Backpack (FLXB-102)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Reflexion DSLR + iPad Backpack (FLXB-102)</vendorCode>
+
+</offer>
+<offer id="6909" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-tbc-401</url>
+<price>186000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/6909/859ef69fa567d3e7b79bdfb21b2869df.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic TBC-401</name>
+<vendor>Case Logic</vendor>
+<vendorCode>TBC-401</vendorCode>
+
+</offer>
+<offer id="6910" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-slrc-205</url>
+<price>800000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/6910/315f169f15b781dfe821067b3007ed4a.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic SLRC-205</name>
+<vendor>Case Logic</vendor>
+<vendorCode>SLRC-205</vendorCode>
+
+</offer>
+<offer id="6912" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-point-and-shoot-camera-case-tbc-402</url>
+<price>226000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/6912/2c661d0935b4259c011ebe60a1c80f06.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic Point and Shoot Camera Case (TBC-402)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Point and Shoot Camera Case (TBC-402)</vendorCode>
+
+</offer>
+<offer id="6918" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-medium-camera-case-tbc-403-black</url>
+<price>234000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/6918/3e4f9badfaf9370e771bb8f1a720741e.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic Medium Camera Case (TBC-403-BLACK)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Medium Camera Case (TBC-403-BLACK)</vendorCode>
+
+</offer>
+<offer id="6919" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-dcb-306</url>
+<price>558000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/6919/50535cbfb578ecb87b87b5ed9befdc95.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic DCB-306</name>
+<vendor>Case Logic</vendor>
+<vendorCode>DCB-306</vendorCode>
+
+</offer>
+<offer id="6940" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-g100s-optical-gaming-mouse</url>
+<price>665000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/6940/bbc668cbc1337516270a5f2353fa4e7b.jpg</picture>
+<name>Мыши Logitech G100s Optical Gaming Mouse</name>
+<vendor>Logitech</vendor>
+<vendorCode>G100s Optical Gaming Mouse</vendorCode>
+
+</offer>
+<offer id="6941" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-b100-optical-usb-mouse-910-003357</url>
+<price>168000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/6941/32449b01c110ecab823815d486ecadfe.jpg</picture>
+<name>Мыши Logitech B100 Optical USB Mouse (910-003357)</name>
+<vendor>Logitech</vendor>
+<vendorCode>B100 Optical USB Mouse (910-003357)</vendorCode>
+
+</offer>
+<offer id="6942" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m185-red</url>
+<price>400000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/6942/3428c75843934fac5ed185c5b57fb97e.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M185 Red</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M185 Red</vendorCode>
+
+</offer>
+<offer id="6943" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m185-blue</url>
+<price>400000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/6943/b83a29387f568f08e8e97dd56b80283f.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M185 Blue</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M185 Blue</vendorCode>
+
+</offer>
+<offer id="6944" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m185-grey</url>
+<price>400000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/6944/9171163cd281f40edc2a050636698da4.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M185 Grey</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M185 Grey</vendorCode>
+
+</offer>
+<offer id="6956" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-digion-ptdlm100bu</url>
+<price>82000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/6956/37fa61d9b661c0b9019a1dcc54023530.jpg</picture>
+<name>Мыши Digion PTDLM100BU</name>
+<vendor>Digion</vendor>
+<vendorCode>PTDLM100BU</vendorCode>
+
+</offer>
+<offer id="6958" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-digion-ptddlm110bu</url>
+<price>86000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/6958/5bce301b049687a8371f1a147d7045c4.jpg</picture>
+<name>Мыши Digion PTDDLM110BU</name>
+<vendor>Digion</vendor>
+<vendorCode>PTDDLM110BU</vendorCode>
+
+</offer>
+<offer id="7028" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-kromax-techno-1</url>
+<price>690000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7028/31b1e25ad3b38f957303ed8a94528ee5.jpg</picture>
+<name>Кронштейны Kromax TECHNO-1</name>
+<vendor>Kromax</vendor>
+<vendorCode>TECHNO-1</vendorCode>
+
+</offer>
+<offer id="7029" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-kromax-casper-100</url>
+<price>232000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7029/70adeb0eb580d4ac712e8cfc34480c0b.jpg</picture>
+<name>Кронштейны Kromax CASPER-100</name>
+<vendor>Kromax</vendor>
+<vendorCode>CASPER-100</vendorCode>
+
+</offer>
+<offer id="7039" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-kromax-vega-2</url>
+<price>464000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7039/c17ee86b919cfb094f2d868f51817ecf.jpg</picture>
+<name>Кронштейны Kromax VEGA-2</name>
+<vendor>Kromax</vendor>
+<vendorCode>VEGA-2</vendorCode>
+
+</offer>
+<offer id="7054" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-kromax-star-30</url>
+<price>885000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7054/eeb2443168fe335dd35ecc61117e230f.jpg</picture>
+<name>Кронштейны Kromax STAR-30</name>
+<vendor>Kromax</vendor>
+<vendorCode>STAR-30</vendorCode>
+
+</offer>
+<offer id="7065" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-arm-media-pt-stand-2</url>
+<price>5328000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7065/6f3f15512f788bb58d90059e12540f2f.jpg</picture>
+<name>Кронштейны Arm Media PT-STAND-2</name>
+<vendor>Arm Media</vendor>
+<vendorCode>PT-STAND-2</vendorCode>
+
+</offer>
+<offer id="7066" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-arm-media-projector-5</url>
+<price>774000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7066/00f13b2ae93cf7dede77e1a4216ce21d.jpg</picture>
+<name>Кронштейны Arm Media PROJECTOR-5</name>
+<vendor>Arm Media</vendor>
+<vendorCode>PROJECTOR-5</vendorCode>
+
+</offer>
+<offer id="7067" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-arm-media-projector-3</url>
+<price>918000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7067/461c66f8f03f385940bb0716f29b516a.jpg</picture>
+<name>Кронштейны Arm Media PROJECTOR-3</name>
+<vendor>Arm Media</vendor>
+<vendorCode>PROJECTOR-3</vendorCode>
+
+</offer>
+<offer id="7068" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-arm-media-projector-4</url>
+<price>896000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7068/2847ab249c4aa8690c1c72a243135935.jpg</picture>
+<name>Кронштейны Arm Media PROJECTOR-4</name>
+<vendor>Arm Media</vendor>
+<vendorCode>PROJECTOR-4</vendorCode>
+
+</offer>
+<offer id="7070" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-barkan-91</url>
+<price>966000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7070/91674fc8e7e7531c656f74f5038877a4.jpg</picture>
+<name>Кронштейны Barkan 91</name>
+<vendor>Barkan</vendor>
+<vendorCode>91</vendorCode>
+
+</offer>
+<offer id="7071" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-barkan-e330</url>
+<price>983000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7071/d142dce62c350d4ffde5ea9af643e090.jpg</picture>
+<name>Кронштейны Barkan E330</name>
+<vendor>Barkan</vendor>
+<vendorCode>E330</vendorCode>
+
+</offer>
+<offer id="7072" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-barkan-e340</url>
+<price>676000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7072/6e6993fc0efd1a69de51adaffab55d97.jpg</picture>
+<name>Кронштейны Barkan E340</name>
+<vendor>Barkan</vendor>
+<vendorCode>E340</vendorCode>
+
+</offer>
+<offer id="7075" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-barkan-34c</url>
+<price>1413000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7075/d06b1285234db468bc83fa8b7f76a085.jpg</picture>
+<name>Кронштейны Barkan 34C</name>
+<vendor>Barkan</vendor>
+<vendorCode>34C</vendorCode>
+
+</offer>
+<offer id="7077" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-barkan-e230</url>
+<price>651000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7077/dfbee54dd7c0e16d360b7793f28ef2a5.jpg</picture>
+<name>Кронштейны Barkan E230</name>
+<vendor>Barkan</vendor>
+<vendorCode>E230</vendorCode>
+
+</offer>
+<offer id="7079" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-barkan-e320</url>
+<price>887000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7079/64d81104bef7e4e64604a3f1f2d890aa.jpg</picture>
+<name>Кронштейны Barkan E320</name>
+<vendor>Barkan</vendor>
+<vendorCode>E320</vendorCode>
+
+</offer>
+<offer id="7080" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-barkan-34f</url>
+<price>859000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7080/e701c5dd899154cbed87999413630acf.jpg</picture>
+<name>Кронштейны Barkan 34F</name>
+<vendor>Barkan</vendor>
+<vendorCode>34F</vendorCode>
+
+</offer>
+<offer id="7081" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-electric-light-kb-01-43</url>
+<price>515000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7081/98cfe9792d8bb9e1cc763e37df44190c.jpg</picture>
+<name>Кронштейны Electric Light КБ-01-43</name>
+<vendor>Electric Light</vendor>
+
+</offer>
+<offer id="7082" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-electric-light-kb-01-12-u</url>
+<price>335000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7082/b79881dd4cdcfb7b50f87bfabf197cb2.jpg</picture>
+<name>Кронштейны Electric Light КБ-01-12-У</name>
+<vendor>Electric Light</vendor>
+
+</offer>
+<offer id="7083" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-electric-light-kb-01-17</url>
+<price>390000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7083/4cf6d4b08b101315ad275eda70fb5b5f.jpg</picture>
+<name>Кронштейны Electric Light КБ-01-17</name>
+<vendor>Electric Light</vendor>
+
+</offer>
+<offer id="7084" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-electric-light-kb-01-55</url>
+<price>857000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7084/3eafa6c4e516c8e92b49de4e2623c351.jpg</picture>
+<name>Кронштейны Electric Light КБ-01-55</name>
+<vendor>Electric Light</vendor>
+
+</offer>
+<offer id="7085" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-electric-light-kb-01-54</url>
+<price>729000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7085/ba070327ade3e0bd10f7d414e5eb27fa.jpg</picture>
+<name>Кронштейны Electric Light КБ-01-54</name>
+<vendor>Electric Light</vendor>
+
+</offer>
+<offer id="7088" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-electric-light-kb-01-11-u</url>
+<price>497000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7088/244cc43a0fb76f9188b6fec975541e00.jpg</picture>
+<name>Кронштейны Electric Light КБ-01-11-У</name>
+<vendor>Electric Light</vendor>
+
+</offer>
+<offer id="7092" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-electric-light-kb-01-7</url>
+<price>305000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7092/fd861e841ef57bc7077f9edf8f825a16.jpg</picture>
+<name>Кронштейны Electric Light КБ-01-7</name>
+<vendor>Electric Light</vendor>
+
+</offer>
+<offer id="7093" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-electric-light-kb-01-37</url>
+<price>773000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7093/4040d3f7e8935502102551afc1a58097.jpg</picture>
+<name>Кронштейны Electric Light КБ-01-37</name>
+<vendor>Electric Light</vendor>
+
+</offer>
+<offer id="7099" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-electric-light-kb-01-28</url>
+<price>346000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7099/febc4f64c4cf6e7feda6c7e0c46ca3d3.jpg</picture>
+<name>Кронштейны Electric Light КБ-01-28</name>
+<vendor>Electric Light</vendor>
+
+</offer>
+<offer id="7101" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5003</url>
+<price>390000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7101/3dee8f1ad2a60ff3c04a88b3eb3bd6da.jpg</picture>
+<name>Кронштейны Holder LCDS-5003</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5003</vendorCode>
+
+</offer>
+<offer id="11683" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptpsw733</url>
+<price>352000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11683/0dff5e805b6d82a569196405d4d44493.jpg</picture>
+<name>Кронштейны Simpatio PTPSW733</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTPSW733</vendorCode>
+
+</offer>
+<offer id="7103" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5001</url>
+<price>166000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7103/e2f5a338b1418ad272836fd7826ee33e.jpg</picture>
+<name>Кронштейны Holder LCDS-5001</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5001</vendorCode>
+
+</offer>
+<offer id="7106" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5036</url>
+<price>521000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7106/cefb27d44da5351edff7143bfb1e9ff2.jpg</picture>
+<name>Кронштейны Holder LCDS-5036</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5036</vendorCode>
+
+</offer>
+<offer id="7107" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5004</url>
+<price>488000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7107/837d56794c9c0b5bdd59c111ff317ce7.jpg</picture>
+<name>Кронштейны Holder LCDS-5004</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5004</vendorCode>
+
+</offer>
+<offer id="7108" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5002</url>
+<price>282000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7108/ea8d698cfffbc3a9f7a63bf488348218.jpg</picture>
+<name>Кронштейны Holder LCDS-5002</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5002</vendorCode>
+
+</offer>
+<offer id="7109" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcd-t6606</url>
+<price>627000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7109/73c40d183dbe9df29b9e346d8e540b12.jpg</picture>
+<name>Кронштейны Holder LCD-T6606</name>
+<vendor>Holder</vendor>
+<vendorCode>LCD-T6606</vendorCode>
+
+</offer>
+<offer id="7111" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5066</url>
+<price>937000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7111/a8ecafd5123fe829b3f0bc555581ef80.jpg</picture>
+<name>Кронштейны Holder LCDS-5066</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5066</vendorCode>
+
+</offer>
+<offer id="11684" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-pteat2220b</url>
+<price>492000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11684/83803757ce3a873f8ed7a4bceefbded9.jpg</picture>
+<name>Кронштейны Simpatio PTEAT2220B</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTEAT2220B</vendorCode>
+
+</offer>
+<offer id="7114" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcd-f2608</url>
+<price>572000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7114/d626235ba2f6dfa8e36cdc1a930e493c.jpg</picture>
+<name>Кронштейны Holder LCD-F2608</name>
+<vendor>Holder</vendor>
+<vendorCode>LCD-F2608</vendorCode>
+
+</offer>
+<offer id="7115" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcd-f4610</url>
+<price>789000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7115/f74f3cfb00550924e066f7ba164d6e48.jpg</picture>
+<name>Кронштейны Holder LCD-F4610</name>
+<vendor>Holder</vendor>
+<vendorCode>LCD-F4610</vendorCode>
+
+</offer>
+<offer id="7117" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5065</url>
+<price>802000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7117/91cae47f9c59a4bd1ae894f0c5720482.jpg</picture>
+<name>Кронштейны Holder LCDS-5065</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5065</vendorCode>
+
+</offer>
+<offer id="7118" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcd-f6607</url>
+<price>868000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7118/b291e9da09df35d2c0d19cf453f8ae09.jpg</picture>
+<name>Кронштейны Holder LCD-F6607</name>
+<vendor>Holder</vendor>
+<vendorCode>LCD-F6607</vendorCode>
+
+</offer>
+<offer id="7119" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-pts-4006</url>
+<price>938000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7119/79b672b46c18a552ed0728e3c5a5ba5b.jpg</picture>
+<name>Кронштейны Holder PТS-4006</name>
+<vendor>Holder</vendor>
+<vendorCode>P</vendorCode>
+
+</offer>
+<offer id="7120" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcd-t4609</url>
+<price>949000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7120/623cb0df93a43dfe2e5644ab9da5b8a6.jpg</picture>
+<name>Кронштейны Holder LCD-T4609</name>
+<vendor>Holder</vendor>
+<vendorCode>LCD-T4609</vendorCode>
+
+</offer>
+<offer id="7121" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5010</url>
+<price>558000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7121/8d045a870eacb4a4d7275ae5fca5c53c.jpg</picture>
+<name>Кронштейны Holder LCDS-5010</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5010</vendorCode>
+
+</offer>
+<offer id="7122" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5020</url>
+<price>856000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7122/d409cc86c3320ba9aff68937aa85f4ab.jpg</picture>
+<name>Кронштейны Holder LCDS-5020</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5020</vendorCode>
+
+</offer>
+<offer id="7124" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcd-t2609</url>
+<price>868000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7124/366755f7a60174d0489242ea4a9eb68e.jpg</picture>
+<name>Кронштейны Holder LCD-T2609</name>
+<vendor>Holder</vendor>
+<vendorCode>LCD-T2609</vendorCode>
+
+</offer>
+<offer id="7125" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5051</url>
+<price>515000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7125/081274736a6152877d5309034f508ac4.jpg</picture>
+<name>Кронштейны Holder LCDS–5051</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS</vendorCode>
+
+</offer>
+<offer id="7126" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5049</url>
+<price>339000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7126/01bf3605d3e7de6218e4d71dc628628a.jpg</picture>
+<name>Кронштейны Holder LCDS-5049</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5049</vendorCode>
+
+</offer>
+<offer id="7128" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5026</url>
+<price>660000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7128/60d9e877d7359a45945fc56961292de5.jpg</picture>
+<name>Кронштейны Holder LCDS-5026</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5026</vendorCode>
+
+</offer>
+<offer id="7130" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-leds-7012</url>
+<price>881000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7130/ba7b4006b924f8131e1c13251f86f1e1.jpg</picture>
+<name>Кронштейны Holder LEDS-7012</name>
+<vendor>Holder</vendor>
+<vendorCode>LEDS-7012</vendorCode>
+
+</offer>
+<offer id="7131" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5037</url>
+<price>773000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7131/c4810dba0b7d1873cbe9f668cc5f05e7.jpg</picture>
+<name>Кронштейны Holder LCDS-5037</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5037</vendorCode>
+
+</offer>
+<offer id="7133" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5038</url>
+<price>696000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7133/0f36bcbdaa48210cce5f1649551a2189.jpg</picture>
+<name>Кронштейны Holder LCDS-5038</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5038</vendorCode>
+
+</offer>
+<offer id="7134" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-leds-7022</url>
+<price>684000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7134/45c5a538b0342a1348367addb27e7a83.jpg</picture>
+<name>Кронштейны Holder LEDS–7022</name>
+<vendor>Holder</vendor>
+<vendorCode>LEDS</vendorCode>
+
+</offer>
+<offer id="7135" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptpsw598st</url>
+<price>338000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7135/d2aa1a5d7e9a5d6d640438c083e56218.jpg</picture>
+<name>Кронштейны Simpatio PTPSW598ST</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTPSW598ST</vendorCode>
+
+</offer>
+<offer id="7136" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-pteat2221s</url>
+<price>606000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7136/31a02d69993aa032db379eb19c26f810.jpg</picture>
+<name>Кронштейны Simpatio PTEAT2221S</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTEAT2221S</vendorCode>
+
+</offer>
+<offer id="7137" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptpsw698st</url>
+<price>301000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7137/db5739decda9f5c049b6b75ee489eb5d.jpg</picture>
+<name>Кронштейны Simpatio PTPSW698ST</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTPSW698ST</vendorCode>
+
+</offer>
+<offer id="7138" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptlda03110b</url>
+<price>325000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7138/38e2ed724058ccf04e931fa2f013e489.jpg</picture>
+<name>Кронштейны Simpatio PTLDA03110B</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLDA03110B</vendorCode>
+
+</offer>
+<offer id="7139" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptlda03110s</url>
+<price>291000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7139/417331a256eb8101896eaec9aa85094c.jpg</picture>
+<name>Кронштейны Simpatio PTLDA03110S</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLDA03110S</vendorCode>
+
+</offer>
+<offer id="7140" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptlp0848t</url>
+<price>452000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7140/e307740245a035e4b4ced0a58702baa8.jpg</picture>
+<name>Кронштейны Simpatio PTLP0848T</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLP0848T</vendorCode>
+
+</offer>
+<offer id="7141" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptpsw698sf</url>
+<price>164000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7141/def013b34f45ceef5e9a5e37d1a9b397.jpg</picture>
+<name>Кронштейны Simpatio PTPSW698SF</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTPSW698SF</vendorCode>
+
+</offer>
+<offer id="7142" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptlpa16464x</url>
+<price>763000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7142/84f1e37e735dfdb9643828d79c5186be.jpg</picture>
+<name>Кронштейны Simpatio PTLPA16464X</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLPA16464X</vendorCode>
+
+</offer>
+<offer id="7143" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptlpa16444s</url>
+<price>856000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7143/dde5b93dbc3996599046efbfa736d4cd.jpg</picture>
+<name>Кронштейны Simpatio PTLPA16444S</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLPA16444S</vendorCode>
+
+</offer>
+<offer id="7144" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptlpa16444b</url>
+<price>791000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7144/cf4f0c4482d443c6413d71023e7e61e9.jpg</picture>
+<name>Кронштейны Simpatio PTLPA16444B</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLPA16444B</vendorCode>
+
+</offer>
+<offer id="7145" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-pteat2220s</url>
+<price>492000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7145/945a71bc5f146f42b1e410eba97c4843.jpg</picture>
+<name>Кронштейны Simpatio PTEAT2220S</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTEAT2220S</vendorCode>
+
+</offer>
+<offer id="7146" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptlpa16224b</url>
+<price>842000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7146/d86d4a7e17139a84aaf9880ee3489249.jpg</picture>
+<name>Кронштейны Simpatio PTLPA16224B</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLPA16224B</vendorCode>
+
+</offer>
+<offer id="7147" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptlp1048f</url>
+<price>280000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7147/33b5a5890b0555c799ee3f3db23202f3.jpg</picture>
+<name>Кронштейны Simpatio PTLP1048F</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLP1048F</vendorCode>
+
+</offer>
+<offer id="7148" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptlp1024f</url>
+<price>206000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7148/1d168b4759e8011d9f18390679c2d514.jpg</picture>
+<name>Кронштейны Simpatio PTLP1024F</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLP1024F</vendorCode>
+
+</offer>
+<offer id="7151" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-pteat2111s</url>
+<price>400000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7151/9eb34763595ed4459c0445c26579190d.jpg</picture>
+<name>Кронштейны Simpatio PTEAT2111S</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTEAT2111S</vendorCode>
+
+</offer>
+<offer id="7153" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptlp0824t</url>
+<price>304000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7153/fdef3137b003e4fe2717e5645de75fef.jpg</picture>
+<name>Кронштейны Simpatio PTLP0824T</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLP0824T</vendorCode>
+
+</offer>
+<offer id="7154" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-tuarex-olimp-8001</url>
+<price>2016000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7154/38120e9078bb3204c60a7e3cf81de0f0.jpg</picture>
+<name>Кронштейны Tuarex OLIMP-8001</name>
+<vendor>Tuarex</vendor>
+<vendorCode>OLIMP-8001</vendorCode>
+
+</offer>
+<offer id="7155" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-tuarex-corsa-2002</url>
+<price>739000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7155/d30e3ebb1fae4d3896334b199196bf8e.jpg</picture>
+<name>Кронштейны Tuarex CORSA-2002</name>
+<vendor>Tuarex</vendor>
+<vendorCode>CORSA-2002</vendorCode>
+
+</offer>
+<offer id="7156" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-tuarex-corsa-2004</url>
+<price>658000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7156/b43bbf882830765ce1ac64d5444f444d.jpg</picture>
+<name>Кронштейны Tuarex CORSA-2004</name>
+<vendor>Tuarex</vendor>
+<vendorCode>CORSA-2004</vendorCode>
+
+</offer>
+<offer id="7160" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-vobix-vx-4620b</url>
+<price>449000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7160/1f365e12359638b8a07dc163b5320155.jpg</picture>
+<name>Кронштейны Vobix VX-4620B</name>
+<vendor>Vobix</vendor>
+<vendorCode>VX-4620B</vendorCode>
+
+</offer>
+<offer id="7161" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-vobix-vx-4631b</url>
+<price>778000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7161/ecfc3fc6638b0f81dba8776ae8028867.jpg</picture>
+<name>Кронштейны Vobix VX-4631B</name>
+<vendor>Vobix</vendor>
+<vendorCode>VX-4631B</vendorCode>
+
+</offer>
+<offer id="7163" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-vobix-vx-4624b</url>
+<price>995000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7163/8a959d28facb3d521b33bd74293bc385.jpg</picture>
+<name>Кронштейны Vobix VX-4624B</name>
+<vendor>Vobix</vendor>
+<vendorCode>VX-4624B</vendorCode>
+
+</offer>
+<offer id="7164" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-vobix-vx-2612b</url>
+<price>583000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7164/0a35825065ae31257deba041a198f0b9.jpg</picture>
+<name>Кронштейны Vobix VX-2612B</name>
+<vendor>Vobix</vendor>
+<vendorCode>VX-2612B</vendorCode>
+
+</offer>
+<offer id="7165" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-vobix-vx-2210b</url>
+<price>167000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7165/0edf64b47ba8790747754635c162640b.jpg</picture>
+<name>Кронштейны Vobix VX-2210B</name>
+<vendor>Vobix</vendor>
+<vendorCode>VX-2210B</vendorCode>
+
+</offer>
+<offer id="7167" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-vobix-vx-2613b</url>
+<price>694000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7167/fed870b3422b7b5ba4c2c4691b63bb57.jpg</picture>
+<name>Кронштейны Vobix VX-2613B</name>
+<vendor>Vobix</vendor>
+<vendorCode>VX-2613B</vendorCode>
+
+</offer>
+<offer id="7170" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-vobix-vx-6331b</url>
+<price>975000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7170/9b747f32eb110f9490717b51de353766.jpg</picture>
+<name>Кронштейны Vobix VX-6331B</name>
+<vendor>Vobix</vendor>
+<vendorCode>VX-6331B</vendorCode>
+
+</offer>
+<offer id="7171" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-vobix-vx-6320b</url>
+<price>622000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/7171/74abf6ef5418f951485f972415461fbd.jpg</picture>
+<name>Кронштейны Vobix VX-6320B</name>
+<vendor>Vobix</vendor>
+<vendorCode>VX-6320B</vendorCode>
+
+</offer>
+<offer id="11694" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-vobix-vx-4622b</url>
+<price>808000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11694/a2abef7cd677a9d8b7274564d38be6b3.jpg</picture>
+<name>Кронштейны Vobix VX-4622B</name>
+<vendor>Vobix</vendor>
+<vendorCode>VX-4622B</vendorCode>
+
+</offer>
+<offer id="11672" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-sonorous-surefix-410</url>
+<price>432000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11672/6a6d1c270f16cb1d9609904ec4a1fae8.jpg</picture>
+<name>Кронштейны Sonorous Surefix 410</name>
+<vendor>Sonorous</vendor>
+<vendorCode>Surefix 410</vendorCode>
+
+</offer>
+<offer id="11674" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-barkan-e220</url>
+<price>530000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11674/26d9dbf977d4a144574d8b2d389da2c0.jpg</picture>
+<name>Кронштейны Barkan E220</name>
+<vendor>Barkan</vendor>
+<vendorCode>E220</vendorCode>
+
+</offer>
+<offer id="11677" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-electric-light-kb-01-51</url>
+<price>661000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11677/1eb3a18e4025d3101476f52ff44a4017.jpg</picture>
+<name>Кронштейны Electric Light КБ-01-51</name>
+<vendor>Electric Light</vendor>
+
+</offer>
+<offer id="11679" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5025</url>
+<price>808000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11679/501ebc82f7076580a38e3dfa00ffd7ef.jpg</picture>
+<name>Кронштейны Holder LCDS-5025</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5025</vendorCode>
+
+</offer>
+<offer id="11680" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5039</url>
+<price>506000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11680/b70d335743d615db56cc565e6ff90ee3.jpg</picture>
+<name>Кронштейны Holder LCDS-5039</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5039</vendorCode>
+
+</offer>
+<offer id="11681" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-holder-lcds-5019</url>
+<price>797000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11681/4f7cbbbe85a77b490d123918b662a770.jpg</picture>
+<name>Кронштейны Holder LCDS-5019</name>
+<vendor>Holder</vendor>
+<vendorCode>LCDS-5019</vendorCode>
+
+</offer>
+<offer id="11685" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-pteat2221b</url>
+<price>606000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11685/bc985f9f8ed9b347fbdc6eb61a7bae19.jpg</picture>
+<name>Кронштейны Simpatio PTEAT2221B</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTEAT2221B</vendorCode>
+
+</offer>
+<offer id="11686" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptled026</url>
+<price>284000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11686/107369e9a8d0e6b4c98a9c98c72754d2.jpg</picture>
+<name>Кронштейны Simpatio PTLED026</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLED026</vendorCode>
+
+</offer>
+<offer id="11687" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/kronshteynyi-simpatio-ptled01</url>
+<price>274000</price>
+<currencyId>BYR</currencyId>
+<categoryId>112</categoryId>
+<picture>https://1teh.by/files/product/11687/53d6f957b4f0d2560d76f1e45fcb69bd.jpg</picture>
+<name>Кронштейны Simpatio PTLED01</name>
+<vendor>Simpatio</vendor>
+<vendorCode>PTLED01</vendorCode>
+
+</offer>
+<offer id="11597" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-b100-optical-usb-mouse-910-003360</url>
+<price>168000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/11597/afd67e37ddb23818a24775d6740d6d56.jpg</picture>
+<name>Мыши Logitech B100 Optical USB Mouse (910-003360)</name>
+<vendor>Logitech</vendor>
+<vendorCode>B100 Optical USB Mouse (910-003360)</vendorCode>
+
+</offer>
+<offer id="11599" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-dark-silver-910-002143</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/11599/c4f6cf14143e6edc1e72205946c52877.jpg</picture>
+<name>Мыши Logitech M325 Dark Silver (910-002143)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 Dark Silver (910-002143)</vendorCode>
+
+</offer>
+<offer id="11601" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-india-jewel-910-003893</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/11601/02d06553d3126fa8ca912824f012aebf.jpg</picture>
+<name>Мыши Logitech M325 India Jewel (910-003893)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 India Jewel (910-003893)</vendorCode>
+
+</offer>
+<offer id="11594" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-gaming-mouse-g300</url>
+<price>603000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/11594/cb256ef00e36dca3d0b0d179f8905986.jpg</picture>
+<name>Мыши Logitech Gaming Mouse G300</name>
+<vendor>Logitech</vendor>
+<vendorCode>Gaming Mouse G300</vendorCode>
+
+</offer>
+<offer id="11595" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-g700s-rechargeable-gaming-mouse</url>
+<price>2403000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/11595/ba4b63196c3dbfae98a005bf36c6cf39.jpg</picture>
+<name>Мыши Logitech G700s Rechargeable Gaming Mouse</name>
+<vendor>Logitech</vendor>
+<vendorCode>G700s Rechargeable Gaming Mouse</vendorCode>
+
+</offer>
+<offer id="11596" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m105</url>
+<price>270000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/11596/062fb00b55fad2aefe666655058d862c.jpg</picture>
+<name>Мыши Logitech M105</name>
+<vendor>Logitech</vendor>
+<vendorCode>M105</vendorCode>
+
+</offer>
+<offer id="11591" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-anywhere-mouse-mx</url>
+<price>1181000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/11591/67f7bc4ba2dff99b963962c04ae0c01d.jpg</picture>
+<name>Мыши Logitech Anywhere Mouse MX</name>
+<vendor>Logitech</vendor>
+<vendorCode>Anywhere Mouse MX</vendorCode>
+
+</offer>
+<offer id="11602" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-light-silver-910-002335</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/11602/945be6412fe3725f6d08a3d8345e9ad1.jpg</picture>
+<name>Мыши Logitech M325 Light Silver (910-002335)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 Light Silver (910-002335)</vendorCode>
+
+</offer>
+<offer id="11604" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mini-mouse-m187-blue</url>
+<price>549000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/11604/d88166e6da9e143a502fae39bbc7669f.jpg</picture>
+<name>Мыши Logitech Wireless Mini Mouse M187 Blue</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mini Mouse M187 Blue</vendorCode>
+
+</offer>
+<offer id="11544" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-compact-system-camera-day-holster-chc-101</url>
+<price>337000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11544/30d16f850c347a505ccbc5e8913a8c43.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic Compact System Camera Day Holster (CHC-101)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Compact System Camera Day Holster (CHC-101)</vendorCode>
+
+</offer>
+<offer id="11545" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-luminosity-csc-compact-dslr-holster-dsh-101</url>
+<price>738000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11545/10d835b02a8519a7553f95cfe7cf80e2.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic Luminosity CSC/Compact DSLR Holster (DSH-101)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Luminosity CSC/Compact DSLR Holster (DSH-101)</vendorCode>
+
+</offer>
+<offer id="11548" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-slrc-206</url>
+<price>1616000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11548/248b7a2944d97239a681565265e86547.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic SLRC-206</name>
+<vendor>Case Logic</vendor>
+<vendorCode>SLRC-206</vendorCode>
+
+</offer>
+<offer id="11549" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-luminosity-dslr-zoom-holster-dsh-102</url>
+<price>700000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11549/67c96e9161e35f5cd7015910d31b8bea.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic Luminosity DSLR Zoom Holster (DSH-102)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Luminosity DSLR Zoom Holster (DSH-102)</vendorCode>
+
+</offer>
+<offer id="11550" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-dslr-day-holster-shc-101</url>
+<price>412000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11550/064e80a13e8a080d99d58e3001c7e1f6.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic DSLR Day Holster (SHC-101)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>DSLR Day Holster (SHC-101)</vendorCode>
+
+</offer>
+<offer id="11551" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-slrc-226-steel</url>
+<price>1758000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11551/0c2c1601180bd6d201170b6fb2967996.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic SLRC-226-STEEL</name>
+<vendor>Case Logic</vendor>
+<vendorCode>SLRC-226-STEEL</vendorCode>
+
+</offer>
+<offer id="11552" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-slrc-221-steel</url>
+<price>738000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11552/9641995fdf80d7bcb3b6eba4f22d0331.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic SLRC-221-STEEL</name>
+<vendor>Case Logic</vendor>
+<vendorCode>SLRC-221-STEEL</vendorCode>
+
+</offer>
+<offer id="11553" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-tbc-409</url>
+<price>583000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11553/f4cd3739f1c0c226852891bc8d1e9c98.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic TBC-409</name>
+<vendor>Case Logic</vendor>
+<vendorCode>TBC-409</vendorCode>
+
+</offer>
+<offer id="11554" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-qpb-301</url>
+<price>287000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11554/abc9090560f355590bbc71aa20779871.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic QPB-301</name>
+<vendor>Case Logic</vendor>
+<vendorCode>QPB-301</vendorCode>
+
+</offer>
+<offer id="11555" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-slrc-201</url>
+<price>800000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11555/300dbd452828361f223cbecbaceb447d.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic SLRC-201</name>
+<vendor>Case Logic</vendor>
+<vendorCode>SLRC-201</vendorCode>
+
+</offer>
+<offer id="11558" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-slrc-202</url>
+<price>622000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11558/f9cbfddef87294fb30566d005e386a1a.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic SLRC-202</name>
+<vendor>Case Logic</vendor>
+<vendorCode>SLRC-202</vendorCode>
+
+</offer>
+<offer id="11559" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-luminosity-medium-dslr-split-pack-dsb-102</url>
+<price>1510000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11559/5346e70e96e925193a690b81a533ccf2.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic Luminosity Medium DSLR Split Pack (DSB-102)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Luminosity Medium DSLR Split Pack (DSB-102)</vendorCode>
+
+</offer>
+<offer id="11540" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-dslr-camera-sling-backpack-ksb-101</url>
+<price>1804000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11540/6d7ef7f1648008d7eb271597c31ef8a8.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic DSLR Camera Sling Backpack (KSB-101)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>DSLR Camera Sling Backpack (KSB-101)</vendorCode>
+
+</offer>
+<offer id="11542" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-dcb-308</url>
+<price>951000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11542/ab3a4ffe2af3fc39950c13a440e2a4b8.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic DCB-308</name>
+<vendor>Case Logic</vendor>
+<vendorCode>DCB-308</vendorCode>
+
+</offer>
+<offer id="11538" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-large-dslr-messenger-bag-dsm-103</url>
+<price>1087000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11538/728316238c3e067775fd1fdec7d183cc.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic Large DSLR Messenger Bag (DSM-103)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Large DSLR Messenger Bag (DSM-103)</vendorCode>
+
+</offer>
+<offer id="11539" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-dslr-camera-15-6-laptop-sling-backpack-ksb-102-black</url>
+<price>2231000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/11539/6ce7f0bee9b7e8781b291a29adbfcd5d.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic DSLR Camera + 15.6&amp;quot; Laptop Sling Backpack (KSB-102-BLACK)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>DSLR Camera + 15.6&amp;quot; Laptop Sling Backpack (KSB-102-BLACK)</vendorCode>
+
+</offer>
+<offer id="11528" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-port-designs-meribel-backpack-17-3-100083</url>
+<price>675000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/11528/e1ddd1f00deddd66d05a890c3c1ae7a4.jpg</picture>
+<name>Сумки для ноутбуков Port Designs MERIBEL Backpack 17,3&amp;quot; (100083)</name>
+<vendor>Port Designs</vendor>
+<vendorCode>MERIBEL Backpack 17,3&amp;quot; (100083)</vendorCode>
+
+</offer>
+<offer id="11510" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-dlbp-116</url>
+<price>713000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/11510/7d5c8329e284ea486980a5f8027e8fb3.jpg</picture>
+<name>Сумки для ноутбуков Case Logic DLBP-116</name>
+<vendor>Case Logic</vendor>
+<vendorCode>DLBP-116</vendorCode>
+
+</offer>
+<offer id="11511" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-evolution-plus-backpack-bpep-115</url>
+<price>1004000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/11511/8120a6b26e5442ff6627010602a87a60.jpg</picture>
+<name>Сумки для ноутбуков Case Logic Evolution Plus Backpack (BPEP-115)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Evolution Plus Backpack (BPEP-115)</vendorCode>
+
+</offer>
+<offer id="11505" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-qns-116</url>
+<price>876000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/11505/78209eb1ce779af0e1bad813becc1dc6.jpg</picture>
+<name>Сумки для ноутбуков Case Logic QNS-116</name>
+<vendor>Case Logic</vendor>
+<vendorCode>QNS-116</vendorCode>
+
+</offer>
+<offer id="11504" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-case-logic-15-6-laptop-backpack-rbp-315</url>
+<price>1069000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/11504/6cde4d95f1515a150bf13df548d4acf2.jpg</picture>
+<name>Сумки для ноутбуков Case Logic 15.6&amp;quot; Laptop Backpack (RBP-315)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>15.6&amp;quot; Laptop Backpack (RBP-315)</vendorCode>
+
+</offer>
+<offer id="11435" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-peroni-yj-1548hs-gs</url>
+<price>827000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/11435/ca534a74e5276ea078d9fe332450fac3.jpg</picture>
+<name>Гладильные доски Peroni YJ-1548HS.GS</name>
+<vendor>Peroni</vendor>
+<vendorCode>YJ-1548HS.GS</vendorCode>
+
+</offer>
+<offer id="11381" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-gimi-firenze</url>
+<price>628000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/11381/a9fdca1c795696b265fb89226fe5a7a1.jpg</picture>
+<name>Гладильные доски Gimi Firenze</name>
+<vendor>Gimi</vendor>
+<vendorCode>Firenze</vendorCode>
+
+</offer>
+<offer id="11373" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-gimi-advance-100-14630345</url>
+<price>720000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/11373/4031109827ecd63455ab3aa9d4dbcbdc.jpg</picture>
+<name>Гладильные доски Gimi Advance 100 (14630345)</name>
+<vendor>Gimi</vendor>
+<vendorCode>Advance 100 (14630345)</vendorCode>
+
+</offer>
+<offer id="11377" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-gimi-poker-14630413</url>
+<price>831000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/11377/8a5cef6a269f5e63fbc4abadfe0100ac.jpg</picture>
+<name>Гладильные доски Gimi Poker (14630413)</name>
+<vendor>Gimi</vendor>
+<vendorCode>Poker (14630413)</vendorCode>
+
+</offer>
+<offer id="11365" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-framar-vapor-medium-431a-ti2</url>
+<price>842000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/11365/1b9d94a1b5594e1d7cb207c9e16eb649.jpg</picture>
+<name>Гладильные доски Framar Vapor Medium (431A/TI2)</name>
+<vendor>Framar</vendor>
+<vendorCode>Vapor Medium (431A/TI2)</vendorCode>
+
+</offer>
+<offer id="11286" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/gladilnyie-doski-mie-prestige</url>
+<price>3042000</price>
+<currencyId>BYR</currencyId>
+<categoryId>93</categoryId>
+<picture>https://1teh.by/files/product/11286/95197bf956579bee10bb763c532054f4.jpg</picture>
+<name>Гладильные доски MIE Prestige</name>
+<vendor>MIE</vendor>
+<vendorCode>Prestige</vendorCode>
+
+</offer>
+<offer id="12615" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-trust-oslo-15-6-notebook-carry-bag-brown-17040</url>
+<price>754000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12615/bf9f4a5f6705bcc6eec1a6f23174f7e4.jpg</picture>
+<name>Сумки для ноутбуков Trust Oslo 15.6&amp;quot; Notebook Carry Bag - Brown (17040)</name>
+<vendor>Trust</vendor>
+<vendorCode>Oslo 15.6&amp;quot; Notebook Carry Bag - Brown (17040)</vendorCode>
+
+</offer>
+<offer id="12616" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-american-tourister-forceplus-black-28z-002</url>
+<price>998000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12616/30356d01d8b25da449fe493542bf349c.jpg</picture>
+<name>Сумки для ноутбуков American Tourister Forceplus Black (28Z*002)</name>
+<vendor>American Tourister</vendor>
+<vendorCode>Forceplus Black (28Z*002)</vendorCode>
+
+</offer>
+<offer id="12619" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-pro-dlx-3-vertical-shoulder-bag-v84-014</url>
+<price>2454000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12619/f2e28798484d4e405e74b49e2651c6b7.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Pro-DLX 3 Vertical Shoulder Bag (V84*014)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Pro-DLX 3 Vertical Shoulder Bag (V84*014)</vendorCode>
+
+</offer>
+<offer id="12620" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-aurica-f58-002</url>
+<price>3380000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12620/f876f9b718028bcb637eca437d590815.jpg</picture>
+<name>Сумки для ноутбуков Samsonite AURICA (F58*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>AURICA (F58*002)</vendorCode>
+
+</offer>
+<offer id="12621" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-aurica-m-f58-004</url>
+<price>4486000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12621/6e7405c06f686e7b54ccec34aa5294ca.jpg</picture>
+<name>Сумки для ноутбуков Samsonite AURICA M (F58*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>AURICA M (F58*004)</vendorCode>
+
+</offer>
+<offer id="12622" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-network-2-41u-005</url>
+<price>994000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12622/25919a2b035554c6d52dc636fc99787f.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Network 2 (41U*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Network 2 (41U*005)</vendorCode>
+
+</offer>
+<offer id="12623" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-s-oulite-32u-004</url>
+<price>4673000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12623/746181b5c6232f1f087cb562124a1801.jpg</picture>
+<name>Сумки для ноутбуков Samsonite S-Oulite (32U*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>S-Oulite (32U*004)</vendorCode>
+
+</offer>
+<offer id="12624" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-cordoba-duo-business-v93-018</url>
+<price>1845000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12624/79919adea1cd8792cc1a81e9c2656a80.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Cordoba Duo Business (V93*018)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Cordoba Duo Business (V93*018)</vendorCode>
+
+</offer>
+<offer id="12625" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-s-teem-34u-004</url>
+<price>4437000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12625/3a1b05baca3d75d05ac3874d48e285b1.jpg</picture>
+<name>Сумки для ноутбуков Samsonite S-Teem (34U*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>S-Teem (34U*004)</vendorCode>
+
+</offer>
+<offer id="12626" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-s-oulite-32u-005</url>
+<price>4673000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12626/c8f55825460caf12e8e60e326e4f7fa3.jpg</picture>
+<name>Сумки для ноутбуков Samsonite S-Oulite (32U*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>S-Oulite (32U*005)</vendorCode>
+
+</offer>
+<offer id="12627" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-pro-dlx-3-laptop-briefcase-v84-010</url>
+<price>2573000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12627/2b6e42b6cceec8b48f03d418533bb690.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Pro-DLX 3 Laptop Briefcase (V84*010)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Pro-DLX 3 Laptop Briefcase (V84*010)</vendorCode>
+
+</offer>
+<offer id="12628" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-network-2-41u-004</url>
+<price>846000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12628/59d5660575cfc25db95465c66b567061.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Network 2 (41U*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Network 2 (41U*004)</vendorCode>
+
+</offer>
+<offer id="12629" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-pro-tect-bailhandle-expandable-v73-004</url>
+<price>2534000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12629/6a947b99e22cf2b2108f6efb4fd7e455.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Pro-Tect Bailhandle Expandable (V73*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Pro-Tect Bailhandle Expandable (V73*004)</vendorCode>
+
+</offer>
+<offer id="12630" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-s-teem-34u-002</url>
+<price>5920000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12630/951030bdc6f45a37414f22cb31326593.jpg</picture>
+<name>Сумки для ноутбуков Samsonite S-Teem (34U*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>S-Teem (34U*002)</vendorCode>
+
+</offer>
+<offer id="12631" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-network-2-41u-002</url>
+<price>714000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12631/28cffd99410bc1bbf5a3c4958b6b98de.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Network 2 (41U*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Network 2 (41U*002)</vendorCode>
+
+</offer>
+<offer id="12632" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-flexxea-black-rio-red-11u-003</url>
+<price>1648000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12632/60cf10c393dcbf28c672d36231e74eee.jpg</picture>
+<name>Сумки для ноутбуков Samsonite FLEXXEA Black-Rio Red (11U*003)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>FLEXXEA Black-Rio Red (11U*003)</vendorCode>
+
+</offer>
+<offer id="12633" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-formal-laptop-briefcase-d38-005</url>
+<price>780000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12633/7c19f5c2be526898b7813d611a65ca84.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Formal Laptop Briefcase (D38*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Formal Laptop Briefcase (D38*005)</vendorCode>
+
+</offer>
+<offer id="12634" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-network-v76-002</url>
+<price>1428000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12634/4b0aa056604f2181a487c5f4afb44dbc.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Network (V76*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Network (V76*002)</vendorCode>
+
+</offer>
+<offer id="12635" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-avior-u89-005</url>
+<price>2976000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12635/3e835e7a8c9dfbcd4ed891e36b091cda.jpg</picture>
+<name>Сумки для ноутбуков Samsonite AVIOR (U89*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>AVIOR (U89*005)</vendorCode>
+
+</offer>
+<offer id="12636" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-ergo-biz-46u-004</url>
+<price>2891000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12636/c40b5f16be948bf61d79caf47cabbfca.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Ergo-Biz (46U*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Ergo-Biz (46U*004)</vendorCode>
+
+</offer>
+<offer id="12637" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-classic-2-ict-office-case-u33-001</url>
+<price>1751000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12637/4341e4cdb2724d4371572bee9470679b.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Classic 2 ICT Office Case (U33*001)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Classic 2 ICT Office Case (U33*001)</vendorCode>
+
+</offer>
+<offer id="12638" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-ergo-biz-46u-006</url>
+<price>2456000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12638/a40bec0785867fcd0198eba86101a96b.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Ergo-Biz (46U*006)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Ergo-Biz (46U*006)</vendorCode>
+
+</offer>
+<offer id="12639" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-pro-tect-office-case-v73-001</url>
+<price>2152000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12639/7cd69d8740b73ecbae39d6881f2a1c84.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Pro-Tect Office Case (V73*001)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Pro-Tect Office Case (V73*001)</vendorCode>
+
+</offer>
+<offer id="12640" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-network-2-41u-003</url>
+<price>754000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12640/9dd9e72daa2e09f2a3a77002768660ec.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Network 2 (41U*003)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Network 2 (41U*003)</vendorCode>
+
+</offer>
+<offer id="12641" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-finder-laptop-bag-u42-005</url>
+<price>1520000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12641/1008198772fe48e244bd682c5e1fdffa.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Finder Laptop Bag (U42*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Finder Laptop Bag (U42*005)</vendorCode>
+
+</offer>
+<offer id="12642" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-finder-laptop-backpack-u42-003</url>
+<price>1749000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12642/5be766993753283eb389641353bf9163.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Finder Laptop Backpack (U42*003)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Finder Laptop Backpack (U42*003)</vendorCode>
+
+</offer>
+<offer id="12643" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-freeguider-66v-003</url>
+<price>897000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12643/f1f4add21524b22bdf87c6c2354bcef2.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Freeguider (66V*003)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Freeguider (66V*003)</vendorCode>
+
+</offer>
+<offer id="12644" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-freeguider-66v-002</url>
+<price>897000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12644/fe26e0acc08c70509e19ce6e52d4759a.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Freeguider (66V*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Freeguider (66V*002)</vendorCode>
+
+</offer>
+<offer id="12645" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-guardit-88u-006</url>
+<price>989000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12645/28bbfd3ce03d46b0be3f4ba079bffa4e.jpg</picture>
+<name>Сумки для ноутбуков Samsonite GuardIT (88U*006)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>GuardIT (88U*006)</vendorCode>
+
+</offer>
+<offer id="12646" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-x-ion-3-briefcase-3-gussets-u27-017</url>
+<price>2683000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12646/3a2a2aa3c69e496a8fc31773a5574776.jpg</picture>
+<name>Сумки для ноутбуков Samsonite X&apos;ion 3 Briefcase 3 Gussets (U27*017)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>X&apos;ion 3 Briefcase 3 Gussets (U27*017)</vendorCode>
+
+</offer>
+<offer id="12647" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-flexxea-11u-002</url>
+<price>1648000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12647/67cad63de3c6df6b2949070cdd558c16.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Flexxea (11U*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Flexxea (11U*002)</vendorCode>
+
+</offer>
+<offer id="12648" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-avior-u89-002</url>
+<price>2804000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12648/626560fef77a3bac88871dd9c87adbdd.jpg</picture>
+<name>Сумки для ноутбуков Samsonite AVIOR (U89*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>AVIOR (U89*002)</vendorCode>
+
+</offer>
+<offer id="12649" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-laptop-pillow-3-u43-004</url>
+<price>2941000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12649/b6df1062bc47ea2e26555ebf9619fef1.jpg</picture>
+<name>Сумки для ноутбуков Samsonite LAPTOP PILLOW 3 (U43*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>LAPTOP PILLOW 3 (U43*004)</vendorCode>
+
+</offer>
+<offer id="12650" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-classic-sleeves-black-u24-007</url>
+<price>1176000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12650/0c7a0020b64407efaf293948992e7b09.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Classic Sleeves Black (U24*007)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Classic Sleeves Black (U24*007)</vendorCode>
+
+</offer>
+<offer id="12651" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-guardit-88u-004</url>
+<price>989000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12651/9330fab1d218281bf73ca48f69cb9d45.jpg</picture>
+<name>Сумки для ноутбуков Samsonite GuardIT (88U*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>GuardIT (88U*004)</vendorCode>
+
+</offer>
+<offer id="12652" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-wanderpacks-65v-004</url>
+<price>1579000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12652/f911ac84db5924607ec5f063b34b186e.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Wanderpacks (65V*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Wanderpacks (65V*004)</vendorCode>
+
+</offer>
+<offer id="12653" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-intellio-00v-005</url>
+<price>2106000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12653/4fc185b98418134aaf1f0c67e5f58b29.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Intellio (00V*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Intellio (00V*005)</vendorCode>
+
+</offer>
+<offer id="12654" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-freeguider-66v-004</url>
+<price>897000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12654/66f550dc3fad32f689e37016280f3e6f.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Freeguider (66V*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Freeguider (66V*004)</vendorCode>
+
+</offer>
+<offer id="12655" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-monaco-ict-u32-001</url>
+<price>1643000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12655/10899d5bb4a246450a0cf171df60324e.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Monaco ICT (U32*001)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Monaco ICT (U32*001)</vendorCode>
+
+</offer>
+<offer id="12656" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-guardit-88u-005</url>
+<price>824000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12656/9079cce9b7e3c50f2b1c6e76f2e4ab6d.jpg</picture>
+<name>Сумки для ноутбуков Samsonite GuardIT (88U*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>GuardIT (88U*005)</vendorCode>
+
+</offer>
+<offer id="12657" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-wanderpacks-65v-003</url>
+<price>1154000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12657/9f6a1ef6ade2cafa4815782ceb313c9c.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Wanderpacks (65V*003)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Wanderpacks (65V*003)</vendorCode>
+
+</offer>
+<offer id="12658" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-x-blade-laptop-backpack-v71-105</url>
+<price>2754000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12658/31e4fa5752953c12b31df4a60b4525b6.jpg</picture>
+<name>Сумки для ноутбуков Samsonite X&apos;Blade Laptop Backpack (V71*105)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>X&apos;Blade Laptop Backpack (V71*105)</vendorCode>
+
+</offer>
+<offer id="12659" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-x-blade-business-v71-102</url>
+<price>2754000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12659/a2373491cdc57d0a160cf11d0a87b1cd.jpg</picture>
+<name>Сумки для ноутбуков Samsonite X&apos;Blade Business (V71*102)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>X&apos;Blade Business (V71*102)</vendorCode>
+
+</offer>
+<offer id="12660" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-monaco-ict-u32-003</url>
+<price>1095000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12660/a75491e6f14cdbe2b9b9f500d07e5a12.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Monaco ICT (U32*003)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Monaco ICT (U32*003)</vendorCode>
+
+</offer>
+<offer id="12661" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-cityvibe-42v-005</url>
+<price>2632000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12661/299ef62ebac1009202f080081231d3c1.jpg</picture>
+<name>Сумки для ноутбуков Samsonite CityVibe (42V*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>CityVibe (42V*005)</vendorCode>
+
+</offer>
+<offer id="12662" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-b-lite-fresh-laptop-messenger-s-bag-v97-014</url>
+<price>1602000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12662/82875c43ab2cb037eca272e16b000565.jpg</picture>
+<name>Сумки для ноутбуков Samsonite B-Lite Fresh Laptop Messenger&apos;s Bag (V97*014)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>B-Lite Fresh Laptop Messenger&apos;s Bag (V97*014)</vendorCode>
+
+</offer>
+<offer id="12663" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-classic-sleeves-black-u24-012</url>
+<price>784000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12663/15434baa21a12365f2d216ea00a4be70.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Classic Sleeves Black (U24*012)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Classic Sleeves Black (U24*012)</vendorCode>
+
+</offer>
+<offer id="12664" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-samsonite-intellio-00v-002</url>
+<price>1877000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12664/a8ef84a0dec964902ca9b67543a37ecf.jpg</picture>
+<name>Сумки для ноутбуков Samsonite Intellio (00V*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Intellio (00V*002)</vendorCode>
+
+</offer>
+<offer id="12665" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-lato-backpack-17-blabk</url>
+<price>769000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12665/a2a99a8048e279f5db88a2cb9156e5fd.jpg</picture>
+<name>Сумки для ноутбуков Tucano Lato backpack 17&amp;quot; (BLABK)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Lato backpack 17&amp;quot; (BLABK)</vendorCode>
+
+</offer>
+<offer id="12666" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-innovo-11-bfin11</url>
+<price>678000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12666/83c2af501da0c5acc73b4d193139a91d.jpg</picture>
+<name>Сумки для ноутбуков Tucano Innovo 11&amp;quot; (BFIN11)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Innovo 11&amp;quot; (BFIN11)</vendorCode>
+
+</offer>
+<offer id="12667" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-workout-pc-xl-blue-wopc-xl-b</url>
+<price>1071000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12667/4d5ad9b12b166706d16c88380318cb91.jpg</picture>
+<name>Сумки для ноутбуков Tucano WorkOut PC XL Blue (WOPC-XL-B)</name>
+<vendor>Tucano</vendor>
+<vendorCode>WorkOut PC XL Blue (WOPC-XL-B)</vendorCode>
+
+</offer>
+<offer id="12668" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-tu-pack-15-bktp</url>
+<price>1025000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12668/0e52da525cfb61d726370a351ac03fa7.jpg</picture>
+<name>Сумки для ноутбуков Tucano Tu Pack 15&amp;quot; (BKTP)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Tu Pack 15&amp;quot; (BKTP)</vendorCode>
+
+</offer>
+<offer id="12669" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-innovo-11-bfin11-g</url>
+<price>678000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12669/5e44bab6afa35d0a86b35c170e0fcbe1.jpg</picture>
+<name>Сумки для ноутбуков Tucano Innovo 11&amp;quot; (BFIN11-G)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Innovo 11&amp;quot; (BFIN11-G)</vendorCode>
+
+</offer>
+<offer id="12670" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-noutbukov-tucano-dritta-vertical-10-bdrv</url>
+<price>717000</price>
+<currencyId>BYR</currencyId>
+<categoryId>95</categoryId>
+<picture>https://1teh.by/files/product/12670/5738b7c3b740c8ce309f9f0dbc0da8e8.jpg</picture>
+<name>Сумки для ноутбуков Tucano Dritta Vertical 10&amp;quot; (BDRV)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Dritta Vertical 10&amp;quot; (BDRV)</vendorCode>
+
+</offer>
+<offer id="12672" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-sony-lcs-cst</url>
+<price>272000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12672/bfb9cc737d756ced4dbc0841173c5a00.jpg</picture>
+<name>Сумки для фото/видеотехники Sony LCS-CST</name>
+<vendor>Sony</vendor>
+<vendorCode>LCS-CST</vendorCode>
+
+</offer>
+<offer id="12673" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-sony-lcs-u5</url>
+<price>246000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12673/3ab5bceca3d691faeb978ddb0996af93.jpg</picture>
+<name>Сумки для фото/видеотехники Sony LCS-U5</name>
+<vendor>Sony</vendor>
+<vendorCode>LCS-U5</vendorCode>
+
+</offer>
+<offer id="12675" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-sony-lcs-twp-p</url>
+<price>227000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12675/876d12c2794341355c2f62ab7d8ac84e.jpg</picture>
+<name>Сумки для фото/видеотехники Sony LCS-TWP/P</name>
+<vendor>Sony</vendor>
+<vendorCode>LCS-TWP/P</vendorCode>
+
+</offer>
+<offer id="12676" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-b-lite-fresh-foto-dslr-toploader-m-charcoal-p02-003</url>
+<price>829000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12676/33a30e69254b5c2db8cfed3653b53328.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite B-Lite Fresh Foto DSLR Toploader M Charcoal (P02*003)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>B-Lite Fresh Foto DSLR Toploader M Charcoal (P02*003)</vendorCode>
+
+</offer>
+<offer id="12677" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-fotonox-toploader-200-p01-006</url>
+<price>1940000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12677/a96dc1beb6f10967e8e94beb469af6d2.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite Fotonox Toploader 200 (P01*006)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Fotonox Toploader 200 (P01*006)</vendorCode>
+
+</offer>
+<offer id="12678" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-fotonox-toploader-400-p01-007</url>
+<price>2337000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12678/2121a4571720584c158a7006810a9cec.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite Fotonox Toploader 400 (P01*007)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Fotonox Toploader 400 (P01*007)</vendorCode>
+
+</offer>
+<offer id="12679" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-fotonox-photo-sling-backpack-p01-004</url>
+<price>2540000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12679/1364292d0565dbb0b49455a08e2c8670.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite Fotonox Photo Sling Backpack (P01*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Fotonox Photo Sling Backpack (P01*004)</vendorCode>
+
+</offer>
+<offer id="12680" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-fotonox-photo-backpack-150-p01-002</url>
+<price>2955000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12680/a3b202ecca722fed055af36c8b146f8a.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite Fotonox Photo Backpack 150 (P01*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Fotonox Photo Backpack 150 (P01*002)</vendorCode>
+
+</offer>
+<offer id="12681" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-b-lite-fresh-foto-shoulderbag-m-charcoal-p02-004</url>
+<price>1147000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12681/3b59b9ced184162ed93c1b698f6e3b1c.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite B-Lite Fresh Foto Shoulderbag M Charcoal (P02*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>B-Lite Fresh Foto Shoulderbag M Charcoal (P02*004)</vendorCode>
+
+</offer>
+<offer id="12682" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-b-lite-fresh-foto-dslr-toploader-m-khaki-p02-003</url>
+<price>829000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12682/8dc149a6e86cd2dc09d112561d1ace34.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite B-Lite Fresh Foto DSLR Toploader M Khaki (P02*003)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>B-Lite Fresh Foto DSLR Toploader M Khaki (P02*003)</vendorCode>
+
+</offer>
+<offer id="12683" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-b-lite-fresh-foto-shoulderbag-l-charcoal-p02-005</url>
+<price>1808000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12683/ec409b70bc2a91a9c22c597f2be6662b.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite B-Lite Fresh Foto Shoulderbag L Charcoal (P02*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>B-Lite Fresh Foto Shoulderbag L Charcoal (P02*005)</vendorCode>
+
+</offer>
+<offer id="12684" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-b-lite-fresh-foto-dslr-toploader-s-charcoal-p02-002</url>
+<price>741000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12684/48096d6619f068481a5bd885e256be53.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite B-Lite Fresh Foto DSLR Toploader S Charcoal (P02*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>B-Lite Fresh Foto DSLR Toploader S Charcoal (P02*002)</vendorCode>
+
+</offer>
+<offer id="12685" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-b-lite-fresh-foto-shoulderbag-l-khaki-p02-005</url>
+<price>1808000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12685/5eaeaceb4493e5531ae9681c52765043.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite B-Lite Fresh Foto Shoulderbag L Khaki (P02*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>B-Lite Fresh Foto Shoulderbag L Khaki (P02*005)</vendorCode>
+
+</offer>
+<offer id="12686" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-b-lite-fresh-foto-dslr-toploader-s-khaki-p02-002</url>
+<price>741000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12686/ed4947902927a28cb49deff27ff800e7.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite B-Lite Fresh Foto DSLR Toploader S Khaki (P02*002)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>B-Lite Fresh Foto DSLR Toploader S Khaki (P02*002)</vendorCode>
+
+</offer>
+<offer id="12687" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-b-lite-fresh-foto-shoulderbag-m-khaki-p02-004</url>
+<price>1147000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12687/222227c0413c6008ecc9aef6313d3ced.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite B-Lite Fresh Foto Shoulderbag M Khaki (P02*004)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>B-Lite Fresh Foto Shoulderbag M Khaki (P02*004)</vendorCode>
+
+</offer>
+<offer id="12688" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-fotonox-beltpack-100-p01-009</url>
+<price>1632000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12688/9050f43d039fa05eb930f66f2c7cc105.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite Fotonox Beltpack 100 (P01*009)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Fotonox Beltpack 100 (P01*009)</vendorCode>
+
+</offer>
+<offer id="12689" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-fotonox-messenger-200-p01-005</url>
+<price>3219000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12689/3a0967a4a06a6f0de34ba68c47067866.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite Fotonox Messenger 200 (P01*005)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Fotonox Messenger 200 (P01*005)</vendorCode>
+
+</offer>
+<offer id="12690" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-samsonite-fotonox-shoulder-bag-p01-008</url>
+<price>1808000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12690/a9d1eaa7b840d3e235b8d883c9f125c9.jpg</picture>
+<name>Сумки для фото/видеотехники Samsonite Fotonox Shoulder bag (P01*008)</name>
+<vendor>Samsonite</vendor>
+<vendorCode>Fotonox Shoulder bag (P01*008)</vendorCode>
+
+</offer>
+<offer id="12691" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-youngster-digital-bag-bcy</url>
+<price>235000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12691/c1f83793618f5064df66342a51633555.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Youngster digital bag (BCY)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Youngster digital bag (BCY)</vendorCode>
+
+</offer>
+<offer id="12692" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-digitaly-single-xs-red-bcpa-1xs-r</url>
+<price>206000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12692/976a42572aad05178aa1716505a866ed.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Digitaly Single XS Red (BCPA-1XS-R)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Digitaly Single XS Red (BCPA-1XS-R)</vendorCode>
+
+</offer>
+<offer id="12693" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-digitaly-single-xs-grey-bcpa-1xs-g</url>
+<price>206000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12693/408e1af163143d27b0eaca13bf677a68.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Digitaly Single XS Grey (BCPA-1XS-G)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Digitaly Single XS Grey (BCPA-1XS-G)</vendorCode>
+
+</offer>
+<offer id="12694" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-digitaly-single-xs-blue-bcpa-1xs-b</url>
+<price>206000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12694/34da49e2d1cb3ed56121e83c862d12e3.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Digitaly Single XS Blue (BCPA-1XS-B)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Digitaly Single XS Blue (BCPA-1XS-B)</vendorCode>
+
+</offer>
+<offer id="12695" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-digitaly-single-xs-black-bcpa-1xs</url>
+<price>206000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12695/b9f1d8b8eb17dbb9254afb89b821ab16.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Digitaly Single XS Black (BCPA-1XS)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Digitaly Single XS Black (BCPA-1XS)</vendorCode>
+
+</offer>
+<offer id="12696" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-digitaly-single-xs-bcpa-1xs</url>
+<price>206000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12696/fb0f05906875e7b6b1b9f6a57068bfc6.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Digitaly Single XS (BCPA-1XS)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Digitaly Single XS (BCPA-1XS)</vendorCode>
+
+</offer>
+<offer id="12697" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-bcpa-1s</url>
+<price>268000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12697/072d9a36c9f4492170d5a029fe518716.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano BCPA-1S</name>
+<vendor>Tucano</vendor>
+<vendorCode>BCPA-1S</vendorCode>
+
+</offer>
+<offer id="12699" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-elle-bcel</url>
+<price>235000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12699/a26897259c1a370c1b5bf55c9bc016bb.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Elle (BCEL)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Elle (BCEL)</vendorCode>
+
+</offer>
+<offer id="12700" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-nova-for-mirrorless-camera-camcorder-bcnom</url>
+<price>647000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12700/678f0a893194f53adce9f4bb05833425.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Nova for mirrorless camera &amp; camcorder (BCNOM)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Nova for mirrorless camera &amp; camcorder (BCNOM)</vendorCode>
+
+</offer>
+<offer id="12701" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-tech-holster-large-digital-bag-cb-t-hl</url>
+<price>913000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12701/b4840f03ec609e09c22b517e20a31345.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Tech Holster Large digital bag (CB-T-HL)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Tech Holster Large digital bag (CB-T-HL)</vendorCode>
+
+</offer>
+<offer id="12702" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-tech-plus-holster-for-reflex-cb-tp-hl-g</url>
+<price>1058000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12702/329fea0e9616c9025fa768cd42007e30.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Tech Plus Holster for Reflex (CB-TP-HL-G)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Tech Plus Holster for Reflex (CB-TP-HL-G)</vendorCode>
+
+</offer>
+<offer id="12703" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-tucano-tech-plus-sling-backpack-cb-tp-sb</url>
+<price>1154000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/12703/2cdc834334e215f31c29f4cbf7700a4f.jpg</picture>
+<name>Сумки для фото/видеотехники Tucano Tech Plus Sling Backpack (CB-TP-SB)</name>
+<vendor>Tucano</vendor>
+<vendorCode>Tech Plus Sling Backpack (CB-TP-SB)</vendorCode>
+
+</offer>
+<offer id="12705" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-laser-mouse-m150-grape-flash-jaffa-910-003753</url>
+<price>411000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12705/1ca2c75b45a2453dad71ab15919bc8bc.jpg</picture>
+<name>Мыши Logitech Laser Mouse M150 Grape Flash Jaffa (910-003753)</name>
+<vendor>Logitech</vendor>
+<vendorCode>Laser Mouse M150 Grape Flash Jaffa (910-003753)</vendorCode>
+
+</offer>
+<offer id="12706" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mini-mouse-m187-black</url>
+<price>549000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12706/03375112d51e437220cd227ad881e10b.jpg</picture>
+<name>Мыши Logitech Wireless Mini Mouse M187 Black</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mini Mouse M187 Black</vendorCode>
+
+</offer>
+<offer id="12707" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mini-mouse-m187-red</url>
+<price>549000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12707/fbaf336986c836b76e9d2acda1ac6385.jpg</picture>
+<name>Мыши Logitech Wireless Mini Mouse M187 Red</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mini Mouse M187 Red</vendorCode>
+
+</offer>
+<offer id="12709" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m150-coconut-white-910-003754</url>
+<price>411000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12709/6462dcef27126a119705e2c4483e5588.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M150 Coconut White (910-003754)</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M150 Coconut White (910-003754)</vendorCode>
+
+</offer>
+<offer id="12712" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m175</url>
+<price>366000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12712/69b994374df0e6af396785dd5284cbbf.jpg</picture>
+<name>Мыши Logitech M175</name>
+<vendor>Logitech</vendor>
+<vendorCode>M175</vendorCode>
+
+</offer>
+<offer id="12713" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-ls1-laser-mouse-grape-jaffa-910-000864</url>
+<price>411000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12713/ee38b6c9e0e5d1db20fbd9b4e9b40832.jpg</picture>
+<name>Мыши Logitech LS1 Laser Mouse Grape-Jaffa (910-000864)</name>
+<vendor>Logitech</vendor>
+<vendorCode>LS1 Laser Mouse Grape-Jaffa (910-000864)</vendorCode>
+
+</offer>
+<offer id="12714" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-wireless-mouse-quirky-910-004173</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12714/b72909f972a556df66fb0c3a30505d5d.jpg</picture>
+<name>Мыши Logitech M325 Wireless Mouse Quirky (910-004173)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 Wireless Mouse Quirky (910-004173)</vendorCode>
+
+</offer>
+<offer id="12715" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m345-lime</url>
+<price>720000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12715/250bad89069f24a1f516c3eaa00f3304.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M345 Lime</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M345 Lime</vendorCode>
+
+</offer>
+<offer id="12716" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-zone-touch-mouse-t400-910-003677</url>
+<price>916000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12716/e55dd206a0e691cc237595648058dae6.jpg</picture>
+<name>Мыши Logitech Zone Touch Mouse T400 (910-003677)</name>
+<vendor>Logitech</vendor>
+<vendorCode>Zone Touch Mouse T400 (910-003677)</vendorCode>
+
+</offer>
+<offer id="12717" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-wireless-mouse-lady-on-the-lily-910-004220</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12717/7f8eb4f26e83ccb7c5d2b02d6f667182.jpg</picture>
+<name>Мыши Logitech M325 Wireless Mouse Lady on the Lily (910-004220)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 Wireless Mouse Lady on the Lily (910-004220)</vendorCode>
+
+</offer>
+<offer id="12718" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m150-cinammon-red-910-003751</url>
+<price>411000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12718/02ac813937e4fd9ec1333fb530bd36a9.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M150 Cinammon Red (910-003751)</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M150 Cinammon Red (910-003751)</vendorCode>
+
+</offer>
+<offer id="12719" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m345-pink</url>
+<price>720000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12719/333a81ce5d390cdc95f10a77b84c8bed.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M345 Pink</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M345 Pink</vendorCode>
+
+</offer>
+<offer id="12720" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-wireless-mouse-free-spirited-910-004216</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12720/62681e44238a6a3ce1e56e43037ca6a9.jpg</picture>
+<name>Мыши Logitech M325 Wireless Mouse Free Spirited (910-004216)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 Wireless Mouse Free Spirited (910-004216)</vendorCode>
+
+</offer>
+<offer id="12722" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m560-black-910-003883</url>
+<price>662000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12722/586647cc266244bc2512d95e7b3c9bba.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M560 Black (910-003883)</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M560 Black (910-003883)</vendorCode>
+
+</offer>
+<offer id="12723" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m500</url>
+<price>681000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12723/de9e4f2f559d5e58b159b3292212e76d.jpg</picture>
+<name>Мыши Logitech M500</name>
+<vendor>Logitech</vendor>
+<vendorCode>M500</vendorCode>
+
+</offer>
+<offer id="12724" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m525</url>
+<price>935000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12724/32e344652e773f9c1eac930c08b7ae06.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M525</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M525</vendorCode>
+
+</offer>
+<offer id="12725" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-wireless-mouse-purple-peace-910-004147</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12725/0f536cbde9e559132b38d7a18aeefa79.jpg</picture>
+<name>Мыши Logitech M325 Wireless Mouse Purple Peace (910-004147)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 Wireless Mouse Purple Peace (910-004147)</vendorCode>
+
+</offer>
+<offer id="12726" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m525-white</url>
+<price>935000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12726/fb29acd46bc673b6368e691b7668289b.jpg</picture>
+<name>Мыши Logitech M525 White</name>
+<vendor>Logitech</vendor>
+<vendorCode>M525 White</vendorCode>
+
+</offer>
+<offer id="12727" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m705</url>
+<price>833000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12727/792c399cb066ce70bfd0887bb61e6f14.jpg</picture>
+<name>Мыши Logitech M705</name>
+<vendor>Logitech</vendor>
+<vendorCode>M705</vendorCode>
+
+</offer>
+<offer id="12728" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m90</url>
+<price>185000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12728/86c4aefc205a37d8505105b73cc6a4a0.jpg</picture>
+<name>Мыши Logitech M90</name>
+<vendor>Logitech</vendor>
+<vendorCode>M90</vendorCode>
+
+</offer>
+<offer id="12729" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-performance-mouse-mx</url>
+<price>1980000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12729/e60168d7b27fffdbd09418510b92b3d2.jpg</picture>
+<name>Мыши Logitech Performance Mouse MX</name>
+<vendor>Logitech</vendor>
+<vendorCode>Performance Mouse MX</vendorCode>
+
+</offer>
+<offer id="12730" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-rx250-optical-mouse</url>
+<price>215000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12730/79ac5787280565118753806feeb232c0.jpg</picture>
+<name>Мыши Logitech RX250 Optical Mouse</name>
+<vendor>Logitech</vendor>
+<vendorCode>RX250 Optical Mouse</vendorCode>
+
+</offer>
+<offer id="12731" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-wireless-mouse-perfectly-pewter-910-004217</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12731/8db6099491e9428b43f2bd7fb034b6d4.jpg</picture>
+<name>Мыши Logitech M325 Wireless Mouse Perfectly Pewter (910-004217)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 Wireless Mouse Perfectly Pewter (910-004217)</vendorCode>
+
+</offer>
+<offer id="12732" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-wireless-mouse-in-the-deep-910-004219</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12732/0e7cca3d93bdcaf0a1f3353ebce7642e.jpg</picture>
+<name>Мыши Logitech M325 Wireless Mouse In the Deep (910-004219)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 Wireless Mouse In the Deep (910-004219)</vendorCode>
+
+</offer>
+<offer id="12733" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-wireless-mouse-bubbly-910-004218</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12733/5cea9ceb6e42ba931d0318055e59c86f.jpg</picture>
+<name>Мыши Logitech M325 Wireless Mouse Bubbly (910-004218)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 Wireless Mouse Bubbly (910-004218)</vendorCode>
+
+</offer>
+<offer id="12734" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-bluetooth-mouse-m557-910-003959</url>
+<price>842000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12734/16a0038e2a30cb6d5e256e04467b1264.jpg</picture>
+<name>Мыши Logitech Bluetooth Mouse M557 (910-003959)</name>
+<vendor>Logitech</vendor>
+<vendorCode>Bluetooth Mouse M557 (910-003959)</vendorCode>
+
+</offer>
+<offer id="12736" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-g600-mmo-gaming-mouse</url>
+<price>1818000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12736/388dc521e6be752e981b3e4b1ec448ae.jpg</picture>
+<name>Мыши Logitech G600 MMO Gaming Mouse</name>
+<vendor>Logitech</vendor>
+<vendorCode>G600 MMO Gaming Mouse</vendorCode>
+
+</offer>
+<offer id="12737" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m560-white-910-003914</url>
+<price>662000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12737/0cb893ffe4ae6618295d938f51ac30c1.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M560 White (910-003914)</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M560 White (910-003914)</vendorCode>
+
+</offer>
+<offer id="12738" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-g602-wireless-gaming-mouse-910-003822</url>
+<price>1771000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12738/0fcebf54a69d04b04c0c72d72b6ccddf.jpg</picture>
+<name>Мыши Logitech G602 Wireless Gaming Mouse (910-003822)</name>
+<vendor>Logitech</vendor>
+<vendorCode>G602 Wireless Gaming Mouse (910-003822)</vendorCode>
+
+</offer>
+<offer id="12739" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m100</url>
+<price>226000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12739/6e1c352c094e744f6c1741f0d86c2b90.jpg</picture>
+<name>Мыши Logitech M100</name>
+<vendor>Logitech</vendor>
+<vendorCode>M100</vendorCode>
+
+</offer>
+<offer id="12740" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-zone-touch-mouse-t400-910-003680</url>
+<price>916000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12740/23dea83b5bd1918f433869e2d5f1119a.jpg</picture>
+<name>Мыши Logitech Zone Touch Mouse T400 (910-003680)</name>
+<vendor>Logitech</vendor>
+<vendorCode>Zone Touch Mouse T400 (910-003680)</vendorCode>
+
+</offer>
+<offer id="12742" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-ultrathin-touch-mouse-t630-910-003836</url>
+<price>1672000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12742/38beedb34e601e4125364eb9e97ce1b0.jpg</picture>
+<name>Мыши Logitech Ultrathin Touch Mouse T630 (910-003836)</name>
+<vendor>Logitech</vendor>
+<vendorCode>Ultrathin Touch Mouse T630 (910-003836)</vendorCode>
+
+</offer>
+<offer id="12743" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-m325-wireless-mouse-exuberance-910-004172</url>
+<price>708000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12743/5c287b0f5268231defb1366f011c090f.jpg</picture>
+<name>Мыши Logitech M325 Wireless Mouse Exuberance (910-004172)</name>
+<vendor>Logitech</vendor>
+<vendorCode>M325 Wireless Mouse Exuberance (910-004172)</vendorCode>
+
+</offer>
+<offer id="12744" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-logitech-wireless-mouse-m345-red</url>
+<price>720000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12744/037696f4ed5b5fa6a42da821b0441f8f.jpg</picture>
+<name>Мыши Logitech Wireless Mouse M345 Red</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Mouse M345 Red</vendorCode>
+
+</offer>
+<offer id="12751" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-trust-vivy-wireless-mini-mouse</url>
+<price>399000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12751/41f73b22361d55945359345cd629d9d1.jpg</picture>
+<name>Мыши Trust Vivy Wireless Mini Mouse</name>
+<vendor>Trust</vendor>
+<vendorCode>Vivy Wireless Mini Mouse</vendorCode>
+
+</offer>
+<offer id="12752" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-trust-maxtrack-wireless-mini-mouse</url>
+<price>487000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12752/ce2967e8669006b988fd6793cb7276d4.jpg</picture>
+<name>Мыши Trust MaxTrack Wireless Mini Mouse</name>
+<vendor>Trust</vendor>
+<vendorCode>MaxTrack Wireless Mini Mouse</vendorCode>
+
+</offer>
+<offer id="12753" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-trust-evano-compact-mouse</url>
+<price>146000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12753/6e44111be9f486bf5e4ccbe2049b3e4c.jpg</picture>
+<name>Мыши Trust Evano Compact Mouse</name>
+<vendor>Trust</vendor>
+<vendorCode>Evano Compact Mouse</vendorCode>
+
+</offer>
+<offer id="12754" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-trust-maxtrack-mini-mouse</url>
+<price>286000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12754/88f814e4aceb30ce17f504095b9ebc71.jpg</picture>
+<name>Мыши Trust MaxTrack Mini Mouse</name>
+<vendor>Trust</vendor>
+<vendorCode>MaxTrack Mini Mouse</vendorCode>
+
+</offer>
+<offer id="12755" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-trust-maxtrack-mouse</url>
+<price>308000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12755/ce3e6b1f546a728d76c90cfe87d522d0.jpg</picture>
+<name>Мыши Trust MaxTrack Mouse</name>
+<vendor>Trust</vendor>
+<vendorCode>MaxTrack Mouse</vendorCode>
+
+</offer>
+<offer id="12756" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-trust-yvi-wireless-mouse-black-18519</url>
+<price>311000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12756/85ed15700121e5c31ec472dd954f86a4.jpg</picture>
+<name>Мыши Trust Yvi Wireless Mouse - black (18519)</name>
+<vendor>Trust</vendor>
+<vendorCode>Yvi Wireless Mouse - black (18519)</vendorCode>
+
+</offer>
+<offer id="12757" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-trust-gxt-31-gaming-mouse</url>
+<price>887000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12757/62e3dafc71d072e37b3840a21adab8b8.jpg</picture>
+<name>Мыши Trust GXT 31 Gaming Mouse</name>
+<vendor>Trust</vendor>
+<vendorCode>GXT 31 Gaming Mouse</vendorCode>
+
+</offer>
+<offer id="12758" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-trust-gxt-152-illuminated-gaming-mouse-19509</url>
+<price>682000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12758/c17f81997d6afb8fe964d457a969d830.jpg</picture>
+<name>Мыши Trust GXT 152 Illuminated Gaming Mouse (19509)</name>
+<vendor>Trust</vendor>
+<vendorCode>GXT 152 Illuminated Gaming Mouse (19509)</vendorCode>
+
+</offer>
+<offer id="12759" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-trust-gxt-25-gaming-mouse</url>
+<price>439000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12759/dc79e9ff5cf90edb9a2d3411945b40d8.jpg</picture>
+<name>Мыши Trust GXT 25 Gaming Mouse</name>
+<vendor>Trust</vendor>
+<vendorCode>GXT 25 Gaming Mouse</vendorCode>
+
+</offer>
+<offer id="12760" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-trust-gxt-120-wireless-gaming-mouse-19339</url>
+<price>660000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/12760/da6e66ef98ceb995d91a8fc3225a9471.jpg</picture>
+<name>Мыши Trust GXT 120 Wireless Gaming Mouse (19339)</name>
+<vendor>Trust</vendor>
+<vendorCode>GXT 120 Wireless Gaming Mouse (19339)</vendorCode>
+
+</offer>
+<offer id="12966" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/podstavki-dlya-noutbukov-trust-notebook-cooling-stand-black-15611</url>
+<price>560000</price>
+<currencyId>BYR</currencyId>
+<categoryId>151</categoryId>
+<picture>https://1teh.by/files/product/12966/64d079b5fd09e81bad815f4f64fe1723.jpg</picture>
+<name>Подставки для ноутбуков Trust Notebook Cooling Stand Black (15611)</name>
+<vendor>Trust</vendor>
+<vendorCode>Notebook Cooling Stand Black (15611)</vendorCode>
+
+</offer>
+<offer id="12967" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/podstavki-dlya-noutbukov-trust-cyclone-notebook-cooling-stand-black-17866</url>
+<price>514000</price>
+<currencyId>BYR</currencyId>
+<categoryId>151</categoryId>
+<picture>https://1teh.by/files/product/12967/8d4b50e03ca8575478b9c4eb5e413456.jpg</picture>
+<name>Подставки для ноутбуков Trust Cyclone Notebook Cooling Stand Black (17866)</name>
+<vendor>Trust</vendor>
+<vendorCode>Cyclone Notebook Cooling Stand Black (17866)</vendorCode>
+
+</offer>
+<offer id="12968" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/podstavki-dlya-noutbukov-trust-ice-notebook-cooling-stand-lapdesk-white-18817</url>
+<price>722000</price>
+<currencyId>BYR</currencyId>
+<categoryId>151</categoryId>
+<picture>https://1teh.by/files/product/12968/2fead9885eeb1d3b8e97950e7aa67381.jpg</picture>
+<name>Подставки для ноутбуков Trust ICE Notebook Cooling Stand &amp; Lapdesk White (18817)</name>
+<vendor>Trust</vendor>
+<vendorCode>ICE Notebook Cooling Stand &amp; Lapdesk White (18817)</vendorCode>
+
+</offer>
+<offer id="12988" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/shrederyi-rexel-prostyle-2101809</url>
+<price>1654000</price>
+<currencyId>BYR</currencyId>
+<categoryId>153</categoryId>
+<picture>https://1teh.by/files/product/12988/56ba759db39d7f55ccd25973f8f6b3ab.jpg</picture>
+<name>Шредеры Rexel Prostyle (2101809)</name>
+<vendor>Rexel</vendor>
+<vendorCode>Prostyle (2101809)</vendorCode>
+
+</offer>
+<offer id="12989" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/shrederyi-rexel-prostyle-5-2104005eu</url>
+<price>2205000</price>
+<currencyId>BYR</currencyId>
+<categoryId>153</categoryId>
+<picture>https://1teh.by/files/product/12989/a91b76a24c5a66a9fe52d5156986df70.jpg</picture>
+<name>Шредеры Rexel Prostyle+ 5 (2104005EU)</name>
+<vendor>Rexel</vendor>
+<vendorCode>Prostyle+ 5 (2104005EU)</vendorCode>
+
+</offer>
+<offer id="12990" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/shrederyi-rexel-auto-100-2102559eu</url>
+<price>5400000</price>
+<currencyId>BYR</currencyId>
+<categoryId>153</categoryId>
+<picture>https://1teh.by/files/product/12990/ff726ea2dd4f4cf16aa771294ec55f0b.jpg</picture>
+<name>Шредеры Rexel Auto+ 100 (2102559EU)</name>
+<vendor>Rexel</vendor>
+<vendorCode>Auto+ 100 (2102559EU)</vendorCode>
+
+</offer>
+<offer id="12991" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/shrederyi-rexel-auto-60x-2103060eu</url>
+<price>3258000</price>
+<currencyId>BYR</currencyId>
+<categoryId>153</categoryId>
+<picture>https://1teh.by/files/product/12991/8de839050f38fdf164b8115afad7cf78.jpg</picture>
+<name>Шредеры Rexel Auto+ 60X (2103060EU)</name>
+<vendor>Rexel</vendor>
+<vendorCode>Auto+ 60X (2103060EU)</vendorCode>
+
+</offer>
+<offer id="12992" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/shrederyi-rexel-duo-2102560eu</url>
+<price>2138000</price>
+<currencyId>BYR</currencyId>
+<categoryId>153</categoryId>
+<picture>https://1teh.by/files/product/12992/1ec16f0a65b894c202b2899d33478a96.jpg</picture>
+<name>Шредеры Rexel Duo (2102560EU)</name>
+<vendor>Rexel</vendor>
+<vendorCode>Duo (2102560EU)</vendorCode>
+
+</offer>
+<offer id="13439" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/shrederyi-new-united-st-8m</url>
+<price>7627000</price>
+<currencyId>BYR</currencyId>
+<categoryId>153</categoryId>
+<picture>https://1teh.by/files/product/13439/99f4b80eee934d2c1771d3d541c73e3b.jpg</picture>
+<name>Шредеры New United ST-8M</name>
+<vendor>New United</vendor>
+<vendorCode>ST-8M</vendorCode>
+
+</offer>
+<offer id="13602" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/sumki-dlya-foto-videotehniki-case-logic-luminosity-dss-103</url>
+<price>2323000</price>
+<currencyId>BYR</currencyId>
+<categoryId>96</categoryId>
+<picture>https://1teh.by/files/product/13602/7a1ef3b3a58b6dd1d913bf9c8ae9fd19.jpg</picture>
+<name>Сумки для фото/видеотехники Case Logic Luminosity (DSS-103)</name>
+<vendor>Case Logic</vendor>
+<vendorCode>Luminosity (DSS-103)</vendorCode>
+
+</offer>
+<offer id="13786" available="true">
+<url>https://1teh.by/periferiya-aksessuaryi/myishi-microsoft-wireless-mobile-mouse-1000-2cf-00030</url>
+<price>484000</price>
+<currencyId>BYR</currencyId>
+<categoryId>97</categoryId>
+<picture>https://1teh.by/files/product/13786/d1acf06ad5cf58ee7925750f433156d6.jpg</picture>
+<name>Мыши Microsoft Wireless Mobile Mouse 1000 (2CF-00030)</name>
+<vendor>Microsoft</vendor>
+<vendorCode>Wireless Mobile Mouse 1000 (2CF-00030)</vendorCode>
+
+</offer>
+</offers>
+		</shop>
+
+</yml_catalog>

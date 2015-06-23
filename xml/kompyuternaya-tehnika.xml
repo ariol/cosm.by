@@ -1,0 +1,561 @@
+<?xml version='1.0' encoding='windows-1251'?>
+			<!DOCTYPE yml_catalog SYSTEM 'shops.dtd'>
+	<yml_catalog date='2014-11-14 00:00'>
+<shop>
+<name>1teh.by</name>
+		<company>ООО &amp;quot;ОдинТех&amp;quot;</company>
+		<url>http://1teh.by</url>
+		<currencies>
+<currency id="BUR" rate="1" />
+</currencies>
+		<categories>
+<category id="159">Принтеры и МФУ</category>
+<category id="160">Рули, джойстики, геймпады</category>
+</categories>
+		<offers>
+<offer id="7173" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-panasonic-kx-mb1500-ru</url>
+<price>1622000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Panasonic KX-MB1500 RU</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-MB1500 RU</vendorCode>
+
+</offer>
+<offer id="7174" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-panasonic-kx-mb2020-ru</url>
+<price>2320000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Panasonic KX-MB2020 RU</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-MB2020 RU</vendorCode>
+
+</offer>
+<offer id="7175" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-panasonic-kx-flm663-ru</url>
+<price>2745000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Panasonic KX-FLM663 RU</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-FLM663 RU</vendorCode>
+
+</offer>
+<offer id="7176" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-panasonic-kx-mb2230</url>
+<price>3742000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Panasonic KX-MB2230</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-MB2230</vendorCode>
+
+</offer>
+<offer id="7177" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-samsung-ml-2160</url>
+<price>923000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Samsung ML-2160</name>
+<vendor>Samsung</vendor>
+<vendorCode>ML-2160</vendorCode>
+
+</offer>
+<offer id="7178" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-pixma-mx394</url>
+<price>1050000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon PIXMA MX394</name>
+<vendor>Canon</vendor>
+<vendorCode>PIXMA MX394</vendorCode>
+
+</offer>
+<offer id="7179" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-pixma-mg6440</url>
+<price>2141000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon PIXMA MG6440</name>
+<vendor>Canon</vendor>
+<vendorCode>PIXMA MG6440</vendorCode>
+
+</offer>
+<offer id="7180" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-pixma-mg2440</url>
+<price>750000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon PIXMA MG2440</name>
+<vendor>Canon</vendor>
+<vendorCode>PIXMA MG2440</vendorCode>
+
+</offer>
+<offer id="7181" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-i-sensys-mf3010</url>
+<price>2197000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon i-SENSYS MF3010</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS MF3010</vendorCode>
+
+</offer>
+<offer id="7182" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-i-sensys-lbp6020b</url>
+<price>1405000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon i-SENSYS LBP6020B</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS LBP6020B</vendorCode>
+
+</offer>
+<offer id="7183" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-pixma-mx474</url>
+<price>1250000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon PIXMA MX474</name>
+<vendor>Canon</vendor>
+<vendorCode>PIXMA MX474</vendorCode>
+
+</offer>
+<offer id="7185" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-pixma-mg5540</url>
+<price>1669000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon PIXMA MG5540</name>
+<vendor>Canon</vendor>
+<vendorCode>PIXMA MG5540</vendorCode>
+
+</offer>
+<offer id="7187" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-i-sensys-lbp7210cdn</url>
+<price>4590000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon i-SENSYS LBP7210Cdn</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS LBP7210Cdn</vendorCode>
+
+</offer>
+<offer id="7188" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-i-sensys-lbp6680x</url>
+<price>4683000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon i-SENSYS LBP6680x</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS LBP6680x</vendorCode>
+
+</offer>
+<offer id="7189" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-i-sensys-lbp6670dn</url>
+<price>3464000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon i-SENSYS LBP6670dn</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS LBP6670dn</vendorCode>
+
+</offer>
+<offer id="7190" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-ir2520</url>
+<price>10440000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon iR2520</name>
+<vendor>Canon</vendor>
+<vendorCode>iR2520</vendorCode>
+
+</offer>
+<offer id="7191" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-i-sensys-mf4410</url>
+<price>2276000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon i-SENSYS MF4410</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS MF4410</vendorCode>
+
+</offer>
+<offer id="7192" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-i-sensys-lbp7660cdn</url>
+<price>5371000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon i-SENSYS LBP7660Cdn</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS LBP7660Cdn</vendorCode>
+
+</offer>
+<offer id="7194" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-i-sensys-mf4750</url>
+<price>3196000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon i-SENSYS MF4750</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS MF4750</vendorCode>
+
+</offer>
+<offer id="7196" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-i-sensys-lbp6750dn</url>
+<price>4355000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon i-SENSYS LBP6750dn</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS LBP6750dn</vendorCode>
+
+</offer>
+<offer id="7199" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-pixma-ip7240</url>
+<price>1433000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon PIXMA iP7240</name>
+<vendor>Canon</vendor>
+<vendorCode>PIXMA iP7240</vendorCode>
+
+</offer>
+<offer id="7203" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-canon-i-sensys-lbp7110cw</url>
+<price>3455000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Canon i-SENSYS LBP7110Cw</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS LBP7110Cw</vendorCode>
+
+</offer>
+<offer id="7209" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-hp-deskjet-ink-advantage-4615-all-in-one-cz283c</url>
+<price>1044000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ HP Deskjet Ink Advantage 4615 All-in-One (CZ283C)</name>
+<vendor>HP</vendor>
+<vendorCode>Deskjet Ink Advantage 4615 All-in-One (CZ283C)</vendorCode>
+
+</offer>
+<offer id="7210" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-hp-laserjet-pro-m1132-mfp-ce847a</url>
+<price>2450000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ HP LaserJet Pro M1132 MFP (CE847A)</name>
+<vendor>HP</vendor>
+<vendorCode>LaserJet Pro M1132 MFP (CE847A)</vendorCode>
+
+</offer>
+<offer id="7211" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-hp-deskjet-ink-advantage-1515-all-in-one-b2l57c</url>
+<price>835000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ HP Deskjet Ink Advantage 1515 All-in-One (B2L57C)</name>
+<vendor>HP</vendor>
+<vendorCode>Deskjet Ink Advantage 1515 All-in-One (B2L57C)</vendorCode>
+
+</offer>
+<offer id="7212" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-hp-laserjet-pro-p1102-ce651a</url>
+<price>1556000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ HP LaserJet Pro P1102 (CE651A)</name>
+<vendor>HP</vendor>
+<vendorCode>LaserJet Pro P1102 (CE651A)</vendorCode>
+
+</offer>
+<offer id="7213" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-hp-deskjet-ink-advantage-4625-e-all-in-one-cz284c</url>
+<price>1641000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ HP Deskjet Ink Advantage 4625 e-All-in-One (CZ284C)</name>
+<vendor>HP</vendor>
+<vendorCode>Deskjet Ink Advantage 4625 e-All-in-One (CZ284C)</vendorCode>
+
+</offer>
+<offer id="7215" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-hp-laserjet-pro-mfp-m127fw-cz183a</url>
+<price>3487000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ HP LaserJet Pro MFP M127fw (CZ183A)</name>
+<vendor>HP</vendor>
+<vendorCode>LaserJet Pro MFP M127fw (CZ183A)</vendorCode>
+
+</offer>
+<offer id="7216" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-hp-laserjet-p2035-ce461a</url>
+<price>2410000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ HP LaserJet P2035 (CE461A)</name>
+<vendor>HP</vendor>
+<vendorCode>LaserJet P2035 (CE461A)</vendorCode>
+
+</offer>
+<offer id="7217" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-hp-deskjet-ink-advantage-1015-b2g79c</url>
+<price>660000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ HP Deskjet Ink Advantage 1015 (B2G79C)</name>
+<vendor>HP</vendor>
+<vendorCode>Deskjet Ink Advantage 1015 (B2G79C)</vendorCode>
+
+</offer>
+<offer id="7218" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-brother-dcp-1512r</url>
+<price>1679000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Brother DCP-1512R</name>
+<vendor>Brother</vendor>
+<vendorCode>DCP-1512R</vendorCode>
+
+</offer>
+<offer id="7219" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-brother-hl-1112r</url>
+<price>909000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Brother HL-1112R</name>
+<vendor>Brother</vendor>
+<vendorCode>HL-1112R</vendorCode>
+
+</offer>
+<offer id="7220" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-epson-l800</url>
+<price>3461000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Epson L800</name>
+<vendor>Epson</vendor>
+<vendorCode>L800</vendorCode>
+<oldprice>3499000</oldprice>
+
+</offer>
+<offer id="7221" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-epson-l300</url>
+<price>2284000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Epson L300</name>
+<vendor>Epson</vendor>
+<vendorCode>L300</vendorCode>
+<oldprice>2304000</oldprice>
+
+</offer>
+<offer id="7222" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-ricoh-sp-200n</url>
+<price>1389000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Ricoh SP 200N</name>
+<vendor>Ricoh</vendor>
+<vendorCode>SP 200N</vendorCode>
+
+</offer>
+<offer id="7223" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-ricoh-sp-311dn</url>
+<price>2085000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Ricoh SP 311DN</name>
+<vendor>Ricoh</vendor>
+<vendorCode>SP 311DN</vendorCode>
+
+</offer>
+<offer id="7224" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-ricoh-aficio-sp-100sf</url>
+<price>2523000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Ricoh Aficio SP 100SF</name>
+<vendor>Ricoh</vendor>
+<vendorCode>Aficio SP 100SF</vendorCode>
+
+</offer>
+<offer id="7225" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-ricoh-sp-111sf</url>
+<price>2523000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Ricoh SP 111SF</name>
+<vendor>Ricoh</vendor>
+<vendorCode>SP 111SF</vendorCode>
+
+</offer>
+<offer id="7226" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-ricoh-sp-111su</url>
+<price>1892000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Ricoh SP 111SU</name>
+<vendor>Ricoh</vendor>
+<vendorCode>SP 111SU</vendorCode>
+
+</offer>
+<offer id="7227" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/printeryi-i-mfu-xerox-workcentre-3045b</url>
+<price>1807000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<name>Принтеры и МФУ Xerox WorkCentre 3045B</name>
+<vendor>Xerox</vendor>
+<vendorCode>WorkCentre 3045B</vendorCode>
+
+</offer>
+<offer id="7422" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-defender-cobra-m5-usb</url>
+<price>795000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады Defender Cobra M5 USB</name>
+<vendor>Defender</vendor>
+<vendorCode>Cobra M5 USB</vendorCode>
+
+</offer>
+<offer id="7423" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-sven-scout</url>
+<price>162000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады SVEN Scout</name>
+<vendor>SVEN</vendor>
+<vendorCode>Scout</vendorCode>
+
+</offer>
+<offer id="7424" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-sven-aggressor</url>
+<price>351000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады SVEN Aggressor</name>
+<vendor>SVEN</vendor>
+<vendorCode>Aggressor</vendorCode>
+
+</offer>
+<offer id="7425" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-sven-speedy</url>
+<price>408000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады SVEN Speedy</name>
+<vendor>SVEN</vendor>
+<vendorCode>Speedy</vendorCode>
+
+</offer>
+<offer id="7426" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-sven-nitro</url>
+<price>873000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады SVEN Nitro</name>
+<vendor>SVEN</vendor>
+<vendorCode>Nitro</vendorCode>
+
+</offer>
+<offer id="7427" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-sven-drift</url>
+<price>538000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады SVEN Drift</name>
+<vendor>SVEN</vendor>
+<vendorCode>Drift</vendorCode>
+
+</offer>
+<offer id="7428" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-sven-driver</url>
+<price>910000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады SVEN Driver</name>
+<vendor>SVEN</vendor>
+<vendorCode>Driver</vendorCode>
+
+</offer>
+<offer id="7429" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-sven-x-pad-aero</url>
+<price>328000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады SVEN X-Pad Aero</name>
+<vendor>SVEN</vendor>
+<vendorCode>X-Pad Aero</vendorCode>
+
+</offer>
+<offer id="7430" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-sven-turbo</url>
+<price>677000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады SVEN Turbo</name>
+<vendor>SVEN</vendor>
+<vendorCode>Turbo</vendorCode>
+
+</offer>
+<offer id="7431" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-sven-x-pad</url>
+<price>209000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады SVEN X-PAD</name>
+<vendor>SVEN</vendor>
+<vendorCode>X-PAD</vendorCode>
+
+</offer>
+<offer id="7432" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-sven-combat</url>
+<price>330000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады SVEN Combat</name>
+<vendor>SVEN</vendor>
+<vendorCode>Combat</vendorCode>
+
+</offer>
+<offer id="7433" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-logitech-extreme-3d-pro</url>
+<price>679000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады Logitech Extreme 3D Pro</name>
+<vendor>Logitech</vendor>
+<vendorCode>Extreme 3D Pro</vendorCode>
+
+</offer>
+<offer id="7434" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-logitech-f310</url>
+<price>444000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады Logitech F310</name>
+<vendor>Logitech</vendor>
+<vendorCode>F310</vendorCode>
+
+</offer>
+<offer id="7435" available="true">
+<url>http://1teh.by/kompyuternaya-tehnika/ruli-djoystiki-geympadyi-acme-gs-03-usb</url>
+<price>150000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<name>Рули, джойстики, геймпады ACME GS-03/USB</name>
+<vendor>ACME</vendor>
+<vendorCode>GS-03/USB</vendorCode>
+
+</offer>
+</offers>
+		</shop>
+
+</yml_catalog>

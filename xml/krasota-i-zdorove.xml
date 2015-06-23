@@ -1,0 +1,5249 @@
+<?xml version='1.0' encoding='windows-1251'?>
+			<!DOCTYPE yml_catalog SYSTEM 'shops.dtd'>
+	<yml_catalog date='2015-04-13 15:14'>
+<shop>
+<name>1teh.by</name>
+		<company>ООО &amp;quot;ОдинТех&amp;quot;</company>
+		<url>https://1teh.by</url>
+		<currencies>
+<currency id="BUR" rate="1" />
+</currencies>
+		<categories>
+<category id="83">Электробритвы мужские</category>
+<category id="78">Фены</category>
+<category id="79">Машинки для стрижки волос</category>
+<category id="80">Стайлеры</category>
+<category id="81">Напольные весы</category>
+<category id="82">Женские электробритвы и эпиляторы</category>
+<category id="117">Зубные щетки и ирригаторы</category>
+<category id="118">Гидромассажные ванночки для ног</category>
+<category id="143">Триммеры</category>
+</categories>
+		<offers>
+<offer id="13854" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-s9151-31</url>
+<price>5142000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/13854/7acec467b1ffa4bd04a62363797220ea.jpg</picture>
+<name>Электробритвы мужские Philips S9151/31</name>
+<vendor>Philips</vendor>
+<vendorCode>S9151/31</vendorCode>
+
+</offer>
+<offer id="5628" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8662-00</url>
+<price>523000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5628/ceff013db190bed69919c26840b8e19c.jpg</picture>
+<name>Фены Philips HP8662/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8662/00</vendorCode>
+
+</offer>
+<offer id="5629" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8661-00</url>
+<price>479000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5629/62d6fa5e5f5ae027a6b1b3f7c75af0d4.jpg</picture>
+<name>Фены Philips HP8661/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8661/00</vendorCode>
+
+</offer>
+<offer id="5630" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-bhd004-00</url>
+<price>420000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5630/5f857c9099d56e556d5f7718eb3be14a.jpg</picture>
+<name>Фены Philips BHD004/00</name>
+<vendor>Philips</vendor>
+<vendorCode>BHD004/00</vendorCode>
+
+</offer>
+<offer id="5631" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hps910-00</url>
+<price>1096000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5631/d0c47fe02f500dd0c9454d704b262be0.jpg</picture>
+<name>Фены Philips HPS910/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HPS910/00</vendorCode>
+
+</offer>
+<offer id="5632" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8250-00</url>
+<price>749000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5632/c01fae38fa532f7c15f2ee4c3b6245d2.jpg</picture>
+<name>Фены Philips HP8250/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8250/00</vendorCode>
+
+</offer>
+<offer id="5633" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp4829-00</url>
+<price>519000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5633/73042fe54b1f89a96adf87af9594a51f.jpg</picture>
+<name>Фены Philips HP4829/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP4829/00</vendorCode>
+
+</offer>
+<offer id="5634" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp4935-22</url>
+<price>459000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5634/bcceedafabbd4286dc6b35112aec8c88.jpg</picture>
+<name>Фены Philips HP4935/22</name>
+<vendor>Philips</vendor>
+<vendorCode>HP4935/22</vendorCode>
+
+</offer>
+<offer id="5635" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp4944-00</url>
+<price>484000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5635/c4a992ef2dc8f3aac63fe0b5ccddb27d.jpg</picture>
+<name>Фены Philips HP4944/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP4944/00</vendorCode>
+
+</offer>
+<offer id="5636" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8103-00</url>
+<price>358000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5636/932fdb8f7b67af74f1eb45fdc48f42a3.jpg</picture>
+<name>Фены Philips HP8103/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8103/00</vendorCode>
+
+</offer>
+<offer id="5639" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8195-00</url>
+<price>564000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5639/0becf3fcf10ecf2022e8df938bf4100f.jpg</picture>
+<name>Фены Philips HP8195/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8195/00</vendorCode>
+
+</offer>
+<offer id="5640" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8230-00</url>
+<price>499000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5640/d4c67cf6fe21b37f09d2ce4709786a3d.jpg</picture>
+<name>Фены Philips HP8230/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8230/00</vendorCode>
+
+</offer>
+<offer id="5642" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8233-00</url>
+<price>661000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5642/fb69df588d8ecb7102d5658ee759d7cc.jpg</picture>
+<name>Фены Philips HP8233/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8233/00</vendorCode>
+
+</offer>
+<offer id="5643" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8270-00</url>
+<price>860000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5643/6c3942bbb33ac164a9a12dae54493f6f.jpg</picture>
+<name>Фены Philips HP8270/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8270/00</vendorCode>
+
+</offer>
+<offer id="5646" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8260-00</url>
+<price>829000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5646/296f4347c2045a2105d1519e841e7362.jpg</picture>
+<name>Фены Philips HP8260/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8260/00</vendorCode>
+
+</offer>
+<offer id="5648" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8656-00</url>
+<price>795000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5648/94bcf874740536c95c28abbb37274200.jpg</picture>
+<name>Фены Philips HP8656/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8656/00</vendorCode>
+
+</offer>
+<offer id="5650" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8655-00</url>
+<price>907000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5650/3cfc77aa2731679df3a15ba227030bbd.jpg</picture>
+<name>Фены Philips HP8655/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8655/00</vendorCode>
+
+</offer>
+<offer id="5651" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8664-00</url>
+<price>825000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5651/b080770cdce21871b6b5d1dbe76bf7fa.jpg</picture>
+<name>Фены Philips HP8664/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8664/00</vendorCode>
+
+</offer>
+<offer id="5652" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-hp8232-00</url>
+<price>579000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5652/0f09375979491c689a91e4449e392ea6.jpg</picture>
+<name>Фены Philips HP8232/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8232/00</vendorCode>
+
+</offer>
+<offer id="5658" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-aresa-hd-538</url>
+<price>422000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5658/73dfb9a2d0b5aa9434d78086d58de8c7.jpg</picture>
+<name>Фены Aresa HD-538</name>
+<vendor>Aresa</vendor>
+<vendorCode>HD-538</vendorCode>
+
+</offer>
+<offer id="5659" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-aresa-hd-560</url>
+<price>384000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5659/587735cbd7305b049dfdd0fe0ed64d6b.jpg</picture>
+<name>Фены Aresa HD-560</name>
+<vendor>Aresa</vendor>
+<vendorCode>HD-560</vendorCode>
+
+</offer>
+<offer id="5661" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-aresa-hd-561</url>
+<price>307000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5661/c45c5193c6201b2147b0e2f6bc6e1cde.jpg</picture>
+<name>Фены Aresa HD-561</name>
+<vendor>Aresa</vendor>
+<vendorCode>HD-561</vendorCode>
+
+</offer>
+<offer id="5680" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-first-fa-5657-2</url>
+<price>366000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5680/cfcb6a567118a60c80dc1382afc35184.jpg</picture>
+<name>Фены First FA-5657-2</name>
+<vendor>First</vendor>
+<vendorCode>FA-5657-2</vendorCode>
+
+</offer>
+<offer id="5682" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-holt-ht-hd-001</url>
+<price>283000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5682/091fb3357c3b7fa01e919eb19d8e9d77.jpg</picture>
+<name>Фены Holt HT-HD-001</name>
+<vendor>Holt</vendor>
+<vendorCode>HT-HD-001</vendorCode>
+
+</offer>
+<offer id="5683" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-holt-ht-hd-002</url>
+<price>372000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5683/426c8997d9a14fef1c95a826c6b0f899.jpg</picture>
+<name>Фены Holt HT-HD-002</name>
+<vendor>Holt</vendor>
+<vendorCode>HT-HD-002</vendorCode>
+
+</offer>
+<offer id="5693" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-maxwell-mw-2025-bk</url>
+<price>416000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5693/008e426719d65248fccdae6602779bb5.jpg</picture>
+<name>Фены Maxwell MW-2025 BK</name>
+<vendor>Maxwell</vendor>
+<vendorCode>MW-2025 BK</vendorCode>
+
+</offer>
+<offer id="5697" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-maxwell-mw-2006</url>
+<price>279000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5697/ca9b7252e5870e7b0c4160b6cb5ccf49.jpg</picture>
+<name>Фены Maxwell MW-2006</name>
+<vendor>Maxwell</vendor>
+<vendorCode>MW-2006</vendorCode>
+
+</offer>
+<offer id="5703" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-polaris-phs-0745</url>
+<price>285000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5703/77e239c45fb4d0c65dc43753556c307d.jpg</picture>
+<name>Фены Polaris PHS 0745</name>
+<vendor>Polaris</vendor>
+<vendorCode>PHS 0745</vendorCode>
+
+</offer>
+<offer id="5704" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-redmond-rf-517</url>
+<price>663000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5704/18f8015cea3598c4ab61eaa53e137187.jpg</picture>
+<name>Фены Redmond RF-517</name>
+<vendor>Redmond</vendor>
+<vendorCode>RF-517</vendorCode>
+
+</offer>
+<offer id="5707" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-saturn-st-hc7326</url>
+<price>306000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5707/227ccd366c92dbebdc7ab76edd7f6e7f.jpg</picture>
+<name>Фены Saturn ST-HC7326</name>
+<vendor>Saturn</vendor>
+<vendorCode>ST-HC7326</vendorCode>
+
+</offer>
+<offer id="5712" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-saturn-st-hc7253</url>
+<price>437000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5712/d5bcd855d19b1913edf269e476e10db0.jpg</picture>
+<name>Фены Saturn ST-HC7253</name>
+<vendor>Saturn</vendor>
+<vendorCode>ST-HC7253</vendorCode>
+
+</offer>
+<offer id="5715" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-saturn-st-hc7229</url>
+<price>311000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5715/a007d0d4c164f3bc7de249b4dedac2be.jpg</picture>
+<name>Фены Saturn ST-HC7229</name>
+<vendor>Saturn</vendor>
+<vendorCode>ST-HC7229</vendorCode>
+
+</offer>
+<offer id="5729" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-ves-v-hd7</url>
+<price>393000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5729/80740b56621dd708b9dfaefef2b9f418.jpg</picture>
+<name>Фены VES V-HD7</name>
+<vendor>VES</vendor>
+<vendorCode>V-HD7</vendorCode>
+
+</offer>
+<offer id="5730" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-ves-v-hd307</url>
+<price>487000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5730/351278f0831c4e659300c985ea7ce417.jpg</picture>
+<name>Фены VES V-HD307</name>
+<vendor>VES</vendor>
+<vendorCode>V-HD307</vendorCode>
+
+</offer>
+<offer id="5731" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-ves-v-hd-300</url>
+<price>388000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5731/1c3640b9dcc7456bfac79c23c981abaf.jpg</picture>
+<name>Фены VES V-HD 300</name>
+<vendor>VES</vendor>
+<vendorCode>V-HD 300</vendorCode>
+
+</offer>
+<offer id="5733" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-pha2302-glamoured-care</url>
+<price>657000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5733/fe9cc95688b13b16e0155a4e820b1507.jpg</picture>
+<name>Фены Bosch PHA2302 GlamouRed Care</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHA2302 GlamouRed Care</vendorCode>
+
+</offer>
+<offer id="5734" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-pha-2662</url>
+<price>672000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5734/8068615ee6aa0a5831376530bddaabb5.jpg</picture>
+<name>Фены Bosch PHA 2662</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHA 2662</vendorCode>
+
+</offer>
+<offer id="5736" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-phd-1100</url>
+<price>372000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5736/746b45ec48001a2ed3ffec271a285fc9.jpg</picture>
+<name>Фены Bosch PHD 1100</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHD 1100</vendorCode>
+
+</offer>
+<offer id="5738" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-phd-3200</url>
+<price>385000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5738/ac3e421dba4e4e49a4d53cbcbde76464.jpg</picture>
+<name>Фены Bosch PHD 3200</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHD 3200</vendorCode>
+
+</offer>
+<offer id="5739" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-phd-5712-glamoured-care</url>
+<price>561000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5739/fc0e91e3b47f3a0c0ac55b66f4c5f5ab.jpg</picture>
+<name>Фены Bosch PHD 5712 GlamouRed Care</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHD 5712 GlamouRed Care</vendorCode>
+
+</offer>
+<offer id="5743" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-phd-9760</url>
+<price>845000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5743/e8153a93974841d41377a0abc54a8546.jpg</picture>
+<name>Фены Bosch PHD 9760</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHD 9760</vendorCode>
+
+</offer>
+<offer id="5744" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-purestyle-phd5962</url>
+<price>544000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5744/03fa49cb9989759793c0fa0078688c74.jpg</picture>
+<name>Фены Bosch PureStyle (PHD5962)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PureStyle (PHD5962)</vendorCode>
+
+</offer>
+<offer id="5745" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-pha-2101-starshine</url>
+<price>552000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5745/01764ddd46cc291e4909ae156a130f52.jpg</picture>
+<name>Фены Bosch PHA 2101 StarShine</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHA 2101 StarShine</vendorCode>
+
+</offer>
+<offer id="5749" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-pha-2000</url>
+<price>360000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5749/c7f929887d67535e8079d326d618458a.jpg</picture>
+<name>Фены Bosch PHA 2000</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHA 2000</vendorCode>
+
+</offer>
+<offer id="5750" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-braun-satin-hair-5-hd-510</url>
+<price>498000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5750/9d8a14bfdc2d2383dab44b944f2ddc73.jpg</picture>
+<name>Фены Braun Satin Hair 5 (HD 510)</name>
+<vendor>Braun</vendor>
+<vendorCode>Satin Hair 5 (HD 510)</vendorCode>
+
+</offer>
+<offer id="5751" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-braun-satin-hair-7-colour-hd-770</url>
+<price>718000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5751/5f75d8c2645a98112ff83710c5c00c1b.jpg</picture>
+<name>Фены Braun Satin Hair 7 Colour (HD 770)</name>
+<vendor>Braun</vendor>
+<vendorCode>Satin Hair 7 Colour (HD 770)</vendorCode>
+
+</offer>
+<offer id="5752" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-braun-satin-hair-7-colour-hd-750</url>
+<price>612000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5752/6cdd7742b3741ffc83d651c8a5d232f6.jpg</picture>
+<name>Фены Braun Satin Hair 7 Colour (HD 750)</name>
+<vendor>Braun</vendor>
+<vendorCode>Satin Hair 7 Colour (HD 750)</vendorCode>
+
+</offer>
+<offer id="5753" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-braun-satin-hair-7-airstyler-as-720</url>
+<price>655000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5753/d012f247526666cdf6869fd9dc7649c6.jpg</picture>
+<name>Фены Braun Satin Hair 7 Airstyler (AS 720)</name>
+<vendor>Braun</vendor>
+<vendorCode>Satin Hair 7 Airstyler (AS 720)</vendorCode>
+
+</offer>
+<offer id="5754" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-braun-satin-hair-7-hd-710</url>
+<price>667000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5754/c3651d32eea85224261da0f08da0a064.jpg</picture>
+<name>Фены Braun Satin Hair 7 (HD 710)</name>
+<vendor>Braun</vendor>
+<vendorCode>Satin Hair 7 (HD 710)</vendorCode>
+
+</offer>
+<offer id="5755" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-braun-satin-hair-3-hd-330</url>
+<price>435000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5755/4519c3599be09a890a8154326d2bf8b0.jpg</picture>
+<name>Фены Braun Satin-Hair 3 (HD 330)</name>
+<vendor>Braun</vendor>
+<vendorCode>Satin-Hair 3 (HD 330)</vendorCode>
+
+</offer>
+<offer id="5756" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-braun-satin-hair-3-as330</url>
+<price>536000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5756/4e185d5da80082cb0265c583d88973a9.jpg</picture>
+<name>Фены Braun Satin Hair 3 (AS330)</name>
+<vendor>Braun</vendor>
+<vendorCode>Satin Hair 3 (AS330)</vendorCode>
+
+</offer>
+<offer id="5758" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-braun-ass-1000-pro-as530</url>
+<price>574000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5758/41bd656b6b045c76ed572ed89fc85c24.jpg</picture>
+<name>Фены Braun ASS 1000 Pro (AS530)</name>
+<vendor>Braun</vendor>
+<vendorCode>ASS 1000 Pro (AS530)</vendorCode>
+
+</offer>
+<offer id="5760" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-eta-simplico-3321-90000</url>
+<price>262000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5760/f30fab3486f1eba539f69ce4bdbdbac8.jpg</picture>
+<name>Фены ETA Simplico 3321 (90000)</name>
+<vendor>ETA</vendor>
+<vendorCode>Simplico 3321 (90000)</vendorCode>
+
+</offer>
+<offer id="5763" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-scarlett-sc-hd70i03</url>
+<price>448000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5763/c4079979324c97b7df7ba04fd0ec244f.jpg</picture>
+<name>Фены Scarlett SC-HD70I03</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-HD70I03</vendorCode>
+
+</offer>
+<offer id="5764" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-scarlett-sc-1076-black</url>
+<price>298000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5764/29e538c4087e84de22e706ee1e9ea468.jpg</picture>
+<name>Фены Scarlett SC-1076 Black</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-1076 Black</vendorCode>
+
+</offer>
+<offer id="5770" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-scarlett-sc-1073</url>
+<price>347000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5770/298473910c504b10da090f467604c0b7.jpg</picture>
+<name>Фены Scarlett SC-1073</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-1073</vendorCode>
+
+</offer>
+<offer id="5777" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-vigor-nh-8029-angelica</url>
+<price>267000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5777/6ee14a7de0955f5dbe36cefd874969dc.jpg</picture>
+<name>Фены Vigor НХ-8029 ANGELICA</name>
+<vendor>Vigor</vendor>
+
+</offer>
+<offer id="5778" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-vigor-hx-8028-carolina</url>
+<price>316000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5778/40f39c76638580d4d5013d8a275d5cae.jpg</picture>
+<name>Фены Vigor HX-8028 CAROLINA</name>
+<vendor>Vigor</vendor>
+<vendorCode>HX-8028 CAROLINA</vendorCode>
+
+</offer>
+<offer id="5779" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-vigor-hx-8054-neon</url>
+<price>320000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5779/9a943a76392aeb2c61e44cb06e40878d.jpg</picture>
+<name>Фены Vigor HX-8054 NEON</name>
+<vendor>Vigor</vendor>
+<vendorCode>HX-8054 NEON</vendorCode>
+
+</offer>
+<offer id="5780" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-vigor-hx-8141</url>
+<price>278000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5780/742c2a37cbf4ad7f3281c612a9e24c4a.jpg</picture>
+<name>Фены Vigor HX-8141</name>
+<vendor>Vigor</vendor>
+<vendorCode>HX-8141</vendorCode>
+
+</offer>
+<offer id="5788" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-vitek-vt-2377-r</url>
+<price>364000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5788/8fe4dfa46dc4d2fceea5258743a45d3b.jpg</picture>
+<name>Фены Vitek VT-2377 R</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2377 R</vendorCode>
+
+</offer>
+<offer id="5793" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-vitek-vt-2236-b</url>
+<price>372000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5793/944f7ad4f9b00229a71de6ca9fb4caeb.jpg</picture>
+<name>Фены Vitek VT-2236 B</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2236 B</vendorCode>
+
+</offer>
+<offer id="5794" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-vitek-vt-1321</url>
+<price>309000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5794/668ee4bd27fdd68066b9ad6ad7cfdad5.jpg</picture>
+<name>Фены Vitek VT-1321</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1321</vendorCode>
+
+</offer>
+<offer id="5798" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-vitek-vt-2274</url>
+<price>354000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5798/2e3b4fec797de404c82eb7fdc940c62a.jpg</picture>
+<name>Фены Vitek VT-2274</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2274</vendorCode>
+
+</offer>
+<offer id="5808" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cf9320d0</url>
+<price>1315000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5808/0b818b9c3bb34ffb59109fadf6ab6cf7.jpg</picture>
+<name>Фены Rowenta CF9320D0</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CF9320D0</vendorCode>
+
+</offer>
+<offer id="5810" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-respectis-pro-cv7430</url>
+<price>773000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5810/338402f47408501c778d5ba335a76114.jpg</picture>
+<name>Фены Rowenta Respectis Pro CV7430</name>
+<vendor>Rowenta</vendor>
+<vendorCode>Respectis Pro CV7430</vendorCode>
+
+</offer>
+<offer id="5811" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cf9202</url>
+<price>919000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5811/c3e6edf1be444ecb9a9e8e89cc437288.jpg</picture>
+<name>Фены Rowenta CF9202</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CF9202</vendorCode>
+
+</offer>
+<offer id="5812" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cv-1312</url>
+<price>299000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5812/3ac1a1d8acb74cf5365b5bd972dbfc3c.jpg</picture>
+<name>Фены Rowenta CV 1312</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CV 1312</vendorCode>
+
+</offer>
+<offer id="5813" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cv-4330</url>
+<price>435000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5813/ec8023d633fc1821020074e68e49d64d.jpg</picture>
+<name>Фены Rowenta CV 4330</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CV 4330</vendorCode>
+
+</offer>
+<offer id="5816" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cv4741</url>
+<price>437000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5816/8cd922a1818a6c9cc41e305d8e94d345.jpg</picture>
+<name>Фены Rowenta CV4741</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CV4741</vendorCode>
+
+</offer>
+<offer id="5817" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cv5012</url>
+<price>511000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5817/9bf5e511d2cb4350784a92636182a588.jpg</picture>
+<name>Фены Rowenta CV5012</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CV5012</vendorCode>
+
+</offer>
+<offer id="5818" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cv5330</url>
+<price>365000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5818/3d77094b3afc22831876c8be341cf112.jpg</picture>
+<name>Фены Rowenta CV5330</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CV5330</vendorCode>
+
+</offer>
+<offer id="5819" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cv5351</url>
+<price>493000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5819/fbde145368ecfc952d599b78c95df728.jpg</picture>
+<name>Фены Rowenta CV5351</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CV5351</vendorCode>
+
+</offer>
+<offer id="5820" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cv8538</url>
+<price>819000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5820/e65ae331f49739b345ed44598056f4bc.jpg</picture>
+<name>Фены Rowenta CV8538</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CV8538</vendorCode>
+
+</offer>
+<offer id="5822" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cv3620f0</url>
+<price>338000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5822/7e1d63968da6d08101327bfb2b317195.jpg</picture>
+<name>Фены Rowenta CV3620F0</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CV3620F0</vendorCode>
+
+</offer>
+<offer id="5826" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-babyliss-as120e</url>
+<price>736000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5826/0f82281b88708d2f64f0006efc39ed76.jpg</picture>
+<name>Фены BaByliss AS120E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>AS120E</vendorCode>
+
+</offer>
+<offer id="5827" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-babyliss-as100e</url>
+<price>677000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5827/6ccabb9f915e5e77b2536fd2bbe8473d.jpg</picture>
+<name>Фены BaByliss AS100E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>AS100E</vendorCode>
+
+</offer>
+<offer id="5829" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-babyliss-6615e</url>
+<price>1260000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5829/f7de9a3b11fdfbab53c81e8a7c5445b9.jpg</picture>
+<name>Фены BaByliss 6615E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>6615E</vendorCode>
+
+</offer>
+<offer id="5830" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-babyliss-6611e</url>
+<price>970000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5830/e22a57b423a0d0cf8f2f9a9ebac3bae6.jpg</picture>
+<name>Фены BaByliss 6611E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>6611E</vendorCode>
+
+</offer>
+<offer id="5831" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-babyliss-5250e</url>
+<price>354000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5831/e756989e2e84049a5d06f52423117f6d.jpg</picture>
+<name>Фены BaByliss 5250E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>5250E</vendorCode>
+
+</offer>
+<offer id="5832" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-babyliss-6610e</url>
+<price>860000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5832/a42e984f03d481d208ee09e8c27d37d9.jpg</picture>
+<name>Фены BaByliss 6610E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>6610E</vendorCode>
+
+</offer>
+<offer id="5833" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-remington-d5017</url>
+<price>682000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5833/7e32a8b1c8dbfdf4d7ff282a758d81d2.jpg</picture>
+<name>Фены Remington D5017</name>
+<vendor>Remington</vendor>
+<vendorCode>D5017</vendorCode>
+
+</offer>
+<offer id="5835" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-remington-d5015</url>
+<price>430000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5835/e6a0d63a108c5ca495bcd2fc566d3f56.jpg</picture>
+<name>Фены Remington D5015</name>
+<vendor>Remington</vendor>
+<vendorCode>D5015</vendorCode>
+
+</offer>
+<offer id="5836" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-remington-as1201</url>
+<price>727000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5836/9b3a39cc46d95bca6ba4b58a247c6854.jpg</picture>
+<name>Фены Remington AS1201</name>
+<vendor>Remington</vendor>
+<vendorCode>AS1201</vendorCode>
+
+</offer>
+<offer id="5837" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-remington-ac8000</url>
+<price>864000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5837/efb8c52b6f7c8109f697d1561ec2ac52.jpg</picture>
+<name>Фены Remington AC8000</name>
+<vendor>Remington</vendor>
+<vendorCode>AC8000</vendorCode>
+
+</offer>
+<offer id="5842" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-remington-d5210-pro-air</url>
+<price>473000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5842/222e47a966ff3329244243a5c052bf7d.jpg</picture>
+<name>Фены Remington D5210 Pro-Air</name>
+<vendor>Remington</vendor>
+<vendorCode>D5210 Pro-Air</vendorCode>
+
+</offer>
+<offer id="5845" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-action-1800-542-08</url>
+<price>526000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5845/0722ddb4f0bb9482efece0a454a55189.jpg</picture>
+<name>Фены Valera Action 1800 (542.08)</name>
+<vendor>Valera</vendor>
+<vendorCode>Action 1800 (542.08)</vendorCode>
+
+</offer>
+<offer id="5846" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-action-1800-edelweiss-mod-542-08ew</url>
+<price>507000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5846/ef352a54ac20078a09602d79d5839b5d.jpg</picture>
+<name>Фены Valera Action 1800 Edelweiss (Mod. 542.08EW)</name>
+<vendor>Valera</vendor>
+<vendorCode>Action 1800 Edelweiss (Mod. 542.08EW)</vendorCode>
+
+</offer>
+<offer id="5848" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-swiss-metal-master-light-mod-584-01-i</url>
+<price>1217000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5848/364578fff2efb9a0c1f32c7ba9ed0b13.jpg</picture>
+<name>Фены Valera Swiss Metal Master Light (Mod. 584.01/I)</name>
+<vendor>Valera</vendor>
+<vendorCode>Swiss Metal Master Light (Mod. 584.01/I)</vendorCode>
+
+</offer>
+<offer id="5852" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-swiss-turbo-8000-rotocord-st-8000-rc</url>
+<price>1119000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5852/9b5d66e5d9c57fd7ff14d2c1ea968631.jpg</picture>
+<name>Фены Valera Swiss Turbo 8000 Rotocord (ST 8000 RC)</name>
+<vendor>Valera</vendor>
+<vendorCode>Swiss Turbo 8000 Rotocord (ST 8000 RC)</vendorCode>
+
+</offer>
+<offer id="5853" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-swiss-turbo-7200-light-ionic-toumaline-rotocord-st-7200t-rc</url>
+<price>1076000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5853/3d8b80200b11a5a4bed9881c4a3e2362.jpg</picture>
+<name>Фены Valera Swiss Turbo 7200 Light Ionic Toumaline Rotocord (ST 7200T RC)</name>
+<vendor>Valera</vendor>
+<vendorCode>Swiss Turbo 7200 Light Ionic Toumaline Rotocord (ST 7200T RC)</vendorCode>
+
+</offer>
+<offer id="5854" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-swiss-turbo-7200-ionic-conditioning-st-7200t</url>
+<price>1028000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5854/7bc9e0dfb61a1d10f55701267c852327.jpg</picture>
+<name>Фены Valera Swiss Turbo 7200 Ionic Conditioning (ST 7200T)</name>
+<vendor>Valera</vendor>
+<vendorCode>Swiss Turbo 7200 Ionic Conditioning (ST 7200T)</vendorCode>
+
+</offer>
+<offer id="5858" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-swiss-travel-cross-553-02-sc</url>
+<price>489000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5858/1dd325c25ce2525d2543c8b83dd7f849.jpg</picture>
+<name>Фены Valera Swiss Travel Cross (553.02 SC)</name>
+<vendor>Valera</vendor>
+<vendorCode>Swiss Travel Cross (553.02 SC)</vendorCode>
+
+</offer>
+<offer id="5859" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-silent-2200-super-ionic-mod-545-09dv</url>
+<price>889000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5859/f156229abfec1a760cf007d2b2d05dfb.jpg</picture>
+<name>Фены Valera Silent 2200 Super Ionic (Mod. 545.09DV)</name>
+<vendor>Valera</vendor>
+<vendorCode>Silent 2200 Super Ionic (Mod. 545.09DV)</vendorCode>
+
+</offer>
+<offer id="5861" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-excel-2000-zoom-mod-561-08z</url>
+<price>737000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5861/a15e796e420716f6366d937231ddc266.jpg</picture>
+<name>Фены Valera Excel 2000 Zoom (Mod. 561.08Z)</name>
+<vendor>Valera</vendor>
+<vendorCode>Excel 2000 Zoom (Mod. 561.08Z)</vendorCode>
+
+</offer>
+<offer id="5864" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-style-roll-400-606-01</url>
+<price>415000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5864/02aea56016625546083f805d72ab384c.jpg</picture>
+<name>Фены Valera Style &amp; Roll 400 (606.01)</name>
+<vendor>Valera</vendor>
+<vendorCode>Style &amp; Roll 400 (606.01)</vendorCode>
+
+</offer>
+<offer id="5866" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-sn-6000-rc</url>
+<price>1155000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5866/4923c59f0e9cfef0b2d6b8975dffb6d9.jpg</picture>
+<name>Фены Valera SN 6000 RC</name>
+<vendor>Valera</vendor>
+<vendorCode>SN 6000 RC</vendorCode>
+
+</offer>
+<offer id="5874" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-swiss-nano-9100-avant-sn-9100</url>
+<price>905000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5874/c7e79ade8bc7dca2cac36f64c582f15e.jpg</picture>
+<name>Фены Valera Swiss Nano 9100 Avant (SN 9100)</name>
+<vendor>Valera</vendor>
+<vendorCode>Swiss Nano 9100 Avant (SN 9100)</vendorCode>
+
+</offer>
+<offer id="5875" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-valera-swiss-nano-9200-red-rotocord-sn-9200t-rc</url>
+<price>1350000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/5875/1229274603daa491eb8b62a24bcb318a.jpg</picture>
+<name>Фены Valera Swiss Nano 9200 Red Rotocord (SN 9200T RC)</name>
+<vendor>Valera</vendor>
+<vendorCode>Swiss Nano 9200 Red Rotocord (SN 9200T RC)</vendorCode>
+
+</offer>
+<offer id="5877" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er508</url>
+<price>580000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5877/a3f26ae17e14afa62982e04b5e14221c.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER508</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER508</vendorCode>
+
+</offer>
+<offer id="5878" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er1410</url>
+<price>894000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5878/0b24f4a017bb8fb40e39d78f9e49c630.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER1410</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER1410</vendorCode>
+
+</offer>
+<offer id="5880" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er1420</url>
+<price>1046000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5880/1dc72ca7310e79b5f940116c5fec26ab.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER1420</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER1420</vendorCode>
+
+</offer>
+<offer id="5881" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er-gn30</url>
+<price>309000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5881/89b15f74f6b0c565a77d70c63f0e84f7.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER-GN30</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER-GN30</vendorCode>
+
+</offer>
+<offer id="5882" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er-gb40</url>
+<price>667000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5882/e8be32d4b78b7869846b0d9b3ff989ca.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER-GB40</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER-GB40</vendorCode>
+
+</offer>
+<offer id="5883" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er206</url>
+<price>435000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5883/ed9e0c56d0abb2e168c5f98e52f445dc.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER206</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER206</vendorCode>
+
+</offer>
+<offer id="5885" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er407</url>
+<price>285000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5885/f778bec56d1a121cc94a3604420f2dc6.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER407</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER407</vendorCode>
+
+</offer>
+<offer id="5886" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-qc5125</url>
+<price>410000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5886/53dea4a94f29e74c2178ad3e59c5517b.jpg</picture>
+<name>Машинки для стрижки волос Philips QC5125</name>
+<vendor>Philips</vendor>
+<vendorCode>QC5125</vendorCode>
+
+</offer>
+<offer id="5887" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-bg2025-15</url>
+<price>797000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5887/70ca0e1bde610939cfc94e63e0122399.jpg</picture>
+<name>Машинки для стрижки волос Philips BG2025/15</name>
+<vendor>Philips</vendor>
+<vendorCode>BG2025/15</vendorCode>
+
+</offer>
+<offer id="5889" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-hc3400-15</url>
+<price>448000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5889/0a0d07c3e067d472f250daa712c14cf8.jpg</picture>
+<name>Машинки для стрижки волос Philips HC3400/15</name>
+<vendor>Philips</vendor>
+<vendorCode>HC3400/15</vendorCode>
+
+</offer>
+<offer id="5890" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-hc5410-15</url>
+<price>519000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5890/17c4f66a4b0b2a764e3ee872cc724eb9.jpg</picture>
+<name>Машинки для стрижки волос Philips HC5410/15</name>
+<vendor>Philips</vendor>
+<vendorCode>HC5410/15</vendorCode>
+
+</offer>
+<offer id="5891" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-hc5440-15</url>
+<price>653000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5891/62638c2dd20e21b8e7a154804d2969cc.jpg</picture>
+<name>Машинки для стрижки волос Philips HC5440/15</name>
+<vendor>Philips</vendor>
+<vendorCode>HC5440/15</vendorCode>
+
+</offer>
+<offer id="5892" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-hc5450-15</url>
+<price>770000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5892/110a29b8d8b357ef0f4050ed65104550.jpg</picture>
+<name>Машинки для стрижки волос Philips HC5450/15</name>
+<vendor>Philips</vendor>
+<vendorCode>HC5450/15</vendorCode>
+
+</offer>
+<offer id="5893" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-nt9110</url>
+<price>374000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5893/6e890d63546d8a76e3d5a9b67aa67587.jpg</picture>
+<name>Машинки для стрижки волос Philips NT9110</name>
+<vendor>Philips</vendor>
+<vendorCode>NT9110</vendorCode>
+
+</offer>
+<offer id="5895" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-qc5130</url>
+<price>689000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5895/6fee8ade3c151f68f06596b51c3b82fc.jpg</picture>
+<name>Машинки для стрижки волос Philips QC5130</name>
+<vendor>Philips</vendor>
+<vendorCode>QC5130</vendorCode>
+
+</offer>
+<offer id="5897" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-qc5132-15</url>
+<price>680000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5897/aed41cceb468ee225edb85a7bb437818.jpg</picture>
+<name>Машинки для стрижки волос Philips QC5132/15</name>
+<vendor>Philips</vendor>
+<vendorCode>QC5132/15</vendorCode>
+
+</offer>
+<offer id="5898" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-hc3420-15</url>
+<price>527000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5898/3b90a3161e3a5610d042b9a08a5ad112.jpg</picture>
+<name>Машинки для стрижки волос Philips HC3420/15</name>
+<vendor>Philips</vendor>
+<vendorCode>HC3420/15</vendorCode>
+
+</offer>
+<offer id="5899" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-qc5370</url>
+<price>862000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5899/d5caeda8e9f05a410341705a60d179cc.jpg</picture>
+<name>Машинки для стрижки волос Philips QC5370</name>
+<vendor>Philips</vendor>
+<vendorCode>QC5370</vendorCode>
+
+</offer>
+<offer id="5901" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-qg3340-16</url>
+<price>838000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5901/528d9d6a353fa5ac95821c9a427c34ca.jpg</picture>
+<name>Машинки для стрижки волос Philips QG3340/16</name>
+<vendor>Philips</vendor>
+<vendorCode>QG3340/16</vendorCode>
+
+</offer>
+<offer id="5902" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-philips-qt4015-15</url>
+<price>921000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5902/e32dde0219d20ffb790c7c41adb7e6db.jpg</picture>
+<name>Машинки для стрижки волос Philips QT4015/15</name>
+<vendor>Philips</vendor>
+<vendorCode>QT4015/15</vendorCode>
+
+</offer>
+<offer id="5907" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-aresa-hc-620</url>
+<price>262000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5907/10bf28e60090d9488917f60a3587400e.jpg</picture>
+<name>Машинки для стрижки волос Aresa HC-620</name>
+<vendor>Aresa</vendor>
+<vendorCode>HC-620</vendorCode>
+
+</offer>
+<offer id="5909" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-aresa-hc-610</url>
+<price>192000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5909/5a90b2652700e19460f795d8411df762.jpg</picture>
+<name>Машинки для стрижки волос Aresa HC-610</name>
+<vendor>Aresa</vendor>
+<vendorCode>HC-610</vendorCode>
+
+</offer>
+<offer id="5911" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-clatronic-ne-2868-262-901</url>
+<price>195000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5911/e9520ecde213bc3c0887d3756e567499.jpg</picture>
+<name>Машинки для стрижки волос Clatronic NE 2868 (262 901)</name>
+<vendor>Clatronic</vendor>
+<vendorCode>NE 2868 (262 901)</vendorCode>
+
+</offer>
+<offer id="5915" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-first-fa-5678-2</url>
+<price>280000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5915/404ad1f8e47290c1b38089359ca07b62.jpg</picture>
+<name>Машинки для стрижки волос First FA-5678-2</name>
+<vendor>First</vendor>
+<vendorCode>FA-5678-2</vendorCode>
+
+</offer>
+<offer id="5917" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-first-fa-5677-1</url>
+<price>433000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5917/cc153308945539048315d22b030b7d45.jpg</picture>
+<name>Машинки для стрижки волос First FA-5677-1</name>
+<vendor>First</vendor>
+<vendorCode>FA-5677-1</vendorCode>
+
+</offer>
+<offer id="5926" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-ves-trm-3</url>
+<price>401000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5926/51632157e8c0f82c5c9a8c3e6131b324.jpg</picture>
+<name>Машинки для стрижки волос VES TRM-3</name>
+<vendor>VES</vendor>
+<vendorCode>TRM-3</vendorCode>
+
+</offer>
+<offer id="5928" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-braun-series-7-bt7050</url>
+<price>793000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5928/deb7f15fbddbf7a3271051c374ffe61a.jpg</picture>
+<name>Машинки для стрижки волос Braun Series 7 BT7050</name>
+<vendor>Braun</vendor>
+<vendorCode>Series 7 BT7050</vendorCode>
+
+</offer>
+<offer id="5929" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-braun-fg-1100-silk-epil</url>
+<price>322000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5929/39fbcc46998e26e645fcf87e811493bb.jpg</picture>
+<name>Машинки для стрижки волос Braun FG 1100 Silk-epil</name>
+<vendor>Braun</vendor>
+<vendorCode>FG 1100 Silk-epil</vendorCode>
+
+</offer>
+<offer id="5930" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-braun-cruzer5-beard</url>
+<price>655000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5930/19217abef88a9343b2c31344ed426675.jpg</picture>
+<name>Машинки для стрижки волос Braun CruZer5 Beard</name>
+<vendor>Braun</vendor>
+<vendorCode>CruZer5 Beard</vendorCode>
+
+</offer>
+<offer id="5931" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-eta-3341</url>
+<price>200000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5931/c6f23e91f9f03bb2162d38e3aef66178.jpg</picture>
+<name>Машинки для стрижки волос ETA 3341</name>
+<vendor>ETA</vendor>
+<vendorCode>3341</vendorCode>
+
+</offer>
+<offer id="5935" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-home-element-he-cl1001</url>
+<price>258000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5935/aee260a3cf8c926c553efb2497dc71d4.jpg</picture>
+<name>Машинки для стрижки волос Home Element HE-CL1001</name>
+<vendor>Home Element</vendor>
+<vendorCode>HE-CL1001</vendorCode>
+
+</offer>
+<offer id="5936" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-home-element-he-cl1000</url>
+<price>258000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5936/aae9621927eb2a73352f963e45af52a4.jpg</picture>
+<name>Машинки для стрижки волос Home Element HE-CL1000</name>
+<vendor>Home Element</vendor>
+<vendorCode>HE-CL1000</vendorCode>
+
+</offer>
+<offer id="5937" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-scarlett-sc-160</url>
+<price>284000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5937/82f69227a22de22ff8cebd4cf48e0b20.jpg</picture>
+<name>Машинки для стрижки волос Scarlett SC-160</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-160</vendorCode>
+
+</offer>
+<offer id="5939" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-scarlett-sc-hc63c51-silver</url>
+<price>481000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5939/beb18dc632c98e04fc7ace9aad655874.jpg</picture>
+<name>Машинки для стрижки волос Scarlett SC-HC63C51 Silver</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-HC63C51 Silver</vendorCode>
+
+</offer>
+<offer id="5940" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-scarlett-sc-1263</url>
+<price>251000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5940/8a8b6b817eb3eb4d1f13fd7a680eedd2.jpg</picture>
+<name>Машинки для стрижки волос Scarlett SC-1263</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-1263</vendorCode>
+
+</offer>
+<offer id="5942" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-scarlett-sc-1260</url>
+<price>360000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5942/796c754c95358d3d37fca8229431b617.jpg</picture>
+<name>Машинки для стрижки волос Scarlett SC-1260</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-1260</vendorCode>
+
+</offer>
+<offer id="5944" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-scarlett-sc-hc63c01</url>
+<price>360000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5944/db958040ddaeedc08f55588864651cfb.jpg</picture>
+<name>Машинки для стрижки волос Scarlett SC-HC63C01</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-HC63C01</vendorCode>
+
+</offer>
+<offer id="5945" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vigor-hx-6232</url>
+<price>396000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5945/f2362a31dd132d4e471cfd04f5833f87.jpg</picture>
+<name>Машинки для стрижки волос Vigor HX-6232</name>
+<vendor>Vigor</vendor>
+<vendorCode>HX-6232</vendorCode>
+
+</offer>
+<offer id="5946" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vigor-hx-6231</url>
+<price>295000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5946/f001e0e01661bc3c1c8ebb9d94d4544e.jpg</picture>
+<name>Машинки для стрижки волос Vigor HX-6231</name>
+<vendor>Vigor</vendor>
+<vendorCode>HX-6231</vendorCode>
+
+</offer>
+<offer id="5947" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vitek-vt-1360-gy</url>
+<price>407000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5947/c38d51958fc659b48304c6dba61d6f3a.jpg</picture>
+<name>Машинки для стрижки волос Vitek VT-1360 GY</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1360 GY</vendorCode>
+
+</offer>
+<offer id="5951" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vitek-vt-2542-gy</url>
+<price>430000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5951/7fd4bb0ceb131b801ee4bebcbd5b7b9b.jpg</picture>
+<name>Машинки для стрижки волос Vitek VT-2542 GY</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2542 GY</vendorCode>
+
+</offer>
+<offer id="5953" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vitek-vt-2519-bk</url>
+<price>402000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5953/5d91874a1ded72dc36ac6cedf3a8aa2f.jpg</picture>
+<name>Машинки для стрижки волос Vitek VT-2519 BK</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2519 BK</vendorCode>
+
+</offer>
+<offer id="5954" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vitek-vt-2514-gy</url>
+<price>430000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5954/babedc76b03f3f705ac1f0b94374bd9c.jpg</picture>
+<name>Машинки для стрижки волос Vitek VT-2514 GY</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2514 GY</vendorCode>
+
+</offer>
+<offer id="5955" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vitek-vt-1354</url>
+<price>264000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5955/235972f1b839c358aaa8ecbc7714ad9f.jpg</picture>
+<name>Машинки для стрижки волос Vitek VT-1354</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1354</vendorCode>
+
+</offer>
+<offer id="5956" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vitek-vt-1361</url>
+<price>562000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5956/ab5f493862567417e0e700b286a411c4.jpg</picture>
+<name>Машинки для стрижки волос Vitek VT-1361</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1361</vendorCode>
+
+</offer>
+<offer id="5957" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vitek-vt-1358-bd</url>
+<price>286000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5957/099075cd0404afd49c33adba30d8b33a.jpg</picture>
+<name>Машинки для стрижки волос Vitek VT-1358 BD</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1358 BD</vendorCode>
+
+</offer>
+<offer id="5966" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-rowenta-tn-1050</url>
+<price>396000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5966/4801a02ebcb78755aa110a7afb1aa11d.jpg</picture>
+<name>Машинки для стрижки волос Rowenta TN 1050</name>
+<vendor>Rowenta</vendor>
+<vendorCode>TN 1050</vendorCode>
+
+</offer>
+<offer id="5967" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-rowenta-tn1210f0</url>
+<price>549000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5967/5236b8576773eed38aae03ef8914cb97.jpg</picture>
+<name>Машинки для стрижки волос Rowenta TN1210F0</name>
+<vendor>Rowenta</vendor>
+<vendorCode>TN1210F0</vendorCode>
+
+</offer>
+<offer id="5969" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-babyliss-e696e</url>
+<price>438000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5969/133167f602d544b2bce69fe2669371ce.jpg</picture>
+<name>Машинки для стрижки волос BaByliss E696E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>E696E</vendorCode>
+
+</offer>
+<offer id="5971" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-babyliss-e709e</url>
+<price>597000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5971/907c253d7d351e198a172263ef03c8e8.jpg</picture>
+<name>Машинки для стрижки волос BaByliss E709E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>E709E</vendorCode>
+
+</offer>
+<offer id="5972" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-babyliss-e600xe</url>
+<price>304000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5972/824ea8e6caaa41c7f04288146fad1b51.jpg</picture>
+<name>Машинки для стрижки волос BaByliss E600XE</name>
+<vendor>BaByliss</vendor>
+<vendorCode>E600XE</vendorCode>
+
+</offer>
+<offer id="5974" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-babyliss-e960e</url>
+<price>1087000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5974/2aae3d007a760bb5f9bcd32271df6a28.jpg</picture>
+<name>Машинки для стрижки волос BaByliss E960E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>E960E</vendorCode>
+
+</offer>
+<offer id="5975" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-babyliss-e950e</url>
+<price>937000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5975/b9d4a2e55db900b3a0b39edff40fd750.jpg</picture>
+<name>Машинки для стрижки волос BaByliss E950E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>E950E</vendorCode>
+
+</offer>
+<offer id="5977" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-babyliss-e875e</url>
+<price>1343000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5977/4e249c25ce5919d4303735a941114c2f.jpg</picture>
+<name>Машинки для стрижки волос BaByliss E875E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>E875E</vendorCode>
+
+</offer>
+<offer id="5978" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-babyliss-e826e</url>
+<price>736000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5978/befd4f95ec70fcbe6b3830034b94f9a4.jpg</picture>
+<name>Машинки для стрижки волос BaByliss E826E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>E826E</vendorCode>
+
+</offer>
+<offer id="5979" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-babyliss-e695e</url>
+<price>379000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5979/3914fd186f3ad168f539de26027fbd11.jpg</picture>
+<name>Машинки для стрижки волос BaByliss E695E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>E695E</vendorCode>
+
+</offer>
+<offer id="5980" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-remington-wpg4030</url>
+<price>529000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5980/379bba6f11322a376a6d1148b943ff81.jpg</picture>
+<name>Машинки для стрижки волос Remington WPG4030</name>
+<vendor>Remington</vendor>
+<vendorCode>WPG4030</vendorCode>
+
+</offer>
+<offer id="5982" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-remington-mb4040</url>
+<price>827000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5982/4fc57dffa89e813c63c835c3872ffe20.jpg</picture>
+<name>Машинки для стрижки волос Remington MB4040</name>
+<vendor>Remington</vendor>
+<vendorCode>MB4040</vendorCode>
+
+</offer>
+<offer id="5987" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-remington-bht2000</url>
+<price>511000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5987/fd50f962394c36b8f9de005233f83d3f.jpg</picture>
+<name>Машинки для стрижки волос Remington BHT2000</name>
+<vendor>Remington</vendor>
+<vendorCode>BHT2000</vendorCode>
+
+</offer>
+<offer id="5993" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-valera-systema-654-01</url>
+<price>846000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5993/8a9acec197266776419ce4795c491a27.jpg</picture>
+<name>Машинки для стрижки волос Valera Systema (654.01)</name>
+<vendor>Valera</vendor>
+<vendorCode>Systema (654.01)</vendorCode>
+
+</offer>
+<offer id="5994" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-valera-absolut-mod-648-01</url>
+<price>745000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5994/f0f3ff6e9e377e54d32d1fa4a6ab6a7c.jpg</picture>
+<name>Машинки для стрижки волос Valera ABSOLUT Mod. 648.01</name>
+<vendor>Valera</vendor>
+<vendorCode>ABSOLUT Mod. 648.01</vendorCode>
+
+</offer>
+<offer id="5996" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-valera-trimmy-624-01</url>
+<price>292000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5996/e271ce4ac2f67265fa51a5470ae2f8cf.jpg</picture>
+<name>Машинки для стрижки волос Valera Trimmy (624.01)</name>
+<vendor>Valera</vendor>
+<vendorCode>Trimmy (624.01)</vendorCode>
+
+</offer>
+<offer id="5999" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-valera-beauty-trim-619-01</url>
+<price>354000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/5999/578979f584f497fa64a1ec57f0de5da0.jpg</picture>
+<name>Машинки для стрижки волос Valera Beauty Trim (619.01)</name>
+<vendor>Valera</vendor>
+<vendorCode>Beauty Trim (619.01)</vendorCode>
+
+</offer>
+<offer id="6000" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8345-00</url>
+<price>712000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6000/fa7a09e2f4904c348024775d32ee0712.jpg</picture>
+<name>Стайлеры Philips HP8345/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8345/00</vendorCode>
+
+</offer>
+<offer id="6001" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8363-00</url>
+<price>1033000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6001/9d4b01556de727f4fa6b371fa8fe1c46.jpg</picture>
+<name>Стайлеры Philips HP8363/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8363/00</vendorCode>
+
+</offer>
+<offer id="6002" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hps930-00</url>
+<price>1307000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6002/66033d30163031b38182aa1dc44ef164.jpg</picture>
+<name>Стайлеры Philips HPS930/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HPS930/00</vendorCode>
+
+</offer>
+<offer id="6003" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8699-00</url>
+<price>909000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6003/c7983f9b5f6519ea9bc9d1fc163fe073.jpg</picture>
+<name>Стайлеры Philips HP8699/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8699/00</vendorCode>
+
+</offer>
+<offer id="6004" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8697-00</url>
+<price>692000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6004/9faa0c0c5624970881b19effd52531fe.jpg</picture>
+<name>Стайлеры Philips HP8697/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8697/00</vendorCode>
+
+</offer>
+<offer id="6005" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8634-00</url>
+<price>749000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6005/579d878a08da5a6a5a8e05aa226d0864.jpg</picture>
+<name>Стайлеры Philips HP8634/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8634/00</vendorCode>
+
+</offer>
+<offer id="6007" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8618-00</url>
+<price>687000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6007/b707daa6e245240b93900acadf4f4577.jpg</picture>
+<name>Стайлеры Philips HP8618/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8618/00</vendorCode>
+
+</offer>
+<offer id="6008" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8343-00</url>
+<price>4507000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6008/ad8b2f638e73b01b8b24e9cae4ed89a4.jpg</picture>
+<name>Стайлеры Philips HP8343/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8343/00</vendorCode>
+
+</offer>
+<offer id="6009" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8602-00</url>
+<price>378000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6009/82db992f485e4012ad12c7a0cdfad8c7.jpg</picture>
+<name>Стайлеры Philips HP8602/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8602/00</vendorCode>
+
+</offer>
+<offer id="6010" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8319-00</url>
+<price>463000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6010/b43a778833ac9e3b4f85a5cebe38adf1.jpg</picture>
+<name>Стайлеры Philips HP8319/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8319/00</vendorCode>
+
+</offer>
+<offer id="6011" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8362-activecare</url>
+<price>1070000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6011/63c9fcd9d6ac0183655c2080583dc71f.jpg</picture>
+<name>Стайлеры Philips HP8362 ActiveCare</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8362 ActiveCare</vendorCode>
+
+</offer>
+<offer id="6013" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8344</url>
+<price>749000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6013/f15b5c016614891672887671e2a6f91b.jpg</picture>
+<name>Стайлеры Philips HP8344</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8344</vendorCode>
+
+</offer>
+<offer id="6014" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8333-care</url>
+<price>549000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6014/391f1c4f35a196e6774b8d5532bec911.jpg</picture>
+<name>Стайлеры Philips HP8333 Care</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8333 Care</vendorCode>
+
+</offer>
+<offer id="6016" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8320-00</url>
+<price>559000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6016/cf2cc04fdaa749d9e021f4d2976472bf.jpg</picture>
+<name>Стайлеры Philips HP8320/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8320/00</vendorCode>
+
+</offer>
+<offer id="6017" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp8605-00</url>
+<price>490000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6017/1e877ec3b0b32a4ff655958d73e47623.jpg</picture>
+<name>Стайлеры Philips HP8605/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP8605/00</vendorCode>
+
+</offer>
+<offer id="6018" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp4684-00</url>
+<price>660000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6018/881bba97a1d1f937975a992c52f6e3ed.jpg</picture>
+<name>Стайлеры Philips HP4684/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP4684/00</vendorCode>
+
+</offer>
+<offer id="6019" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp4611</url>
+<price>730000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6019/a629963063482c23839b1201ee4d807a.jpg</picture>
+<name>Стайлеры Philips HP4611</name>
+<vendor>Philips</vendor>
+<vendorCode>HP4611</vendorCode>
+
+</offer>
+<offer id="6020" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-philips-hp4686</url>
+<price>599000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6020/cefad829cf8562bd75eaab33ee792123.jpg</picture>
+<name>Стайлеры Philips HP4686</name>
+<vendor>Philips</vendor>
+<vendorCode>HP4686</vendorCode>
+
+</offer>
+<offer id="6022" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-753</url>
+<price>272000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6022/c6a3877f9b6ddf871ed2b7094bd9445f.jpg</picture>
+<name>Стайлеры Aresa HS-753</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-753</vendorCode>
+
+</offer>
+<offer id="6026" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-762</url>
+<price>198000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6026/85f2f29eac85d8cc26ff2717084ba3fd.jpg</picture>
+<name>Стайлеры Aresa HS-762</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-762</vendorCode>
+
+</offer>
+<offer id="6027" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-763</url>
+<price>267000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6027/7aba3c5107681312540a2572276afd65.jpg</picture>
+<name>Стайлеры Aresa HS-763</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-763</vendorCode>
+
+</offer>
+<offer id="6028" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-765</url>
+<price>247000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6028/5f749bc40c9e97b174fbdf5b1ef4c762.jpg</picture>
+<name>Стайлеры Aresa HS-765</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-765</vendorCode>
+
+</offer>
+<offer id="6029" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-766</url>
+<price>305000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6029/776e4ba163fd7752e30893b96209bb90.jpg</picture>
+<name>Стайлеры Aresa HS-766</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-766</vendorCode>
+
+</offer>
+<offer id="6030" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-757</url>
+<price>191000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6030/90bf68b609772b4d86dd004a944c894b.jpg</picture>
+<name>Стайлеры Aresa HS-757</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-757</vendorCode>
+
+</offer>
+<offer id="6031" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-767</url>
+<price>285000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6031/cf5c6dd21882d6acc1150ab2b155e7b5.jpg</picture>
+<name>Стайлеры Aresa HS-767</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-767</vendorCode>
+
+</offer>
+<offer id="6032" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-764</url>
+<price>208000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6032/78d3d78bbb0e59f93116aad42117e3e5.jpg</picture>
+<name>Стайлеры Aresa HS-764</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-764</vendorCode>
+
+</offer>
+<offer id="6033" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-760</url>
+<price>477000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6033/aed00a2a531ed608a80e843c0ab41861.jpg</picture>
+<name>Стайлеры Aresa HS-760</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-760</vendorCode>
+
+</offer>
+<offer id="6035" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-756</url>
+<price>241000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6035/7a2019e2a7ef957da3432608847cb7d1.jpg</picture>
+<name>Стайлеры Aresa HS-756</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-756</vendorCode>
+
+</offer>
+<offer id="6040" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-first-fa-5670-1</url>
+<price>329000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6040/5a41837a142d6b2d7a2ae83f33498074.jpg</picture>
+<name>Стайлеры First FA-5670-1</name>
+<vendor>First</vendor>
+<vendorCode>FA-5670-1</vendorCode>
+
+</offer>
+<offer id="6057" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-first-fa-5671-6</url>
+<price>293000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6057/97fc571d6277322d38fb0ad2c34e202b.jpg</picture>
+<name>Стайлеры First FA-5671-6</name>
+<vendor>First</vendor>
+<vendorCode>FA-5671-6</vendorCode>
+
+</offer>
+<offer id="6062" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-holt-ht-hc-002</url>
+<price>358000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6062/749e4740dc70b402db92aa7587bb2057.jpg</picture>
+<name>Стайлеры Holt HT-HC-002</name>
+<vendor>Holt</vendor>
+<vendorCode>HT-HC-002</vendorCode>
+
+</offer>
+<offer id="6071" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-maxwell-mw-2202</url>
+<price>297000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6071/c5777a2c503c03a55d48a5ef4d12a5c8.jpg</picture>
+<name>Стайлеры Maxwell MW-2202</name>
+<vendor>Maxwell</vendor>
+<vendorCode>MW-2202</vendorCode>
+
+</offer>
+<offer id="6074" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-saturn-st-hc7364</url>
+<price>270000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6074/eef9f8c1b1120cc8df6d92e361728bd8.jpg</picture>
+<name>Стайлеры Saturn ST-HC7364</name>
+<vendor>Saturn</vendor>
+<vendorCode>ST-HC7364</vendorCode>
+
+</offer>
+<offer id="6084" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-tz-first-tz-b19</url>
+<price>349000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6084/ffe51ce23ef9e6b6ac29b0fe2d2cc405.jpg</picture>
+<name>Стайлеры TZ FIRST TZ-B19</name>
+<vendor>TZ FIRST</vendor>
+<vendorCode>TZ-B19</vendorCode>
+
+</offer>
+<offer id="6085" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-tz-first-tz-b7</url>
+<price>292000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6085/b578092b18e4ee2e9559d547ae2721af.jpg</picture>
+<name>Стайлеры TZ FIRST TZ-B7</name>
+<vendor>TZ FIRST</vendor>
+<vendorCode>TZ-B7</vendorCode>
+
+</offer>
+<offer id="6089" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-ves-v-hd201</url>
+<price>322000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6089/f46e31a61338c689d6c5738a0a71303f.jpg</picture>
+<name>Стайлеры VES V-HD201</name>
+<vendor>VES</vendor>
+<vendorCode>V-HD201</vendorCode>
+
+</offer>
+<offer id="6102" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-braun-ec2c-satin-hair-7</url>
+<price>787000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6102/d64ebecbd0f1a3a3f375d0f91fc6244b.jpg</picture>
+<name>Стайлеры Braun EC2C Satin Hair 7</name>
+<vendor>Braun</vendor>
+<vendorCode>EC2C Satin Hair 7</vendorCode>
+
+</offer>
+<offer id="6104" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-braun-st550-satin-hair-5-multistyler</url>
+<price>655000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6104/141e610ab1540f994d649465516f7da7.jpg</picture>
+<name>Стайлеры Braun ST550 Satin Hair 5 Multistyler</name>
+<vendor>Braun</vendor>
+<vendorCode>ST550 Satin Hair 5 Multistyler</vendorCode>
+
+</offer>
+<offer id="6105" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-braun-satin-hair-7-premium-br730</url>
+<price>423000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6105/28d9a3d16a814ea823488998a2595056.jpg</picture>
+<name>Стайлеры Braun Satin Hair 7 Premium (BR730)</name>
+<vendor>Braun</vendor>
+<vendorCode>Satin Hair 7 Premium (BR730)</vendorCode>
+
+</offer>
+<offer id="6106" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-braun-esw-satin-hair-5-multistyler</url>
+<price>1506000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6106/fe897b7f075aff6fa11d350f73d373b2.jpg</picture>
+<name>Стайлеры Braun ESW Satin Hair 5 Multistyler</name>
+<vendor>Braun</vendor>
+<vendorCode>ESW Satin Hair 5 Multistyler</vendorCode>
+
+</offer>
+<offer id="6107" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-braun-es3-satin-hair-colour</url>
+<price>970000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6107/72327c8af75f735088ae5d727ad3668e.jpg</picture>
+<name>Стайлеры Braun ES3 Satin Hair Colour</name>
+<vendor>Braun</vendor>
+<vendorCode>ES3 Satin Hair Colour</vendorCode>
+
+</offer>
+<offer id="6108" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-braun-es1-straightliner</url>
+<price>473000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6108/dcfb5ed69de60933c392dd3e053f03d6.jpg</picture>
+<name>Стайлеры Braun ES1 Straightliner</name>
+<vendor>Braun</vendor>
+<vendorCode>ES1 Straightliner</vendorCode>
+
+</offer>
+<offer id="6109" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-braun-ec1-satin-hair</url>
+<price>655000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6109/83960342239e8998d2a4d6f0707e2bd6.jpg</picture>
+<name>Стайлеры Braun EC1 Satin Hair</name>
+<vendor>Braun</vendor>
+<vendorCode>EC1 Satin Hair</vendorCode>
+
+</offer>
+<offer id="6110" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-braun-br710-satin-hair-7-sb1</url>
+<price>423000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6110/ddbd63a863229c8a6e93bbc736eb34c9.jpg</picture>
+<name>Стайлеры Braun BR710 Satin Hair 7 (SB1)</name>
+<vendor>Braun</vendor>
+<vendorCode>BR710 Satin Hair 7 (SB1)</vendorCode>
+
+</offer>
+<offer id="6111" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-braun-es2-satin-hair</url>
+<price>1089000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6111/44b913417457beabeb0d906dc29c45c7.jpg</picture>
+<name>Стайлеры Braun ES2 Satin Hair</name>
+<vendor>Braun</vendor>
+<vendorCode>ES2 Satin Hair</vendorCode>
+
+</offer>
+<offer id="6113" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-eta-3332</url>
+<price>403000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6113/e644dd6d96187eee85596f8c2f5dfccd.jpg</picture>
+<name>Стайлеры ETA 3332</name>
+<vendor>ETA</vendor>
+<vendorCode>3332</vendorCode>
+
+</offer>
+<offer id="6114" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-eta-colorino-6333</url>
+<price>351000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6114/a60d71892fdce583e39b967a144e8498.jpg</picture>
+<name>Стайлеры ETA Colorino 6333</name>
+<vendor>ETA</vendor>
+<vendorCode>Colorino 6333</vendorCode>
+
+</offer>
+<offer id="6115" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-eta-mistic-pro-1333-90000</url>
+<price>530000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6115/8eab4517829b84f6d7ce4ce3786adb2f.jpg</picture>
+<name>Стайлеры ETA Mistic Pro 1333 (90000)</name>
+<vendor>ETA</vendor>
+<vendorCode>Mistic Pro 1333 (90000)</vendorCode>
+
+</offer>
+<offer id="6116" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-eta-simplico-3334-90000</url>
+<price>406000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6116/d41bfad61e3d3c49e3b9b8a64ebf3a88.jpg</picture>
+<name>Стайлеры ETA Simplico 3334 (90000)</name>
+<vendor>ETA</vendor>
+<vendorCode>Simplico 3334 (90000)</vendorCode>
+
+</offer>
+<offer id="6124" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-scarlett-sc-1061</url>
+<price>205000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6124/dd4957b2f7e6a00d34283668dc99cdcd.jpg</picture>
+<name>Стайлеры Scarlett SC-1061</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-1061</vendorCode>
+
+</offer>
+<offer id="6127" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-scarlett-sc-1062</url>
+<price>316000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6127/2c9605e719765b116974b57143f3e01b.jpg</picture>
+<name>Стайлеры Scarlett SC-1062</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-1062</vendorCode>
+
+</offer>
+<offer id="6128" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-scarlett-sc-060</url>
+<price>311000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6128/06b714a94505cc7ad854e7501c68d139.jpg</picture>
+<name>Стайлеры Scarlett SC-060</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-060</vendorCode>
+
+</offer>
+<offer id="6129" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-vigor-hx-8173</url>
+<price>206000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6129/6d4767142116e84ed3b0c95bf74afa81.jpg</picture>
+<name>Стайлеры Vigor HX-8173</name>
+<vendor>Vigor</vendor>
+<vendorCode>HX-8173</vendorCode>
+
+</offer>
+<offer id="6130" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-vigor-hx-8169</url>
+<price>237000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6130/812b2a836445934a70b8bb940a33bbc2.jpg</picture>
+<name>Стайлеры Vigor HX-8169</name>
+<vendor>Vigor</vendor>
+<vendorCode>HX-8169</vendorCode>
+
+</offer>
+<offer id="6131" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-vigor-nh-8170-fulla</url>
+<price>209000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6131/ad917c140414ac6c0e3fd1cf68065678.jpg</picture>
+<name>Стайлеры Vigor НХ-8170 FULLA</name>
+<vendor>Vigor</vendor>
+
+</offer>
+<offer id="6132" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-vitek-vt-1348</url>
+<price>292000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6132/c880aec1eaf6a9059d7a10bc2a697b20.jpg</picture>
+<name>Стайлеры Vitek VT-1348</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1348</vendorCode>
+
+</offer>
+<offer id="6135" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-vitek-vt-2290-w</url>
+<price>259000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6135/99020ceb3c2eeaaaf46314d2ef4bb09a.jpg</picture>
+<name>Стайлеры Vitek VT-2290 W</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2290 W</vendorCode>
+
+</offer>
+<offer id="6141" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-vitek-vt-2319-bk</url>
+<price>432000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6141/32b046aac06f47cf93f771023808c515.jpg</picture>
+<name>Стайлеры Vitek VT-2319 BK</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2319 BK</vendorCode>
+
+</offer>
+<offer id="6150" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-rowenta-cf-3345</url>
+<price>705000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6150/f411aaf82f962b92bab6f489f79749ba.jpg</picture>
+<name>Стайлеры Rowenta CF 3345</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CF 3345</vendorCode>
+
+</offer>
+<offer id="6151" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-rowenta-cf4004-f0</url>
+<price>599000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6151/ea64532c4cd4d5e8132b8661597c19be.jpg</picture>
+<name>Стайлеры Rowenta CF4004 F0</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CF4004 F0</vendorCode>
+
+</offer>
+<offer id="6153" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-rowenta-sf1042f0</url>
+<price>536000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6153/9039960c933cd66ed5a1a3fc93d97cf2.jpg</picture>
+<name>Стайлеры Rowenta SF1042F0</name>
+<vendor>Rowenta</vendor>
+<vendorCode>SF1042F0</vendorCode>
+
+</offer>
+<offer id="6154" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-rowenta-sf-2512</url>
+<price>419000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6154/5607a314847a89b51eda2e11447ccf59.jpg</picture>
+<name>Стайлеры Rowenta SF 2512</name>
+<vendor>Rowenta</vendor>
+<vendorCode>SF 2512</vendorCode>
+
+</offer>
+<offer id="6156" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-rowenta-sf-1022</url>
+<price>423000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6156/e37d6319ec813084306919c688776bcd.jpg</picture>
+<name>Стайлеры Rowenta SF 1022</name>
+<vendor>Rowenta</vendor>
+<vendorCode>SF 1022</vendorCode>
+
+</offer>
+<offer id="6159" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-rowenta-cf-6430</url>
+<price>810000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6159/63a98ae7f6428391928135792c02c681.jpg</picture>
+<name>Стайлеры Rowenta CF 6430</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CF 6430</vendorCode>
+
+</offer>
+<offer id="6160" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-rowenta-cf-6420d0</url>
+<price>819000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6160/ff3a4c840a781ad451ffe8e175255661.jpg</picture>
+<name>Стайлеры Rowenta CF 6420D0</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CF 6420D0</vendorCode>
+
+</offer>
+<offer id="6161" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-rowenta-cf-3350</url>
+<price>531000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6161/f5913295e91285506c63ec407c25b059.jpg</picture>
+<name>Стайлеры Rowenta CF 3350</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CF 3350</vendorCode>
+
+</offer>
+<offer id="6164" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-rowenta-cf-4132-style-14</url>
+<price>788000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6164/a8ad69794008c9974ab8a2f341a9e89e.jpg</picture>
+<name>Стайлеры Rowenta CF 4132 Style 14</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CF 4132 Style 14</vendorCode>
+
+</offer>
+<offer id="6166" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-babyliss-c325e</url>
+<price>527000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6166/2198ca5eb489e1805ecd6f6bfa07cacb.jpg</picture>
+<name>Стайлеры BaByliss C325E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>C325E</vendorCode>
+
+</offer>
+<offer id="6167" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-babyliss-2020ce-fun-style</url>
+<price>572000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6167/52c710e74cf3b0ae91148f69042a5dc3.jpg</picture>
+<name>Стайлеры BaByliss 2020CE Fun Style</name>
+<vendor>BaByliss</vendor>
+<vendorCode>2020CE Fun Style</vendorCode>
+
+</offer>
+<offer id="6168" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-babyliss-c338e</url>
+<price>513000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6168/d0bec03b8c0c091f5080f834af08c4b7.jpg</picture>
+<name>Стайлеры BaByliss C338E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>C338E</vendorCode>
+
+</offer>
+<offer id="6169" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-babyliss-c519e</url>
+<price>538000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6169/3b317ad0620ce380f376f787ded64a96.jpg</picture>
+<name>Стайлеры BaByliss C519E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>C519E</vendorCode>
+
+</offer>
+<offer id="6170" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-babyliss-c319e</url>
+<price>438000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6170/f355332cf6c39384e297cd724bf7f887.jpg</picture>
+<name>Стайлеры BaByliss C319E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>C319E</vendorCode>
+
+</offer>
+<offer id="6174" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-babyliss-271ce</url>
+<price>304000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6174/88faa94a8d00c83250028320f996d05b.jpg</picture>
+<name>Стайлеры BaByliss 271CE</name>
+<vendor>BaByliss</vendor>
+<vendorCode>271CE</vendorCode>
+
+</offer>
+<offer id="6177" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-babyliss-c332e</url>
+<price>472000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6177/35597c8040273cbb6499e17f284d5f7a.jpg</picture>
+<name>Стайлеры BaByliss C332E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>C332E</vendorCode>
+
+</offer>
+<offer id="6178" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-babyliss-3060e</url>
+<price>572000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6178/5b13bb5dd0e93c3dcb3ebe5fcea3988b.jpg</picture>
+<name>Стайлеры BaByliss 3060E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>3060E</vendorCode>
+
+</offer>
+<offer id="6179" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-babyliss-3021e</url>
+<price>853000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6179/5345a391617371310d9e31f981bf6c5d.jpg</picture>
+<name>Стайлеры BaByliss 3021E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>3021E</vendorCode>
+
+</offer>
+<offer id="6180" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-s3500</url>
+<price>539000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6180/470c6d8e898bbc5026714292ffca035d.jpg</picture>
+<name>Стайлеры Remington S3500</name>
+<vendor>Remington</vendor>
+<vendorCode>S3500</vendorCode>
+
+</offer>
+<offer id="6181" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-s9500</url>
+<price>988000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6181/87c93dbc8784835a5c183bf92bd4ee7f.jpg</picture>
+<name>Стайлеры Remington S9500</name>
+<vendor>Remington</vendor>
+<vendorCode>S9500</vendorCode>
+
+</offer>
+<offer id="6182" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-s8500</url>
+<price>977000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6182/7a39ea0d5bf49a7139785532b631d5a6.jpg</picture>
+<name>Стайлеры Remington S8500</name>
+<vendor>Remington</vendor>
+<vendorCode>S8500</vendorCode>
+
+</offer>
+<offer id="6183" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-s7200</url>
+<price>800000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6183/abf638439e291cf086ef3b715f5b7c6f.jpg</picture>
+<name>Стайлеры Remington S7200</name>
+<vendor>Remington</vendor>
+<vendorCode>S7200</vendorCode>
+
+</offer>
+<offer id="6184" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-s6600</url>
+<price>780000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6184/aa542ac3a8e3708fd2d965035536eec1.jpg</picture>
+<name>Стайлеры Remington S6600</name>
+<vendor>Remington</vendor>
+<vendorCode>S6600</vendorCode>
+
+</offer>
+<offer id="6185" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-s5520</url>
+<price>710000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6185/85abb5e86ca055b87286a0aaed957081.jpg</picture>
+<name>Стайлеры Remington S5520</name>
+<vendor>Remington</vendor>
+<vendorCode>S5520</vendorCode>
+
+</offer>
+<offer id="6186" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-s1510</url>
+<price>481000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6186/97039a9a1a22c1ad13fb864525f66d30.jpg</picture>
+<name>Стайлеры Remington S1510</name>
+<vendor>Remington</vendor>
+<vendorCode>S1510</vendorCode>
+
+</offer>
+<offer id="6189" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-ci5338</url>
+<price>529000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6189/92007d0db4434030635ea0655828589b.jpg</picture>
+<name>Стайлеры Remington Ci5338</name>
+<vendor>Remington</vendor>
+<vendorCode>Ci5338</vendorCode>
+
+</offer>
+<offer id="6190" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-s6500</url>
+<price>894000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6190/99842ce53dcd2f69441b97484e2b57c8.jpg</picture>
+<name>Стайлеры Remington S6500</name>
+<vendor>Remington</vendor>
+<vendorCode>S6500</vendorCode>
+
+</offer>
+<offer id="6191" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-valera-volumissima-647-01</url>
+<price>961000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6191/951b45f010286dcd176b287c058d9aee.jpg</picture>
+<name>Стайлеры Valera Volumissima (647.01)</name>
+<vendor>Valera</vendor>
+<vendorCode>Volumissima (647.01)</vendorCode>
+
+</offer>
+<offer id="6194" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-valera-silhouette-647-02</url>
+<price>899000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6194/1e7c816f3d6ca35f56d6a4096b804f5c.jpg</picture>
+<name>Стайлеры Valera Silhouette (647.02)</name>
+<vendor>Valera</vendor>
+<vendorCode>Silhouette (647.02)</vendorCode>
+
+</offer>
+<offer id="6196" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-valera-quick-24-605-01</url>
+<price>1140000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6196/fbe0fc2fa4fa19d5510757a4967ba8d6.jpg</picture>
+<name>Стайлеры Valera Quick 24 (605.01)</name>
+<vendor>Valera</vendor>
+<vendorCode>Quick 24 (605.01)</vendorCode>
+
+</offer>
+<offer id="6197" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-valera-logica-100-02</url>
+<price>1378000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6197/7f547d0f3664f24c0ede9b17c75454a9.jpg</picture>
+<name>Стайлеры Valera Logica (100.02)</name>
+<vendor>Valera</vendor>
+<vendorCode>Logica (100.02)</vendorCode>
+
+</offer>
+<offer id="6198" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-valera-ideal-100-03</url>
+<price>988000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6198/3246664bcafaf6e99635d5ccff6b8577.jpg</picture>
+<name>Стайлеры Valera Ideal (100.03)</name>
+<vendor>Valera</vendor>
+<vendorCode>Ideal (100.03)</vendorCode>
+
+</offer>
+<offer id="6199" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-valera-digital-ionic-100-01-i</url>
+<price>1412000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6199/116e54c8dd9991fee86a75ac6572998b.jpg</picture>
+<name>Стайлеры Valera Digital Ionic (100.01/I)</name>
+<vendor>Valera</vendor>
+<vendorCode>Digital Ionic (100.01/I)</vendorCode>
+
+</offer>
+<offer id="6200" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-valera-digicurl-25-mm-641-25</url>
+<price>736000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6200/6d06bb4474f0df97bc48b0f81dea4c3f.jpg</picture>
+<name>Стайлеры Valera Digicurl 25 мм (641.25)</name>
+<vendor>Valera</vendor>
+<vendorCode>Digicurl 25 </vendorCode>
+
+</offer>
+<offer id="6201" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-valera-digicurl-641-19</url>
+<price>702000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6201/7e27e81e57603688aad5ba5612336a8d.jpg</picture>
+<name>Стайлеры Valera DIGICURL (641.19)</name>
+<vendor>Valera</vendor>
+<vendorCode>DIGICURL (641.19)</vendorCode>
+
+</offer>
+<offer id="6202" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-valera-brush-shine-100-01-is</url>
+<price>1535000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6202/6ba067ca32480ddbd734f09a4646aeac.jpg</picture>
+<name>Стайлеры Valera Brush&amp;Shine (100.01/IS)</name>
+<vendor>Valera</vendor>
+<vendorCode>Brush&amp;Shine (100.01/IS)</vendorCode>
+
+</offer>
+<offer id="6204" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-valera-x-style-645-01</url>
+<price>1076000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/6204/416334f3e6b68549419b944e19d7eb61.jpg</picture>
+<name>Стайлеры Valera X-Style (645.01)</name>
+<vendor>Valera</vendor>
+<vendorCode>X-Style (645.01)</vendorCode>
+
+</offer>
+<offer id="6211" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-mystery-mes-1808</url>
+<price>353000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6211/2fc83741ce2d0315d8851ee666a2291d.jpg</picture>
+<name>Напольные весы Mystery MES-1808</name>
+<vendor>Mystery</vendor>
+<vendorCode>MES-1808</vendorCode>
+
+</offer>
+<offer id="6212" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-mystery-mes-1811</url>
+<price>425000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6212/66c704ee5e2c0cc3cbdc9eb53e050583.jpg</picture>
+<name>Напольные весы Mystery MES-1811</name>
+<vendor>Mystery</vendor>
+<vendorCode>MES-1811</vendorCode>
+
+</offer>
+<offer id="6214" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-mystery-mes-1803</url>
+<price>398000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6214/e1237e22c9612b541a0ff5bfbd1d56ba.jpg</picture>
+<name>Напольные весы Mystery MES-1803</name>
+<vendor>Mystery</vendor>
+<vendorCode>MES-1803</vendorCode>
+
+</offer>
+<offer id="6226" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-first-fa-8015-1</url>
+<price>359000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6226/87d4c9572fe8fe20a24bfb3e051e9882.jpg</picture>
+<name>Напольные весы First FA-8015-1</name>
+<vendor>First</vendor>
+<vendorCode>FA-8015-1</vendorCode>
+
+</offer>
+<offer id="6237" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-maxwell-mw-2657-blue</url>
+<price>267000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6237/47690dc56b8f149205a9e4007011af54.jpg</picture>
+<name>Напольные весы Maxwell MW-2657 Blue</name>
+<vendor>Maxwell</vendor>
+<vendorCode>MW-2657 Blue</vendorCode>
+
+</offer>
+<offer id="6246" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-polaris-pws-1523dg</url>
+<price>290000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6246/d8c656c1190e0471235f10bc98434a76.jpg</picture>
+<name>Напольные весы Polaris PWS 1523DG</name>
+<vendor>Polaris</vendor>
+<vendorCode>PWS 1523DG</vendorCode>
+
+</offer>
+<offer id="6247" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-redmond-rs-728b</url>
+<price>920000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6247/384a84afeafa7c00e5a9ecb9584dd3fc.jpg</picture>
+<name>Напольные весы Redmond RS-728B</name>
+<vendor>Redmond</vendor>
+<vendorCode>RS-728B</vendorCode>
+
+</offer>
+<offer id="6248" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-redmond-rs-708</url>
+<price>489000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6248/82176c1ec8d9f623de8407b11415d91c.jpg</picture>
+<name>Напольные весы Redmond RS-708</name>
+<vendor>Redmond</vendor>
+<vendorCode>RS-708</vendorCode>
+
+</offer>
+<offer id="6249" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-redmond-rs-710</url>
+<price>663000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6249/12f578d90f3bf06929c071342beb6752.jpg</picture>
+<name>Напольные весы Redmond RS-710</name>
+<vendor>Redmond</vendor>
+<vendorCode>RS-710</vendorCode>
+
+</offer>
+<offer id="6256" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-saturn-st-ps0282</url>
+<price>343000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6256/2097bb753fb0b15fa6c6340cdbbe7371.jpg</picture>
+<name>Напольные весы Saturn ST-PS0282</name>
+<vendor>Saturn</vendor>
+<vendorCode>ST-PS0282</vendorCode>
+
+</offer>
+<offer id="6259" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-vesta-va-8032</url>
+<price>332000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6259/9e2280958f7938c24a064dd0e138f4ad.jpg</picture>
+<name>Напольные весы Vesta VA-8032</name>
+<vendor>Vesta</vendor>
+<vendorCode>VA-8032</vendorCode>
+
+</offer>
+<offer id="6262" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-vesta-va-8031-1</url>
+<price>300000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6262/c557dc62a0cc99c076af6271876e4d8a.jpg</picture>
+<name>Напольные весы Vesta VA 8031-1</name>
+<vendor>Vesta</vendor>
+<vendorCode>VA 8031-1</vendorCode>
+
+</offer>
+<offer id="6269" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-bosch-ppw-3300-axxenceslim-line</url>
+<price>600000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6269/75226d61cc35f9e8e6981af56996695e.jpg</picture>
+<name>Напольные весы Bosch PPW 3300 AxxenceSlim Line</name>
+<vendor>Bosch</vendor>
+<vendorCode>PPW 3300 AxxenceSlim Line</vendorCode>
+
+</offer>
+<offer id="6270" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-bosch-ppw3303-axxenceslim-line</url>
+<price>658000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6270/1c65aed1aebf962bd4f52bbcb8f9e7de.jpg</picture>
+<name>Напольные весы Bosch PPW3303 AxxenceSlim Line</name>
+<vendor>Bosch</vendor>
+<vendorCode>PPW3303 AxxenceSlim Line</vendorCode>
+
+</offer>
+<offer id="6271" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-bosch-axxence-easy-ppw-3100</url>
+<price>658000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6271/cf0a50c4fedf45d836e4d0ecc2dfc57b.jpg</picture>
+<name>Напольные весы Bosch axxence easy PPW 3100</name>
+<vendor>Bosch</vendor>
+<vendorCode>axxence easy PPW 3100</vendorCode>
+
+</offer>
+<offer id="6273" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-eta-2870-90000</url>
+<price>457000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6273/6e2ace76765d23062328db19596ec273.jpg</picture>
+<name>Напольные весы ETA 2870 (90000)</name>
+<vendor>ETA</vendor>
+<vendorCode>2870 (90000)</vendorCode>
+
+</offer>
+<offer id="6277" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-scarlett-sc-2218</url>
+<price>498000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6277/76f6e986bf96b3758122ac9a087be2e3.jpg</picture>
+<name>Напольные весы Scarlett SC-2218</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-2218</vendorCode>
+
+</offer>
+<offer id="6278" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-scarlett-sc-2216</url>
+<price>476000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6278/1e518afbb1d753de4d0847b2c681b892.jpg</picture>
+<name>Напольные весы Scarlett SC-2216</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-2216</vendorCode>
+
+</offer>
+<offer id="6288" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-tefal-premiss-pp1000</url>
+<price>410000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6288/b3d0d26b35c0eff12d9a2aced16dc7be.jpg</picture>
+<name>Напольные весы Tefal Premiss PP1000</name>
+<vendor>Tefal</vendor>
+<vendorCode>Premiss PP1000</vendorCode>
+
+</offer>
+<offer id="6290" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-tefal-pp1121</url>
+<price>385000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6290/80ca18b7e91cd462098e261845c09372.jpg</picture>
+<name>Напольные весы Tefal PP1121</name>
+<vendor>Tefal</vendor>
+<vendorCode>PP1121</vendorCode>
+
+</offer>
+<offer id="6292" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-tefal-premiss-pp1005</url>
+<price>461000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6292/c57a47321c1fde03722773a82236541c.jpg</picture>
+<name>Напольные весы Tefal Premiss PP1005</name>
+<vendor>Tefal</vendor>
+<vendorCode>Premiss PP1005</vendorCode>
+
+</offer>
+<offer id="6293" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-tefal-premio-pp1212</url>
+<price>549000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6293/efc8f68bca49edaac5a04fc5d3ee1961.jpg</picture>
+<name>Напольные весы Tefal Premio PP1212</name>
+<vendor>Tefal</vendor>
+<vendorCode>Premio PP1212</vendorCode>
+
+</offer>
+<offer id="6294" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-tefal-premio-pp1201</url>
+<price>435000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6294/367100fc43231e0833163029d02abbe0.jpg</picture>
+<name>Напольные весы Tefal Premio PP1201</name>
+<vendor>Tefal</vendor>
+<vendorCode>Premio PP1201</vendorCode>
+
+</offer>
+<offer id="6295" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-vigor-hx-8203</url>
+<price>310000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6295/98000dc76737da3b43d77147dcb0b6d9.jpg</picture>
+<name>Напольные весы Vigor HX-8203</name>
+<vendor>Vigor</vendor>
+<vendorCode>HX-8203</vendorCode>
+
+</offer>
+<offer id="6296" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-vitek-vt-1977</url>
+<price>328000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6296/f4dae16f3e1904056003bac5ce2c6128.jpg</picture>
+<name>Напольные весы Vitek VT-1977</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1977</vendorCode>
+
+</offer>
+<offer id="6297" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-vitek-vt-1976-w</url>
+<price>329000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6297/2dc47ba07892720d0b94431c1a7a8082.jpg</picture>
+<name>Напольные весы Vitek VT-1976 W</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1976 W</vendorCode>
+
+</offer>
+<offer id="6303" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-ssenzo-ptxy6169</url>
+<price>284000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6303/35889a4ba33487efa050cc6f819c129f.jpg</picture>
+<name>Напольные весы SSenzo PTXY6169</name>
+<vendor>SSenzo</vendor>
+<vendorCode>PTXY6169</vendorCode>
+
+</offer>
+<offer id="6311" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-camry-br3011</url>
+<price>506000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6311/769ed67f01dd9fa2e5c9b557be3d11e8.jpg</picture>
+<name>Напольные весы CAMRY BR3011</name>
+<vendor>CAMRY</vendor>
+<vendorCode>BR3011</vendorCode>
+
+</offer>
+<offer id="6315" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-microlife-ws-50</url>
+<price>385000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6315/18f9d88eff0fb0796539b8ccd4bc9f27.jpg</picture>
+<name>Напольные весы Microlife WS 50</name>
+<vendor>Microlife</vendor>
+<vendorCode>WS 50</vendorCode>
+
+</offer>
+<offer id="6316" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-microlife-ws-60a</url>
+<price>448000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6316/38c59584898bdbf7e3f812ba53ed80b8.jpg</picture>
+<name>Напольные весы Microlife WS 60A</name>
+<vendor>Microlife</vendor>
+<vendorCode>WS 60A</vendorCode>
+
+</offer>
+<offer id="6317" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-microlife-ws-80a</url>
+<price>680000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/6317/14568a7a003b26e96451a20b3e404aa5.jpg</picture>
+<name>Напольные весы Microlife WS 80A</name>
+<vendor>Microlife</vendor>
+<vendorCode>WS 80A</vendorCode>
+
+</offer>
+<offer id="6322" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-panasonic-es-wu31</url>
+<price>606000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6322/67a6667b80a3b2d395af1677301206eb.jpg</picture>
+<name>Женские электробритвы и эпиляторы Panasonic ES-WU31</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-WU31</vendorCode>
+
+</offer>
+<offer id="6323" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-panasonic-es-wu11</url>
+<price>443000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6323/a5fd42e0551695f876359c3a682e12a2.jpg</picture>
+<name>Женские электробритвы и эпиляторы Panasonic ES-WU11</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-WU11</vendorCode>
+
+</offer>
+<offer id="6325" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-panasonic-es-eu10</url>
+<price>604000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6325/bce8e462f075c3cd34ee29bd29650aed.jpg</picture>
+<name>Женские электробритвы и эпиляторы Panasonic ES-EU10</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-EU10</vendorCode>
+
+</offer>
+<offer id="6327" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6423-00</url>
+<price>667000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6327/701ef5216859fa37165feced2693ae0c.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6423/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6423/00</vendorCode>
+
+</offer>
+<offer id="6328" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6577-00</url>
+<price>1661000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6328/4f77bfaadb7997c55e706e1f6bbb2ddb.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6577/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6577/00</vendorCode>
+
+</offer>
+<offer id="6329" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6575-00</url>
+<price>2021000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6329/b7f58650684b5779a6063d525fec9651.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6575/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6575/00</vendorCode>
+
+</offer>
+<offer id="6330" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6570</url>
+<price>1261000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6330/b92f62af926a62d2f4ea17040c3e0587.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6570</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6570</vendorCode>
+
+</offer>
+<offer id="6331" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6540</url>
+<price>1122000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6331/62570a5a780a0ab4fbffaaa9f9d9859e.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6540</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6540</vendorCode>
+
+</offer>
+<offer id="6332" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6522</url>
+<price>1270000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6332/e5ba2ba3de3997222d548fc33c20c733.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6522</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6522</vendorCode>
+
+</offer>
+<offer id="6333" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6521</url>
+<price>970000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6333/9e528745cf0845d13b0df6eaa3119218.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6521</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6521</vendorCode>
+
+</offer>
+<offer id="6334" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6519-01</url>
+<price>868000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6334/6dd4bf08c13dee0d3939b418e2d5098a.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6519/01</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6519/01</vendorCode>
+
+</offer>
+<offer id="6335" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6422-01</url>
+<price>656000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6335/028ec8eb69f564c8257d92415d4ac3ad.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6422/01</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6422/01</vendorCode>
+
+</offer>
+<offer id="6337" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6421-00</url>
+<price>461000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6337/8bf4cddcb49002a963ecba89a1e2bc84.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6421/00</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6421/00</vendorCode>
+
+</offer>
+<offer id="6338" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-face-820</url>
+<price>806000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6338/520ff674bf7bfe5218ab861be501adf1.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun Face 820</name>
+<vendor>Braun</vendor>
+<vendorCode>Face 820</vendorCode>
+
+</offer>
+<offer id="6340" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-silk-epil-1370</url>
+<price>423000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6340/f0f4b7f398a696baf483e953ac07df82.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun Silk-epil 1370</name>
+<vendor>Braun</vendor>
+<vendorCode>Silk-epil 1370</vendorCode>
+
+</offer>
+<offer id="6341" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-silk-epil-5-5-329</url>
+<price>983000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6341/c53e9960b752249c817a899a42b4b0ee.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun Silk-epil 5 5-329</name>
+<vendor>Braun</vendor>
+<vendorCode>Silk-epil 5 5-329</vendorCode>
+
+</offer>
+<offer id="6342" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-silk-epil-7-7175-young-beauty</url>
+<price>1290000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6342/10a67fae8962aef613e8bfefabf54d5d.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun Silk-epil 7 7175 Young Beauty</name>
+<vendor>Braun</vendor>
+<vendorCode>Silk-epil 7 7175 Young Beauty</vendorCode>
+
+</offer>
+<offer id="6346" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-silk-epil-7-skinspa-7-979</url>
+<price>2311000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6346/104a37566a0b567fa0e79dce66f71760.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun Silk-epil 7 SkinSpa 7-979</name>
+<vendor>Braun</vendor>
+<vendorCode>Silk-epil 7 SkinSpa 7-979</vendorCode>
+
+</offer>
+<offer id="6348" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-silk-epil-1170</url>
+<price>372000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6348/387a52321a9fb08204db87706c5b4a73.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun Silk-epil 1170</name>
+<vendor>Braun</vendor>
+<vendorCode>Silk-epil 1170</vendorCode>
+
+</offer>
+<offer id="6350" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-silk-epil-3-3380-legs-body</url>
+<price>831000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6350/a65a2f575b8af2454303a4e87abf3530.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun Silk-epil 3 3380 Legs &amp; body</name>
+<vendor>Braun</vendor>
+<vendorCode>Silk-epil 3 3380 Legs &amp; body</vendorCode>
+
+</offer>
+<offer id="6351" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-silk-epil-xelle-5380</url>
+<price>894000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6351/88c4e8fb37a57e28dffb911ebe91bf35.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun Silk-epil Xelle 5380</name>
+<vendor>Braun</vendor>
+<vendorCode>Silk-epil Xelle 5380</vendorCode>
+
+</offer>
+<offer id="6353" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-3370-silk-epil-3-legs-body</url>
+<price>957000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6353/ec9712463733eff44cb0ce1298097147.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun 3370 Silk-epil 3 Legs &amp; body</name>
+<vendor>Braun</vendor>
+<vendorCode>3370 Silk-epil 3 Legs &amp; body</vendorCode>
+
+</offer>
+<offer id="6354" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-7281-silk-epil-7-legs-body</url>
+<price>1365000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6354/4ef92b81b89daf7fbd59c06740e3c53e.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun 7281 Silk-epil 7 Legs &amp; body</name>
+<vendor>Braun</vendor>
+<vendorCode>7281 Silk-epil 7 Legs &amp; body</vendorCode>
+
+</offer>
+<offer id="6355" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-silk-epil-5-5780-legs-body-face</url>
+<price>1809000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6355/d8c683cc6614aae4e128684085cf27d2.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun Silk-epil 5 5780 Legs, body &amp; face</name>
+<vendor>Braun</vendor>
+<vendorCode>Silk-epil 5 5780 Legs, body &amp; face</vendorCode>
+
+</offer>
+<offer id="6356" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-3270-silk-epil-3-legs-body</url>
+<price>599000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6356/c384021d61ec4b50d4d7c20893235d11.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun 3270 Silk-epil 3 Legs &amp; body</name>
+<vendor>Braun</vendor>
+<vendorCode>3270 Silk-epil 3 Legs &amp; body</vendorCode>
+
+</offer>
+<offer id="6358" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-5180-silk-epil-5-legs</url>
+<price>1058000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6358/3347170bff73286b5b714dc8b78c9475.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun 5180 Silk-epil 5 Legs</name>
+<vendor>Braun</vendor>
+<vendorCode>5180 Silk-epil 5 Legs</vendorCode>
+
+</offer>
+<offer id="6359" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-5185-silk-epil-5-young-beauty</url>
+<price>882000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6359/2f1d4955e478c804303d27e4b25d8490.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun 5185 Silk-epil 5 Young Beauty</name>
+<vendor>Braun</vendor>
+<vendorCode>5185 Silk-epil 5 Young Beauty</vendorCode>
+
+</offer>
+<offer id="6360" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-5280-silk-epil-5-legs-body</url>
+<price>1277000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6360/59e74583987a771bbff821f14315acfa.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun 5280 Silk-epil 5 Legs &amp; body</name>
+<vendor>Braun</vendor>
+<vendorCode>5280 Silk-epil 5 Legs &amp; body</vendorCode>
+
+</offer>
+<offer id="6362" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-braun-7181-silk-epil-7-legs</url>
+<price>1529000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6362/3197d8216abeb6b2d4dcead65f7ec164.jpg</picture>
+<name>Женские электробритвы и эпиляторы Braun 7181 Silk-epil 7 Legs</name>
+<vendor>Braun</vendor>
+<vendorCode>7181 Silk-epil 7 Legs</vendorCode>
+
+</offer>
+<offer id="6363" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-rowenta-ep5620</url>
+<price>869000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6363/16465706ef507464edfaf8a78852ddba.jpg</picture>
+<name>Женские электробритвы и эпиляторы Rowenta EP5620</name>
+<vendor>Rowenta</vendor>
+<vendorCode>EP5620</vendorCode>
+
+</offer>
+<offer id="6364" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-rowenta-ep4321-lovely</url>
+<price>719000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6364/9fccac19190f1fec87b7ab1eefe8e4be.jpg</picture>
+<name>Женские электробритвы и эпиляторы Rowenta EP4321 LOVELY</name>
+<vendor>Rowenta</vendor>
+<vendorCode>EP4321 LOVELY</vendorCode>
+
+</offer>
+<offer id="6365" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-rowenta-ep3132-lovely-elite</url>
+<price>549000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6365/da4ee0124221a3a062b49fb02609979b.jpg</picture>
+<name>Женские электробритвы и эпиляторы Rowenta EP3132 LOVELY ELITE</name>
+<vendor>Rowenta</vendor>
+<vendorCode>EP3132 LOVELY ELITE</vendorCode>
+
+</offer>
+<offer id="6367" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-rowenta-ep8710</url>
+<price>1378000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6367/fd891daf78e8065f537b821f779b0259.jpg</picture>
+<name>Женские электробритвы и эпиляторы Rowenta EP8710</name>
+<vendor>Rowenta</vendor>
+<vendorCode>EP8710</vendorCode>
+
+</offer>
+<offer id="6368" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-rowenta-ep7530</url>
+<price>1378000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6368/70c95ec62aaf2deed5602fa50c9a60ac.jpg</picture>
+<name>Женские электробритвы и эпиляторы Rowenta EP7530</name>
+<vendor>Rowenta</vendor>
+<vendorCode>EP7530</vendorCode>
+
+</offer>
+<offer id="6370" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-rowenta-ep9300-d0</url>
+<price>1630000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/6370/467a565c3d5fd31ed46fafd931b89baa.jpg</picture>
+<name>Женские электробритвы и эпиляторы Rowenta EP9300 D0</name>
+<vendor>Rowenta</vendor>
+<vendorCode>EP9300 D0</vendorCode>
+
+</offer>
+<offer id="6371" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-panasonic-es3042</url>
+<price>550000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6371/534a6443911a52795bc97168db802363.jpg</picture>
+<name>Электробритвы мужские Panasonic ES3042</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES3042</vendorCode>
+
+</offer>
+<offer id="6376" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-panasonic-es-sl41-a520</url>
+<price>607000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6376/b4f0f88c413e6faa8f4260d21d6f4e94.jpg</picture>
+<name>Электробритвы мужские Panasonic ES-SL41-A520</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-SL41-A520</vendorCode>
+
+</offer>
+<offer id="6378" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-panasonic-es-sl41-r520</url>
+<price>655000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6378/3c5113192ff12992d75d3bd92d034c0f.jpg</picture>
+<name>Электробритвы мужские Panasonic ES-SL41-R520</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-SL41-R520</vendorCode>
+
+</offer>
+<offer id="6381" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-panasonic-es-rf31</url>
+<price>1491000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6381/cfe0806e2070df6715aae6a608afd076.jpg</picture>
+<name>Электробритвы мужские Panasonic ES-RF31</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-RF31</vendorCode>
+
+</offer>
+<offer id="6382" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-panasonic-es-lf51-k820</url>
+<price>3482000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6382/c62a55684e10f78dcdd74d599ba577c6.jpg</picture>
+<name>Электробритвы мужские Panasonic ES-LF51-K820</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-LF51-K820</vendorCode>
+
+</offer>
+<offer id="6383" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-panasonic-es-sl41-s520</url>
+<price>730000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6383/128d86877d6bf5558a8d682c2178454a.jpg</picture>
+<name>Электробритвы мужские Panasonic ES-SL41-S520</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-SL41-S520</vendorCode>
+
+</offer>
+<offer id="6386" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-rq1151</url>
+<price>2209000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6386/ddcbd23ff29eeb49c09e975fa4a0834a.jpg</picture>
+<name>Электробритвы мужские Philips RQ1151</name>
+<vendor>Philips</vendor>
+<vendorCode>RQ1151</vendorCode>
+
+</offer>
+<offer id="6387" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-hq6906</url>
+<price>680000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6387/fb508ab13a4533cf720dae49c3006cbd.jpg</picture>
+<name>Электробритвы мужские Philips HQ6906</name>
+<vendor>Philips</vendor>
+<vendorCode>HQ6906</vendorCode>
+
+</offer>
+<offer id="6388" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-ys521-17</url>
+<price>1261000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6388/be466f939ba7a418670ccd0b217f3461.jpg</picture>
+<name>Электробритвы мужские Philips YS521/17</name>
+<vendor>Philips</vendor>
+<vendorCode>YS521/17</vendorCode>
+
+</offer>
+<offer id="6389" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-rq1185-21</url>
+<price>2627000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6389/9f7c9c7ff5f435def48e1504b14fd18e.jpg</picture>
+<name>Электробритвы мужские Philips RQ1185/21</name>
+<vendor>Philips</vendor>
+<vendorCode>RQ1185/21</vendorCode>
+
+</offer>
+<offer id="6390" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-rq1175</url>
+<price>2324000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6390/bc9840fa02aef12514691462652290b2.jpg</picture>
+<name>Электробритвы мужские Philips RQ1175</name>
+<vendor>Philips</vendor>
+<vendorCode>RQ1175</vendorCode>
+
+</offer>
+<offer id="6392" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-pt711-16</url>
+<price>536000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6392/486ce011532ec316d363244e12fce98e.jpg</picture>
+<name>Электробритвы мужские Philips PT711/16</name>
+<vendor>Philips</vendor>
+<vendorCode>PT711/16</vendorCode>
+
+</offer>
+<offer id="6393" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-at750-16</url>
+<price>1498000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6393/188f3fd41d4ac1c59978d639ad88a68c.jpg</picture>
+<name>Электробритвы мужские Philips AT750/16</name>
+<vendor>Philips</vendor>
+<vendorCode>AT750/16</vendorCode>
+
+</offer>
+<offer id="6394" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-at750-26</url>
+<price>1357000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6394/4f35b634fa340dfd37770507accd261c.jpg</picture>
+<name>Электробритвы мужские Philips AT750/26</name>
+<vendor>Philips</vendor>
+<vendorCode>AT750/26</vendorCode>
+
+</offer>
+<offer id="6395" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-at890-16</url>
+<price>1670000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6395/a8be6a9404c6693618bbc2d2ba4e39a4.jpg</picture>
+<name>Электробритвы мужские Philips AT890/16</name>
+<vendor>Philips</vendor>
+<vendorCode>AT890/16</vendorCode>
+
+</offer>
+<offer id="6397" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-hq6947-16</url>
+<price>831000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6397/3b6baa47f33387e56051be0240e5beb3.jpg</picture>
+<name>Электробритвы мужские Philips HQ6947/16</name>
+<vendor>Philips</vendor>
+<vendorCode>HQ6947/16</vendorCode>
+
+</offer>
+<offer id="6399" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-rq1150</url>
+<price>1665000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6399/c0200275014e0e142f4edc0e2503fb2e.jpg</picture>
+<name>Электробритвы мужские Philips RQ1150</name>
+<vendor>Philips</vendor>
+<vendorCode>RQ1150</vendorCode>
+
+</offer>
+<offer id="6400" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-pt727-16</url>
+<price>1239000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6400/8e0218447d84a80fc0752df038c1ca94.jpg</picture>
+<name>Электробритвы мужские Philips PT727/16</name>
+<vendor>Philips</vendor>
+<vendorCode>PT727/16</vendorCode>
+
+</offer>
+<offer id="6401" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-pt731-16</url>
+<price>1364000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6401/33173193e8be043d007fda47403bb82f.jpg</picture>
+<name>Электробритвы мужские Philips PT731/16</name>
+<vendor>Philips</vendor>
+<vendorCode>PT731/16</vendorCode>
+
+</offer>
+<offer id="6402" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-pt737-16</url>
+<price>1378000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6402/86b2ea19e69f485ac0cb16145f804f29.jpg</picture>
+<name>Электробритвы мужские Philips PT737/16</name>
+<vendor>Philips</vendor>
+<vendorCode>PT737/16</vendorCode>
+
+</offer>
+<offer id="6403" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-pt860-16</url>
+<price>1466000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6403/c31faa74ccbe85b7d1923b2536db608b.jpg</picture>
+<name>Электробритвы мужские Philips PT860/16</name>
+<vendor>Philips</vendor>
+<vendorCode>PT860/16</vendorCode>
+
+</offer>
+<offer id="6404" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-pt870-16</url>
+<price>1567000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6404/b6596f6cda671346022b63cb72d95530.jpg</picture>
+<name>Электробритвы мужские Philips PT870/16</name>
+<vendor>Philips</vendor>
+<vendorCode>PT870/16</vendorCode>
+
+</offer>
+<offer id="6405" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-pt920-18</url>
+<price>1883000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6405/2162a8f33f5a8dd924dda94d222c645e.jpg</picture>
+<name>Электробритвы мужские Philips PT920/18</name>
+<vendor>Philips</vendor>
+<vendorCode>PT920/18</vendorCode>
+
+</offer>
+<offer id="6406" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-hq6927</url>
+<price>712000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6406/5f7fb8292f39eeb32283c6762b5c98a6.jpg</picture>
+<name>Электробритвы мужские Philips HQ6927</name>
+<vendor>Philips</vendor>
+<vendorCode>HQ6927</vendorCode>
+
+</offer>
+<offer id="6408" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-350cc-4-black-blue-series-3</url>
+<price>1532000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6408/b33f7b3d764fd698dda373730f8304b2.jpg</picture>
+<name>Электробритвы мужские Braun 350cc-4 black/blue Series 3</name>
+<vendor>Braun</vendor>
+<vendorCode>350cc-4 black/blue Series 3</vendorCode>
+
+</offer>
+<offer id="6411" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-195s-1</url>
+<price>743000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6411/35d7cebc4b2fe4d4c5c106dfa81a2807.jpg</picture>
+<name>Электробритвы мужские Braun 195s-1</name>
+<vendor>Braun</vendor>
+<vendorCode>195s-1</vendorCode>
+
+</offer>
+<offer id="6412" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-waterflex-wf2s</url>
+<price>1479000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6412/2c1a6e214e2c70fa37b34f36d349fec9.jpg</picture>
+<name>Электробритвы мужские Braun WaterFlex WF2s</name>
+<vendor>Braun</vendor>
+<vendorCode>WaterFlex WF2s</vendorCode>
+
+</offer>
+<offer id="6416" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-cruzer5-face</url>
+<price>1092000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6416/c4d3d3bdeafb75baf1163a5ed4d82635.jpg</picture>
+<name>Электробритвы мужские Braun cruZer5 face</name>
+<vendor>Braun</vendor>
+<vendorCode>cruZer5 face</vendorCode>
+
+</offer>
+<offer id="6417" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-pulsonic-790cc-series-7</url>
+<price>3250000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6417/6eb1fdbf71186e0409917da94017a0ae.jpg</picture>
+<name>Электробритвы мужские Braun Pulsonic 790cc Series 7</name>
+<vendor>Braun</vendor>
+<vendorCode>Pulsonic 790cc Series 7</vendorCode>
+
+</offer>
+<offer id="6418" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-mobileshave-m-90</url>
+<price>334000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6418/79939984f49446c49b109e44a8c997cd.jpg</picture>
+<name>Электробритвы мужские Braun MobileShave M-90</name>
+<vendor>Braun</vendor>
+<vendorCode>MobileShave M-90</vendorCode>
+
+</offer>
+<offer id="6419" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-pulsonic-760cc-series-7</url>
+<price>2997000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6419/36cd5f6e9e96ded1ec5910f53ea8497e.jpg</picture>
+<name>Электробритвы мужские Braun Pulsonic 760cc Series 7</name>
+<vendor>Braun</vendor>
+<vendorCode>Pulsonic 760cc Series 7</vendorCode>
+
+</offer>
+<offer id="6420" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-cruzer6-face</url>
+<price>1033000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6420/e6551a9f815b058d33e15be66e12f4fb.jpg</picture>
+<name>Электробритвы мужские Braun cruZer6 face</name>
+<vendor>Braun</vendor>
+<vendorCode>cruZer6 face</vendorCode>
+
+</offer>
+<offer id="6421" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-130-series-1</url>
+<price>423000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6421/f9c72a71a5a4d6b7555e992b992e3d15.jpg</picture>
+<name>Электробритвы мужские Braun 130 Series 1</name>
+<vendor>Braun</vendor>
+<vendorCode>130 Series 1</vendorCode>
+
+</offer>
+<offer id="6422" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-cruzer5-body</url>
+<price>743000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6422/1653dbf2b0a9c6bba33e0ba49dfad4e9.jpg</picture>
+<name>Электробритвы мужские Braun CruZer5 Body</name>
+<vendor>Braun</vendor>
+<vendorCode>CruZer5 Body</vendorCode>
+
+</offer>
+<offer id="6426" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-cooltec-ct2s</url>
+<price>1403000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6426/8189cc23c762619a425d5c02a751362f.jpg</picture>
+<name>Электробритвы мужские Braun CoolTec CT2s</name>
+<vendor>Braun</vendor>
+<vendorCode>CoolTec CT2s</vendorCode>
+
+</offer>
+<offer id="6427" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-cooltec-ct2cc</url>
+<price>1669000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6427/c3ab37a488d4060228dd9074da633b2e.jpg</picture>
+<name>Электробритвы мужские Braun CoolTec CT2cc</name>
+<vendor>Braun</vendor>
+<vendorCode>CoolTec CT2cc</vendorCode>
+
+</offer>
+<offer id="6428" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-720s-4</url>
+<price>2147000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6428/6c20e3ce5514044c3ea5c4212408ae76.jpg</picture>
+<name>Электробритвы мужские Braun 720s-4</name>
+<vendor>Braun</vendor>
+<vendorCode>720s-4</vendorCode>
+
+</offer>
+<offer id="6429" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-5090cc</url>
+<price>2715000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6429/5a7702a771304b9f09e0445f4fddc084.jpg</picture>
+<name>Электробритвы мужские Braun 5090cc</name>
+<vendor>Braun</vendor>
+<vendorCode>5090cc</vendorCode>
+
+</offer>
+<offer id="6430" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-190-series-1</url>
+<price>667000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6430/48a4c164aa88d4a0d5a87c45dde1bbd0.jpg</picture>
+<name>Электробритвы мужские Braun 190 Series 1</name>
+<vendor>Braun</vendor>
+<vendorCode>190 Series 1</vendorCode>
+
+</offer>
+<offer id="6432" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-170-series-1</url>
+<price>524000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6432/3686f46c4e9e9858e82aef9e3db3a5b0.jpg</picture>
+<name>Электробритвы мужские Braun 170 Series 1</name>
+<vendor>Braun</vendor>
+<vendorCode>170 Series 1</vendorCode>
+
+</offer>
+<offer id="6433" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-5050cc</url>
+<price>1920000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6433/c452d315c1312e5bafa38faba30fcfa1.jpg</picture>
+<name>Электробритвы мужские Braun 5050cc</name>
+<vendor>Braun</vendor>
+<vendorCode>5050cc</vendorCode>
+
+</offer>
+<offer id="6434" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-197-series-1-197s-1</url>
+<price>793000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6434/e3e4b7fb2d9bd718c2c24f5e1740b39c.jpg</picture>
+<name>Электробритвы мужские Braun 197 Series 1 (197s-1)</name>
+<vendor>Braun</vendor>
+<vendorCode>197 Series 1 (197s-1)</vendorCode>
+
+</offer>
+<offer id="6435" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-320s-4-series-3</url>
+<price>856000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6435/34cab8efe344ef5bf47a2604c1d13a80.jpg</picture>
+<name>Электробритвы мужские Braun 320s-4 Series 3</name>
+<vendor>Braun</vendor>
+<vendorCode>320s-4 Series 3</vendorCode>
+
+</offer>
+<offer id="6436" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-340s-4-series-3-5414</url>
+<price>1008000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6436/c48b108c2673f126121fd13db19af8e0.jpg</picture>
+<name>Электробритвы мужские Braun 340s-4 Series 3 (5414)</name>
+<vendor>Braun</vendor>
+<vendorCode>340s-4 Series 3 (5414)</vendorCode>
+
+</offer>
+<offer id="6437" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-360s-4-series-3</url>
+<price>1008000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6437/66ff413a6d410e763eb2576a03b3c736.jpg</picture>
+<name>Электробритвы мужские Braun 360s-4 Series 3</name>
+<vendor>Braun</vendor>
+<vendorCode>360s-4 Series 3</vendorCode>
+
+</offer>
+<offer id="6438" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-380s-4-series-3</url>
+<price>1046000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6438/7db7a56576463d0d53cd60111cf27c9d.jpg</picture>
+<name>Электробритвы мужские Braun 380s-4 Series 3</name>
+<vendor>Braun</vendor>
+<vendorCode>380s-4 Series 3</vendorCode>
+
+</offer>
+<offer id="6439" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-390cc-4-series-3</url>
+<price>1302000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6439/2978fa9cfe49a16da7ae22622422f27e.jpg</picture>
+<name>Электробритвы мужские Braun 390CC-4 Series 3</name>
+<vendor>Braun</vendor>
+<vendorCode>390CC-4 Series 3</vendorCode>
+
+</offer>
+<offer id="6440" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-5020s</url>
+<price>1630000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6440/55baf12eee668fc3255406a5650ca6fc.jpg</picture>
+<name>Электробритвы мужские Braun 5020s</name>
+<vendor>Braun</vendor>
+<vendorCode>5020s</vendorCode>
+
+</offer>
+<offer id="6441" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-5030s</url>
+<price>1668000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6441/a26998397a1d9d1b26cc01f3e57d1965.jpg</picture>
+<name>Электробритвы мужские Braun 5030s</name>
+<vendor>Braun</vendor>
+<vendorCode>5030s</vendorCode>
+
+</offer>
+<offer id="6443" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-150-series-1</url>
+<price>486000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6443/5cfa7662f92d55db358e43bef7b71fb9.jpg</picture>
+<name>Электробритвы мужские Braun 150 Series 1</name>
+<vendor>Braun</vendor>
+<vendorCode>150 Series 1</vendorCode>
+
+</offer>
+<offer id="6444" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-5040s</url>
+<price>1794000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6444/292f13f2a86f5ad5da4f981122b5f02c.jpg</picture>
+<name>Электробритвы мужские Braun 5040s</name>
+<vendor>Braun</vendor>
+<vendorCode>5040s</vendorCode>
+
+</offer>
+<offer id="6445" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-vitek-vt-1371-sr</url>
+<price>769000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6445/282d32469e32aeaf08e58d83c0fcfbac.jpg</picture>
+<name>Электробритвы мужские Vitek VT-1371 SR</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1371 SR</vendorCode>
+
+</offer>
+<offer id="6446" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-vitek-vt-2374-bk</url>
+<price>363000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6446/d6dd086c06031c71bf718d4791f7d268.jpg</picture>
+<name>Электробритвы мужские Vitek VT-2374 BK</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2374 BK</vendorCode>
+
+</offer>
+<offer id="6447" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-vitek-vt-2373-bk</url>
+<price>465000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6447/50208fa2f71613de588f2c22d839be2f.jpg</picture>
+<name>Электробритвы мужские Vitek VT-2373 BK</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2373 BK</vendorCode>
+
+</offer>
+<offer id="6448" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-vitek-vt-1377</url>
+<price>372000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6448/75883378e702b0a2516bc39cc95b406f.jpg</picture>
+<name>Электробритвы мужские Vitek VT-1377</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1377</vendorCode>
+
+</offer>
+<offer id="6449" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-vitek-vt-1372</url>
+<price>350000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6449/180017f32aa3ace9d0d4a94855beceae.jpg</picture>
+<name>Электробритвы мужские Vitek VT-1372</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1372</vendorCode>
+
+</offer>
+<offer id="6450" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-vitek-vt-1373</url>
+<price>414000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6450/b53f4f1dd8134891581de3d0319dc807.jpg</picture>
+<name>Электробритвы мужские Vitek VT-1373</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1373</vendorCode>
+
+</offer>
+<offer id="6454" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-remington-f4800-dual-x</url>
+<price>679000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6454/38f0b3dc194f6a8c0c0ecc41931b63a9.jpg</picture>
+<name>Электробритвы мужские Remington F4800 Dual-X</name>
+<vendor>Remington</vendor>
+<vendorCode>F4800 Dual-X</vendorCode>
+
+</offer>
+<offer id="6455" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-remington-r4150</url>
+<price>927000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6455/bb6614d9c9f9616f5c83c21b95850f1a.jpg</picture>
+<name>Электробритвы мужские Remington R4150</name>
+<vendor>Remington</vendor>
+<vendorCode>R4150</vendorCode>
+
+</offer>
+<offer id="6456" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-remington-r7150</url>
+<price>1280000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/6456/ae3b842f58e40f11d76694db7623c565.jpg</picture>
+<name>Электробритвы мужские Remington R7150</name>
+<vendor>Remington</vendor>
+<vendorCode>R7150</vendorCode>
+
+</offer>
+<offer id="7271" available="true">
+<url>https://1teh.by/krasota-i-zdorove/zubnyie-schetki-i-irrigatoryi-braun-oral-b-vitality-precision-clean-d12-513</url>
+<price>592000</price>
+<currencyId>BYR</currencyId>
+<categoryId>117</categoryId>
+<picture>https://1teh.by/files/product/7271/14e17030f658d3cf0359a6f701fef440.jpg</picture>
+<name>Зубные щетки и ирригаторы Braun Oral-B Vitality Precision Clean (D12.513)</name>
+<vendor>Braun</vendor>
+<vendorCode>Oral-B Vitality Precision Clean (D12.513)</vendorCode>
+
+</offer>
+<offer id="7273" available="true">
+<url>https://1teh.by/krasota-i-zdorove/zubnyie-schetki-i-irrigatoryi-braun-oral-b-stages-power-db4-510-k</url>
+<price>497000</price>
+<currencyId>BYR</currencyId>
+<categoryId>117</categoryId>
+<picture>https://1teh.by/files/product/7273/62f1b5e019235696e6f3ec8f21f645b6.jpg</picture>
+<name>Зубные щетки и ирригаторы Braun Oral-B Stages Power (DB4.510.K)</name>
+<vendor>Braun</vendor>
+<vendorCode>Oral-B Stages Power (DB4.510.K)</vendorCode>
+
+</offer>
+<offer id="7274" available="true">
+<url>https://1teh.by/krasota-i-zdorove/gidromassajnyie-vannochki-dlya-nog-first-fa-8114-1</url>
+<price>651000</price>
+<currencyId>BYR</currencyId>
+<categoryId>118</categoryId>
+<picture>https://1teh.by/files/product/7274/9a98362198321dcc080044a36c4d8721.jpg</picture>
+<name>Гидромассажные ванночки для ног First FA-8114-1</name>
+<vendor>First</vendor>
+<vendorCode>FA-8114-1</vendorCode>
+
+</offer>
+<offer id="7275" available="true">
+<url>https://1teh.by/krasota-i-zdorove/gidromassajnyie-vannochki-dlya-nog-maxwell-mw-2451-pk</url>
+<price>411000</price>
+<currencyId>BYR</currencyId>
+<categoryId>118</categoryId>
+<picture>https://1teh.by/files/product/7275/c71dd2063cd82140162a25d9c0e81d57.jpg</picture>
+<name>Гидромассажные ванночки для ног Maxwell MW-2451 PK</name>
+<vendor>Maxwell</vendor>
+<vendorCode>MW-2451 PK</vendorCode>
+
+</offer>
+<offer id="7282" available="true">
+<url>https://1teh.by/krasota-i-zdorove/gidromassajnyie-vannochki-dlya-nog-vitek-vt-1794-pk</url>
+<price>812000</price>
+<currencyId>BYR</currencyId>
+<categoryId>118</categoryId>
+<picture>https://1teh.by/files/product/7282/7b4134fb62a43731333cb942b74d809b.jpg</picture>
+<name>Гидромассажные ванночки для ног Vitek VT-1794 PK</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1794 PK</vendorCode>
+
+</offer>
+<offer id="7298" available="true">
+<url>https://1teh.by/krasota-i-zdorove/trimmeryi-armateh-at9670</url>
+<price>2017000</price>
+<currencyId>BYR</currencyId>
+<categoryId>143</categoryId>
+<picture>https://1teh.by/files/product/7298/b0025c06a86f8e369845d187fe9641c9.jpg</picture>
+<name>Триммеры Armateh AT9670</name>
+<vendor>Armateh</vendor>
+<vendorCode>AT9670</vendorCode>
+
+</offer>
+<offer id="7303" available="true">
+<url>https://1teh.by/krasota-i-zdorove/trimmeryi-oleo-mac-bc-24-t</url>
+<price>4817000</price>
+<currencyId>BYR</currencyId>
+<categoryId>143</categoryId>
+<picture>https://1teh.by/files/product/7303/7c4614f6a0ece59f4d993419b493bd77.jpg</picture>
+<name>Триммеры Oleo-Mac BC 24 T</name>
+<vendor>Oleo-Mac</vendor>
+<vendorCode>BC 24 T</vendorCode>
+
+</offer>
+<offer id="10927" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-supra-phs-1410</url>
+<price>282000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10927/1a213c7ff77525ebf98666baa3843bfc.jpg</picture>
+<name>Фены Supra PHS-1410</name>
+<vendor>Supra</vendor>
+<vendorCode>PHS-1410</vendorCode>
+
+</offer>
+<offer id="10929" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-bhd002-00</url>
+<price>330000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10929/87ad1379f2fb26b399560093af8e618e.jpg</picture>
+<name>Фены Philips BHD002/00</name>
+<vendor>Philips</vendor>
+<vendorCode>BHD002/00</vendorCode>
+
+</offer>
+<offer id="10944" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-tz-first-tz-b5</url>
+<price>353000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10944/ab9a65ebfb4e33a8b7d9dc54cd485059.jpg</picture>
+<name>Фены TZ FIRST TZ-B5</name>
+<vendor>TZ FIRST</vendor>
+<vendorCode>TZ-B5</vendorCode>
+
+</offer>
+<offer id="10945" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-tz-first-tz-b13</url>
+<price>378000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10945/76090932e207a1bd44c7ebcc37ac4551.jpg</picture>
+<name>Фены TZ FIRST TZ-B13</name>
+<vendor>TZ FIRST</vendor>
+<vendorCode>TZ-B13</vendorCode>
+
+</offer>
+<offer id="10959" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-phd-5781-brilliantcare-business</url>
+<price>735000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10959/8edaa92b1861b338abf437e2b6ed2426.jpg</picture>
+<name>Фены Bosch PHD 5781 BrilliantCare Business</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHD 5781 BrilliantCare Business</vendorCode>
+
+</offer>
+<offer id="10956" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-phd-9769</url>
+<price>821000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10956/3cd2658095873e352b9386fd9e77eb0a.jpg</picture>
+<name>Фены Bosch PHD 9769</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHD 9769</vendorCode>
+
+</offer>
+<offer id="10955" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-phd-5714-purplepassion</url>
+<price>544000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10955/e9857ae713d1b95887efbbc82a21a46d.jpg</picture>
+<name>Фены Bosch PHD 5714 PurplePassion</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHD 5714 PurplePassion</vendorCode>
+
+</offer>
+<offer id="10951" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-bosch-blackstyle-phd2511b</url>
+<price>420000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10951/6ee5dae402f1c9f796919dd8af69d643.jpg</picture>
+<name>Фены Bosch BlackStyle (PHD2511B)</name>
+<vendor>Bosch</vendor>
+<vendorCode>BlackStyle (PHD2511B)</vendorCode>
+
+</offer>
+<offer id="10961" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-braun-satin-hair-5-hd-530</url>
+<price>536000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10961/0dd87fe1252f6b6516aaf15a19711543.jpg</picture>
+<name>Фены Braun Satin Hair 5 (HD 530)</name>
+<vendor>Braun</vendor>
+<vendorCode>Satin Hair 5 (HD 530)</vendorCode>
+
+</offer>
+<offer id="10962" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-braun-satin-hair-5-hd-550</url>
+<price>561000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10962/c3d12795142be84541993fad55c5f82e.jpg</picture>
+<name>Фены Braun Satin Hair 5 (HD 550)</name>
+<vendor>Braun</vendor>
+<vendorCode>Satin Hair 5 (HD 550)</vendorCode>
+
+</offer>
+<offer id="10964" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-grundig-hd-6080</url>
+<price>395000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10964/875504854ac45e77e761f905fc695be8.jpg</picture>
+<name>Фены Grundig HD 6080</name>
+<vendor>Grundig</vendor>
+<vendorCode>HD 6080</vendorCode>
+
+</offer>
+<offer id="10965" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-grundig-hd-3700</url>
+<price>349000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10965/d5826084ba9e59cae3f0d6c25bc4e663.jpg</picture>
+<name>Фены Grundig HD 3700</name>
+<vendor>Grundig</vendor>
+<vendorCode>HD 3700</vendorCode>
+
+</offer>
+<offer id="10970" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-scarlett-sc-274</url>
+<price>324000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10970/cfa8d4a62a33ab51e9c5f63d328bc601.jpg</picture>
+<name>Фены Scarlett SC-274</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-274</vendorCode>
+
+</offer>
+<offer id="10972" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-scarlett-sc-1270</url>
+<price>271000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10972/9dcf350fe05dd4bdc7823418938cdafe.jpg</picture>
+<name>Фены Scarlett SC-1270</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-1270</vendorCode>
+
+</offer>
+<offer id="10978" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-rowenta-cv6070</url>
+<price>612000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10978/7d3eac1a520903cc8a7f7b35619d4376.jpg</picture>
+<name>Фены Rowenta CV6070</name>
+<vendor>Rowenta</vendor>
+<vendorCode>CV6070</vendorCode>
+
+</offer>
+<offer id="10986" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-babyliss-d171e</url>
+<price>589000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10986/dd5d098c95cdda5ad80e77826eb6fc86.jpg</picture>
+<name>Фены BaByliss D171E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>D171E</vendorCode>
+
+</offer>
+<offer id="10987" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-remington-d5800</url>
+<price>678000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10987/ea89a295e1a75829f215f0d5de701c0e.jpg</picture>
+<name>Фены Remington D5800</name>
+<vendor>Remington</vendor>
+<vendorCode>D5800</vendorCode>
+
+</offer>
+<offer id="10988" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-remington-silk-ac9096</url>
+<price>864000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10988/2c781adef59990f43c30274352e794bf.jpg</picture>
+<name>Фены Remington Silk AC9096</name>
+<vendor>Remington</vendor>
+<vendorCode>Silk AC9096</vendorCode>
+
+</offer>
+<offer id="10989" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-remington-d3010</url>
+<price>445000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10989/e7fd1220461a2a942e820923764039a9.jpg</picture>
+<name>Фены Remington D3010</name>
+<vendor>Remington</vendor>
+<vendorCode>D3010</vendorCode>
+
+</offer>
+<offer id="10990" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-remington-d3710</url>
+<price>709000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/10990/141b1535ee8beeda69f5198327d336f1.jpg</picture>
+<name>Фены Remington D3710</name>
+<vendor>Remington</vendor>
+<vendorCode>D3710</vendorCode>
+
+</offer>
+<offer id="7792" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er-gs60</url>
+<price>541000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/7792/07e4c7975ae0808070beb11011cebb52.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER-GS60</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER-GS60</vendorCode>
+
+</offer>
+<offer id="10993" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er-gy10cm520</url>
+<price>869000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/10993/481df2e2582b678d214567959a8dd923.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER-GY10CM520</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER-GY10CM520</vendorCode>
+
+</offer>
+<offer id="7793" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er2403</url>
+<price>411000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/7793/0411c6233efb445bc777ba40963fa38b.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER2403</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER2403</vendorCode>
+
+</offer>
+<offer id="10994" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-maxwell-mw-2104</url>
+<price>267000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/10994/bc5553b960a85891610b4e83003dbb13.jpg</picture>
+<name>Машинки для стрижки волос Maxwell MW-2104</name>
+<vendor>Maxwell</vendor>
+<vendorCode>MW-2104</vendorCode>
+
+</offer>
+<offer id="10995" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-maxwell-mw-2103</url>
+<price>289000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/10995/220ded5985791191adf137ec3f78853a.jpg</picture>
+<name>Машинки для стрижки волос Maxwell MW-2103</name>
+<vendor>Maxwell</vendor>
+<vendorCode>MW-2103</vendorCode>
+
+</offer>
+<offer id="11000" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-grundig-mc-6040</url>
+<price>451000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/11000/c476bc3466af91f8b28302c99c277e4b.jpg</picture>
+<name>Машинки для стрижки волос Grundig MC 6040</name>
+<vendor>Grundig</vendor>
+<vendorCode>MC 6040</vendorCode>
+
+</offer>
+<offer id="11005" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vitek-vt-1359-w</url>
+<price>366000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/11005/0d838c5fa791c022b2c33b4c86b90e52.jpg</picture>
+<name>Машинки для стрижки волос Vitek VT-1359 W</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1359 W</vendorCode>
+
+</offer>
+<offer id="11006" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-vitek-vt-1350-bk</url>
+<price>303000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/11006/a4e2862fa99677568f50cb8a0d726039.jpg</picture>
+<name>Машинки для стрижки волос Vitek VT-1350 BK</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1350 BK</vendorCode>
+
+</offer>
+<offer id="11011" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-babyliss-e835e</url>
+<price>711000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/11011/a743fc82e1ff30cabf396014080190fc.jpg</picture>
+<name>Машинки для стрижки волос BaByliss E835E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>E835E</vendorCode>
+
+</offer>
+<offer id="11014" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-remington-hc5015</url>
+<price>357000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/11014/d06b8e0506f493c4d4ce89f7dfb797cd.jpg</picture>
+<name>Машинки для стрижки волос Remington HC5015</name>
+<vendor>Remington</vendor>
+<vendorCode>HC5015</vendorCode>
+
+</offer>
+<offer id="11018" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-maxwell-mw-2216-bk</url>
+<price>269000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/11018/e56c1af0eed85995d4ba32acb006f3e6.jpg</picture>
+<name>Стайлеры Maxwell MW-2216 BK</name>
+<vendor>Maxwell</vendor>
+<vendorCode>MW-2216 BK</vendorCode>
+
+</offer>
+<offer id="11023" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-redmond-rci-2310</url>
+<price>663000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/11023/4f9d9b0a0e571947f16866d91273bd4b.jpg</picture>
+<name>Стайлеры Redmond RCI-2310</name>
+<vendor>Redmond</vendor>
+<vendorCode>RCI-2310</vendorCode>
+
+</offer>
+<offer id="11033" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-bosch-brilliantcare-quattro-ion-phc5363</url>
+<price>547000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/11033/fb40da1eb1ff3e84eb338f3e3f593f7d.jpg</picture>
+<name>Стайлеры Bosch BrilliantCare Quattro-Ion (PHC5363)</name>
+<vendor>Bosch</vendor>
+<vendorCode>BrilliantCare Quattro-Ion (PHC5363)</vendorCode>
+
+</offer>
+<offer id="11038" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-scarlett-sc-1063</url>
+<price>473000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/11038/4a218894511b592f7fa35b6bb4f95edf.jpg</picture>
+<name>Стайлеры Scarlett SC-1063</name>
+<vendor>Scarlett</vendor>
+<vendorCode>SC-1063</vendorCode>
+
+</offer>
+<offer id="11045" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-vitek-vt-2289-bk</url>
+<price>383000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/11045/8e4bcb641e5bcbf77c73127a60e13c3c.jpg</picture>
+<name>Стайлеры Vitek VT-2289 BK</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2289 BK</vendorCode>
+
+</offer>
+<offer id="11044" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-vitek-vt-2307</url>
+<price>364000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/11044/c9dce9cb871d4a5635c1cbdc07ca4ce3.jpg</picture>
+<name>Стайлеры Vitek VT-2307</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-2307</vendorCode>
+
+</offer>
+<offer id="11047" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-rowenta-sf7640d0</url>
+<price>970000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/11047/d578782c899a6a5779584bad5baba756.jpg</picture>
+<name>Стайлеры Rowenta SF7640D0</name>
+<vendor>Rowenta</vendor>
+<vendorCode>SF7640D0</vendorCode>
+
+</offer>
+<offer id="11053" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-kf40e</url>
+<price>669000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/11053/f33eff231b5b81dacca42ef6c9f911e2.jpg</picture>
+<name>Стайлеры Remington KF40E</name>
+<vendor>Remington</vendor>
+<vendorCode>KF40E</vendorCode>
+
+</offer>
+<offer id="11054" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-as7051</url>
+<price>588000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/11054/40adcde1a00f9ac51a4ea54be610e1af.jpg</picture>
+<name>Стайлеры Remington AS7051</name>
+<vendor>Remington</vendor>
+<vendorCode>AS7051</vendorCode>
+
+</offer>
+<offer id="7794" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-babyliss-st330e</url>
+<price>719000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/7794/ff709a2bc9066fb4e0ba78d37d80d606.jpg</picture>
+<name>Стайлеры BaByliss ST330E</name>
+<vendor>BaByliss</vendor>
+<vendorCode>ST330E</vendorCode>
+
+</offer>
+<offer id="11055" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-kf20i</url>
+<price>558000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/11055/3f14b9be3a473ac11fd793c402ae0094.jpg</picture>
+<name>Стайлеры Remington KF20i</name>
+<vendor>Remington</vendor>
+<vendorCode>KF20i</vendorCode>
+
+</offer>
+<offer id="11719" available="true">
+<url>https://1teh.by/krasota-i-zdorove/zubnyie-schetki-i-irrigatoryi-panasonic-ew-ds90</url>
+<price>470000</price>
+<currencyId>BYR</currencyId>
+<categoryId>117</categoryId>
+<picture>https://1teh.by/files/product/11719/b4f50331214d4bc0d52a15deac6188fc.jpg</picture>
+<name>Зубные щетки и ирригаторы Panasonic EW-DS90</name>
+<vendor>Panasonic</vendor>
+<vendorCode>EW-DS90</vendorCode>
+
+</offer>
+<offer id="11060" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-redmond-rs-715</url>
+<price>587000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/11060/0f7f223399578b3fce26633870efa87d.jpg</picture>
+<name>Напольные весы Redmond RS-715</name>
+<vendor>Redmond</vendor>
+<vendorCode>RS-715</vendorCode>
+
+</offer>
+<offer id="11066" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-tefal-bodypartner-bm-6000</url>
+<price>894000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/11066/f68016e5f59ced61da2f1a8cc8f4fae9.jpg</picture>
+<name>Напольные весы Tefal Bodypartner BM 6000</name>
+<vendor>Tefal</vendor>
+<vendorCode>Bodypartner BM 6000</vendorCode>
+
+</offer>
+<offer id="11068" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-vitek-wx-2151-st</url>
+<price>383000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/11068/1e5e7cba06a323dca84caa7134276428.jpg</picture>
+<name>Напольные весы Vitek WX-2151 ST</name>
+<vendor>Vitek</vendor>
+<vendorCode>WX-2151 ST</vendorCode>
+
+</offer>
+<offer id="11069" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-vitek-vt-1979w</url>
+<price>434000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/11069/fc758c31b3174801a92a2cc84f99528a.jpg</picture>
+<name>Напольные весы Vitek VT-1979W</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1979W</vendorCode>
+
+</offer>
+<offer id="11075" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-philips-hp6342</url>
+<price>592000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/11075/26265bf722946008c50811a187a41f88.jpg</picture>
+<name>Женские электробритвы и эпиляторы Philips HP6342</name>
+<vendor>Philips</vendor>
+<vendorCode>HP6342</vendorCode>
+
+</offer>
+<offer id="11074" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-panasonic-es-eu20</url>
+<price>827000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/11074/2cf2cd36cd3b8d68725310361d6b80a9.jpg</picture>
+<name>Женские электробритвы и эпиляторы Panasonic ES-EU20</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-EU20</vendorCode>
+
+</offer>
+<offer id="11078" available="true">
+<url>https://1teh.by/krasota-i-zdorove/jenskie-elektrobritvyi-i-epilyatoryi-rowenta-ep5660</url>
+<price>743000</price>
+<currencyId>BYR</currencyId>
+<categoryId>82</categoryId>
+<picture>https://1teh.by/files/product/11078/ca839c0fe99f93f5bc5029da42f6c897.jpg</picture>
+<name>Женские электробритвы и эпиляторы Rowenta EP5660</name>
+<vendor>Rowenta</vendor>
+<vendorCode>EP5660</vendorCode>
+
+</offer>
+<offer id="7795" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-panasonic-es-sa40</url>
+<price>536000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/7795/06b6cf12a6bac22fe91027e430592c46.jpg</picture>
+<name>Электробритвы мужские Panasonic ES-SA40</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-SA40</vendorCode>
+
+</offer>
+<offer id="7796" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-panasonic-es6002</url>
+<price>715000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/7796/3078f9bd887fac2db66f693c725f8dbf.jpg</picture>
+<name>Электробритвы мужские Panasonic ES6002</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES6002</vendorCode>
+
+</offer>
+<offer id="11086" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-panasonic-es-rf41</url>
+<price>1605000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/11086/22ee46da090de0c768eb117f81df8da7.jpg</picture>
+<name>Электробритвы мужские Panasonic ES-RF41</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ES-RF41</vendorCode>
+
+</offer>
+<offer id="11088" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-ys534-17</url>
+<price>1350000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/11088/3dd13ca4781e439c9eceed0fedff0eb6.jpg</picture>
+<name>Электробритвы мужские Philips YS534/17</name>
+<vendor>Philips</vendor>
+<vendorCode>YS534/17</vendorCode>
+
+</offer>
+<offer id="7797" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-pt723-16</url>
+<price>995000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/7797/bbe5ac02783eca96c260f3f683432258.jpg</picture>
+<name>Электробритвы мужские Philips PT723/16</name>
+<vendor>Philips</vendor>
+<vendorCode>PT723/16</vendorCode>
+
+</offer>
+<offer id="11093" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-braun-cruzer6-clean-shave</url>
+<price>983000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/11093/02bd1b00da12eed1c67e768ed863c769.jpg</picture>
+<name>Электробритвы мужские Braun cruZer6 clean shave</name>
+<vendor>Braun</vendor>
+<vendorCode>cruZer6 clean shave</vendorCode>
+
+</offer>
+<offer id="12518" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-panasonic-eh-ka42</url>
+<price>681000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/12518/3854859074777dea86388b002e0dbece.jpg</picture>
+<name>Фены Panasonic EH-KA42</name>
+<vendor>Panasonic</vendor>
+<vendorCode>EH-KA42</vendorCode>
+
+</offer>
+<offer id="12522" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-philips-bhd001-00</url>
+<price>383000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/12522/47acab46f23692b1310881f80e684012.jpg</picture>
+<name>Фены Philips BHD001/00</name>
+<vendor>Philips</vendor>
+<vendorCode>BHD001/00</vendorCode>
+
+</offer>
+<offer id="12524" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-polaris-phd-2077i</url>
+<price>405000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/12524/a9c78ef77068ebf3ec676531b701cce1.jpg</picture>
+<name>Фены Polaris PHD 2077i</name>
+<vendor>Polaris</vendor>
+<vendorCode>PHD 2077i</vendorCode>
+
+</offer>
+<offer id="12529" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-saturn-st-hc7210</url>
+<price>227000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/12529/c87f3c1ebb5871ce5673a45ccd5b8a60.jpg</picture>
+<name>Фены Saturn ST-HC7210</name>
+<vendor>Saturn</vendor>
+<vendorCode>ST-HC7210</vendorCode>
+
+</offer>
+<offer id="12532" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-vitek-wx-2001-st</url>
+<price>389000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/12532/5d1bdab8630495179c3af647009407de.jpg</picture>
+<name>Фены Vitek WX-2001 ST</name>
+<vendor>Vitek</vendor>
+<vendorCode>WX-2001 ST</vendorCode>
+
+</offer>
+<offer id="12536" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-remington-ac5011</url>
+<price>802000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/12536/5ea06d01bab6830d4c54b9480c0c8c2c.jpg</picture>
+<name>Фены Remington AC5011</name>
+<vendor>Remington</vendor>
+<vendorCode>AC5011</vendorCode>
+
+</offer>
+<offer id="12538" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-supra-hcs-420</url>
+<price>281000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/12538/82b0a185dfb6c12df0a039ee4a5416b9.jpg</picture>
+<name>Машинки для стрижки волос Supra HCS-420</name>
+<vendor>Supra</vendor>
+<vendorCode>HCS-420</vendorCode>
+
+</offer>
+<offer id="12542" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er-gb37</url>
+<price>536000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/12542/9562ccafd36760e706fd3c6fabbafca8.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER-GB37</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER-GB37</vendorCode>
+
+</offer>
+<offer id="12543" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-panasonic-er-gb60</url>
+<price>911000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/12543/811e8e028fe0a7d1f1ce255e392b7224.jpg</picture>
+<name>Машинки для стрижки волос Panasonic ER-GB60</name>
+<vendor>Panasonic</vendor>
+<vendorCode>ER-GB60</vendorCode>
+
+</offer>
+<offer id="12550" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-remington-hc5550</url>
+<price>653000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/12550/72c5edfc1fd866960860043a85860524.jpg</picture>
+<name>Машинки для стрижки волос Remington HC5550</name>
+<vendor>Remington</vendor>
+<vendorCode>HC5550</vendorCode>
+
+</offer>
+<offer id="12551" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-remington-mpt3000</url>
+<price>225000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/12551/be272b11ab1138ec8b6ea184bbabc77a.jpg</picture>
+<name>Машинки для стрижки волос Remington MPT3000</name>
+<vendor>Remington</vendor>
+<vendorCode>MPT3000</vendorCode>
+
+</offer>
+<offer id="12552" available="true">
+<url>https://1teh.by/krasota-i-zdorove/mashinki-dlya-strijki-volos-remington-pg340</url>
+<price>433000</price>
+<currencyId>BYR</currencyId>
+<categoryId>79</categoryId>
+<picture>https://1teh.by/files/product/12552/75e206e568c5beca807826ec593b6510.jpg</picture>
+<name>Машинки для стрижки волос Remington PG340</name>
+<vendor>Remington</vendor>
+<vendorCode>PG340</vendorCode>
+
+</offer>
+<offer id="12556" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-panasonic-eh-hs60</url>
+<price>759000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/12556/888ff32190d641787cd9b5ce87398e93.jpg</picture>
+<name>Стайлеры Panasonic EH-HS60</name>
+<vendor>Panasonic</vendor>
+<vendorCode>EH-HS60</vendorCode>
+
+</offer>
+<offer id="12558" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-panasonic-eh-hs95-k865</url>
+<price>1511000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/12558/2b8d80693bc60ab6baeb660b4a04c886.jpg</picture>
+<name>Стайлеры Panasonic EH-HS95-K865</name>
+<vendor>Panasonic</vendor>
+<vendorCode>EH-HS95-K865</vendorCode>
+
+</offer>
+<offer id="12568" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-cb65a45</url>
+<price>682000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/12568/01add7e09d42d01f8a735caff842dcce.jpg</picture>
+<name>Стайлеры Remington CB65A45</name>
+<vendor>Remington</vendor>
+<vendorCode>CB65A45</vendorCode>
+
+</offer>
+<offer id="12570" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-s8510</url>
+<price>859000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/12570/80b3c0a0ba13c5c1b7eb3d1b6c326116.jpg</picture>
+<name>Стайлеры Remington S8510</name>
+<vendor>Remington</vendor>
+<vendorCode>S8510</vendorCode>
+
+</offer>
+<offer id="12571" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-remington-s8590</url>
+<price>977000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/12571/0543272218b99cb6415cbef3acc89ea6.jpg</picture>
+<name>Стайлеры Remington S8590</name>
+<vendor>Remington</vendor>
+<vendorCode>S8590</vendorCode>
+
+</offer>
+<offer id="12576" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-remington-r6150</url>
+<price>1280000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/12576/2e3d3b35dc1ee53a8161baae1429f04a.jpg</picture>
+<name>Электробритвы мужские Remington R6150</name>
+<vendor>Remington</vendor>
+<vendorCode>R6150</vendorCode>
+
+</offer>
+<offer id="12808" available="true">
+<url>https://1teh.by/krasota-i-zdorove/gidromassajnyie-vannochki-dlya-nog-babyliss-8033e</url>
+<price>1648000</price>
+<currencyId>BYR</currencyId>
+<categoryId>118</categoryId>
+<picture>https://1teh.by/files/product/12808/6fbbf207cb69ca2cedd565a37096d5c4.jpg</picture>
+<name>Гидромассажные ванночки для ног BaByliss 8033Е</name>
+<vendor>BaByliss</vendor>
+<vendorCode>8033</vendorCode>
+
+</offer>
+<offer id="13078" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-800</url>
+<price>365000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/13078/eae18b8fc357da046f19128600a32118.jpg</picture>
+<name>Стайлеры Aresa HS-800</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-800</vendorCode>
+
+</offer>
+<offer id="13080" available="true">
+<url>https://1teh.by/krasota-i-zdorove/stayleryi-aresa-hs-768</url>
+<price>284000</price>
+<currencyId>BYR</currencyId>
+<categoryId>80</categoryId>
+<picture>https://1teh.by/files/product/13080/7cc08cb5eee3fd8ae3e9c43ed53c4d88.jpg</picture>
+<name>Стайлеры Aresa HS-768</name>
+<vendor>Aresa</vendor>
+<vendorCode>HS-768</vendorCode>
+
+</offer>
+<offer id="13379" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-redmond-rf-518</url>
+<price>734000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/13379/6795a43956a7cf9e181f56cf4798bac0.jpg</picture>
+<name>Фены Redmond RF-518</name>
+<vendor>Redmond</vendor>
+<vendorCode>RF-518</vendorCode>
+
+</offer>
+<offer id="13381" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-redmond-rf-503</url>
+<price>759000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/13381/3c9933140de518fafbd2e6b67226feeb.jpg</picture>
+<name>Фены Redmond RF-503</name>
+<vendor>Redmond</vendor>
+<vendorCode>RF-503</vendorCode>
+
+</offer>
+<offer id="13382" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-redmond-rms-4301</url>
+<price>587000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/13382/2e26515e56ca6cc03c3d2c351facfb62.jpg</picture>
+<name>Фены Redmond RMS-4301</name>
+<vendor>Redmond</vendor>
+<vendorCode>RMS-4301</vendorCode>
+
+</offer>
+<offer id="13383" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-redmond-rms-4302</url>
+<price>489000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/13383/56ecdd84c960bfbca99f39b3670f77b5.jpg</picture>
+<name>Фены Redmond RMS-4302</name>
+<vendor>Redmond</vendor>
+<vendorCode>RMS-4302</vendorCode>
+
+</offer>
+<offer id="13384" available="true">
+<url>https://1teh.by/krasota-i-zdorove/fenyi-redmond-rf-516</url>
+<price>663000</price>
+<currencyId>BYR</currencyId>
+<categoryId>78</categoryId>
+<picture>https://1teh.by/files/product/13384/a14cfc208d3b33b35f670d7495b3761e.jpg</picture>
+<name>Фены Redmond RF-516</name>
+<vendor>Redmond</vendor>
+<vendorCode>RF-516</vendorCode>
+
+</offer>
+<offer id="13385" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-redmond-rs-719</url>
+<price>850000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/13385/8df8afd2fdfce94088af7bedd9e2ff59.jpg</picture>
+<name>Напольные весы Redmond RS-719</name>
+<vendor>Redmond</vendor>
+<vendorCode>RS-719</vendorCode>
+
+</offer>
+<offer id="13386" available="true">
+<url>https://1teh.by/krasota-i-zdorove/napolnyie-vesyi-redmond-rs-707</url>
+<price>485000</price>
+<currencyId>BYR</currencyId>
+<categoryId>81</categoryId>
+<picture>https://1teh.by/files/product/13386/76ee435b448d1d8b6ad384843f1c1fa0.jpg</picture>
+<name>Напольные весы Redmond RS-707</name>
+<vendor>Redmond</vendor>
+<vendorCode>RS-707</vendorCode>
+
+</offer>
+<offer id="13573" available="true">
+<url>https://1teh.by/krasota-i-zdorove/gidromassajnyie-vannochki-dlya-nog-first-fa-8116-1</url>
+<price>731000</price>
+<currencyId>BYR</currencyId>
+<categoryId>118</categoryId>
+<picture>https://1teh.by/files/product/13573/41d38c4df1cf5f5c75c76f80e69818f3.jpg</picture>
+<name>Гидромассажные ванночки для ног First FA-8116-1</name>
+<vendor>First</vendor>
+<vendorCode>FA-8116-1</vendorCode>
+
+</offer>
+<offer id="13855" available="true">
+<url>https://1teh.by/krasota-i-zdorove/elektrobritvyi-mujskie-philips-s9521-31</url>
+<price>6417000</price>
+<currencyId>BYR</currencyId>
+<categoryId>83</categoryId>
+<picture>https://1teh.by/files/product/13855/1c3243ba74bf3607792deeb7815e58ea.jpg</picture>
+<name>Электробритвы мужские Philips S9521/31</name>
+<vendor>Philips</vendor>
+<vendorCode>S9521/31</vendorCode>
+
+</offer>
+</offers>
+		</shop>
+
+</yml_catalog>

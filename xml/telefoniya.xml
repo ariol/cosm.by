@@ -1,0 +1,1682 @@
+<?xml version='1.0' encoding='windows-1251'?>
+			<!DOCTYPE yml_catalog SYSTEM 'shops.dtd'>
+	<yml_catalog date='2015-04-13 15:14'>
+<shop>
+<name>1teh.by</name>
+		<company>ООО &amp;quot;ОдинТех&amp;quot;</company>
+		<url>https://1teh.by</url>
+		<currencies>
+<currency id="BUR" rate="1" />
+</currencies>
+		<categories>
+<category id="47">Мобильные телефоны</category>
+<category id="57">Планшеты</category>
+<category id="60">Радиотелефоны DECT</category>
+<category id="77">Проводные телефоны</category>
+</categories>
+		<offers>
+<offer id="4306" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-explay-rio-play</url>
+<price>1303000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4306/559bb00120d0cbf0bb152a9c4c47cfaa.jpg</picture>
+<name>Мобильные телефоны Explay Rio Play</name>
+<vendor>Explay</vendor>
+<vendorCode>Rio Play</vendorCode>
+
+</offer>
+<offer id="4307" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-explay-onyx</url>
+<price>942000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4307/2ead654e0f706c805201d21b55dcb5f3.jpg</picture>
+<name>Мобильные телефоны Explay Onyx</name>
+<vendor>Explay</vendor>
+<vendorCode>Onyx</vendorCode>
+
+</offer>
+<offer id="4315" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-explay-crystal</url>
+<price>3156000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4315/26e09e2bb1aefed4012a7fee3c9c447f.jpg</picture>
+<name>Мобильные телефоны Explay Crystal</name>
+<vendor>Explay</vendor>
+<vendorCode>Crystal</vendorCode>
+
+</offer>
+<offer id="4321" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-explay-atom</url>
+<price>1170000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4321/8ca334522a88ce9664b875c189873ed3.jpg</picture>
+<name>Мобильные телефоны Explay Atom</name>
+<vendor>Explay</vendor>
+<vendorCode>Atom</vendorCode>
+
+</offer>
+<offer id="4322" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-explay-moon</url>
+<price>739000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4322/b863bfddc6b351cfa4f7fbc0cd25af36.jpg</picture>
+<name>Мобильные телефоны Explay Moon</name>
+<vendor>Explay</vendor>
+<vendorCode>Moon</vendorCode>
+
+</offer>
+<offer id="4326" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-prestigio-multiphone-5400-duo</url>
+<price>2124000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4326/795dd2974f8afc768a0036c477c0d83a.jpg</picture>
+<name>Мобильные телефоны Prestigio Multiphone 5400 DUO</name>
+<vendor>Prestigio</vendor>
+<vendorCode>Multiphone 5400 DUO</vendorCode>
+
+</offer>
+<offer id="4328" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-prestigio-multiphone-5453-duo</url>
+<price>1989000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4328/2d6a5ef19cc6defc3b147c24bcf630b3.jpg</picture>
+<name>Мобильные телефоны Prestigio MultiPhone 5453 DUO</name>
+<vendor>Prestigio</vendor>
+<vendorCode>MultiPhone 5453 DUO</vendorCode>
+
+</offer>
+<offer id="4329" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-prestigio-multiphone-5517-duo</url>
+<price>2689000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4329/8b5d2fe4ea835a93a47340a02c9718ef.jpg</picture>
+<name>Мобильные телефоны Prestigio MultiPhone 5517 DUO</name>
+<vendor>Prestigio</vendor>
+<vendorCode>MultiPhone 5517 DUO</vendorCode>
+
+</offer>
+<offer id="4332" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-texet-x-slim-tm-4782</url>
+<price>2163000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4332/24fb17206b33e56c6c82e8b1e2f86d8a.jpg</picture>
+<name>Мобильные телефоны TeXet X-slim TM-4782</name>
+<vendor>TeXet</vendor>
+<vendorCode>X-slim TM-4782</vendorCode>
+
+</offer>
+<offer id="4333" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-texet-tm-b112</url>
+<price>589000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4333/5d3699d931d7d5c630d0a00066a4b841.jpg</picture>
+<name>Мобильные телефоны TeXet TM-B112</name>
+<vendor>TeXet</vendor>
+<vendorCode>TM-B112</vendorCode>
+
+</offer>
+<offer id="4336" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-texet-tm-511r</url>
+<price>1232000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4336/c62f226d0d47d4917ecba8082b7c3a06.jpg</picture>
+<name>Мобильные телефоны TeXet TM-511R</name>
+<vendor>TeXet</vendor>
+<vendorCode>TM-511R</vendorCode>
+
+</offer>
+<offer id="4337" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-texet-x-start-tm-4172</url>
+<price>1129000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4337/be82113c01e476a883c8036fa6e71808.jpg</picture>
+<name>Мобильные телефоны TeXet X-start TM-4172</name>
+<vendor>TeXet</vendor>
+<vendorCode>X-start TM-4172</vendorCode>
+
+</offer>
+<offer id="4344" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-fly-iq4404</url>
+<price>1430000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4344/85e37969550231fcd188eab7e3ff62ff.jpg</picture>
+<name>Мобильные телефоны Fly IQ4404</name>
+<vendor>Fly</vendor>
+<vendorCode>IQ4404</vendorCode>
+
+</offer>
+<offer id="4348" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-fly-iq4490-era-nano-4</url>
+<price>1026000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4348/99dfe9917eb4a07809e2f2a0bc3ccf2b.jpg</picture>
+<name>Мобильные телефоны Fly IQ4490 ERA Nano 4</name>
+<vendor>Fly</vendor>
+<vendorCode>IQ4490 ERA Nano 4</vendorCode>
+
+</offer>
+<offer id="4349" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-fly-iq4415-era-style-3</url>
+<price>1693000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4349/af946cf755b89814622492fa468852c3.jpg</picture>
+<name>Мобильные телефоны Fly IQ4415 ERA Style 3</name>
+<vendor>Fly</vendor>
+<vendorCode>IQ4415 ERA Style 3</vendorCode>
+
+</offer>
+<offer id="4350" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-gigabyte-gsmart-roma-r2</url>
+<price>1712000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4350/9e85d033d475bac53aa94a54bc48a89e.jpg</picture>
+<name>Мобильные телефоны Gigabyte GSmart Roma R2</name>
+<vendor>Gigabyte</vendor>
+<vendorCode>GSmart Roma R2</vendorCode>
+
+</offer>
+<offer id="4352" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-htc-desire-610</url>
+<price>3560000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4352/ae5895e2728225a1e3dd6e49f04084fa.jpg</picture>
+<name>Мобильные телефоны HTC Desire 610</name>
+<vendor>HTC</vendor>
+<vendorCode>Desire 610</vendorCode>
+
+</offer>
+<offer id="4353" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-htc-desire-816-dual-sim</url>
+<price>5186000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4353/6c2c83a2aa5864c351d5db7e7dfafd05.jpg</picture>
+<name>Мобильные телефоны HTC Desire 816 dual sim</name>
+<vendor>HTC</vendor>
+<vendorCode>Desire 816 dual sim</vendorCode>
+
+</offer>
+<offer id="4356" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-htc-desire-616-dual-sim</url>
+<price>3526000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4356/41d7599f776f78e3083fe490d78d2c18.jpg</picture>
+<name>Мобильные телефоны HTC Desire 616 dual sim</name>
+<vendor>HTC</vendor>
+<vendorCode>Desire 616 dual sim</vendorCode>
+
+</offer>
+<offer id="4357" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-htc-desire-210-dual-sim</url>
+<price>1616000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4357/d491a4bb23d6ee40c873a33528c28b21.jpg</picture>
+<name>Мобильные телефоны HTC Desire 210 dual sim</name>
+<vendor>HTC</vendor>
+<vendorCode>Desire 210 dual sim</vendorCode>
+
+</offer>
+<offer id="4360" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-huawei-ascend-y210d</url>
+<price>1524000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4360/13d9f3f29a012fd750a7791821ccb399.jpg</picture>
+<name>Мобильные телефоны Huawei Ascend Y210D</name>
+<vendor>Huawei</vendor>
+<vendorCode>Ascend Y210D</vendorCode>
+
+</offer>
+<offer id="4361" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-huawei-ascend-w2</url>
+<price>2039000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4361/d3bd5336ba01b129ffec56a0ce7dd883.jpg</picture>
+<name>Мобильные телефоны Huawei Ascend W2</name>
+<vendor>Huawei</vendor>
+<vendorCode>Ascend W2</vendorCode>
+
+</offer>
+<offer id="4365" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-lg-l90-d410</url>
+<price>2956000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4365/491f911451225a9dd763249648f26569.jpg</picture>
+<name>Мобильные телефоны LG L90 (D410)</name>
+<vendor>LG</vendor>
+<vendorCode>L90 (D410)</vendorCode>
+
+</offer>
+<offer id="4366" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-lg-a399</url>
+<price>1032000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4366/393d9ad87221c865451146a5d85c8f35.jpg</picture>
+<name>Мобильные телефоны LG A399</name>
+<vendor>LG</vendor>
+<vendorCode>A399</vendorCode>
+
+</offer>
+<offer id="4375" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-lg-l70-d325</url>
+<price>2396000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4375/659d9bc49759f349ffa71a24c4bba512.jpg</picture>
+<name>Мобильные телефоны LG L70 (D325)</name>
+<vendor>LG</vendor>
+<vendorCode>L70 (D325)</vendorCode>
+
+</offer>
+<offer id="4378" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-lg-g3-s-d724</url>
+<price>3849000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4378/35e03fd90ffadeea015c8e9d38dc006d.jpg</picture>
+<name>Мобильные телефоны LG G3 S (D724)</name>
+<vendor>LG</vendor>
+<vendorCode>G3 S (D724)</vendorCode>
+
+</offer>
+<offer id="4381" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-galaxy-alpha-g850f</url>
+<price>6346000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4381/c3b2bb00f387c447b6afea68bfcb0da0.jpg</picture>
+<name>Мобильные телефоны Samsung Galaxy Alpha (G850F)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Alpha (G850F)</vendorCode>
+
+</offer>
+<offer id="4386" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-galaxy-ace-style-g357fz</url>
+<price>3391000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4386/dccf5304089c74a0afed04f2ff153eb6.jpg</picture>
+<name>Мобильные телефоны Samsung Galaxy Ace Style (G357FZ)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Ace Style (G357FZ)</vendorCode>
+
+</offer>
+<offer id="4387" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-galaxy-grand-neo-i9060</url>
+<price>2955000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4387/fd77cf78ef77ad053db7caadd5f26dee.jpg</picture>
+<name>Мобильные телефоны Samsung Galaxy Grand Neo (I9060)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Grand Neo (I9060)</vendorCode>
+
+</offer>
+<offer id="4388" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-e1200</url>
+<price>440000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4388/4037bfafa6cd45e20565383faf2e82bf.jpg</picture>
+<name>Мобильные телефоны Samsung E1200</name>
+<vendor>Samsung</vendor>
+<vendorCode>E1200</vendorCode>
+
+</offer>
+<offer id="4390" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-c3592-duos</url>
+<price>1041000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4390/f4dfde202d6fde806bfb952f07619ea8.jpg</picture>
+<name>Мобильные телефоны Samsung C3592 Duos</name>
+<vendor>Samsung</vendor>
+<vendorCode>C3592 Duos</vendorCode>
+
+</offer>
+<offer id="4391" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-e1272</url>
+<price>657000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4391/da340e3f23971e4f42501800658cd10b.jpg</picture>
+<name>Мобильные телефоны Samsung E1272</name>
+<vendor>Samsung</vendor>
+<vendorCode>E1272</vendorCode>
+
+</offer>
+<offer id="4393" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-galaxy-s5-16gb-g900f</url>
+<price>8122000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4393/f1845c733eb3c230a52651dcc6ba4bdd.jpg</picture>
+<name>Мобильные телефоны Samsung Galaxy S5 (16Gb) (G900F)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy S5 (16Gb) (G900F)</vendorCode>
+
+</offer>
+<offer id="4397" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-c3322-duos</url>
+<price>1069000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4397/8944dd483ff7223a284eaff5eb53d7d4.jpg</picture>
+<name>Мобильные телефоны Samsung C3322 Duos</name>
+<vendor>Samsung</vendor>
+<vendorCode>C3322 Duos</vendorCode>
+
+</offer>
+<offer id="4398" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-galaxy-s4-16gb-i9500</url>
+<price>5729000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4398/41e5b32666560e04439f310f31fcef70.jpg</picture>
+<name>Мобильные телефоны Samsung Galaxy S4 (16Gb) (I9500)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy S4 (16Gb) (I9500)</vendorCode>
+
+</offer>
+<offer id="4402" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-galaxy-grand-2-g7102</url>
+<price>4248000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4402/67a4ba41735df7d9f3c573497ffeb561.jpg</picture>
+<name>Мобильные телефоны Samsung Galaxy Grand 2 (G7102)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Grand 2 (G7102)</vendorCode>
+
+</offer>
+<offer id="4407" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-guru-music-2-b310e</url>
+<price>494000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4407/3c9c053b42af402185281a45567e70ef.jpg</picture>
+<name>Мобильные телефоны Samsung Guru Music 2 (B310E)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Guru Music 2 (B310E)</vendorCode>
+
+</offer>
+<offer id="4408" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-rex-90-s5292</url>
+<price>902000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4408/aef64848f243af9a9086eb6cd16a668a.jpg</picture>
+<name>Мобильные телефоны Samsung Rex 90 (S5292)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Rex 90 (S5292)</vendorCode>
+
+</offer>
+<offer id="4412" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-galaxy-star-plus-s7262</url>
+<price>1442000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4412/613de9f08a769e4b93012425621a799b.jpg</picture>
+<name>Мобильные телефоны Samsung Galaxy Star Plus (S7262)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Star Plus (S7262)</vendorCode>
+
+</offer>
+<offer id="4413" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-metro-312-b312e</url>
+<price>502000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4413/4c2e400bf387c3d805a992b06f6240be.jpg</picture>
+<name>Мобильные телефоны Samsung Metro 312 (B312E)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Metro 312 (B312E)</vendorCode>
+
+</offer>
+<offer id="4414" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-galaxy-core-ii-g355h</url>
+<price>2604000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4414/77711cc321e9582423b456b8579ae433.jpg</picture>
+<name>Мобильные телефоны Samsung Galaxy Core II (G355H)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Core II (G355H)</vendorCode>
+
+</offer>
+<offer id="4415" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-sony-xperia-m2-dual</url>
+<price>3543000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4415/ad2c5e014ac059e16889f531cef834cc.jpg</picture>
+<name>Мобильные телефоны Sony Xperia M2 Dual</name>
+<vendor>Sony</vendor>
+<vendorCode>Xperia M2 Dual</vendorCode>
+
+</offer>
+<offer id="4418" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-sony-xperia-m</url>
+<price>2609000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4418/07549ba0fbeff53e128381b122517fff.jpg</picture>
+<name>Мобильные телефоны Sony Xperia M</name>
+<vendor>Sony</vendor>
+<vendorCode>Xperia M</vendorCode>
+
+</offer>
+<offer id="4420" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-sony-xperia-e1-dual</url>
+<price>2095000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4420/4a634276a780ac659452a49241a4db78.jpg</picture>
+<name>Мобильные телефоны Sony Xperia E1 dual</name>
+<vendor>Sony</vendor>
+<vendorCode>Xperia E1 dual</vendorCode>
+
+</offer>
+<offer id="4421" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-s10</url>
+<price>610000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4421/78702b82cd077e16e62382006b38dd2a.jpg</picture>
+<name>Мобильные телефоны Keneksi S10</name>
+<vendor>Keneksi</vendor>
+<vendorCode>S10</vendorCode>
+
+</offer>
+<offer id="4422" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-dream</url>
+<price>2654000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4422/a80f4fb5e31f156b24212be4fc91174d.jpg</picture>
+<name>Мобильные телефоны Keneksi Dream</name>
+<vendor>Keneksi</vendor>
+<vendorCode>Dream</vendorCode>
+
+</offer>
+<offer id="4423" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-liberty</url>
+<price>3164000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4423/6f54603917fceae371232a90d7c795f2.jpg</picture>
+<name>Мобильные телефоны Keneksi Liberty</name>
+<vendor>Keneksi</vendor>
+<vendorCode>Liberty</vendorCode>
+
+</offer>
+<offer id="4424" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-x8</url>
+<price>533000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/4424/c277baa9453e9a32b37b1d3d4703da87.jpg</picture>
+<name>Мобильные телефоны Keneksi X8</name>
+<vendor>Keneksi</vendor>
+<vendorCode>X8</vendorCode>
+
+</offer>
+<offer id="4891" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-explay-squad-7-81-16gb</url>
+<price>2460000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/4891/3197d1c5a0361134814f9d88b67450ac.jpg</picture>
+<name>Планшеты Explay sQuad 7.81 16GB</name>
+<vendor>Explay</vendor>
+<vendorCode>sQuad 7.81 16GB</vendorCode>
+
+</offer>
+<offer id="4940" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-starway-andromeda-s707-4gb-3g-black</url>
+<price>1150000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/4940/8880ba52fbdd6bc7527797fe14ba17c5.jpg</picture>
+<name>Планшеты Starway Andromeda S707 4GB 3G Black</name>
+<vendor>Starway</vendor>
+<vendorCode>Andromeda S707 4GB 3G Black</vendorCode>
+
+</offer>
+<offer id="4941" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-starway-andromeda-s8-16gb</url>
+<price>2375000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/4941/be85f36f08aebdc9e16dbf8464bb0319.jpg</picture>
+<name>Планшеты Starway Andromeda S8 16GB</name>
+<vendor>Starway</vendor>
+<vendorCode>Andromeda S8 16GB</vendorCode>
+
+</offer>
+<offer id="4957" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-texet-x-pad-navi-8-8gb-3g-tm-7856</url>
+<price>2215000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/4957/050dfc8d66b04261e1fc8e7da09417fe.jpg</picture>
+<name>Планшеты TeXet X-pad NAVI 8 8GB 3G (TM-7856)</name>
+<vendor>TeXet</vendor>
+<vendorCode>X-pad NAVI 8 8GB 3G (TM-7856)</vendorCode>
+
+</offer>
+<offer id="4959" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-texet-x-pad-sky-8-16gb-3g-tm-7852</url>
+<price>2281000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/4959/5847bf3b75a4fde94a370b452a855a8a.jpg</picture>
+<name>Планшеты TeXet X-pad SKY 8 16GB 3G (TM-7852)</name>
+<vendor>TeXet</vendor>
+<vendorCode>X-pad SKY 8 16GB 3G (TM-7852)</vendorCode>
+
+</offer>
+<offer id="4982" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-samsung-galaxy-tab-4-10-1-16gb-3g-black-sm-t531</url>
+<price>4657000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/4982/542139a5d164eb96960f6f976afeaf00.jpg</picture>
+<name>Планшеты Samsung Galaxy Tab 4 10.1 16GB 3G Black (SM-T531)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Tab 4 10.1 16GB 3G Black (SM-T531)</vendorCode>
+
+</offer>
+<offer id="4989" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-samsung-galaxy-note-pro-12-2-32gb-white-sm-p900</url>
+<price>8972000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/4989/28bafe615ef35848d4373037f7917f58.jpg</picture>
+<name>Планшеты Samsung Galaxy Note Pro 12.2 32GB White (SM-P900)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Note Pro 12.2 32GB White (SM-P900)</vendorCode>
+
+</offer>
+<offer id="4994" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-samsung-galaxy-tab-4-7-0-8gb-3g-white-sm-t231</url>
+<price>3243000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/4994/790bd7cde717e1a596e14149ae2103d8.jpg</picture>
+<name>Планшеты Samsung Galaxy Tab 4 7.0 8GB 3G White (SM-T231)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Tab 4 7.0 8GB 3G White (SM-T231)</vendorCode>
+
+</offer>
+<offer id="4996" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-samsung-galaxy-tab-s-8-4-16gb-lte-titanium-bronze-sm-t705</url>
+<price>7560000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/4996/57c6ebb3fd53404069d2d71a1eabc65a.jpg</picture>
+<name>Планшеты Samsung Galaxy Tab S 8.4 16GB LTE Titanium Bronze (SM-T705)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Tab S 8.4 16GB LTE Titanium Bronze (SM-T705)</vendorCode>
+
+</offer>
+<offer id="4997" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-samsung-galaxy-tab-4-7-0-8gb-3g-black-sm-t231</url>
+<price>3436000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/4997/6fc87927fd2909c70719068f17f10686.jpg</picture>
+<name>Планшеты Samsung Galaxy Tab 4 7.0 8GB 3G Black (SM-T231)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Tab 4 7.0 8GB 3G Black (SM-T231)</vendorCode>
+
+</offer>
+<offer id="5005" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-plark-p23-8gb-3g</url>
+<price>2319000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/5005/deffc3b749abb08c878f41e44de9cff0.jpg</picture>
+<name>Планшеты Plark P23 8GB 3G</name>
+<vendor>Plark</vendor>
+<vendorCode>P23 8GB 3G</vendorCode>
+
+</offer>
+<offer id="5024" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-pipo-max-m2-16gb-3g</url>
+<price>3223000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/5024/2bdb71d85887556327fb856168d1da10.jpg</picture>
+<name>Планшеты PiPO Max-M2 16GB 3G</name>
+<vendor>PiPO</vendor>
+<vendorCode>Max-M2 16GB 3G</vendorCode>
+
+</offer>
+<offer id="5029" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-lenovo-tab-a10-70-a7600-16gb-3g-59409691</url>
+<price>3950000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/5029/babc28cd6873bb912dfaeef68295c48b.jpg</picture>
+<name>Планшеты Lenovo TAB A10-70 A7600 16GB 3G (59409691)</name>
+<vendor>Lenovo</vendor>
+<vendorCode>TAB A10-70 A7600 16GB 3G (59409691)</vendorCode>
+
+</offer>
+<offer id="5031" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-lenovo-tab-a7-50-a3500-16gb-3g-59411879</url>
+<price>2530000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/5031/1315f43f7727afb73610ea3a94f905ad.jpg</picture>
+<name>Планшеты Lenovo TAB A7-50 A3500 16GB 3G (59411879)</name>
+<vendor>Lenovo</vendor>
+<vendorCode>TAB A7-50 A3500 16GB 3G (59411879)</vendorCode>
+
+</offer>
+<offer id="5041" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-wexler-tab-7b-8gb-3g</url>
+<price>1505000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/5041/59b75e7c5f9f129c4b03eddee91a23a4.jpg</picture>
+<name>Планшеты Wexler .TAB 7B 8GB 3G</name>
+<vendor>Wexler</vendor>
+<vendorCode>.TAB 7B 8GB 3G</vendorCode>
+
+</offer>
+<offer id="5311" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-texet-tx-d7465</url>
+<price>707000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5311/041bb90f675f5c7cf0a726a83e33f45a.jpg</picture>
+<name>Радиотелефоны DECT TeXet TX-D7465</name>
+<vendor>TeXet</vendor>
+<vendorCode>TX-D7465</vendorCode>
+
+</offer>
+<offer id="5312" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-texet-tx-d5405a</url>
+<price>375000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5312/51e293a41eeea1779b78d7348b39fd6c.jpg</picture>
+<name>Радиотелефоны DECT TeXet TX-D5405A</name>
+<vendor>TeXet</vendor>
+<vendorCode>TX-D5405A</vendorCode>
+
+</offer>
+<offer id="5314" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-texet-tx-d7455a</url>
+<price>744000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5314/2a11f066ecd179488be82de41f510263.jpg</picture>
+<name>Радиотелефоны DECT TeXet TX-D7455A</name>
+<vendor>TeXet</vendor>
+<vendorCode>TX-D7455A</vendorCode>
+
+</offer>
+<offer id="5317" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-texet-tx-d7605a</url>
+<price>662000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5317/50f0a174f94d8c0bd5fc96ceffac3011.jpg</picture>
+<name>Радиотелефоны DECT TeXet TX-D7605A</name>
+<vendor>TeXet</vendor>
+<vendorCode>TX-D7605A</vendorCode>
+
+</offer>
+<offer id="5318" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-texet-tx-d7055a-combo</url>
+<price>950000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5318/0ad62055be46d02959f516f706dd2e05.jpg</picture>
+<name>Радиотелефоны DECT TeXet TX-D7055A Combo</name>
+<vendor>TeXet</vendor>
+<vendorCode>TX-D7055A Combo</vendorCode>
+
+</offer>
+<offer id="5320" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg8561</url>
+<price>1071000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5320/1ee83e06fbea0f5c9bcf8cef2b601362.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG8561</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG8561</vendorCode>
+
+</offer>
+<offer id="5322" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg1711</url>
+<price>543000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5322/704dc365727fbd950dba447c10b2125a.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG1711</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG1711</vendorCode>
+
+</offer>
+<offer id="5323" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg2512</url>
+<price>750000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5323/49e506acb0a5d4d262e746be08a6751d.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG2512</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG2512</vendorCode>
+
+</offer>
+<offer id="5329" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg1611</url>
+<price>469000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5329/ce0562178f0984708fdfaff60d8fc6c0.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG1611</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG1611</vendorCode>
+
+</offer>
+<offer id="5331" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg8621</url>
+<price>1441000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5331/d08274a303b3c21059277a6701d5a337.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG8621</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG8621</vendorCode>
+
+</offer>
+<offer id="5332" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg8081</url>
+<price>810000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5332/ec3e6c80e508932f60dd4fbb249c5d46.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG8081</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG8081</vendorCode>
+
+</offer>
+<offer id="5333" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg8052</url>
+<price>1008000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5333/c5433e9a0da2cb06715f274c60cebbce.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG8052</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG8052</vendorCode>
+
+</offer>
+<offer id="5334" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg8051</url>
+<price>744000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5334/4d122bb6bf83420ba5b1a514bedbe895.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG8051</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG8051</vendorCode>
+
+</offer>
+<offer id="5335" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg8041</url>
+<price>1131000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5335/31e3509ea8d8751e88e91e9850cf8830.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG8041</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG8041</vendorCode>
+
+</offer>
+<offer id="5340" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg2511</url>
+<price>573000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5340/3d6816dc64a0e66d6e41676d16d20bf3.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG2511</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG2511</vendorCode>
+
+</offer>
+<offer id="5341" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-prs110</url>
+<price>1538000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5341/90b8e3cacb28ee58a5f9bddd4442e99d.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-PRS110</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-PRS110</vendorCode>
+
+</offer>
+<offer id="5342" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-philips-d1202b</url>
+<price>661000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5342/a4f71b7002fc07103be22b4f06250b27.jpg</picture>
+<name>Радиотелефоны DECT Philips D1202B</name>
+<vendor>Philips</vendor>
+<vendorCode>D1202B</vendorCode>
+
+</offer>
+<offer id="5348" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a415</url>
+<price>657000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5348/474dbefd7c4e0f906b546b1a7f9d1175.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A415</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A415</vendorCode>
+
+</offer>
+<offer id="5349" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a230</url>
+<price>559000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5349/afa875c772eaad1e1d9986f683280c7e.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A230</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A230</vendorCode>
+
+</offer>
+<offer id="5352" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a415a</url>
+<price>758000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5352/3eca643fb5086636883787878b383f76.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A415A</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A415A</vendorCode>
+
+</offer>
+<offer id="5355" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a120</url>
+<price>439000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5355/93e18f15b5c7413bbb73f56d57b7bda3.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A120</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A120</vendorCode>
+
+</offer>
+<offer id="5356" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a120-duo</url>
+<price>686000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5356/951b5775a2d22b58d30dcfcd6e3e7665.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A120 Duo</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A120 Duo</vendorCode>
+
+</offer>
+<offer id="5357" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a120a</url>
+<price>563000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5357/db8d72c9ec2538e224b2afa7bf49f02b.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A120A</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A120A</vendorCode>
+
+</offer>
+<offer id="5358" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a130</url>
+<price>439000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5358/fa927a3a1f3187c198db23a08c36c1f5.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A130</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A130</vendorCode>
+
+</offer>
+<offer id="5359" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a220</url>
+<price>468000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5359/da9b81190abe4a7cd7647f865701dcda.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A220</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A220</vendorCode>
+
+</offer>
+<offer id="5362" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a420-duo</url>
+<price>962000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5362/a57ea29fe4dd0912f27eba5e5bc3e6f7.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A420 Duo</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A420 Duo</vendorCode>
+
+</offer>
+<offer id="5364" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a415a-duo</url>
+<price>954000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5364/dc555cacf0a8d2178e7d2c87bea7034e.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A415A Duo</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A415A Duo</vendorCode>
+
+</offer>
+<offer id="5365" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a130-duo</url>
+<price>738000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5365/f87cda035796f431a76f9ec1b059fe3c.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A130 Duo</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A130 Duo</vendorCode>
+
+</offer>
+<offer id="5368" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-a510a</url>
+<price>888000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/5368/960012f13e4bed8aece56641544488c0.jpg</picture>
+<name>Радиотелефоны DECT Gigaset A510A</name>
+<vendor>Gigaset</vendor>
+<vendorCode>A510A</vendorCode>
+
+</offer>
+<offer id="5607" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-texet-tx-224</url>
+<price>230000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5607/d2cd472c26d7e7aeb65fe15fdae20cae.jpg</picture>
+<name>Проводные телефоны TeXet TX-224</name>
+<vendor>TeXet</vendor>
+<vendorCode>TX-224</vendorCode>
+
+</offer>
+<offer id="5608" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-texet-tx-201</url>
+<price>260000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5608/f3c92d5f933232c4f356f6bf080d10d4.jpg</picture>
+<name>Проводные телефоны TeXet TX-201</name>
+<vendor>TeXet</vendor>
+<vendorCode>TX-201</vendorCode>
+
+</offer>
+<offer id="5609" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-texet-tx-226</url>
+<price>230000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5609/176774bdacc4bbb723ede4b614df25e9.jpg</picture>
+<name>Проводные телефоны TeXet TX-226</name>
+<vendor>TeXet</vendor>
+<vendorCode>TX-226</vendorCode>
+
+</offer>
+<offer id="5610" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-texet-tx-225</url>
+<price>230000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5610/52450c6fb51ec07f3c9eb65881380f14.jpg</picture>
+<name>Проводные телефоны TeXet TX-225</name>
+<vendor>TeXet</vendor>
+<vendorCode>TX-225</vendorCode>
+
+</offer>
+<offer id="5612" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-texet-tx-212</url>
+<price>240000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5612/48fc8d559fc71ed68c7ca058564fed02.jpg</picture>
+<name>Проводные телефоны TeXet TX-212</name>
+<vendor>TeXet</vendor>
+<vendorCode>TX-212</vendorCode>
+
+</offer>
+<offer id="5613" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-panasonic-kx-ts2382</url>
+<price>409000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5613/2b21d99e8a9ccfde64448d1d18ed8331.jpg</picture>
+<name>Проводные телефоны Panasonic KX-TS2382</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TS2382</vendorCode>
+
+</offer>
+<offer id="5614" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-panasonic-kx-ts2362</url>
+<price>539000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5614/6ec0c1b28b69969e669e606dd374c8fb.jpg</picture>
+<name>Проводные телефоны Panasonic KX-TS2362</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TS2362</vendorCode>
+
+</offer>
+<offer id="5615" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-panasonic-kx-ts2363</url>
+<price>592000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5615/ddf0628cd4ab5fb65dad48248799bf5b.jpg</picture>
+<name>Проводные телефоны Panasonic KX-TS2363</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TS2363</vendorCode>
+
+</offer>
+<offer id="5617" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-panasonic-kx-ts2352</url>
+<price>302000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5617/0ff7d90ef3c986804396b47e57fde21e.jpg</picture>
+<name>Проводные телефоны Panasonic KX-TS2352</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TS2352</vendorCode>
+
+</offer>
+<offer id="5618" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-panasonic-kx-ts2350</url>
+<price>284000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5618/239ce1238b20b15ea3598840d9382441.jpg</picture>
+<name>Проводные телефоны Panasonic KX-TS2350</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TS2350</vendorCode>
+
+</offer>
+<offer id="5619" available="true">
+<url>https://1teh.by/telefoniya/provodnyie-telefonyi-panasonic-kx-ts2388</url>
+<price>607000</price>
+<currencyId>BYR</currencyId>
+<categoryId>77</categoryId>
+<picture>https://1teh.by/files/product/5619/16d0b41b0496c1823d34c19c6ac43ddc.jpg</picture>
+<name>Проводные телефоны Panasonic KX-TS2388</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TS2388</vendorCode>
+
+</offer>
+<offer id="10527" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-senseit-r390</url>
+<price>3441000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10527/9a9ff6a71283397576cdbc4163fe8c35.jpg</picture>
+<name>Мобильные телефоны Senseit R390</name>
+<vendor>Senseit</vendor>
+<vendorCode>R390</vendorCode>
+
+</offer>
+<offer id="10509" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-ellips</url>
+<price>2060000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10509/c8479d5ba38dbd09cd1672fcf434afd2.jpg</picture>
+<name>Мобильные телефоны Keneksi Ellips</name>
+<vendor>Keneksi</vendor>
+<vendorCode>Ellips</vendorCode>
+
+</offer>
+<offer id="10510" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-amulet</url>
+<price>2543000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10510/e129547eb86af5a1f30bd07da39680b0.jpg</picture>
+<name>Мобильные телефоны Keneksi Amulet</name>
+<vendor>Keneksi</vendor>
+<vendorCode>Amulet</vendorCode>
+
+</offer>
+<offer id="10511" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-c7</url>
+<price>482000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10511/dea224f3e0f7ca2d1f4853ad6eefc29b.jpg</picture>
+<name>Мобильные телефоны Keneksi C7</name>
+<vendor>Keneksi</vendor>
+<vendorCode>C7</vendorCode>
+
+</offer>
+<offer id="10504" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-s8</url>
+<price>583000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10504/d8616de81ee8b80bff24dcdb45688bee.jpg</picture>
+<name>Мобильные телефоны Keneksi S8</name>
+<vendor>Keneksi</vendor>
+<vendorCode>S8</vendorCode>
+
+</offer>
+<offer id="10505" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-sky</url>
+<price>1862000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10505/5600a8fb0ff85f51e78acd7530ff053d.jpg</picture>
+<name>Мобильные телефоны Keneksi Sky</name>
+<vendor>Keneksi</vendor>
+<vendorCode>Sky</vendorCode>
+
+</offer>
+<offer id="10506" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-orion</url>
+<price>2090000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10506/a86874cba1844629f19075396a4bdfa2.jpg</picture>
+<name>Мобильные телефоны Keneksi Orion</name>
+<vendor>Keneksi</vendor>
+<vendorCode>Orion</vendorCode>
+
+</offer>
+<offer id="10376" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-explay-a170</url>
+<price>373000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10376/9166cccad3ad37379b326b8439f71269.jpg</picture>
+<name>Мобильные телефоны Explay A170</name>
+<vendor>Explay</vendor>
+<vendorCode>A170</vendorCode>
+
+</offer>
+<offer id="10501" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-sigma</url>
+<price>2365000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10501/7ae31b5a5971f75a9d780f78032a58fe.jpg</picture>
+<name>Мобильные телефоны Keneksi Sigma</name>
+<vendor>Keneksi</vendor>
+<vendorCode>Sigma</vendorCode>
+
+</offer>
+<offer id="10502" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-s2</url>
+<price>540000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10502/1885618e779f97ae2f1d9dafa5d779d6.jpg</picture>
+<name>Мобильные телефоны Keneksi S2</name>
+<vendor>Keneksi</vendor>
+<vendorCode>S2</vendorCode>
+
+</offer>
+<offer id="10503" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-teta-2</url>
+<price>1278000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10503/629e335406d9bbfd952d5d16faea22c6.jpg</picture>
+<name>Мобильные телефоны Keneksi Teta 2</name>
+<vendor>Keneksi</vendor>
+<vendorCode>Teta 2</vendorCode>
+
+</offer>
+<offer id="10498" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-sony-xperia-z1-compact</url>
+<price>6110000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10498/97c7d14b0b1042f9f8d6ca65d20c918e.jpg</picture>
+<name>Мобильные телефоны Sony Xperia Z1 Compact</name>
+<vendor>Sony</vendor>
+<vendorCode>Xperia Z1 Compact</vendorCode>
+
+</offer>
+<offer id="10383" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-explay-hit</url>
+<price>1201000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10383/dbad7ec2f07fa8b0dbe1a1e1c7915973.jpg</picture>
+<name>Мобильные телефоны Explay Hit</name>
+<vendor>Explay</vendor>
+<vendorCode>Hit</vendorCode>
+
+</offer>
+<offer id="10384" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-prestigio-multiphone-7500-16gb</url>
+<price>3489000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10384/c97c1d098a5a8698f9734141aae6f575.jpg</picture>
+<name>Мобильные телефоны Prestigio MultiPhone 7500 (16GB)</name>
+<vendor>Prestigio</vendor>
+<vendorCode>MultiPhone 7500 (16GB)</vendorCode>
+
+</offer>
+<offer id="10385" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-prestigio-multiphone-5430</url>
+<price>2690000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10385/fba194e0a2fa2a5120a58bb12894e5fd.jpg</picture>
+<name>Мобильные телефоны Prestigio MultiPhone 5430</name>
+<vendor>Prestigio</vendor>
+<vendorCode>MultiPhone 5430</vendorCode>
+
+</offer>
+<offer id="10386" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-prestigio-multiphone-7600-duo</url>
+<price>3872000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10386/c445d45821e464d12c2e730737a3daf9.jpg</picture>
+<name>Мобильные телефоны Prestigio MultiPhone 7600 DUO</name>
+<vendor>Prestigio</vendor>
+<vendorCode>MultiPhone 7600 DUO</vendorCode>
+
+</offer>
+<offer id="10399" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-texet-tm-103</url>
+<price>388000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10399/3aee3278af5edfc665e45bc74e84488b.jpg</picture>
+<name>Мобильные телефоны TeXet TM-103</name>
+<vendor>TeXet</vendor>
+<vendorCode>TM-103</vendorCode>
+
+</offer>
+<offer id="10404" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-texet-tm-b111</url>
+<price>515000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10404/488d442526d7d7783637b1f84e979ab7.jpg</picture>
+<name>Мобильные телефоны TeXet TM-B111</name>
+<vendor>TeXet</vendor>
+<vendorCode>TM-B111</vendorCode>
+
+</offer>
+<offer id="10465" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-nokia-220</url>
+<price>856000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10465/ffa0543e350045056dde8c02acaa7d4c.jpg</picture>
+<name>Мобильные телефоны Nokia 220</name>
+<vendor>Nokia</vendor>
+<vendorCode>220</vendorCode>
+
+</offer>
+<offer id="10410" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-acer-liquid-z5-duo-z150</url>
+<price>2550000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10410/0f8421aaca7c79a764ebb79f6a75e37d.jpg</picture>
+<name>Мобильные телефоны Acer Liquid Z5 Duo Z150</name>
+<vendor>Acer</vendor>
+<vendorCode>Liquid Z5 Duo Z150</vendorCode>
+
+</offer>
+<offer id="10406" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-texet-x-driver-tm-4104r</url>
+<price>3278000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10406/af7f9dd77be00b5b8172c31d69d4907c.jpg</picture>
+<name>Мобильные телефоны TeXet X-driver TM-4104R</name>
+<vendor>TeXet</vendor>
+<vendorCode>X-driver TM-4104R</vendorCode>
+
+</offer>
+<offer id="10454" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-nokia-220-dual-sim</url>
+<price>826000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10454/390f66e3796e43476ea5b5c3a3af2a29.jpg</picture>
+<name>Мобильные телефоны Nokia 220 Dual SIM</name>
+<vendor>Nokia</vendor>
+<vendorCode>220 Dual SIM</vendorCode>
+
+</offer>
+<offer id="10430" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-htc-desire-310-dual-sim</url>
+<price>2093000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10430/b4609ecb878e202a735e6dbf64f985b1.jpg</picture>
+<name>Мобильные телефоны HTC Desire 310 dual sim</name>
+<vendor>HTC</vendor>
+<vendorCode>Desire 310 dual sim</vendorCode>
+
+</offer>
+<offer id="10433" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-huawei-g525</url>
+<price>2665000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10433/5c183f5285abb62812b9e6fd60fffff3.jpg</picture>
+<name>Мобильные телефоны Huawei G525</name>
+<vendor>Huawei</vendor>
+<vendorCode>G525</vendorCode>
+
+</offer>
+<offer id="10469" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-philips-e120</url>
+<price>437000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10469/4979368ced4dfe527cf50c420fc9bae0.jpg</picture>
+<name>Мобильные телефоны Philips E120</name>
+<vendor>Philips</vendor>
+<vendorCode>E120</vendorCode>
+
+</offer>
+<offer id="10476" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-s5611</url>
+<price>1495000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10476/638f08c1a6afdc87d24df29f26a1a693.jpg</picture>
+<name>Мобильные телефоны Samsung S5611</name>
+<vendor>Samsung</vendor>
+<vendorCode>S5611</vendorCode>
+
+</offer>
+<offer id="10495" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-sony-xperia-t2-ultra-dual</url>
+<price>4926000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10495/6dea80c9c14671c8baec5afe4e7ffa7c.jpg</picture>
+<name>Мобильные телефоны Sony Xperia T2 Ultra dual</name>
+<vendor>Sony</vendor>
+<vendorCode>Xperia T2 Ultra dual</vendorCode>
+
+</offer>
+<offer id="10496" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-sony-xperia-e1</url>
+<price>1986000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10496/fe50f3cafbcbca7f77549d50a8585f87.jpg</picture>
+<name>Мобильные телефоны Sony Xperia E1</name>
+<vendor>Sony</vendor>
+<vendorCode>Xperia E1</vendorCode>
+
+</offer>
+<offer id="10512" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-keneksi-s1</url>
+<price>540000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/10512/9cc9e05be7e89cc99495e5768b13060c.jpg</picture>
+<name>Мобильные телефоны Keneksi S1</name>
+<vendor>Keneksi</vendor>
+<vendorCode>S1</vendorCode>
+
+</offer>
+<offer id="10655" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-samsung-galaxy-tab4-7-0-8gb-white-sm-t230</url>
+<price>2666000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/10655/efbb2783ae9710f01cde311a36fc41df.jpg</picture>
+<name>Планшеты Samsung Galaxy Tab4 7.0 8GB White (SM-T230)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Tab4 7.0 8GB White (SM-T230)</vendorCode>
+
+</offer>
+<offer id="10662" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-samsung-galaxy-tab-4-8-0-16gb-3g-black-sm-t331</url>
+<price>4172000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/10662/e1d68b9a838432e1b51596db04cbf2b9.jpg</picture>
+<name>Планшеты Samsung Galaxy Tab 4 8.0 16GB 3G Black (SM-T331)</name>
+<vendor>Samsung</vendor>
+<vendorCode>Galaxy Tab 4 8.0 16GB 3G Black (SM-T331)</vendorCode>
+
+</offer>
+<offer id="10746" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg8061</url>
+<price>847000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/10746/fd7f56dcfcbca6b675841efebb214a9f.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG8061</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG8061</vendorCode>
+
+</offer>
+<offer id="10747" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg2521</url>
+<price>660000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/10747/e132a62e7a6d479316b58344b1389a12.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG2521</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG2521</vendorCode>
+
+</offer>
+<offer id="10748" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tg6461</url>
+<price>1300000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/10748/2132965b0aad4282ee15d0501e287110.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TG6461</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TG6461</vendorCode>
+
+</offer>
+<offer id="10740" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-panasonic-kx-tgb210ru</url>
+<price>440000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/10740/023e05d436877e547e5ef31865a471f1.jpg</picture>
+<name>Радиотелефоны DECT Panasonic KX-TGB210RU</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-TGB210RU</vendorCode>
+
+</offer>
+<offer id="10764" available="true">
+<url>https://1teh.by/telefoniya/radiotelefonyi-dect-gigaset-c430</url>
+<price>860000</price>
+<currencyId>BYR</currencyId>
+<categoryId>60</categoryId>
+<picture>https://1teh.by/files/product/10764/c38d105aa276bc8681a6c98992bfffbc.jpg</picture>
+<name>Радиотелефоны DECT Gigaset C430</name>
+<vendor>Gigaset</vendor>
+<vendorCode>C430</vendorCode>
+
+</offer>
+<offer id="12181" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-texet-ix-mini-tm-4182</url>
+<price>2144000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/12181/366cdc0db1689e0acc975cad47f4d8b5.jpg</picture>
+<name>Мобильные телефоны TeXet iX-mini TM-4182</name>
+<vendor>TeXet</vendor>
+<vendorCode>iX-mini TM-4182</vendorCode>
+
+</offer>
+<offer id="12188" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-fly-iq431</url>
+<price>887000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/12188/8a215dd132667f6c354cd90ae7e86c87.jpg</picture>
+<name>Мобильные телефоны Fly IQ431</name>
+<vendor>Fly</vendor>
+<vendorCode>IQ431</vendorCode>
+
+</offer>
+<offer id="12271" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-archos-97b-titanium-8gb</url>
+<price>2415000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/12271/088b377393d2bb3e6d202b3bd66ff5df.jpg</picture>
+<name>Планшеты Archos 97b titanium 8GB</name>
+<vendor>Archos</vendor>
+<vendorCode>97b titanium 8GB</vendorCode>
+
+</offer>
+<offer id="13033" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-lg-g3-stylus-d690</url>
+<price>3849000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/13033/7f4fa53c0c838f64431a2b0c0b6a02fb.jpg</picture>
+<name>Мобильные телефоны LG G3 Stylus (D690)</name>
+<vendor>LG</vendor>
+<vendorCode>G3 Stylus (D690)</vendorCode>
+
+</offer>
+<offer id="13050" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-seemax-smart-kid-s70-8gb-blue</url>
+<price>1552000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/13050/010786fe863d961de74b39d461f9964c.jpg</picture>
+<name>Планшеты SeeMax Smart Kid S70 8GB Blue</name>
+<vendor>SeeMax</vendor>
+<vendorCode>Smart Kid S70 8GB Blue</vendorCode>
+
+</offer>
+<offer id="13051" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-seemax-smart-kid-s70-8gb-green</url>
+<price>1552000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/13051/6c6b36879baf3423887fb413101c610c.jpg</picture>
+<name>Планшеты SeeMax Smart Kid S70 8GB Green</name>
+<vendor>SeeMax</vendor>
+<vendorCode>Smart Kid S70 8GB Green</vendorCode>
+
+</offer>
+<offer id="13052" available="true">
+<url>https://1teh.by/telefoniya/planshetyi-seemax-smart-kid-s70-8gb-pink</url>
+<price>1552000</price>
+<currencyId>BYR</currencyId>
+<categoryId>57</categoryId>
+<picture>https://1teh.by/files/product/13052/dab1bf5497417babc44d42e57938cde2.jpg</picture>
+<name>Планшеты SeeMax Smart Kid S70 8GB Pink</name>
+<vendor>SeeMax</vendor>
+<vendorCode>Smart Kid S70 8GB Pink</vendorCode>
+
+</offer>
+<offer id="13334" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-htc-desire-510</url>
+<price>3182000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/13334/5135caed4887082db5ac6eb78bcb8133.jpg</picture>
+<name>Мобильные телефоны HTC Desire 510</name>
+<vendor>HTC</vendor>
+<vendorCode>Desire 510</vendorCode>
+
+</offer>
+<offer id="13335" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-lg-l-bello-d335</url>
+<price>2938000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/13335/020bd3e24d75da566afc674ddc2387a2.jpg</picture>
+<name>Мобильные телефоны LG L Bello (D335)</name>
+<vendor>LG</vendor>
+<vendorCode>L Bello (D335)</vendorCode>
+
+</offer>
+<offer id="13339" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-sony-xperia-t2-ultra</url>
+<price>4926000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/13339/e0b03d8efb863fcb88b0a8219c772f1f.jpg</picture>
+<name>Мобильные телефоны Sony Xperia T2 Ultra</name>
+<vendor>Sony</vendor>
+<vendorCode>Xperia T2 Ultra</vendorCode>
+
+</offer>
+<offer id="13745" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-nokia-515-dual-sim</url>
+<price>2569000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/13745/7bfd951856628affe36a9f74e13f1c0a.jpg</picture>
+<name>Мобильные телефоны Nokia 515 Dual SIM</name>
+<vendor>Nokia</vendor>
+<vendorCode>515 Dual SIM</vendorCode>
+
+</offer>
+<offer id="13869" available="true">
+<url>https://1teh.by/telefoniya/mobilnyie-telefonyi-samsung-e1202</url>
+<price>507000</price>
+<currencyId>BYR</currencyId>
+<categoryId>47</categoryId>
+<picture>https://1teh.by/files/product/13869/a8faeb808dc9db7fe3d3172fe43d8412.jpg</picture>
+<name>Мобильные телефоны Samsung E1202</name>
+<vendor>Samsung</vendor>
+<vendorCode>E1202</vendorCode>
+
+</offer>
+</offers>
+		</shop>
+
+</yml_catalog>

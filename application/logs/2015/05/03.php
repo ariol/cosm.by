@@ -1,0 +1,36 @@
+<?php defined('SYSPATH') OR die('No direct script access.'); ?>
+
+2015-05-03 23:46:13 --- EMERGENCY: Database_Exception [ 1048 ]: Column 'brand_id' cannot be null [ INSERT INTO `product` (`name`, `url`, `video`, `section_id`, `brand_id`, `top`, `active`, `important`, `comments_enabled`, `short_content`, `content`, `s_title`, `s_description`, `s_keywords`, `main_image`, `price`, `discount`, `new_price`, `more_images`, `md5_url`, `create_date`, `update_date`, `updated_at`) VALUES ('Матирующий солнцезащитный крем (Comodex Mattifying SunScreen SPF-15) 75 мл', '', '', '39', NULL, '1', '1', '1', '1', 'Идеальная база под макияж при жирной проблемной коже.\n', 'Идеальная база под макияж при жирной проблемной коже. Обеспечивает надежную защиту от солнца, увлажняет и делает кожу красивой, гладкой и матовой.\n', '', '', '', '/temp/ochisshayusshij-gel-comodex-100-ml%20%283%29.jpg', '525000', '', '472000', '/temp/podsushivayusshij-gel-comodex-30-ml%20%281%29.jpg', 'd41d8cd98f00b204e9800998ecf8427e', '2015-05-03 23:46:13', '2015-05-03 23:46:13', '2015-05-03 23:46:13') ] ~ MODPATH/ariol/classes/Kohana/Database/MySQLi.php [ 174 ] in /home/vitaliy/www/1teh.by/modules/database/classes/Kohana/Database/Query.php:251
+2015-05-03 23:46:13 --- DEBUG: #0 /home/vitaliy/www/1teh.by/modules/database/classes/Kohana/Database/Query.php(251): Kohana_Database_MySQLi->query(2, 'INSERT INTO `pr...', false, Array)
+#1 /home/vitaliy/www/1teh.by/modules/orm/classes/Kohana/ORM.php(1334): Kohana_Database_Query->execute(Object(Database_MySQLi))
+#2 /home/vitaliy/www/1teh.by/modules/orm/classes/Kohana/ORM.php(1431): Kohana_ORM->create(NULL)
+#3 /home/vitaliy/www/1teh.by/modules/ariol/classes/Extasy/Orm.php(356): Kohana_ORM->save(NULL)
+#4 /home/vitaliy/www/1teh.by/application/classes/Model/Product.php(126): Extasy_Orm->save(NULL)
+#5 /home/vitaliy/www/1teh.by/modules/ariol/classes/CM/Form/Abstract.php(124): Model_Product->save()
+#6 /home/vitaliy/www/1teh.by/modules/ariol/classes/CM/Form/Abstract.php(97): CM_Form_Abstract->after_submit()
+#7 /home/vitaliy/www/1teh.by/modules/ariol/classes/Controller/Crud.php(216): CM_Form_Abstract->submit()
+#8 /home/vitaliy/www/1teh.by/modules/ariol/classes/Controller/Crud.php(190): Controller_Crud->process_form(Object(Model_Product))
+#9 /home/vitaliy/www/1teh.by/system/classes/Kohana/Controller.php(84): Controller_Crud->action_create()
+#10 [internal function]: Kohana_Controller->execute()
+#11 /home/vitaliy/www/1teh.by/system/classes/Kohana/Request/Client/Internal.php(97): ReflectionMethod->invoke(Object(Controller_Admin_Product))
+#12 /home/vitaliy/www/1teh.by/system/classes/Kohana/Request/Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#13 /home/vitaliy/www/1teh.by/system/classes/Kohana/Request.php(986): Kohana_Request_Client->execute(Object(Request))
+#14 /home/vitaliy/www/1teh.by/index.php(149): Kohana_Request->execute()
+#15 {main} in /home/vitaliy/www/1teh.by/modules/database/classes/Kohana/Database/Query.php:251
+2015-05-03 23:47:25 --- EMERGENCY: Database_Exception [ 1048 ]: Column 'brand_id' cannot be null [ INSERT INTO `product` (`name`, `url`, `video`, `section_id`, `brand_id`, `top`, `active`, `important`, `comments_enabled`, `short_content`, `content`, `s_title`, `s_description`, `s_keywords`, `main_image`, `price`, `discount`, `new_price`, `more_images`, `md5_url`, `create_date`, `update_date`, `updated_at`) VALUES ('Матирующий солнцезащитный крем (Comodex Mattifying SunScreen SPF-15) 75 мл', '', '', '39', NULL, '1', '1', '1', '1', 'Идеальная база под макияж при жирной проблемной коже.\n', 'Идеальная база под макияж при жирной проблемной коже. Обеспечивает надежную защиту от солнца, увлажняет и делает кожу красивой, гладкой и матовой.\n', '', '', '', '', '570000', '', '475000', '', 'd41d8cd98f00b204e9800998ecf8427e', '2015-05-03 23:47:25', '2015-05-03 23:47:25', '2015-05-03 23:47:25') ] ~ MODPATH/ariol/classes/Kohana/Database/MySQLi.php [ 174 ] in /home/vitaliy/www/1teh.by/modules/database/classes/Kohana/Database/Query.php:251
+2015-05-03 23:47:25 --- DEBUG: #0 /home/vitaliy/www/1teh.by/modules/database/classes/Kohana/Database/Query.php(251): Kohana_Database_MySQLi->query(2, 'INSERT INTO `pr...', false, Array)
+#1 /home/vitaliy/www/1teh.by/modules/orm/classes/Kohana/ORM.php(1334): Kohana_Database_Query->execute(Object(Database_MySQLi))
+#2 /home/vitaliy/www/1teh.by/modules/orm/classes/Kohana/ORM.php(1431): Kohana_ORM->create(NULL)
+#3 /home/vitaliy/www/1teh.by/modules/ariol/classes/Extasy/Orm.php(356): Kohana_ORM->save(NULL)
+#4 /home/vitaliy/www/1teh.by/application/classes/Model/Product.php(126): Extasy_Orm->save(NULL)
+#5 /home/vitaliy/www/1teh.by/modules/ariol/classes/CM/Form/Abstract.php(124): Model_Product->save()
+#6 /home/vitaliy/www/1teh.by/modules/ariol/classes/CM/Form/Abstract.php(97): CM_Form_Abstract->after_submit()
+#7 /home/vitaliy/www/1teh.by/modules/ariol/classes/Controller/Crud.php(216): CM_Form_Abstract->submit()
+#8 /home/vitaliy/www/1teh.by/modules/ariol/classes/Controller/Crud.php(190): Controller_Crud->process_form(Object(Model_Product))
+#9 /home/vitaliy/www/1teh.by/system/classes/Kohana/Controller.php(84): Controller_Crud->action_create()
+#10 [internal function]: Kohana_Controller->execute()
+#11 /home/vitaliy/www/1teh.by/system/classes/Kohana/Request/Client/Internal.php(97): ReflectionMethod->invoke(Object(Controller_Admin_Product))
+#12 /home/vitaliy/www/1teh.by/system/classes/Kohana/Request/Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#13 /home/vitaliy/www/1teh.by/system/classes/Kohana/Request.php(986): Kohana_Request_Client->execute(Object(Request))
+#14 /home/vitaliy/www/1teh.by/index.php(149): Kohana_Request->execute()
+#15 {main} in /home/vitaliy/www/1teh.by/modules/database/classes/Kohana/Database/Query.php:251

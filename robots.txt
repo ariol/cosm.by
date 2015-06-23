@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: /
+Disallow: /feedback
+Disallow: /ajax
+Disallow: /load
+Disallow: /cart
+Disallow: /like
+Disallow: /search
+Disallow: /*brand=*
+Disallow: /*?filter*
+Disallow: /*&filter*
+Disallow: /*order=*
+Disallow: /*dest=*

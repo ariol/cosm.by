@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='windows-1251'?>
+			<!DOCTYPE yml_catalog SYSTEM 'shops.dtd'>
+	<yml_catalog date='2015-04-13 15:14'>
+<shop>
+<name>1teh.by</name>
+		<company>ООО &amp;quot;ОдинТех&amp;quot;</company>
+		<url>https://1teh.by</url>
+		<currencies>
+<currency id="BUR" rate="1" />
+</currencies>
+		<categories>
+<category id="84">Увлажнители воздуха</category>
+<category id="129">Кондиционеры</category>
+<category id="107">Водонагреватели</category>
+</categories>
+		<offers>
+<offer id="6467" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/uvlajniteli-vozduha-vitek-vt-1763</url>
+<price>1033000</price>
+<currencyId>BYR</currencyId>
+<categoryId>84</categoryId>
+<picture>https://1teh.by/files/product/6467/1a5acf17236558c771ddfd3b57e6a136.jpg</picture>
+<name>Увлажнители воздуха Vitek VT-1763</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1763</vendorCode>
+
+</offer>
+<offer id="6469" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/uvlajniteli-vozduha-vitek-vt-1760-w</url>
+<price>830000</price>
+<currencyId>BYR</currencyId>
+<categoryId>84</categoryId>
+<picture>https://1teh.by/files/product/6469/9f620fd3da1f87b5bb91d148a3c9328a.jpg</picture>
+<name>Увлажнители воздуха Vitek VT-1760 W</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1760 W</vendorCode>
+
+</offer>
+<offer id="6472" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/uvlajniteli-vozduha-vitek-vt-1762-w</url>
+<price>1154000</price>
+<currencyId>BYR</currencyId>
+<categoryId>84</categoryId>
+<picture>https://1teh.by/files/product/6472/898cdaf7e9081614e03900115496c2fc.jpg</picture>
+<name>Увлажнители воздуха Vitek VT-1762 W</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1762 W</vendorCode>
+
+</offer>
+<offer id="7663" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/konditsioneryi-delonghi-pinguino-pac-an110</url>
+<price>9640000</price>
+<currencyId>BYR</currencyId>
+<categoryId>129</categoryId>
+<picture>https://1teh.by/files/product/7663/e0d3c770e32fb9b6f95fe22bc4554a23.jpg</picture>
+<name>Кондиционеры DeLonghi Pinguino PAC AN110</name>
+<vendor>DeLonghi</vendor>
+<vendorCode>Pinguino PAC AN110</vendorCode>
+
+</offer>
+<offer id="7668" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/konditsioneryi-komatsu-ksw-07h7</url>
+<price>7615000</price>
+<currencyId>BYR</currencyId>
+<categoryId>129</categoryId>
+<picture>https://1teh.by/files/product/7668/c41814e2156fd4afe9bc0b53e9e5947a.jpg</picture>
+<name>Кондиционеры Komatsu KSW-07H7</name>
+<vendor>Komatsu</vendor>
+<vendorCode>KSW-07H7</vendorCode>
+
+</offer>
+<offer id="11198" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/uvlajniteli-vozduha-philips-hu4802</url>
+<price>1994000</price>
+<currencyId>BYR</currencyId>
+<categoryId>84</categoryId>
+<picture>https://1teh.by/files/product/11198/e2c2da79b941ee277f7a130620ef6fdc.jpg</picture>
+<name>Увлажнители воздуха Philips HU4802</name>
+<vendor>Philips</vendor>
+<vendorCode>HU4802</vendorCode>
+
+</offer>
+<offer id="11194" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-thermex-champion-h-10-u</url>
+<price>1584000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11194/7a2604a26cd90abe174202b8f5719edd.jpg</picture>
+<name>Водонагреватели Thermex CHAMPION H 10 U</name>
+<vendor>Thermex</vendor>
+<vendorCode>CHAMPION H 10 U</vendorCode>
+
+</offer>
+<offer id="11175" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-thermex-stream-350-chrome</url>
+<price>858000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11175/db8dd1e3bd16709f33a3f1658ca655f9.jpg</picture>
+<name>Водонагреватели Thermex Stream 350 Chrome</name>
+<vendor>Thermex</vendor>
+<vendorCode>Stream 350 Chrome</vendorCode>
+
+</offer>
+<offer id="11178" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-thermex-hit-h15-u</url>
+<price>1462000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11178/27c94227f2c245305b4592ef7077c42b.jpg</picture>
+<name>Водонагреватели Thermex Hit H15-U</name>
+<vendor>Thermex</vendor>
+<vendorCode>Hit H15-U</vendorCode>
+
+</offer>
+<offer id="11186" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-thermex-hit-h10-o</url>
+<price>1164000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11186/2ac31330dca4e32ba3bc42f260e6c890.jpg</picture>
+<name>Водонагреватели Thermex Hit H10-O</name>
+<vendor>Thermex</vendor>
+<vendorCode>Hit H10-O</vendorCode>
+
+</offer>
+<offer id="11187" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-thermex-es-50-v</url>
+<price>1866000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11187/12d6ea6c4f8390cedc5107a43917ba9b.jpg</picture>
+<name>Водонагреватели Thermex ES 50 V</name>
+<vendor>Thermex</vendor>
+<vendorCode>ES 50 V</vendorCode>
+
+</offer>
+<offer id="11188" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-thermex-es-30-v</url>
+<price>1629000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11188/0034f18ca61fe2425c9116e0f1921887.jpg</picture>
+<name>Водонагреватели Thermex ES 30 V</name>
+<vendor>Thermex</vendor>
+<vendorCode>ES 30 V</vendorCode>
+
+</offer>
+<offer id="11189" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-thermex-er-80-v</url>
+<price>1704000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11189/1f33e3b5f13e0b789aa16a551fcce9fc.jpg</picture>
+<name>Водонагреватели Thermex ER 80 V</name>
+<vendor>Thermex</vendor>
+<vendorCode>ER 80 V</vendorCode>
+
+</offer>
+<offer id="11152" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-garanterm-es-65-v</url>
+<price>1882000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11152/dcfac784e03940be67454c7101a66f57.jpg</picture>
+<name>Водонагреватели Garanterm ES 65 V</name>
+<vendor>Garanterm</vendor>
+<vendorCode>ES 65 V</vendorCode>
+
+</offer>
+<offer id="11171" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-regent-nts-80-v</url>
+<price>1782000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11171/a47a9b82aabfb5e2e291c02a0c5fdc9a.jpg</picture>
+<name>Водонагреватели Regent NTS 80 V</name>
+<vendor>Regent</vendor>
+<vendorCode>NTS 80 V</vendorCode>
+
+</offer>
+<offer id="11167" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-regent-nts-flat-100v-pw-re</url>
+<price>3155000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11167/6ff91f5f8459aab95921a70bd15ee374.jpg</picture>
+<name>Водонагреватели Regent NTS FLAT 100V PW (RE)</name>
+<vendor>Regent</vendor>
+<vendorCode>NTS FLAT 100V PW (RE)</vendorCode>
+
+</offer>
+<offer id="11169" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-regent-nts-30v-1-5k-re-slim</url>
+<price>1106000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11169/7745ed4b6b71ab53ae21979689736125.jpg</picture>
+<name>Водонагреватели Regent NTS 30V 1.5K (RE) Slim</name>
+<vendor>Regent</vendor>
+<vendorCode>NTS 30V 1.5K (RE) Slim</vendorCode>
+
+</offer>
+<offer id="11163" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-garanterm-er-50-v</url>
+<price>1445000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11163/8fec1332b245dce8607b6285a5417e35.jpg</picture>
+<name>Водонагреватели Garanterm ER 50-V</name>
+<vendor>Garanterm</vendor>
+<vendorCode>ER 50-V</vendorCode>
+
+</offer>
+<offer id="11161" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-garanterm-er-80-v</url>
+<price>1528000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11161/e1bcf0d5a71ad069878eabba7122a917.jpg</picture>
+<name>Водонагреватели Garanterm ER 80-V</name>
+<vendor>Garanterm</vendor>
+<vendorCode>ER 80-V</vendorCode>
+
+</offer>
+<offer id="11149" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-pro-15-ur</url>
+<price>1443000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11149/0212c9db770185539e5e2e4552fe09af.jpg</picture>
+<name>Водонагреватели Ariston ABS PRO 15 UR</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS PRO 15 UR</vendorCode>
+
+</offer>
+<offer id="11147" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-pro-10-ur</url>
+<price>1321000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11147/0128dfb303339413d8a8f0ba1876a24a.jpg</picture>
+<name>Водонагреватели Ariston ABS PRO 10 UR</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS PRO 10 UR</vendorCode>
+
+</offer>
+<offer id="11148" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-pro-15-or</url>
+<price>1445000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11148/01b2a3b4b9f1b1c3f77748288a649c7e.jpg</picture>
+<name>Водонагреватели Ariston ABS PRO 15 OR</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS PRO 15 OR</vendorCode>
+
+</offer>
+<offer id="11145" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-blu-r-80v-slim</url>
+<price>1808000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11145/8a6367e374546a9a67199a415f07ad38.jpg</picture>
+<name>Водонагреватели Ariston ABS BLU R 80V SLIM</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS BLU R 80V SLIM</vendorCode>
+
+</offer>
+<offer id="11146" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-pro-10-or</url>
+<price>1321000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11146/0fa10197cbc39bf3558b06c4e2b83227.jpg</picture>
+<name>Водонагреватели Ariston ABS PRO 10 OR</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS PRO 10 OR</vendorCode>
+
+</offer>
+<offer id="11144" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-blu-r-80v</url>
+<price>1764000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11144/5db9a1e3f26a0d59a13cacf3c2270b9c.jpg</picture>
+<name>Водонагреватели Ariston ABS BLU R 80V</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS BLU R 80V</vendorCode>
+
+</offer>
+<offer id="11141" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-blu-r-50v</url>
+<price>1630000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11141/ce16599bdcf54416fc594baf509eb424.jpg</picture>
+<name>Водонагреватели Ariston ABS BLU R 50V</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS BLU R 50V</vendorCode>
+
+</offer>
+<offer id="11142" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-blu-r-50v-slim</url>
+<price>1760000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11142/6b394f84a907d251345be90a9af36cc3.jpg</picture>
+<name>Водонагреватели Ariston ABS BLU R 50V SLIM</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS BLU R 50V SLIM</vendorCode>
+
+</offer>
+<offer id="11143" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-blu-r-65v-slim</url>
+<price>1794000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11143/9ee968144ea48f06ad00765c24e5bbf4.jpg</picture>
+<name>Водонагреватели Ariston ABS BLU R 65V SLIM</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS BLU R 65V SLIM</vendorCode>
+
+</offer>
+<offer id="11131" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-blu-eco-pw-80-v</url>
+<price>2041000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11131/e3babe1950cfd923ad6d25cb71dd56fe.jpg</picture>
+<name>Водонагреватели Ariston ABS BLU ECO PW 80 V</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS BLU ECO PW 80 V</vendorCode>
+
+</offer>
+<offer id="11132" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-blu-eco-pw-50-v</url>
+<price>2059000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11132/123355e51b4cb33b5f33a6d80d57496c.jpg</picture>
+<name>Водонагреватели Ariston ABS BLU ECO PW 50 V</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS BLU ECO PW 50 V</vendorCode>
+
+</offer>
+<offer id="11134" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-pro-eco-inox-pw-50-v</url>
+<price>3054000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11134/82f2ddc9d4ea619886195f1fa0cabe03.jpg</picture>
+<name>Водонагреватели Ariston ABS PRO ECO INOX PW 50 V</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS PRO ECO INOX PW 50 V</vendorCode>
+
+</offer>
+<offer id="11139" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-blu-r-100v</url>
+<price>1903000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11139/f502e83442f2173cf4e2222729507508.jpg</picture>
+<name>Водонагреватели Ariston ABS BLU R 100V</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS BLU R 100V</vendorCode>
+
+</offer>
+<offer id="11111" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-inox-qh-80</url>
+<price>4804000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11111/1718ad0dfee6c08cca26610b1d97e945.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS Inox QH 80</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS Inox QH 80</vendorCode>
+
+</offer>
+<offer id="11112" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-inox-pw-100-3605499</url>
+<price>4644000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11112/ab7711c4ff13e383cd911d4de35baa3c.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS INOX PW 100 (3605499)</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS INOX PW 100 (3605499)</vendorCode>
+
+</offer>
+<offer id="11113" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-inox-qh-30</url>
+<price>3491000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11113/54a91d59e981e956b8682648fd58442d.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS Inox QH 30</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS Inox QH 30</vendorCode>
+
+</offer>
+<offer id="11114" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-inox-qh-100</url>
+<price>5773000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11114/91e3494bc914f3bfd83a2fda178e7888.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS Inox QH 100</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS Inox QH 100</vendorCode>
+
+</offer>
+<offer id="11116" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-pw-80</url>
+<price>3292000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11116/ec41bf9518b438960e5aec3c1c67c3cd.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS PW 80</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS PW 80</vendorCode>
+
+</offer>
+<offer id="11119" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-inox-pw-30-3605496</url>
+<price>3403000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11119/ab7482306accf3524e7992b6e7d0476d.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS INOX PW 30 (3605496)</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS INOX PW 30 (3605496)</vendorCode>
+
+</offer>
+<offer id="11120" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-inox-pw-50-3605497</url>
+<price>3270000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11120/18580b0171b7d636276b9adf658edd7c.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS INOX PW 50 (3605497)</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS INOX PW 50 (3605497)</vendorCode>
+
+</offer>
+<offer id="11121" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-inox-pw-80-3605498</url>
+<price>4559000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11121/15390825f7c4c1b7328b9cb8554e4dd8.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS INOX PW 80 (3605498)</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS INOX PW 80 (3605498)</vendorCode>
+
+</offer>
+<offer id="11123" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-pw-50</url>
+<price>2551000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11123/c05f769baf3c259cc881671563a38162.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS PW 50</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS PW 50</vendorCode>
+
+</offer>
+<offer id="11124" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-pro-30-r-3100276</url>
+<price>1643000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11124/a4efe5b53bc136788d88f4841eb678d9.jpg</picture>
+<name>Водонагреватели Ariston ABS PRO 30 R (3100276)</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS PRO 30 R (3100276)</vendorCode>
+
+</offer>
+<offer id="11125" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-qh-100</url>
+<price>3948000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11125/821e3182533db4fb89034a5528b25705.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS QH 100</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS QH 100</vendorCode>
+
+</offer>
+<offer id="11126" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-qh-30</url>
+<price>2483000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11126/314f6a7a5316893cfeccd59221bfb97b.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS QH 30</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS QH 30</vendorCode>
+
+</offer>
+<offer id="11127" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-qh-50</url>
+<price>2789000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11127/b745b0ba46a336e5c89c3d042b554bc2.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS QH 50</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS QH 50</vendorCode>
+
+</offer>
+<offer id="11128" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-vls-qh-80</url>
+<price>4122000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11128/a52019ddcf92b0f5c5538796fd28db0d.jpg</picture>
+<name>Водонагреватели Ariston ABS VLS QH 80</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS VLS QH 80</vendorCode>
+
+</offer>
+<offer id="11130" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-ariston-abs-blu-r-30v-slim</url>
+<price>1529000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11130/f2ff5e48a9fc63a725ad0e987e90bee0.jpg</picture>
+<name>Водонагреватели Ariston ABS BLU R 30V SLIM</name>
+<vendor>Ariston</vendor>
+<vendorCode>ABS BLU R 30V SLIM</vendorCode>
+
+</offer>
+<offer id="11106" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/vodonagrevateli-belvar-evbo-10-1-6</url>
+<price>746000</price>
+<currencyId>BYR</currencyId>
+<categoryId>107</categoryId>
+<picture>https://1teh.by/files/product/11106/71948f27c0eba51ea3dd9b1be974e55e.jpg</picture>
+<name>Водонагреватели Белвар ЭВБО 10/1,6</name>
+<vendor>Белвар</vendor>
+
+</offer>
+<offer id="7798" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/uvlajniteli-vozduha-philips-hu4706-11</url>
+<price>900000</price>
+<currencyId>BYR</currencyId>
+<categoryId>84</categoryId>
+<picture>https://1teh.by/files/product/7798/e4e53044a796b25bc99dbcf41de0c3c5.jpg</picture>
+<name>Увлажнители воздуха Philips HU4706/11</name>
+<vendor>Philips</vendor>
+<vendorCode>HU4706/11</vendorCode>
+
+</offer>
+<offer id="11199" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/uvlajniteli-vozduha-maxwell-mw-3553</url>
+<price>568000</price>
+<currencyId>BYR</currencyId>
+<categoryId>84</categoryId>
+<picture>https://1teh.by/files/product/11199/71bd12cd364458d90561eeba4e33d94a.jpg</picture>
+<name>Увлажнители воздуха Maxwell MW-3553</name>
+<vendor>Maxwell</vendor>
+<vendorCode>MW-3553</vendorCode>
+
+</offer>
+<offer id="11202" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/uvlajniteli-vozduha-redmond-rhf-3302</url>
+<price>939000</price>
+<currencyId>BYR</currencyId>
+<categoryId>84</categoryId>
+<picture>https://1teh.by/files/product/11202/a106c1797eb168039b7fd51ba89484a8.jpg</picture>
+<name>Увлажнители воздуха Redmond RHF-3302</name>
+<vendor>Redmond</vendor>
+<vendorCode>RHF-3302</vendorCode>
+
+</offer>
+<offer id="11207" available="true">
+<url>https://1teh.by/klimaticheskaya-tehnika/uvlajniteli-vozduha-vitek-vt-1769-w</url>
+<price>1426000</price>
+<currencyId>BYR</currencyId>
+<categoryId>84</categoryId>
+<picture>https://1teh.by/files/product/11207/1c3f844fc05a690618c5c0bc14cbf3d0.jpg</picture>
+<name>Увлажнители воздуха Vitek VT-1769 W</name>
+<vendor>Vitek</vendor>
+<vendorCode>VT-1769 W</vendorCode>
+
+</offer>
+</offers>
+		</shop>
+
+</yml_catalog>

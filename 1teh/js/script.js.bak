@@ -1,0 +1,16 @@
+$(document).ready(function(){
+	if($('#sm_slider').length>0) {
+		$('.himg').load(function(){
+				var sliderimg = $('.himg').height();
+				 $('#sm_slider').smSlider({
+					autoPlay : true,
+					delay : 5000,
+					transition : 'fader',
+					hoverPause : true,
+					flexible : true,
+					height : sliderimg
+				} );
+				$('.sm_slider-inner').height(sliderimg);
+		});
+	}
+})

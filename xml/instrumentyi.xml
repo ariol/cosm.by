@@ -1,0 +1,899 @@
+<?xml version='1.0' encoding='windows-1251'?>
+			<!DOCTYPE yml_catalog SYSTEM 'shops.dtd'>
+	<yml_catalog date='2015-04-13 15:14'>
+<shop>
+<name>1teh.by</name>
+		<company>ООО &amp;quot;ОдинТех&amp;quot;</company>
+		<url>https://1teh.by</url>
+		<currencies>
+<currency id="BUR" rate="1" />
+</currencies>
+		<categories>
+<category id="99">Электропилы</category>
+<category id="100">Электродрели и дрели-шуруповерты</category>
+<category id="123">Угловые шлифмашины (болгарки)</category>
+<category id="101">Электролобзики</category>
+<category id="155">Рубанки</category>
+<category id="124">Шлифмашины</category>
+<category id="98">Газонокосилки</category>
+<category id="122">Промышленные фены</category>
+<category id="109">Наборы инструментов</category>
+<category id="102">Электро- и бензопилы</category>
+<category id="103">Электроотвертки и шуруповерты</category>
+<category id="110">Перфораторы</category>
+<category id="133">Лазерные дальномеры</category>
+</categories>
+		<offers>
+<offer id="6962" available="true">
+<url>https://1teh.by/instrumentyi/elektropilyi-armateh-at9121</url>
+<price>1503000</price>
+<currencyId>BYR</currencyId>
+<categoryId>99</categoryId>
+<picture>https://1teh.by/files/product/6962/3585afd55d11dcaa12f58855c0edbe1f.jpg</picture>
+<name>Электропилы Armateh AT9121</name>
+<vendor>Armateh</vendor>
+<vendorCode>AT9121</vendorCode>
+
+</offer>
+<offer id="6974" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-bosch-psr-18-0603955321</url>
+<price>1960000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/6974/c835dd4ec2339c893999478d0f1303f1.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Bosch PSR 18 (0603955321)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PSR 18 (0603955321)</vendorCode>
+
+</offer>
+<offer id="6977" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-bosch-gbm-10-re</url>
+<price>1367000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/6977/21076306837af4208d60c83206aea7b5.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Bosch GBM 10 RE</name>
+<vendor>Bosch</vendor>
+<vendorCode>GBM 10 RE</vendorCode>
+
+</offer>
+<offer id="6985" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-makita-tw0350</url>
+<price>5023000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/6985/e8360bd576fa890b2da0bd2c42451780.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Makita TW0350</name>
+<vendor>Makita</vendor>
+<vendorCode>TW0350</vendorCode>
+
+</offer>
+<offer id="6986" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-makita-bdf343rfe</url>
+<price>3710000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/6986/cc23a0a66949d506b03b8c32665d2517.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Makita BDF343RFE</name>
+<vendor>Makita</vendor>
+<vendorCode>BDF343RFE</vendorCode>
+
+</offer>
+<offer id="6989" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-makita-6347dwae</url>
+<price>3892000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/6989/389b35c362d54797ffae433a3e7b8622.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Makita 6347DWAE</name>
+<vendor>Makita</vendor>
+<vendorCode>6347DWAE</vendorCode>
+
+</offer>
+<offer id="6992" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-skil-2017-la-f0152017la</url>
+<price>812000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/6992/39a423cbc9b29d419e26914de4ab0316.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Skil 2017 LA (F0152017LA)</name>
+<vendor>Skil</vendor>
+<vendorCode>2017 LA (F0152017LA)</vendorCode>
+
+</offer>
+<offer id="6993" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-skil-6271-la-f0156271la</url>
+<price>746000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/6993/3867bb7800bb186fb12191067bb0f72a.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Skil 6271 LA (F0156271LA)</name>
+<vendor>Skil</vendor>
+<vendorCode>6271 LA (F0156271LA)</vendorCode>
+
+</offer>
+<offer id="7305" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-bosch-pws-20-230-j-0603359v00</url>
+<price>2492000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7305/369f4cf30d5b1507b20e42b7b1e20ab2.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Bosch PWS 20-230 J (0603359V00)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PWS 20-230 J (0603359V00)</vendorCode>
+
+</offer>
+<offer id="7306" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-bosch-pws-700-115-06033a2020</url>
+<price>815000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7306/f174bd0ac76774ba4bfe1a42e0a8cac6.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Bosch PWS 700-115 (06033A2020)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PWS 700-115 (06033A2020)</vendorCode>
+
+</offer>
+<offer id="7309" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-9555hn</url>
+<price>1398000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7309/be025be0318ab9ac26307606cf083918.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita 9555HN</name>
+<vendor>Makita</vendor>
+<vendorCode>9555HN</vendorCode>
+
+</offer>
+<offer id="7310" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-ga9020sf</url>
+<price>2398000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7310/6135396419147b6a0b1084cf86ee7da1.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita GA9020SF</name>
+<vendor>Makita</vendor>
+<vendorCode>GA9020SF</vendorCode>
+
+</offer>
+<offer id="7311" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-ga7020sf</url>
+<price>2593000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7311/3419bf5b5add3fffbcefac0a134aafb8.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita GA7020SF</name>
+<vendor>Makita</vendor>
+<vendorCode>GA7020SF</vendorCode>
+
+</offer>
+<offer id="7312" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-ga9020</url>
+<price>2065000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7312/4c7978ed03ed10e8ab5891c3352fc9d8.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita GA9020</name>
+<vendor>Makita</vendor>
+<vendorCode>GA9020</vendorCode>
+
+</offer>
+<offer id="7313" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-ga9040sf01</url>
+<price>3781000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7313/4a9ecd69d0ca7fe13a8666ce3dfd5685.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita GA9040SF01</name>
+<vendor>Makita</vendor>
+<vendorCode>GA9040SF01</vendorCode>
+
+</offer>
+<offer id="7314" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-9565-hz</url>
+<price>2204000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7314/2ac51e262018722395c8e1cd06d9e9be.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita 9565 HZ</name>
+<vendor>Makita</vendor>
+<vendorCode>9565 HZ</vendorCode>
+
+</offer>
+<offer id="7315" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-9069</url>
+<price>2120000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7315/60628a6acf950db07b17503a8e03973a.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita 9069</name>
+<vendor>Makita</vendor>
+<vendorCode>9069</vendorCode>
+
+</offer>
+<offer id="7316" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-9565-cv</url>
+<price>2887000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7316/d9462dd96e745ec3472c9a6a3f59aa86.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita 9565 CV</name>
+<vendor>Makita</vendor>
+<vendorCode>9565 CV</vendorCode>
+
+</offer>
+<offer id="7317" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-9069sf</url>
+<price>2260000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7317/f40963a62797f08aa87d014e8c643e73.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita 9069SF</name>
+<vendor>Makita</vendor>
+<vendorCode>9069SF</vendorCode>
+
+</offer>
+<offer id="7318" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-ga6021c</url>
+<price>2871000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7318/15f1b661e41d6488fbd6358974016cc9.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita GA6021C</name>
+<vendor>Makita</vendor>
+<vendorCode>GA6021C</vendorCode>
+
+</offer>
+<offer id="7320" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-9558hn</url>
+<price>1703000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7320/34790a911aa63264fe77fc00289badbf.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita 9558HN</name>
+<vendor>Makita</vendor>
+<vendorCode>9558HN</vendorCode>
+
+</offer>
+<offer id="7325" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-armateh-at9201-2</url>
+<price>752000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/7325/129894f8729d8572dc1d6e1a604d8f8a.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Armateh AT9201-2</name>
+<vendor>Armateh</vendor>
+<vendorCode>AT9201-2</vendorCode>
+
+</offer>
+<offer id="11746" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-skil-9035-la-f0159035la</url>
+<price>706000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/11746/2585f86dc32c3c9e0022b8336b8d06de.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Skil 9035 LA (F0159035LA)</name>
+<vendor>Skil</vendor>
+<vendorCode>9035 LA (F0159035LA)</vendorCode>
+
+</offer>
+<offer id="11741" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-bosch-pws-750-115-06033a2420</url>
+<price>948000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/11741/211f4e839af753f1f9a61a693acc888e.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Bosch PWS 750-115 (06033A2420)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PWS 750-115 (06033A2420)</vendorCode>
+
+</offer>
+<offer id="11742" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-bosch-pws-850-125-06033a2720</url>
+<price>1148000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/11742/e237b5fda105b2425a71d168d1121a68.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Bosch PWS 850-125 (06033A2720)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PWS 850-125 (06033A2720)</vendorCode>
+
+</offer>
+<offer id="11659" available="true">
+<url>https://1teh.by/instrumentyi/elektrolobziki-bosch-pst-10-8-li-06033b4020</url>
+<price>2027000</price>
+<currencyId>BYR</currencyId>
+<categoryId>101</categoryId>
+<picture>https://1teh.by/files/product/11659/cb3ec3425a051d24cf1ffb1a036324ec.jpg</picture>
+<name>Электролобзики Bosch PST 10.8 LI (06033B4020)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PST 10.8 LI (06033B4020)</vendorCode>
+
+</offer>
+<offer id="11652" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-makita-6413</url>
+<price>1061000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/11652/3a4d27ea2ea825662a9325fc76702816.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Makita 6413</name>
+<vendor>Makita</vendor>
+<vendorCode>6413</vendorCode>
+
+</offer>
+<offer id="11651" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-makita-hp2071</url>
+<price>2815000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/11651/75c1ea7779b88a9a87ddb9a9e2860c3a.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Makita HP2071</name>
+<vendor>Makita</vendor>
+<vendorCode>HP2071</vendorCode>
+
+</offer>
+<offer id="11647" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-bosch-psb-10-8-li-2-0603983920</url>
+<price>2160000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/11647/728e743e9557c733aa381989bc0f7629.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Bosch PSB 10.8 LI-2 (0603983920)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PSB 10.8 LI-2 (0603983920)</vendorCode>
+
+</offer>
+<offer id="11645" available="true">
+<url>https://1teh.by/instrumentyi/elektropilyi-bosch-pcm-7-s</url>
+<price>4110000</price>
+<currencyId>BYR</currencyId>
+<categoryId>99</categoryId>
+<picture>https://1teh.by/files/product/11645/9433b9cf88947f4d61f434ad868dc1aa.jpg</picture>
+<name>Электропилы Bosch PCM 7 S</name>
+<vendor>Bosch</vendor>
+<vendorCode>PCM 7 S</vendorCode>
+
+</offer>
+<offer id="12969" available="true">
+<url>https://1teh.by/instrumentyi/rubanki-bosch-pho-1-0603272208</url>
+<price>1350000</price>
+<currencyId>BYR</currencyId>
+<categoryId>155</categoryId>
+<picture>https://1teh.by/files/product/12969/d0c3380ec9eef7282a9846ccdc6edfe2.jpg</picture>
+<name>Рубанки Bosch PHO 1 (0603272208)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHO 1 (0603272208)</vendorCode>
+
+</offer>
+<offer id="12970" available="true">
+<url>https://1teh.by/instrumentyi/rubanki-bosch-pho-3100-0603271120</url>
+<price>2559000</price>
+<currencyId>BYR</currencyId>
+<categoryId>155</categoryId>
+<picture>https://1teh.by/files/product/12970/9d78f51cc7e438d022ce54d22a054e93.jpg</picture>
+<name>Рубанки Bosch PHO 3100 (0603271120)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHO 3100 (0603271120)</vendorCode>
+
+</offer>
+<offer id="12971" available="true">
+<url>https://1teh.by/instrumentyi/rubanki-bosch-pho-20-82-0603365181</url>
+<price>1895000</price>
+<currencyId>BYR</currencyId>
+<categoryId>155</categoryId>
+<picture>https://1teh.by/files/product/12971/4893d9bb81ec0cdce3029c94a66510cf.jpg</picture>
+<name>Рубанки Bosch PHO 20-82 (0603365181)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PHO 20-82 (0603365181)</vendorCode>
+
+</offer>
+<offer id="12972" available="true">
+<url>https://1teh.by/instrumentyi/rubanki-makita-2012nb</url>
+<price>9180000</price>
+<currencyId>BYR</currencyId>
+<categoryId>155</categoryId>
+<picture>https://1teh.by/files/product/12972/81d90a369983a2c19847587c41359022.jpg</picture>
+<name>Рубанки Makita 2012NB</name>
+<vendor>Makita</vendor>
+<vendorCode>2012NB</vendorCode>
+
+</offer>
+<offer id="12974" available="true">
+<url>https://1teh.by/instrumentyi/rubanki-makita-1911-b</url>
+<price>3228000</price>
+<currencyId>BYR</currencyId>
+<categoryId>155</categoryId>
+<picture>https://1teh.by/files/product/12974/bc1f03d689acdc0e3457a176ed6bc559.jpg</picture>
+<name>Рубанки Makita 1911 B</name>
+<vendor>Makita</vendor>
+<vendorCode>1911 B</vendorCode>
+
+</offer>
+<offer id="12975" available="true">
+<url>https://1teh.by/instrumentyi/rubanki-skil-1565la-f0151565la</url>
+<price>1006000</price>
+<currencyId>BYR</currencyId>
+<categoryId>155</categoryId>
+<picture>https://1teh.by/files/product/12975/7d038cfebee6d0ddc14145bfb3a878f8.jpg</picture>
+<name>Рубанки Skil 1565LA (F0151565LA)</name>
+<vendor>Skil</vendor>
+<vendorCode>1565LA (F0151565LA)</vendorCode>
+
+</offer>
+<offer id="13103" available="true">
+<url>https://1teh.by/instrumentyi/elektropilyi-bosch-pcm-8-s</url>
+<price>5591000</price>
+<currencyId>BYR</currencyId>
+<categoryId>99</categoryId>
+<picture>https://1teh.by/files/product/13103/0a9fd2463b14bbbaba55d9427031e0b0.jpg</picture>
+<name>Электропилы Bosch PCM 8 S</name>
+<vendor>Bosch</vendor>
+<vendorCode>PCM 8 S</vendorCode>
+
+</offer>
+<offer id="13104" available="true">
+<url>https://1teh.by/instrumentyi/elektropilyi-bosch-pks-40</url>
+<price>1428000</price>
+<currencyId>BYR</currencyId>
+<categoryId>99</categoryId>
+<picture>https://1teh.by/files/product/13104/9f9d3e2a54f91b9819dcf23bc4e469f7.jpg</picture>
+<name>Электропилы Bosch PKS 40</name>
+<vendor>Bosch</vendor>
+<vendorCode>PKS 40</vendorCode>
+
+</offer>
+<offer id="13106" available="true">
+<url>https://1teh.by/instrumentyi/elektropilyi-bosch-pks-16-multi-06033b3020</url>
+<price>1960000</price>
+<currencyId>BYR</currencyId>
+<categoryId>99</categoryId>
+<picture>https://1teh.by/files/product/13106/e1eff467f5c470f1c230ac246d3ec661.jpg</picture>
+<name>Электропилы Bosch PKS 16 Multi (06033B3020)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PKS 16 Multi (06033B3020)</vendorCode>
+
+</offer>
+<offer id="13107" available="true">
+<url>https://1teh.by/instrumentyi/elektropilyi-makita-2414-nb</url>
+<price>3642000</price>
+<currencyId>BYR</currencyId>
+<categoryId>99</categoryId>
+<picture>https://1teh.by/files/product/13107/85ddfff92e16babf8c7d35559a73714c.jpg</picture>
+<name>Электропилы Makita 2414 NB</name>
+<vendor>Makita</vendor>
+<vendorCode>2414 NB</vendorCode>
+
+</offer>
+<offer id="13108" available="true">
+<url>https://1teh.by/instrumentyi/elektropilyi-makita-5903r</url>
+<price>4931000</price>
+<currencyId>BYR</currencyId>
+<categoryId>99</categoryId>
+<picture>https://1teh.by/files/product/13108/db1a6bec52f53ccf5f50ae15cf1a91ff.jpg</picture>
+<name>Электропилы Makita 5903R</name>
+<vendor>Makita</vendor>
+<vendorCode>5903R</vendorCode>
+
+</offer>
+<offer id="13109" available="true">
+<url>https://1teh.by/instrumentyi/elektropilyi-makita-ls1040f</url>
+<price>5476000</price>
+<currencyId>BYR</currencyId>
+<categoryId>99</categoryId>
+<picture>https://1teh.by/files/product/13109/3c17f5cddccc6ec358ca592b1e7d8b65.jpg</picture>
+<name>Электропилы Makita LS1040F</name>
+<vendor>Makita</vendor>
+<vendorCode>LS1040F</vendorCode>
+
+</offer>
+<offer id="13110" available="true">
+<url>https://1teh.by/instrumentyi/elektropilyi-makita-5604-r</url>
+<price>2315000</price>
+<currencyId>BYR</currencyId>
+<categoryId>99</categoryId>
+<picture>https://1teh.by/files/product/13110/72ed900831e69443b6aeebb8531093bc.jpg</picture>
+<name>Электропилы Makita 5604 R</name>
+<vendor>Makita</vendor>
+<vendorCode>5604 R</vendorCode>
+
+</offer>
+<offer id="13112" available="true">
+<url>https://1teh.by/instrumentyi/elektropilyi-makita-5704-r</url>
+<price>2510000</price>
+<currencyId>BYR</currencyId>
+<categoryId>99</categoryId>
+<picture>https://1teh.by/files/product/13112/22afbd56d5ec9c3027938d7db22c3ecc.jpg</picture>
+<name>Электропилы Makita 5704 R</name>
+<vendor>Makita</vendor>
+<vendorCode>5704 R</vendorCode>
+
+</offer>
+<offer id="13119" available="true">
+<url>https://1teh.by/instrumentyi/elektrolobziki-bosch-pst-750-pe-06033a0520</url>
+<price>1015000</price>
+<currencyId>BYR</currencyId>
+<categoryId>101</categoryId>
+<picture>https://1teh.by/files/product/13119/af8f00e0814aa8bb9d2e550302e59c65.jpg</picture>
+<name>Электролобзики Bosch PST 750 PE (06033A0520)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PST 750 PE (06033A0520)</vendorCode>
+
+</offer>
+<offer id="13120" available="true">
+<url>https://1teh.by/instrumentyi/elektrolobziki-bosch-pst-900-pel-06033a0201</url>
+<price>1506000</price>
+<currencyId>BYR</currencyId>
+<categoryId>101</categoryId>
+<picture>https://1teh.by/files/product/13120/cf2987aee8b90e6d32eb7867430babd5.jpg</picture>
+<name>Электролобзики Bosch PST 900 PEL (06033A0201)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PST 900 PEL (06033A0201)</vendorCode>
+
+</offer>
+<offer id="13121" available="true">
+<url>https://1teh.by/instrumentyi/elektrolobziki-makita-4327</url>
+<price>1083000</price>
+<currencyId>BYR</currencyId>
+<categoryId>101</categoryId>
+<picture>https://1teh.by/files/product/13121/e24f86be0329498e68b779e4cec9fab0.jpg</picture>
+<name>Электролобзики Makita 4327</name>
+<vendor>Makita</vendor>
+<vendorCode>4327</vendorCode>
+
+</offer>
+<offer id="13122" available="true">
+<url>https://1teh.by/instrumentyi/elektrolobziki-makita-4329</url>
+<price>1453000</price>
+<currencyId>BYR</currencyId>
+<categoryId>101</categoryId>
+<picture>https://1teh.by/files/product/13122/1c7e80121afe2fcadcea4abae25401e4.jpg</picture>
+<name>Электролобзики Makita 4329</name>
+<vendor>Makita</vendor>
+<vendorCode>4329</vendorCode>
+
+</offer>
+<offer id="13124" available="true">
+<url>https://1teh.by/instrumentyi/elektrolobziki-skil-4181-la-f0154181la</url>
+<price>570000</price>
+<currencyId>BYR</currencyId>
+<categoryId>101</categoryId>
+<picture>https://1teh.by/files/product/13124/ae1a6fe60fcc7d1b5803a266fcb9f4ae.jpg</picture>
+<name>Электролобзики Skil 4181 LA (F0154181LA)</name>
+<vendor>Skil</vendor>
+<vendorCode>4181 LA (F0154181LA)</vendorCode>
+
+</offer>
+<offer id="13133" available="true">
+<url>https://1teh.by/instrumentyi/uglovyie-shlifmashinyi-bolgarki-makita-9227cb</url>
+<price>4911000</price>
+<currencyId>BYR</currencyId>
+<categoryId>123</categoryId>
+<picture>https://1teh.by/files/product/13133/36ea706c5c30c0cde48fa6056465f46a.jpg</picture>
+<name>Угловые шлифмашины (болгарки) Makita 9227CB</name>
+<vendor>Makita</vendor>
+<vendorCode>9227CB</vendorCode>
+
+</offer>
+<offer id="13195" available="true">
+<url>https://1teh.by/instrumentyi/shlifmashinyi-bosch-pmf-250-ces</url>
+<price>2426000</price>
+<currencyId>BYR</currencyId>
+<categoryId>124</categoryId>
+<picture>https://1teh.by/files/product/13195/3accbff2888c5d46fa5345d2b44b8a0b.jpg</picture>
+<name>Шлифмашины Bosch PMF 250 CES</name>
+<vendor>Bosch</vendor>
+<vendorCode>PMF 250 CES</vendorCode>
+
+</offer>
+<offer id="13196" available="true">
+<url>https://1teh.by/instrumentyi/shlifmashinyi-bosch-prr-250-es-06033b5020</url>
+<price>2160000</price>
+<currencyId>BYR</currencyId>
+<categoryId>124</categoryId>
+<picture>https://1teh.by/files/product/13196/c437d0c752473f1a21c006d8be52dc1e.jpg</picture>
+<name>Шлифмашины Bosch PRR 250 ES (06033B5020)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PRR 250 ES (06033B5020)</vendorCode>
+
+</offer>
+<offer id="13200" available="true">
+<url>https://1teh.by/instrumentyi/shlifmashinyi-bosch-pbs-75-ae</url>
+<price>2426000</price>
+<currencyId>BYR</currencyId>
+<categoryId>124</categoryId>
+<picture>https://1teh.by/files/product/13200/95f85e6a5514a48d8f536a11d33972b1.jpg</picture>
+<name>Шлифмашины Bosch PBS 75 AE</name>
+<vendor>Bosch</vendor>
+<vendorCode>PBS 75 AE</vendorCode>
+
+</offer>
+<offer id="13203" available="true">
+<url>https://1teh.by/instrumentyi/shlifmashinyi-bosch-psm-primo-06033b8020</url>
+<price>815000</price>
+<currencyId>BYR</currencyId>
+<categoryId>124</categoryId>
+<picture>https://1teh.by/files/product/13203/3fcb47aec523c52261d6d322f36d8fe2.jpg</picture>
+<name>Шлифмашины Bosch PSM Primo (06033B8020)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PSM Primo (06033B8020)</vendorCode>
+
+</offer>
+<offer id="13206" available="true">
+<url>https://1teh.by/instrumentyi/shlifmashinyi-bosch-pmf-190-e-0603100520</url>
+<price>1627000</price>
+<currencyId>BYR</currencyId>
+<categoryId>124</categoryId>
+<picture>https://1teh.by/files/product/13206/6337fb7ab4d37033ba1662d099f83de2.jpg</picture>
+<name>Шлифмашины Bosch PMF 190 E (0603100520)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PMF 190 E (0603100520)</vendorCode>
+
+</offer>
+<offer id="13207" available="true">
+<url>https://1teh.by/instrumentyi/shlifmashinyi-makita-bo3711</url>
+<price>1370000</price>
+<currencyId>BYR</currencyId>
+<categoryId>124</categoryId>
+<picture>https://1teh.by/files/product/13207/62366cad0378f8822afc7a001f9c752f.jpg</picture>
+<name>Шлифмашины Makita BO3711</name>
+<vendor>Makita</vendor>
+<vendorCode>BO3711</vendorCode>
+
+</offer>
+<offer id="13212" available="true">
+<url>https://1teh.by/instrumentyi/shlifmashinyi-skil-7338-la-f0157338la</url>
+<price>544000</price>
+<currencyId>BYR</currencyId>
+<categoryId>124</categoryId>
+<picture>https://1teh.by/files/product/13212/336ea7718f08656dd31699f571c8103b.jpg</picture>
+<name>Шлифмашины Skil 7338 LA (F0157338LA)</name>
+<vendor>Skil</vendor>
+<vendorCode>7338 LA (F0157338LA)</vendorCode>
+
+</offer>
+<offer id="13213" available="true">
+<url>https://1teh.by/instrumentyi/shlifmashinyi-skil-1470-la-f0151470la</url>
+<price>1010000</price>
+<currencyId>BYR</currencyId>
+<categoryId>124</categoryId>
+<picture>https://1teh.by/files/product/13213/962287f56bbe9c1cb08593c7c61800be.jpg</picture>
+<name>Шлифмашины Skil 1470 LA (F0151470LA)</name>
+<vendor>Skil</vendor>
+<vendorCode>1470 LA (F0151470LA)</vendorCode>
+
+</offer>
+<offer id="13604" available="true">
+<url>https://1teh.by/instrumentyi/gazonokosilki-bosch-ahm-30-0600886001</url>
+<price>1004000</price>
+<currencyId>BYR</currencyId>
+<categoryId>98</categoryId>
+<picture>https://1teh.by/files/product/13604/4d63a1893ae6a435d893db464f303e00.jpg</picture>
+<name>Газонокосилки Bosch AHM 30 (0600886001)</name>
+<vendor>Bosch</vendor>
+<vendorCode>AHM 30 (0600886001)</vendorCode>
+
+</offer>
+<offer id="13605" available="true">
+<url>https://1teh.by/instrumentyi/gazonokosilki-bosch-rotak-32-0600885b00</url>
+<price>1604000</price>
+<currencyId>BYR</currencyId>
+<categoryId>98</categoryId>
+<picture>https://1teh.by/files/product/13605/e974fbe350121a43eef1e79c528bf857.jpg</picture>
+<name>Газонокосилки Bosch Rotak 32 (0600885B00)</name>
+<vendor>Bosch</vendor>
+<vendorCode>Rotak 32 (0600885B00)</vendorCode>
+
+</offer>
+<offer id="13606" available="true">
+<url>https://1teh.by/instrumentyi/gazonokosilki-bosch-rotak-32-li-high-power-0600885d01</url>
+<price>5296000</price>
+<currencyId>BYR</currencyId>
+<categoryId>98</categoryId>
+<picture>https://1teh.by/files/product/13606/7fbebb88ba99fdbcf62510859ed36cae.jpg</picture>
+<name>Газонокосилки Bosch Rotak 32 LI High Power (0600885D01)</name>
+<vendor>Bosch</vendor>
+<vendorCode>Rotak 32 LI High Power (0600885D01)</vendorCode>
+
+</offer>
+<offer id="13607" available="true">
+<url>https://1teh.by/instrumentyi/gazonokosilki-bosch-arm-34-06008a6101</url>
+<price>2712000</price>
+<currencyId>BYR</currencyId>
+<categoryId>98</categoryId>
+<picture>https://1teh.by/files/product/13607/01b8891ebd0e197e5881cb9269f33700.jpg</picture>
+<name>Газонокосилки Bosch ARM 34 (06008A6101)</name>
+<vendor>Bosch</vendor>
+<vendorCode>ARM 34 (06008A6101)</vendorCode>
+
+</offer>
+<offer id="13608" available="true">
+<url>https://1teh.by/instrumentyi/gazonokosilki-bosch-rotak-43-06008a4300</url>
+<price>3267000</price>
+<currencyId>BYR</currencyId>
+<categoryId>98</categoryId>
+<picture>https://1teh.by/files/product/13608/c25661df31649035e077f1b1242c3c84.jpg</picture>
+<name>Газонокосилки Bosch Rotak 43 (06008A4300)</name>
+<vendor>Bosch</vendor>
+<vendorCode>Rotak 43 (06008A4300)</vendorCode>
+
+</offer>
+<offer id="13609" available="true">
+<url>https://1teh.by/instrumentyi/gazonokosilki-bosch-arm-37-06008a6201</url>
+<price>2575000</price>
+<currencyId>BYR</currencyId>
+<categoryId>98</categoryId>
+<picture>https://1teh.by/files/product/13609/178a454be157de09a7d7a36d4fdf71e4.jpg</picture>
+<name>Газонокосилки Bosch ARM 37 (06008A6201)</name>
+<vendor>Bosch</vendor>
+<vendorCode>ARM 37 (06008A6201)</vendorCode>
+
+</offer>
+<offer id="13610" available="true">
+<url>https://1teh.by/instrumentyi/gazonokosilki-bosch-rotak-37-li-06008a4400</url>
+<price>6461000</price>
+<currencyId>BYR</currencyId>
+<categoryId>98</categoryId>
+<picture>https://1teh.by/files/product/13610/4c45366cfc41b576de7a3bb3ee7bd9eb.jpg</picture>
+<name>Газонокосилки Bosch Rotak 37 LI (06008A4400)</name>
+<vendor>Bosch</vendor>
+<vendorCode>Rotak 37 LI (06008A4400)</vendorCode>
+
+</offer>
+<offer id="13611" available="true">
+<url>https://1teh.by/instrumentyi/gazonokosilki-bosch-rotak-40-06008a4200</url>
+<price>2812000</price>
+<currencyId>BYR</currencyId>
+<categoryId>98</categoryId>
+<picture>https://1teh.by/files/product/13611/ec38d0b70161e97ec4d82203b88d9058.jpg</picture>
+<name>Газонокосилки Bosch Rotak 40 (06008A4200)</name>
+<vendor>Bosch</vendor>
+<vendorCode>Rotak 40 (06008A4200)</vendorCode>
+
+</offer>
+<offer id="13612" available="true">
+<url>https://1teh.by/instrumentyi/gazonokosilki-bosch-avr-1100-060088a100</url>
+<price>2561000</price>
+<currencyId>BYR</currencyId>
+<categoryId>98</categoryId>
+<picture>https://1teh.by/files/product/13612/2c28a71354e743a465dd8910d9609b87.jpg</picture>
+<name>Газонокосилки Bosch AVR 1100 (060088A100)</name>
+<vendor>Bosch</vendor>
+<vendorCode>AVR 1100 (060088A100)</vendorCode>
+
+</offer>
+<offer id="13617" available="true">
+<url>https://1teh.by/instrumentyi/promyishlennyie-fenyi-skil-8003-lc-f0158003lc</url>
+<price>669000</price>
+<currencyId>BYR</currencyId>
+<categoryId>122</categoryId>
+<picture>https://1teh.by/files/product/13617/0f9d3ca7bb3174fcad18e5db1436e109.jpg</picture>
+<name>Промышленные фены Skil 8003 LC (F0158003LC)</name>
+<vendor>Skil</vendor>
+<vendorCode>8003 LC (F0158003LC)</vendorCode>
+
+</offer>
+<offer id="13794" available="true">
+<url>https://1teh.by/instrumentyi/naboryi-instrumentov-startul-master-st4042-6-6-predmetov</url>
+<price>279000</price>
+<currencyId>BYR</currencyId>
+<categoryId>109</categoryId>
+<picture>https://1teh.by/files/product/13794/f99bdf9310d87f3b215464aec9abd6ed.jpg</picture>
+<name>Наборы инструментов Startul Master ST4042-6 6 предметов</name>
+<vendor>Startul</vendor>
+<vendorCode>Master ST4042-6 6 </vendorCode>
+
+</offer>
+<offer id="13795" available="true">
+<url>https://1teh.by/instrumentyi/naboryi-instrumentov-startul-expert-st4046-6-6-predmetov</url>
+<price>238000</price>
+<currencyId>BYR</currencyId>
+<categoryId>109</categoryId>
+<picture>https://1teh.by/files/product/13795/656acc0fb9b7b44caec4f0824ae3caae.jpg</picture>
+<name>Наборы инструментов Startul Expert ST4046-6 6 предметов</name>
+<vendor>Startul</vendor>
+<vendorCode>Expert ST4046-6 6 </vendorCode>
+
+</offer>
+<offer id="13796" available="true">
+<url>https://1teh.by/instrumentyi/naboryi-instrumentov-pro-startul-pro-099-99-predmetov</url>
+<price>1413000</price>
+<currencyId>BYR</currencyId>
+<categoryId>109</categoryId>
+<picture>https://1teh.by/files/product/13796/53391e44687ca900fc978279ae70bf1f.jpg</picture>
+<name>Наборы инструментов PRO Startul PRO-099 99 предметов</name>
+<vendor>PRO Startul</vendor>
+<vendorCode>PRO-099 99 </vendorCode>
+
+</offer>
+<offer id="13798" available="true">
+<url>https://1teh.by/instrumentyi/naboryi-instrumentov-pro-startul-pro-2012-12-predmetov</url>
+<price>295000</price>
+<currencyId>BYR</currencyId>
+<categoryId>109</categoryId>
+<picture>https://1teh.by/files/product/13798/e2e9ee5c83f22b2774191cbd8e8f7d8f.jpg</picture>
+<name>Наборы инструментов PRO Startul PRO-2012 12 предметов</name>
+<vendor>PRO Startul</vendor>
+<vendorCode>PRO-2012 12 </vendorCode>
+
+</offer>
+<offer id="13808" available="true">
+<url>https://1teh.by/instrumentyi/elektrodreli-i-dreli-shurupovertyi-makita-hp1640</url>
+<price>1398000</price>
+<currencyId>BYR</currencyId>
+<categoryId>100</categoryId>
+<picture>https://1teh.by/files/product/13808/c5c988058927842e0effdb2aad31b485.jpg</picture>
+<name>Электродрели и дрели-шуруповерты Makita HP1640</name>
+<vendor>Makita</vendor>
+<vendorCode>HP1640</vendorCode>
+
+</offer>
+<offer id="13815" available="true">
+<url>https://1teh.by/instrumentyi/elektro-i-benzopilyi-bosch-ake-35-19-s</url>
+<price>2520000</price>
+<currencyId>BYR</currencyId>
+<categoryId>102</categoryId>
+<picture>https://1teh.by/files/product/13815/e9ffc4ee28f897fa89c28a5cc62e5005.jpg</picture>
+<name>Электро- и бензопилы Bosch AKE 35-19 S</name>
+<vendor>Bosch</vendor>
+<vendorCode>AKE 35-19 S</vendorCode>
+
+</offer>
+<offer id="13819" available="true">
+<url>https://1teh.by/instrumentyi/elektrootvertki-i-shurupovertyi-bosch-ixo-uglovaya-i-ekstsentrikovaya-nasadka-0603981022</url>
+<price>1082000</price>
+<currencyId>BYR</currencyId>
+<categoryId>103</categoryId>
+<picture>https://1teh.by/files/product/13819/3f5b87b1438680dff7135294f2a976a2.jpg</picture>
+<name>Электроотвертки и шуруповерты Bosch IXO + угловая и эксцентриковая насадка (0603981022)</name>
+<vendor>Bosch</vendor>
+<vendorCode>IXO + </vendorCode>
+
+</offer>
+<offer id="13821" available="true">
+<url>https://1teh.by/instrumentyi/perforatoryi-bosch-pbh-2500-re</url>
+<price>1761000</price>
+<currencyId>BYR</currencyId>
+<categoryId>110</categoryId>
+<picture>https://1teh.by/files/product/13821/1071271effa38b32cd2de9ea94d0bd43.jpg</picture>
+<name>Перфораторы Bosch PBH 2500 RE</name>
+<vendor>Bosch</vendor>
+<vendorCode>PBH 2500 RE</vendorCode>
+
+</offer>
+<offer id="13832" available="true">
+<url>https://1teh.by/instrumentyi/lazernyie-dalnomeryi-bosch-plr-50-0603016320</url>
+<price>2041000</price>
+<currencyId>BYR</currencyId>
+<categoryId>133</categoryId>
+<picture>https://1teh.by/files/product/13832/d67301bf875ae6ac9a08429893139273.jpg</picture>
+<name>Лазерные дальномеры Bosch PLR 50 (0603016320)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PLR 50 (0603016320)</vendorCode>
+
+</offer>
+<offer id="13833" available="true">
+<url>https://1teh.by/instrumentyi/lazernyie-dalnomeryi-bosch-plr-15-0603672021</url>
+<price>972000</price>
+<currencyId>BYR</currencyId>
+<categoryId>133</categoryId>
+<picture>https://1teh.by/files/product/13833/6b7c707f778823b28c9107f6dcfcfd0c.jpg</picture>
+<name>Лазерные дальномеры Bosch PLR 15 (0603672021)</name>
+<vendor>Bosch</vendor>
+<vendorCode>PLR 15 (0603672021)</vendorCode>
+
+</offer>
+<offer id="13835" available="true">
+<url>https://1teh.by/instrumentyi/shlifmashinyi-skil-7366-la-f0157366la</url>
+<price>746000</price>
+<currencyId>BYR</currencyId>
+<categoryId>124</categoryId>
+<picture>https://1teh.by/files/product/13835/db59e5aa54e992bc845ab4541a8dc77f.jpg</picture>
+<name>Шлифмашины Skil 7366 LA (F0157366LA)</name>
+<vendor>Skil</vendor>
+<vendorCode>7366 LA (F0157366LA)</vendorCode>
+
+</offer>
+</offers>
+		</shop>
+
+</yml_catalog>

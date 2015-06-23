@@ -1,0 +1,41 @@
+/* 
+    Document   : log.css
+    Created on : 16.09.2009, 11:14:21
+    Author     : Eugene Dounar <e.dounar@smartdesign.by>
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* Log */
+
+.log {
+  margin: 10px 0;
+  width: 900px;
+  white-space: nowrap;
+  overflow: auto;
+}
+
+.log .date {
+  color: gray;
+}
+
+.log .sender {
+  color: purple;
+  font-size: smaller;
+}
+
+.log .warning {
+  color: navy;
+}
+
+.log .error {
+  font-weight: bolder;
+  color: red;
+}
+
+/* Pagination */
+
+.pagination a,
+.pagination a:visited {
+  text-decoration: none;
+}

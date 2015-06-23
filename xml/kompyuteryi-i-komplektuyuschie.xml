@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='windows-1251'?>
+			<!DOCTYPE yml_catalog SYSTEM 'shops.dtd'>
+	<yml_catalog date='2015-04-13 15:14'>
+<shop>
+<name>1teh.by</name>
+		<company>ООО &amp;quot;ОдинТех&amp;quot;</company>
+		<url>https://1teh.by</url>
+		<currencies>
+<currency id="BUR" rate="1" />
+</currencies>
+		<categories>
+<category id="159">Принтеры и МФУ</category>
+<category id="160">Рули, джойстики, геймпады</category>
+<category id="161">USB Flash</category>
+<category id="162">Жесткие диски</category>
+</categories>
+		<offers>
+<offer id="7173" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-panasonic-kx-mb1500-ru</url>
+<price>1595000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/7173/7052d4e6471355ebd01a64213d26aa5d.jpg</picture>
+<name>Принтеры и МФУ Panasonic KX-MB1500 RU</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-MB1500 RU</vendorCode>
+
+</offer>
+<offer id="7180" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-canon-pixma-mg2440</url>
+<price>889000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/7180/f34769dbb46ed55e1696038dbb7e30a7.jpg</picture>
+<name>Принтеры и МФУ Canon PIXMA MG2440</name>
+<vendor>Canon</vendor>
+<vendorCode>PIXMA MG2440</vendorCode>
+
+</offer>
+<offer id="7181" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-canon-i-sensys-mf3010</url>
+<price>2330000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/7181/d728c2699a8afb03c40faa4beb8a51f5.jpg</picture>
+<name>Принтеры и МФУ Canon i-SENSYS MF3010</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS MF3010</vendorCode>
+
+</offer>
+<offer id="7182" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-canon-i-sensys-lbp6020b</url>
+<price>1480000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/7182/7d804d6e54348857070d697bd7ceba7c.jpg</picture>
+<name>Принтеры и МФУ Canon i-SENSYS LBP6020B</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS LBP6020B</vendorCode>
+
+</offer>
+<offer id="7210" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-hp-laserjet-pro-m1132-mfp-ce847a</url>
+<price>3030000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/7210/33e3bd59d6d6ac2eb123fede980a54cd.jpg</picture>
+<name>Принтеры и МФУ HP LaserJet Pro M1132 MFP (CE847A)</name>
+<vendor>HP</vendor>
+<vendorCode>LaserJet Pro M1132 MFP (CE847A)</vendorCode>
+
+</offer>
+<offer id="7212" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-hp-laserjet-pro-p1102-ce651a</url>
+<price>1883000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/7212/c9b0e44683b3a7b0610095a06fa562bf.jpg</picture>
+<name>Принтеры и МФУ HP LaserJet Pro P1102 (CE651A)</name>
+<vendor>HP</vendor>
+<vendorCode>LaserJet Pro P1102 (CE651A)</vendorCode>
+
+</offer>
+<offer id="7216" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-hp-laserjet-p2035-ce461a</url>
+<price>3070000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/7216/1deac94fc5c6334b8733ac278db66619.jpg</picture>
+<name>Принтеры и МФУ HP LaserJet P2035 (CE461A)</name>
+<vendor>HP</vendor>
+<vendorCode>LaserJet P2035 (CE461A)</vendorCode>
+
+</offer>
+<offer id="7219" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-brother-hl-1112r</url>
+<price>1090000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/7219/5cc7a6dcff83010ce8e6951942b61d61.jpg</picture>
+<name>Принтеры и МФУ Brother HL-1112R</name>
+<vendor>Brother</vendor>
+<vendorCode>HL-1112R</vendorCode>
+
+</offer>
+<offer id="7225" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-ricoh-sp-111sf</url>
+<price>2772000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/7225/7e22af5f450defe2868e1fa61769c6cf.jpg</picture>
+<name>Принтеры и МФУ Ricoh SP 111SF</name>
+<vendor>Ricoh</vendor>
+<vendorCode>SP 111SF</vendorCode>
+
+</offer>
+<offer id="7226" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-ricoh-sp-111su</url>
+<price>1146000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/7226/ef4930a4e9ad1db9d4c3d405646b8792.jpg</picture>
+<name>Принтеры и МФУ Ricoh SP 111SU</name>
+<vendor>Ricoh</vendor>
+<vendorCode>SP 111SU</vendorCode>
+
+</offer>
+<offer id="7423" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-sven-scout</url>
+<price>219000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7423/04e14c71e6d38294c135e10c5a557f71.jpg</picture>
+<name>Рули, джойстики, геймпады SVEN Scout</name>
+<vendor>SVEN</vendor>
+<vendorCode>Scout</vendorCode>
+
+</offer>
+<offer id="7424" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-sven-aggressor</url>
+<price>446000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7424/cf86dd81929876dfef20536d1afd5c8a.jpg</picture>
+<name>Рули, джойстики, геймпады SVEN Aggressor</name>
+<vendor>SVEN</vendor>
+<vendorCode>Aggressor</vendorCode>
+
+</offer>
+<offer id="7425" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-sven-speedy</url>
+<price>499000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7425/8e4fb2583a97db16c43e9e96ed8f1187.jpg</picture>
+<name>Рули, джойстики, геймпады SVEN Speedy</name>
+<vendor>SVEN</vendor>
+<vendorCode>Speedy</vendorCode>
+
+</offer>
+<offer id="7426" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-sven-nitro</url>
+<price>1086000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7426/81adb0438c41c70a84786cc531cce5f4.jpg</picture>
+<name>Рули, джойстики, геймпады SVEN Nitro</name>
+<vendor>SVEN</vendor>
+<vendorCode>Nitro</vendorCode>
+
+</offer>
+<offer id="7427" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-sven-drift</url>
+<price>616000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7427/50fcfd809c59e586e16c5a726aca957c.jpg</picture>
+<name>Рули, джойстики, геймпады SVEN Drift</name>
+<vendor>SVEN</vendor>
+<vendorCode>Drift</vendorCode>
+
+</offer>
+<offer id="7428" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-sven-driver</url>
+<price>1127000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7428/4cbefcbaa5729cc6a23dba3b32173438.jpg</picture>
+<name>Рули, джойстики, геймпады SVEN Driver</name>
+<vendor>SVEN</vendor>
+<vendorCode>Driver</vendorCode>
+
+</offer>
+<offer id="7429" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-sven-x-pad-aero</url>
+<price>407000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7429/b2a240ca9892a69efa43975659c9d038.jpg</picture>
+<name>Рули, джойстики, геймпады SVEN X-Pad Aero</name>
+<vendor>SVEN</vendor>
+<vendorCode>X-Pad Aero</vendorCode>
+
+</offer>
+<offer id="7430" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-sven-turbo</url>
+<price>773000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7430/be1203d013a04b444541c4b11eafb892.jpg</picture>
+<name>Рули, джойстики, геймпады SVEN Turbo</name>
+<vendor>SVEN</vendor>
+<vendorCode>Turbo</vendorCode>
+
+</offer>
+<offer id="7431" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-sven-x-pad</url>
+<price>285000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7431/9a0a68b9b1c8b3297bd5e9769c342945.jpg</picture>
+<name>Рули, джойстики, геймпады SVEN X-PAD</name>
+<vendor>SVEN</vendor>
+<vendorCode>X-PAD</vendorCode>
+
+</offer>
+<offer id="7432" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-sven-combat</url>
+<price>433000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7432/6582dda8a9b1c92de4096667187a8da5.jpg</picture>
+<name>Рули, джойстики, геймпады SVEN Combat</name>
+<vendor>SVEN</vendor>
+<vendorCode>Combat</vendorCode>
+
+</offer>
+<offer id="7433" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-logitech-extreme-3d-pro</url>
+<price>821000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/7433/4d7eed03bc3a802b474b916774bd82a4.jpg</picture>
+<name>Рули, джойстики, геймпады Logitech Extreme 3D Pro</name>
+<vendor>Logitech</vendor>
+<vendorCode>Extreme 3D Pro</vendorCode>
+
+</offer>
+<offer id="12773" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-panasonic-kx-mb2051-ru</url>
+<price>3604000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/12773/3b2eb2c28cdde2ea7dc2d4fa44dfbe9b.jpg</picture>
+<name>Принтеры и МФУ Panasonic KX-MB2051 RU</name>
+<vendor>Panasonic</vendor>
+<vendorCode>KX-MB2051 RU</vendorCode>
+
+</offer>
+<offer id="12778" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-canon-i-sensys-lbp6020</url>
+<price>1495000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/12778/a906d25f09bb6f3ea6985bb20f8c4930.jpg</picture>
+<name>Принтеры и МФУ Canon i-SENSYS LBP6020</name>
+<vendor>Canon</vendor>
+<vendorCode>i-SENSYS LBP6020</vendorCode>
+
+</offer>
+<offer id="12782" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-hp-laserjet-pro-mfp-m125nw-cz173a</url>
+<price>2600000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/12782/806af60bc7f4cd4495345a92af80cc67.jpg</picture>
+<name>Принтеры и МФУ HP LaserJet Pro MFP M125nw (CZ173A)</name>
+<vendor>HP</vendor>
+<vendorCode>LaserJet Pro MFP M125nw (CZ173A)</vendorCode>
+
+</offer>
+<offer id="12785" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-hp-color-laserjet-pro-mfp-m176n-cf547a</url>
+<price>4605000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/12785/90af8c4babdeb6d2b9170ecdb3c11a08.jpg</picture>
+<name>Принтеры и МФУ HP Color LaserJet Pro MFP M176n (CF547A)</name>
+<vendor>HP</vendor>
+<vendorCode>Color LaserJet Pro MFP M176n (CF547A)</vendorCode>
+
+</offer>
+<offer id="12786" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-brother-mfc-8950dw</url>
+<price>7220000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/12786/7db0a5b287433dfe1f97eab9caa63347.jpg</picture>
+<name>Принтеры и МФУ Brother MFC-8950DW</name>
+<vendor>Brother</vendor>
+<vendorCode>MFC-8950DW</vendorCode>
+
+</offer>
+<offer id="12788" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-brother-mfc-8520dn</url>
+<price>5900000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/12788/2fcf394699290a9c99cd35c27e03189c.jpg</picture>
+<name>Принтеры и МФУ Brother MFC-8520DN</name>
+<vendor>Brother</vendor>
+<vendorCode>MFC-8520DN</vendorCode>
+
+</offer>
+<offer id="12793" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-brother-dcp-8250dn</url>
+<price>6500000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/12793/ebe323f9eb77a6345305895fdbe00fec.jpg</picture>
+<name>Принтеры и МФУ Brother DCP-8250DN</name>
+<vendor>Brother</vendor>
+<vendorCode>DCP-8250DN</vendorCode>
+
+</offer>
+<offer id="12823" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-logitech-wireless-gamepad-f710</url>
+<price>821000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/12823/3c4bff3fd95367c57441970f5158500a.jpg</picture>
+<name>Рули, джойстики, геймпады Logitech Wireless Gamepad F710</name>
+<vendor>Logitech</vendor>
+<vendorCode>Wireless Gamepad F710</vendorCode>
+
+</offer>
+<offer id="12825" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-acme-racing-wheel-rs</url>
+<price>759000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/12825/6a727b32a790102474a331305bbbcad4.jpg</picture>
+<name>Рули, джойстики, геймпады ACME Racing wheel RS</name>
+<vendor>ACME</vendor>
+<vendorCode>Racing wheel RS</vendorCode>
+
+</offer>
+<offer id="12826" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-acme-racing-wheel-sti</url>
+<price>569000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/12826/fa0c90c8a80dec6c71b52cf2abfcad10.jpg</picture>
+<name>Рули, джойстики, геймпады ACME Racing wheel STi</name>
+<vendor>ACME</vendor>
+<vendorCode>Racing wheel STi</vendorCode>
+
+</offer>
+<offer id="12827" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-dialog-first-pilot-gw-03vr</url>
+<price>487000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/12827/26f370796b87723d7e1e0c8d8780dd84.jpg</picture>
+<name>Рули, джойстики, геймпады Dialog First Pilot GW-03VR</name>
+<vendor>Dialog</vendor>
+<vendorCode>First Pilot GW-03VR</vendorCode>
+
+</offer>
+<offer id="12830" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-dialog-gw-10vr</url>
+<price>980000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/12830/8effba526dc9b8e2f108be0ca9de914b.jpg</picture>
+<name>Рули, джойстики, геймпады Dialog GW-10VR</name>
+<vendor>Dialog</vendor>
+<vendorCode>GW-10VR</vendorCode>
+
+</offer>
+<offer id="12833" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-dialog-gp-a01</url>
+<price>188000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/12833/235e6c8d0f81d635e7b84cf90491229c.jpg</picture>
+<name>Рули, джойстики, геймпады Dialog GP-A01</name>
+<vendor>Dialog</vendor>
+<vendorCode>GP-A01</vendorCode>
+
+</offer>
+<offer id="12834" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-dialog-gp-a11</url>
+<price>249000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/12834/0a6b5e13098916f81d0b568ffc1f4125.jpg</picture>
+<name>Рули, джойстики, геймпады Dialog GP-A11</name>
+<vendor>Dialog</vendor>
+<vendorCode>GP-A11</vendorCode>
+
+</offer>
+<offer id="12835" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-dialog-gp-a11rf</url>
+<price>380000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/12835/3fa12f24f6ab657bbc96a667fe9ebac2.jpg</picture>
+<name>Рули, джойстики, геймпады Dialog GP-A11RF</name>
+<vendor>Dialog</vendor>
+<vendorCode>GP-A11RF</vendorCode>
+
+</offer>
+<offer id="12836" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-dialog-gp-a13</url>
+<price>260000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/12836/bbbd434e8d8e2a37b5ae88e35d9436f5.jpg</picture>
+<name>Рули, джойстики, геймпады Dialog GP-A13</name>
+<vendor>Dialog</vendor>
+<vendorCode>GP-A13</vendorCode>
+
+</offer>
+<offer id="12838" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/ruli-djoystiki-geympadyi-dialog-gp-a17</url>
+<price>379000</price>
+<currencyId>BYR</currencyId>
+<categoryId>160</categoryId>
+<picture>https://1teh.by/files/product/12838/12ba48fa5fb1fdb0c88d8bf1ce2d903b.jpg</picture>
+<name>Рули, джойстики, геймпады Dialog GP-A17</name>
+<vendor>Dialog</vendor>
+<vendorCode>GP-A17</vendorCode>
+
+</offer>
+<offer id="12905" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/printeryi-i-mfu-epson-l350</url>
+<price>3773000</price>
+<currencyId>BYR</currencyId>
+<categoryId>159</categoryId>
+<picture>https://1teh.by/files/product/12905/55f99282e24d50b867bbe7c23ad8038a.jpg</picture>
+<name>Принтеры и МФУ Epson L350</name>
+<vendor>Epson</vendor>
+<vendorCode>L350</vendorCode>
+
+</offer>
+<offer id="12943" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/usb-flash-transcend-jetflash-700-16gb-ts16gjf700</url>
+<price>279000</price>
+<currencyId>BYR</currencyId>
+<categoryId>161</categoryId>
+<picture>https://1teh.by/files/product/12943/e2cec7e9e5a3c62311e219b59906ae76.jpg</picture>
+<name>USB Flash Transcend JetFlash 700 16GB (TS16GJF700)</name>
+<vendor>Transcend</vendor>
+<vendorCode>JetFlash 700 16GB (TS16GJF700)</vendorCode>
+
+</offer>
+<offer id="12944" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/usb-flash-transcend-jetflash-700-32gb-ts32gjf700</url>
+<price>555000</price>
+<currencyId>BYR</currencyId>
+<categoryId>161</categoryId>
+<picture>https://1teh.by/files/product/12944/0a529a1cf6be1869db2ab124998e62ba.jpg</picture>
+<name>USB Flash Transcend JetFlash 700 32GB (TS32GJF700)</name>
+<vendor>Transcend</vendor>
+<vendorCode>JetFlash 700 32GB (TS32GJF700)</vendorCode>
+
+</offer>
+<offer id="12950" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/usb-flash-kingston-datatraveler-101-g2-16-gb-dt101g2-16gb</url>
+<price>265000</price>
+<currencyId>BYR</currencyId>
+<categoryId>161</categoryId>
+<picture>https://1teh.by/files/product/12950/f6ad4081a5fff09f6bbe1eb8d5edd501.jpg</picture>
+<name>USB Flash Kingston DataTraveler 101 G2 16 Гб (DT101G2/16GB)</name>
+<vendor>Kingston</vendor>
+<vendorCode>DataTraveler 101 G2 16 </vendorCode>
+
+</offer>
+<offer id="12957" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/usb-flash-silicon-power-helios-101-8-gb-sp008gbuf2101v1b-n</url>
+<price>207000</price>
+<currencyId>BYR</currencyId>
+<categoryId>161</categoryId>
+<picture>https://1teh.by/files/product/12957/2c5c802714411a492b2220791ebd0d75.jpg</picture>
+<name>USB Flash Silicon-Power Helios 101 8 Гб (SP008GBUF2101V1B/N)</name>
+<vendor>Silicon-Power</vendor>
+<vendorCode>Helios 101 8 </vendorCode>
+
+</offer>
+<offer id="12958" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/usb-flash-silicon-power-helios-101-8-gb-sp008gbuf2101v1n</url>
+<price>207000</price>
+<currencyId>BYR</currencyId>
+<categoryId>161</categoryId>
+<picture>https://1teh.by/files/product/12958/088dc4a27937e7c3e1aace99c319237e.jpg</picture>
+<name>USB Flash Silicon-Power Helios 101 8 Гб (SP008GBUF2101V1N)</name>
+<vendor>Silicon-Power</vendor>
+<vendorCode>Helios 101 8 </vendorCode>
+
+</offer>
+<offer id="12959" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/usb-flash-silicon-power-helios-101-16-gb-sp016gbuf2101v1b-n</url>
+<price>265000</price>
+<currencyId>BYR</currencyId>
+<categoryId>161</categoryId>
+<picture>https://1teh.by/files/product/12959/c2669dc9261148d11033e6c15ccf265a.jpg</picture>
+<name>USB Flash Silicon-Power Helios 101 16 Гб (SP016GBUF2101V1B/N)</name>
+<vendor>Silicon-Power</vendor>
+<vendorCode>Helios 101 16 </vendorCode>
+
+</offer>
+<offer id="12960" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/usb-flash-silicon-power-ultima-ii-i-series-silver-16-gb-sp016gbuf2m01v1s</url>
+<price>265000</price>
+<currencyId>BYR</currencyId>
+<categoryId>161</categoryId>
+<picture>https://1teh.by/files/product/12960/50cc694effadb32403f67bdaf8574599.jpg</picture>
+<name>USB Flash Silicon-Power Ultima II I-Series Silver 16 Гб (SP016GBUF2M01V1S)</name>
+<vendor>Silicon-Power</vendor>
+<vendorCode>Ultima II I-Series Silver 16 </vendorCode>
+
+</offer>
+<offer id="12961" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/usb-flash-silicon-power-ultima-ii-i-series-silver-8-gb-sp008gbuf2m01v1s</url>
+<price>207000</price>
+<currencyId>BYR</currencyId>
+<categoryId>161</categoryId>
+<picture>https://1teh.by/files/product/12961/75379c7f58dd00e76704d743d259c048.jpg</picture>
+<name>USB Flash Silicon-Power Ultima II I-Series Silver 8 Гб (SP008GBUF2M01V1S)</name>
+<vendor>Silicon-Power</vendor>
+<vendorCode>Ultima II I-Series Silver 8 </vendorCode>
+
+</offer>
+<offer id="13404" available="true">
+<url>https://1teh.by/kompyuteryi-i-komplektuyuschie/jestkie-diski-toshiba-dt01aca-500gb-dt01aca050</url>
+<price>986000</price>
+<currencyId>BYR</currencyId>
+<categoryId>162</categoryId>
+<picture>https://1teh.by/files/product/13404/e193234b96ce05d8ba6f4667aff20639.jpg</picture>
+<name>Жесткие диски Toshiba DT01ACA 500GB (DT01ACA050)</name>
+<vendor>Toshiba</vendor>
+<vendorCode>DT01ACA 500GB (DT01ACA050)</vendorCode>
+
+</offer>
+</offers>
+		</shop>
+
+</yml_catalog>
