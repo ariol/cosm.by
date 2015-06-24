@@ -14,7 +14,6 @@ class Controller_Site_Category extends Controller_Site
         $this->template->page_view = $page_view;
         $page = intval($this->param('page'));
 
-
         $brands = Arr::get($_GET, 'brands');
 
         $category = ORM::factory('Category')
@@ -31,17 +30,14 @@ class Controller_Site_Category extends Controller_Site
                         LEFT JOIN product ON product.line_id = line.id
                         WHERE product.category_id = {$category->id}
                         AND product.active = 1";
-
         if ($brands) {
             $brandsList = join('", "', $brands);
             $line_query .= ' AND product.brand_id IN ("' . $brandsList . '")';
         } else {
             $line_query .= " AND product.brand_id = 'none'";
         }
-
         $line_query .= " GROUP BY line.id
                         ORDER BY line.name ASC";
-
         $brands_query = "SELECT brand.url, brand.name, brand.id FROM brand
                             LEFT JOIN product ON product.brand_id = brand.id
                             WHERE product.category_id = {$category->id}

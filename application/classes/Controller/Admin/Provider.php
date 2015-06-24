@@ -5,23 +5,15 @@
  * @version SVN: $Id:$
 
  */
-
-class Controller_Admin_Line extends Controller_Crud
+class Controller_Admin_Provider extends Controller_Crud
 {
-    protected $_model = 'Line';
-
+    protected $_model = 'Provider';
     public function before_fetch(ORM $item)
     {
         if (isset($_GET['cancel_filter']))
         {
             $this->redirect('/' . Extasy_Url::url_to_route($this->get_index_route()));
         }
-        $filter_form = new Form_Filter_Brand($item);
-        if (isset($_GET['filter']))
-        {
-            $filter_form->submit();
-        }
-        $this->template->filter_form = $filter_form;
         return parent::before_fetch($item);
     }
 
@@ -30,6 +22,7 @@ class Controller_Admin_Line extends Controller_Crud
         $item->active = !$item->active;
         $item->save();
     }
+
     protected $_group_actions = array(
         'delete' => array(
             'handler' => 'delete_routine',

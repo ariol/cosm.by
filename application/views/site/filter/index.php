@@ -1,5 +1,5 @@
 <h3 class="side-heading">Подбор по параметрам</h3>
-<form id="filters" method="get">
+<form id="filters" action="/<?php echo $category->url; ?>" method="get">
 <div class="list-group">
     <div class="list-group-item">
         Цена
@@ -10,6 +10,7 @@
             От<input style="width: 80%; display: inline-block;" name="min_price" class="form-control" type="text" value="<?php echo $min_price; ?>" >
             До<input style="width: 80%; margin-top: 5px; display: inline-block;" name="max_price" class="form-control" type="text" value="<?php echo $max_price; ?>" >
         </label>
+            <button type="submit" class="btn btn-black filter_button_count">Подобрать</button>
         </div>
     </div>
     <div class="list-group-item">

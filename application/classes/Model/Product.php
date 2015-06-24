@@ -85,15 +85,6 @@ class Model_Product extends ORM
         );
     }
 
-//    public function rules()
-//    {
-//        return array(
-//			'section_id' => array(
-//				//array('not_empty')
-//			),
-//        );
-//    }
-
 	public function save(Validation $validation = NULL)
 	{	
 		$this->md5_url = md5($this->url);
@@ -109,10 +100,6 @@ class Model_Product extends ORM
 
     public function form()
     {
-       // if (Request::current()->action() == 'edit') {
-        //    return new Form_Admin_Product_Edit($this);
-      //  }
-
         return new Form_Admin_Product($this);
     }
 

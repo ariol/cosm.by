@@ -3,15 +3,11 @@
         <!-- Sidebar Starts -->
         <div class="col-md-3">
             <!-- Shopping Options Starts -->
-            <?php echo View::factory('site/filter/index', array('brand' => $brand, 'line' => $line, 'property' => $property, 'max_price' => $max_price, 'min_price' => $min_price));?>
+            <?php echo View::factory('site/filter/index', array('category' => $category, 'brand' => $brand, 'line' => $line, 'property' => $property, 'max_price' => $max_price, 'min_price' => $min_price));?>
             <h3 class="side-heading">Спецпредложение</h3>
             <?php $specialProduct = ORM::factory('Product')->fetchProdSpecial($category->id); ?>
             <?php foreach($specialProduct as $topprod){
-            if($topprod->new_price)
-            $price = $topprod->new_price;
-            else
-            $price = $topprod->price;
-            ?>
+                $price = ORM::factory('Product')->getPriceValue($topprod->id);?>
             <div class="product-col">
                 <div class="image">
                     <a href="<?php echo $category->url; ?>/<?php echo $topprod->url; ?>">
@@ -43,21 +39,14 @@
             </script>
             <!-- Bestsellers Links Ends -->
         </div>
-        <!-- Sidebar Ends -->
-        <!-- Primary Content Starts -->
         <div class="col-md-9">
-            <!-- Breadcrumb Starts -->
             <ol class="breadcrumb">
                 <li><a href="/">Главная</a></li>
                 <li><?php echo $category->name; ?></li>
             </ol>
-            <!-- Breadcrumb Ends -->
-            <!-- Main Heading Starts -->
             <h2 class="main-heading2">
                 <?php echo $category->name; ?>
             </h2>
-            <!-- Main Heading Ends -->
-            <!-- Category Intro Content Starts -->
             <div class="row cat-intro">
                 <div class="col-sm-3">
                     <?php if ($category->image) { ?>
@@ -100,12 +89,8 @@
             <!-- Product Grid Display Starts -->
             <section class="products-list">
             <div class="row">
-                <?php foreach ($product as $index => $prod) {
-                    if($prod->new_price)
-                        $price = $prod->new_price;
-                    else
-                        $price = $prod->price;
-                    ?>
+                <?php $clearfix = 0; foreach ($product as $index => $prod) {
+                    $price = ORM::factory('Product')->getPriceValue($prod->id);?>
                     <input type="hidden" name="quantity" value="1"  />
                     <div class="col-md-4 col-sm-6">
                         <div class="product-col">
@@ -136,7 +121,7 @@
                             </div>
                         </div>
                     </div>
-                <?php } ?>
+                    <?php $clearfix++; if($clearfix % 3 == 0) { ?><div class="clearfix"></div>  <?php }?> <?php  } ?>
             </div>
             </section>
             <div class="row">

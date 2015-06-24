@@ -54,9 +54,10 @@
                     <!-- Manufacturer Ends -->
                     <hr />
                     <!-- Price Starts -->
+                    <?php $price_prod = ORM::factory('Product')->getPriceValue($id);?>
                     <div class="price">
                         <span class="price-head">Цена :</span>
-                        <span class="price-new">   <?php if(!$new_price){ echo number_format($price, 0, '', ' ');}  else { echo number_format($new_price, 0, '', ' ');} ?>  руб.</span>
+                        <span class="price-new">   <?php echo number_format($price_prod, 0, '', ' ');?>  руб.</span>
                         <?php if($new_price){?><span class="price-old"><?php echo number_format($price, 0, '', ' ');?> руб.</span><?php } ?>
                       </div>
                     <!-- Price Ends -->
@@ -76,18 +77,15 @@
                                 <?php $i++; } ?>
                         </div>
                             <?php } ?>
-                        <?php  if($parent_product == 0) { ?>
+                        <?php  if($parent_product == 0 AND $volume) { ?>
                         <div class="form-group">
-                            <label for="select" class="control-label text-uppercase">Объем: <?php if (!$volume_prod) { ?><?php echo $volume?><?php } ?></label> 
-                            <?php  if($volume_prod){ ?>
+                            <label for="select" class="control-label text-uppercase">Объем: <?php if (!$volume_prod) { ?><?php echo $volume?><?php } ?></label>
+                            <?php  if($volume_prod) { ?>
                             <select name="select" id="select" class="form-control">
-                                <option value="<?php echo $volume; ?>" data-id=<?php echo $id?> data-price="<?php if(!$new_price){ echo number_format($price, 0, '', ' ');}  else { echo number_format($new_price, 0, '', ' ');} ?>" data-article="<?php echo $article?>" selected><?php echo $volume?></option>
+                                <option value="<?php echo $volume; ?>" data-id="<?php echo $id?>" data-price="<?php echo number_format($price_prod, 0, '', ' '); ?>" <?php if($new_price) { ?> data-old-price="<?php echo number_format($price, 0, '', ' ')?>" <?php } ?> data-article="<?php echo $article?>" selected><?php echo $volume?></option>
                                 <?php  foreach ($volume_prod as $volume) {
-                                    if($volume->new_price)
-                                        $price = $volume->new_price;
-                                    else
-                                        $price = $volume->price;?>
-                                <option value="<?php echo $volume->volume; ?>" data-id="<?php echo $volume->id ?>" data-price="<?php echo number_format($price, 0, ' ', ' ');?>"  data-article="<?php echo $volume->article?>"><?php echo $volume->volume?></option>
+                                 $price = ORM::factory('Product')->getPriceValue($volume->id);?>
+                                <option value="<?php echo $volume->volume; ?>" data-id="<?php echo $volume->id ?>" data-price="<?php echo number_format($price, 0, ' ', ' ');?>" <?php if($volume->new_price) { ?> data-old-price="<?php echo number_format($volume->price, 0, '', ' ')?>" <?php } ?>  data-article="<?php echo $volume->article?>"><?php echo $volume->volume?></option>
                                 <?php } ?>
                             </select>
                             <?php } ?>
@@ -99,13 +97,10 @@
                             <label for="select" class="control-label text-uppercase">Объем: </label>
                             <?php if($volume_prod_child) { ?>
                             <select name="select" id="select" class="form-control">
-                                <option value="<?php echo $volume; ?>" data-id=<?php echo $id?> data-price="<?php if(!$new_price){ echo number_format($price, 0, '', ' ');}  else { echo number_format($new_price, 0, '', ' ');} ?>" data-article="<?php echo $article?>" selected><?php echo $volume?></option>
-                                <?php  foreach ($volume_prod_child as $volume) {;
-                                    if($volume->new_price)
-                                        $price = $volume->new_price;
-                                    else
-                                        $price = $volume->price;?>
-                                <option value="<?php echo $volume->volume; ?>" data-id="<?php echo $volume->id ?>" data-price="<?php echo number_format($price, 0, ' ', ' ');?>"  data-article="<?php echo $volume->article?>"><?php echo $volume->volume?></option>
+                                <option value="<?php echo $volume; ?>" data-id="<?php echo $id?>" data-price="<?php echo number_format($price_prod, 0, '', ' '); ?>" <?php if($new_price) { ?> data-old-price="<?php echo number_format($price, 0, '', ' ')?>" <?php } ?> data-article="<?php echo $article?>" selected><?php echo $volume?></option>
+                                <?php  foreach ($volume_prod_child as $volume) {;?>
+                                    <?php $price = ORM::factory('Product')->getPriceValue($volume->id);?>
+                                <option value="<?php echo $volume->volume; ?>" data-id="<?php echo $volume->id ?>" data-price="<?php echo number_format($price, 0, ' ', ' ');?>" <?php if($volume->new_price) { ?> data-old-price="<?php echo $volume->price?>" <?php } ?> data-article="<?php echo $volume->article?>"><?php echo $volume->volume?></option>
                                 <?php  echo $volume->volume; } ?>
                             </select>
                             <?php } ?>
@@ -241,7 +236,7 @@
                         <div class="caption">
                             <br>
                             <div class="price">
-                                <span class="price-new"><?php echo $price ?>руб.</span>
+                                <span class="price-new"><?php echo number_format($price, 0, ' ', ' ') ?>руб.</span>
                             </div>
                             <?php if($related_prod->new_price){ ?>
                                 <div class="price">

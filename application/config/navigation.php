@@ -87,6 +87,15 @@ return array(
         'route' => 'admin-coupons:edit',
         'parent' => 'admin.coupons.index'
     ),
+    'admin.provider.index' => array(
+        'title' => 'Список поставщиков',
+        'route' => 'admin-provider'
+    ),
+    'admin.provider.create' => array(
+        'title' => 'Добавить поставщика',
+        'route' => 'admin-provider:create',
+        'parent' => 'admin.provider.index'
+    ),
     'admin.coupons.create' => array(
         'title' => 'Добавление купона',
         'route' => 'admin-coupons:create',
@@ -143,6 +152,11 @@ return array(
 		'route' => 'admin-product:edit',
 		'parent' => 'admin.product.index'
 	),
+    'admin.product.create' => array(
+        'title' => 'Добавление товара',
+        'route' => 'admin-product:create',
+        'parent' => 'admin.product.index'
+    ),
 	'admin.news.index' => array(
 		'title' => 'Список новостей',
 		'route' => 'admin-news'
@@ -187,7 +201,7 @@ return array(
 		'parent' => 'admin.statistics.index'
 	),
 	'admin.statistics.clients_summ' => array(
-		'title' => 'Клиенты заказавшие на сумму ',
+		'title' => 'Клиенты по сумме ',
 		'route' => 'admin-statistics:clients_summ',
 		'parent' => 'admin.statistics.index'
 	),

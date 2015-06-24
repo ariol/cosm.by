@@ -10,7 +10,6 @@
             </div>
             <div id="selection"></div>
             <form class="form-horizontal" role="form">
-                Список клиентов, заказавших на сумму:
                 <div class="form-group">
                     <label for="inputFname" class="col-sm-2 control-label">Введите сумму :</label>
                     <div class="col-sm-2">

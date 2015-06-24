@@ -1,10 +1,16 @@
 <?php defined('SYSPATH') or die('No direct script access.');
 class Controller_Site_Brand extends Controller_Site
 {	
-    private $_items_on_page = 24;
+    private $_items_on_page = 12;
 
     public function action_index()
     {
+        if ($_GET['page_view']=='list') {
+            $page_view = "list";
+        } else {
+            $page_view = "grid";
+        }
+        $this->template->page_view = $page_view;
 		$brand_url = $this->param('url');
 		$this->template->set_layout('layout/site/global');
         
@@ -64,6 +70,20 @@ class Controller_Site_Brand extends Controller_Site
                         GROUP BY line.id
                         ORDER BY line.name ASC";
         $this->template->line = $PDO_line->query($line_query)->fetchAll(PDO::FETCH_ASSOC);
+        $querymaxprice = "SELECT MAX(price) as max, MIN(price) as min FROM product
+					WHERE product.brand_id = {$brand->id}";
+        $maxprice = ORM::factory('Product')->PDO()->query($querymaxprice . " AND product.active = 1 AND product.price > 0")->fetch();
+        $max_price = $maxprice['max'];
+        $min_price = $maxprice['min'];
+
+        if (isset($_GET['max_price'])) {
+            $max_price = $_GET['max_price'];
+        }
+        if (isset($_GET['min_price'])) {
+            $min_price = $_GET['min_price'];
+        }
+        $this->template->max_price = $max_price;
+        $this->template->min_price = $min_price;
         $this->template->s_title = $title;
         $this->template->pagination = $pagination;
     }

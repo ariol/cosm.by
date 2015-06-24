@@ -16,7 +16,11 @@ class Model_Brand extends ORM
             'through' => 'brand_category',
             'foreign_key' => 'brand_id',
             'far_key' => 'category_id',
-		)
+		),
+        'provider'    => array(
+            'model'=> 'Provider',
+            'foreign_key' => 'provider_id'
+        )
     );
 
     protected $_grid_columns = array(
@@ -53,6 +57,7 @@ class Model_Brand extends ORM
 			's_keywords' => 'Seo keywords',
 			'url' => 'URL',
 			'category' => 'Участие в категориях',
+			'provider_id' => 'Поставщик',
 			'active' => 'Активность',
 			'position' => 'Позиция',
 			'description' => 'Описание',
@@ -86,14 +91,12 @@ class Model_Brand extends ORM
             ->where('main_image', '!=', '')
             ->order_by('position', 'ASC')->find_all()->as_array();
 	}
-
 	public function fetch_brand_by_url($url)
     {
         return $this->where('active', '=', true)
             ->where('url', '=', $url)
             ->find();
     }
-
 	public function fetchBrandByCatId($id)
     {
         $category = ORM::factory('Category', $id);
@@ -104,7 +107,6 @@ class Model_Brand extends ORM
 	public function selectInsert($name)
 	{
 		$brand = ORM::factory('Brand')->where('name', '=', $name)->find();
-		
 		if (!$brand->loaded()) {
 			$url = Helpers_Url::translit($name);
 		
@@ -114,7 +116,6 @@ class Model_Brand extends ORM
 			$brand->md5_url = md5($url);
 			$brand->save();
 		}
-		
 		return $brand->id;
 	}
 }

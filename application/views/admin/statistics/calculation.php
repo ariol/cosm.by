@@ -4,11 +4,6 @@
     <div class="col-sm-12">
         <!-- Shipment Information Block Starts -->
         <div class="panel panel-smart">
-            <div class="panel-heading">
-                <h2 class="panel-title">
-                    Расчет прибыли
-                </h2>
-            </div>
             <div id="selection"></div>
             <form class="form-horizontal" role="form">
                 <div class="panel-smart panel_hidden">

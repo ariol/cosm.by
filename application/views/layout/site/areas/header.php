@@ -141,4 +141,5 @@
         <!-- Main Menu Starts -->
         <?php echo View::factory('site/menu/catalog');?>
         <!-- Main Menu Ends -->
+        <div id="growl"></div>
     </header>

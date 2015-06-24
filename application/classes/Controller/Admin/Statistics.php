@@ -11,10 +11,75 @@ class Controller_Admin_Statistics extends Controller_Crud
     {
 
     }
+
     public function action_provider_calculation()
     {
-
+        $from = $_GET['from'];
+        $to = $_GET['to'];
+        $provider = $_GET['provider'];
+        $this->template->from = $from;
+        $this->template->to = $to;
+        $this->template->provider = $provider;
+        $limit = 20;
+        $page =  $_GET['page'];
+        if(!$page) {
+            $page = 1;
+        }
+        $offset = $page * $limit - $limit;
+        $PDO = ORM::factory('Orders')->PDO();
+        if(!$provider) {
+            $query = "SELECT SQL_CALC_FOUND_ROWS *,
+                        product_id,
+                        quantity,
+                        order_product.price * order_product.quantity as price_quantity,
+                        orders.created_at,
+                        orders.status,
+                        brand_id,
+                        provider.name,
+                        provider.id as prov_id,
+                        SUM(order_product.quantity) as quantity_prod,
+                        SUM(purchase_price * order_product.quantity) as purchase_price_quantity
+                        FROM order_product
+                        LEFT JOIN orders  ON orders.id = order_product.order_id
+                        LEFT JOIN product  ON product.id = order_product.product_id
+                        LEFT JOIN brand  ON brand.id = product.brand_id
+                        LEFT JOIN provider  ON provider.id = brand.provider_id
+                        WHERE orders.created_at BETWEEN '{$from}' AND '{$to}' AND orders.status = 4 GROUP BY provider.name ORDER BY purchase_price_quantity DESC LIMIT $offset, $limit";
+        }else{
+            $query = "SELECT SQL_CALC_FOUND_ROWS *,
+                        product_id,
+                        product.name as prod_name,
+                        quantity,
+                        orders.created_at,
+                        orders.status,
+                        brand_id,
+                        provider.name as prov_name,
+                        provider.id as prov_id,
+                        order_product.quantity as quantity_prod,
+                        purchase_price * order_product.quantity as purchase_price_quantity
+                        FROM order_product
+                        LEFT JOIN orders  ON orders.id = order_product.order_id
+                        LEFT JOIN product  ON product.id = order_product.product_id
+                        LEFT JOIN brand  ON brand.id = product.brand_id
+                        LEFT JOIN provider  ON provider.id = brand.provider_id
+                        WHERE orders.created_at BETWEEN '{$from}' AND '{$to}' AND orders.status = 4 AND  provider.id = '{$provider}' ORDER BY quantity_prod DESC LIMIT $offset, $limit";
+        }
+        $search_result = $PDO->query($query)->fetchAll(PDO::FETCH_ASSOC);
+        $rs1 = $PDO->query('SELECT FOUND_ROWS()');
+        $total_product = (int) $rs1->fetchColumn();
+        $this->template->result = $search_result;
+        $total_page = ceil($total_product / $limit);
+        $this->template->pagination =
+            Pagination::factory(
+                array(
+                    'total_items'    => $total_page,
+                    'items_per_page' => $this->_items_on_page,
+                    'view' => 'extasy/pagination/basic',
+                    'current_page'   => array('source' => 'query_string', 'key' => 'page'),
+                )
+            )->render();
     }
+
     public function action_clients_article()
     {
         $limit = 20;
@@ -25,9 +90,7 @@ class Controller_Admin_Statistics extends Controller_Crud
             $page = 1;
         }
         $PDO = ORM::factory('Orders')->PDO();
-
         $offset = $page * $limit - $limit;
-
         $query = "SELECT o.name, o.email, o.phone, o.id, p.article,  p.name as p_name FROM order_product op
                             LEFT JOIN product p ON op.product_id = p.id
                             LEFT JOIN orders o ON op.order_id = o.id
@@ -138,6 +201,7 @@ class Controller_Admin_Statistics extends Controller_Crud
                     )
                 )->render();
     }
+
     public function action_clients_city()
     {
         $limit = 20;

@@ -88,6 +88,12 @@ Route::set('admin-coupons', $adminPrefix . 'coupons(/<action>(/<id>))')
 	'controller' => 'coupons',
 	'action' => 'index'
 ));
+Route::set('admin-provider', $adminPrefix . 'provider(/<action>(/<id>))')
+->defaults(array(
+	'directory' => 'admin',
+	'controller' => 'provider',
+	'action' => 'index'
+));
 Route::set('admin-certificate', $adminPrefix . 'certificate(/<action>(/<id>))')
 ->defaults(array(
 	'directory' => 'admin',

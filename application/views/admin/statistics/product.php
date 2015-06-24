@@ -3,16 +3,11 @@
     <div class="col-sm-12">
         <!-- Shipment Information Block Starts -->
         <div class="panel panel-smart">
-            <div class="panel-heading">
-                <h2 class="panel-title">
-                    Статистика по товарам
-                </h2>
-            </div>
             <div id="selection"></div>
             <form class="form-horizontal" role="form">
                 Товары – по количеству заказов по убыванию
                 <div class="form-group">
-                    <label for="inputFname" class="col-sm-2 control-label">Поиск товара по артикул :</label>
+                    <label for="inputFname" class="col-sm-3 control-label">Поиск товара по артикул :</label>
                     <div class="col-sm-3">
                         <input class="form-control" type="text" name="article" placeholder="введите артикул"  value="<?php echo $article?>"  id="autocomplete"/>
                     </div>

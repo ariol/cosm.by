@@ -61,7 +61,7 @@
                             <div class="price">
                                <span class="price-new" ><?php echo number_format($price, 0, ' ', ' '); ?>.руб</span>
                             </div>
-                            <?php if($product->new_price){ ?>
+                            <?php if($product->new_price) { ?>
                                 <div class="price">
                                     <span class="price-old"><?php echo number_format($product->price, 0, ' ', ' '); ?>руб.</span>
                                 </div>

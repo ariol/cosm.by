@@ -3,15 +3,11 @@
     <div class="row">
         <!-- Sidebar Starts -->
         <div class="col-md-3">
-            <?php echo View::factory('site/filter/index', array('brand' => $brand, 'line' => $line, 'property' => $property, 'max_price' => $max_price, 'min_price' => $min_price));?>
+            <?php echo View::factory('site/filter/index', array('category' => $category, 'brand' => $brand, 'line' => $line, 'property' => $property, 'max_price' => $max_price, 'min_price' => $min_price));?>
             <h3 class="side-heading">Спецпредложение</h3>
             <?php $specialProduct = ORM::factory('Product')->fetchProdSpecial($category->id); ?>
             <?php foreach($specialProduct as $topprod){
-                if($topprod->new_price)
-                    $price = $topprod->new_price;
-                else
-                    $price = $topprod->price;
-                ?>
+                $price = ORM::factory('Product')->getPriceValue($topprod->id);?>
                 <div class="product-col">
                     <div class="image">
                         <a href="<?php echo $category->url; ?>/<?php echo $topprod->url; ?>">
@@ -98,24 +94,17 @@
             <div class="row">
                 <!-- Product #1 Starts -->
                 <?php foreach ($product as $index => $prod) {
-                    if($prod->new_price)
-                        $price = $prod->new_price;
-                    else
-                        $price = $prod->price;
-                    ?>
+                    $price = ORM::factory('Product')->getPriceValue($prod->id);?>
                     <input type="hidden" name="quantity" value="1"  />
                 <div class="col-xs-12">
                     <div class="product-col list clearfix">
                         <div class="image">
-                            <a href="/<?php echo $prod->url; ?>">
+                            <a href="/<?php echo $category->url;?>/<?php echo $prod->url; ?>">
                                 <img src="<?php echo Lib_Image::resize_bg($prod->main_image, 'product', $prod->id, 250, 250); ?>" alt=<?php echo $prod->name; ?> class="img-responsive" />
                             </a>
                         </div>
                         <div class="caption">
-                            <h4><a href="/<?php echo $prod->url; ?>"><?php echo $prod->name; ?></a></h4>
-                            <div class="description">
-                                <?=$prod->short_content?>
-                            </div>
+                            <h4><a href="/<?php echo $category->url;?>/<?php echo $prod->url; ?>"><?php echo $prod->name; ?></a></h4>
                             <div class="price">
                                 <span class="price-new"><?php echo number_format($price, 0, ' ', ' ');?>руб.</span>
                             </div>

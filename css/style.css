@@ -1384,4 +1384,55 @@ hr{
 .mfp-content {
     background-color: #fff;
     max-width: 900px;
+    padding: 15px;
+}
+#main-container .col-md-3>.side-heading{
+    font-size: 16px;
+}
+#filters label{
+    font-size: 12px;
+}
+.filter_button_count{
+    margin-left: 20px;
+}
+
+#growl {
+    position: fixed;
+    bottom: 0;
+    right: 5px;
+    width: 320px;
+    z-index: 10;
+    color: #ffffff;
+}
+#growl .notice {
+    position: relative;
+    min-height: 30px;
+    transition: all ease .1s;
+}
+#growl .notice{
+    padding: 5px 20px 5px 15px;
+}
+
+#growl .skin {
+    position: absolute;
+    background-color: #000000;
+    bottom: 0;
+    left: 0;
+    opacity: 0.7;
+    right: 0;
+    top: 0;
+    z-index: -1;
+}
+
+#growl .close {
+    /* text-indent: -9999px; */
+    display: none;
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    opacity: 1;
+}
+#growl .close  i{
+    color: #ffffff;
+    font-size: 12px;
 }

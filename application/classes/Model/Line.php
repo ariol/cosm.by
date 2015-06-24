@@ -3,19 +3,10 @@
 class Model_Line extends ORM
 {
     protected $_table_name = 'line';
-
         protected $_has_many = array(
         'product' => array(
             'model' => 'Product',
-            'through' => 'brand_product',
-            'foreign_key' => 'brand_id',
-            'far_key' => 'product_id',
-        ),
-        'category' => array(
-            'model' => 'Category',
-            'through' => 'brand_category',
-            'foreign_key' => 'brand_id',
-            'far_key' => 'category_id',
+            'foreign_key' => 'product_id',
         )
     );
         protected $_grid_columns = array(
@@ -36,14 +27,14 @@ class Model_Line extends ORM
     {
         return array(
             'name' => 'Название',
-            's_title' => 'Seo title',
-            's_description' => 'Seo description',
-            's_keywords' => 'Seo keywords',
             'url' => 'URL',
-            'category' => 'Участие в категориях',
-            'active' => 'Активность',
-            'description' => 'Описание',
+            'active' => 'Активность'
         );
+    }
+
+    public function form()
+    {
+        return new Form_Admin_Line($this);
     }
     public function selectInsert($name)
     {

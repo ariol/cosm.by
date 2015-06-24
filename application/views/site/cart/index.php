@@ -451,21 +451,21 @@
                             <a href="/"><img src="/images/logo.png" title="Chocolate Shoppe" alt="Chocolate Shoppe" class="img-responsive" /></a>
                         </div>
                     </div>
-                    <h3>Ваш заказ:</h3>
+                    <h5>Ваш заказ:</h5>
                     <?php $resprice = 0;
                     if ($cartitems or $certificate) { ?>
                         <?php if ($cartitems) { ?>
-                            <h5>Товары:</h5>
+                            Товары:
                             <table class="table table-bordered">
                                 <thead>
                                 <tr>
-                                    <td class="text-center">
+                                    <td>
                                         Наименование
                                     </td>
-                                    <td class="text-center">
+                                    <td>
                                         Количество
                                     </td>
-                                    <td class="text-center">
+                                    <td>
                                         Стоимость
                                     </td>
                                 </tr>
@@ -482,7 +482,7 @@
                                         $price = $prod->price;
                                     ?>
                                     <tr data-id="<?php echo $key; ?>">
-                                        <td class="text-center">
+                                        <td>
                                             <a href="/<?php echo $category->url; ?>/<?php echo $url; ?>">
                                                 <?php echo $prod->name ?>
                                             </a>
@@ -507,7 +507,7 @@
                                         <td colspan="2" class="text-right">
                                             <strong>Итого:</strong>
                                         </td>
-                                        <td colspan="2" class="text-left price_total_product">
+                                        <td colspan="2" class="text-left price_total_product_fancybox">
                                             <span id="lastprice-product" data-lastprice_product="<?php echo $lastprice?>"></span> <span><?php echo number_format($lastprice, 0, '', ' '); ?> руб.</span>
                                         </td>
                                     </tr>
@@ -528,7 +528,7 @@
                                         <td colspan="2" class="text-right">
                                             <strong>Итого:</strong>
                                         </td>
-                                        <td class="text-left price_total_product">
+                                        <td class="text-left price_total_product_fancybox">
                                             <span id="lastprice-product" data-lastprice_product="<?php echo $lastprice; ?>"></span> <span><?php echo number_format($lastprice, 0, '', ' '); ?> руб.</span>
                                         </td>
                                     </tr>
@@ -537,17 +537,17 @@
                             </table>
                         <?php } ?>
                         <?php if($certificate) { ?>
-                            <h5>Сертификаты:</h5>
+                            Сертификаты:
                             <table class="table table-bordered">
                                 <thead>
                                 <tr>
-                                    <td class="text-center">
+                                    <td>
                                         Наименование
                                     </td>
-                                    <td class="text-center">
+                                    <td>
                                         Количество
                                     </td>
-                                    <td class="text-center">
+                                    <td>
                                         Цена
                                     </td>
                                 </tr>
@@ -558,7 +558,7 @@
                                     $certificare_price = $crt->price;
                                     ?>
                                     <tr data-id="<?php echo $key; ?>">
-                                        <td class="text-center">
+                                        <td>
                                             <a href="certificate_product/<?php echo $crt->url?>"><?php echo $crt->name ?></a>
                                         </td>
                                         <td class="text-center">
@@ -622,6 +622,10 @@
                             </table>
                         <?php } ?>
                     <?php } ?>
+                    <div class="result_view_coupon"></div>
+                    <div class="result_view_certificate"></div>
+                    <br>
+                    <div class="data_order_delivery_result"></div>
                     <div class="form-group">
                         <a href="/">
                             <div class="col-sm-offset-5 col-sm-4">

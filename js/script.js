@@ -31,8 +31,38 @@ function numFormat(n, d, s) { // number format function
     }
     return x;
 }
+function addNotice(notice) {
+    $('<div class="notice"></div>')
+        .append('<div class="skin"></div>')
+        .append('<a href="#" class="close"><i class="fa fa-times"></i></a>')
+        .append($('<div class="content"></div>').html(notice))
+        .hide()
+        .appendTo('#growl')
+        .fadeIn(10);
+    setTimeout(function() { $('.notice').animate({border: 'none', height: 0, opacity: 0, queue: false}, 1000, function() {$('.notice').remove();});}, 5000);
+}
 $(document).ready(function() {
-	$('.scrollbar-light').scrollbar();
+    $('.messaging').click( function() {
+        addNotice("Welcome to StarTrackr!");
+    });
+
+    $('#growl')
+        .find('.close')
+        .live('click', function() {
+            // Remove the bubble
+            $(this)
+                .closest('.notice')
+                .animate({
+                    border: 'none',
+                    height: 0,
+                    opacity: 0,
+                    queue: false
+                }, 1000, function() {
+                    $(this).remove();
+                });
+        });
+
+    $('.scrollbar-light').scrollbar();
     $('.filter-group input').on('change', function() {
         $('#filters').submit();
     });
@@ -64,9 +94,13 @@ $(document).ready(function() {
         var id = option.attr('data-id');
         var price = option.attr('data-price');
         var article = option.attr('data-article');
+        var old_price = option.attr('data-old-price');
         $('.add_cart').attr('data-id', id);
         $('#volume').text(volume);
         $('.price-new').text(price + ' руб.');
+        if(old_price) {
+            $('.price-old').text(old_price + ' руб.');
+        }
         $('#article').text(article);
     });
 
@@ -79,6 +113,7 @@ $(document).ready(function() {
     });
 
     $('.add_cart').click(function () {
+        addNotice('Товар добавлен в корзину');
         var id = $(this).attr('data-id');
         var price = $(this).attr('data-price');
         var quantity = $('input[name="quantity"]').val();
@@ -103,6 +138,7 @@ $(document).ready(function() {
     });
 
     $('.add_cart_sertificate').click(function () {
+        addNotice('Сертификат добавлен в корзину');
         var id = $(this).attr('data-id');
         var price = $(this).attr('data-price');
         var quantity = $('input[name="quantity"]').val();
@@ -124,6 +160,7 @@ $(document).ready(function() {
 
     $('.add_wish').click(function (e) {
         e.preventDefault();
+        addNotice('Товар добавлен в избранное');
         var id = $(this).attr('data-id');
         var price = $(this).attr('data-price');
         var key = $(this).attr('data-key');
@@ -139,7 +176,6 @@ $(document).ready(function() {
             success: function (result) {
                 $('#like-total').text(result.summlikes);
                 $('#like-total').attr('data-like', result.summlikes);
-                alert("Товар дабавлен в избранное");
             }
         });
     });
@@ -341,6 +377,10 @@ function suces_order(){
                 suces_order();
                 $('#cart-total').text('0');
                 $('.cartlayer').html('<p>Спасибо, ваш заказ принят! В ближайшее время с вами свяжется наш менеджер.</p> <h3>Ваша корзина пуста</h3>');
+                $('.data_order_delivery_result').html("<ul class='list-unstyled ul_data_order_delivery_result'> <li>Имя: "+ name +"</li> <li>E-mail: "+email+"</li> <li>Телефон: "+phone+"</li> <li>Адрес: "+adress+"</ul>");
+                if(city){
+                    $('.ul_data_order_delivery_result').append("<li>Город: "+city+"</li><li>Индекс "+index+"</li>")
+                }
             }
         });
     });
@@ -368,32 +408,32 @@ function suces_order(){
     });
 
     //Скролинг вверх страницы
-    $(function() {
-        $(window).scroll(function() {
-            if($(this).scrollTop() != 0) {
-                $('.add_cart').fadeIn();
-            } else {
-                $('.add_cart').fadeOut();
-            }
-        });
-        $('.add_cart').click(function() {
-            $('body,html').animate({scrollTop:0},800);
-        });
-    });
+    //$(function() {
+    //    $(window).scroll(function() {
+    //        if($(this).scrollTop() != 0) {
+    //            $('.add_cart').fadeIn();
+    //        } else {
+    //            $('.add_cart').fadeOut();
+    //        }
+    //    });
+    //    $('.add_cart').click(function() {
+    //        $('body,html').animate({scrollTop:0},800);
+    //    });
+    //});
 
     //Скролинг вверх страницы из сертификатов
-    $(function() {
-        $(window).scroll(function() {
-            if($(this).scrollTop() != 0) {
-                $('.add_cart_sertificate').fadeIn();
-            } else {
-                $('.add_cart_sertificate').fadeOut();
-            }
-        });
-        $('.add_cart_sertificate').click(function() {
-            $('body,html').animate({scrollTop:0},800);
-        });
-    });
+    //$(function() {
+    //    $(window).scroll(function() {
+    //        if($(this).scrollTop() != 0) {
+    //            $('.add_cart_sertificate').fadeIn();
+    //        } else {
+    //            $('.add_cart_sertificate').fadeOut();
+    //        }
+    //    });
+    //    $('.add_cart_sertificate').click(function() {
+    //        $('body,html').animate({scrollTop:0},800);
+    //    });
+    //});
 
     $('button[data-type=use_code]').click(function(e) {
         e.preventDefault();
@@ -422,6 +462,7 @@ function suces_order(){
                     $('.price_coupon').text(result.price_view +" руб.");
                     $('.price_start_coupon').text(result.price_start +" руб.");
                     $('.price_total_product span:nth-child(2)').text(result.price_view +" руб." + " (скидка " + result.discount + "%)");
+                    $('.price_total_product_fancybox').text(result.price_view +" руб.");
                     $('.last_result_delivery_price').text(result.total_price_view +" руб.");
                     $('.last_result_delivery_price').attr('data-last_result_delivery_price', result.total_price);
                     $('.use_coupon_disabled').attr('disabled', 'disabled');
@@ -429,6 +470,7 @@ function suces_order(){
                     price_total_delivery = result.total_price;
                     price_total_delivery_start = result.total_price_start;
                     price_delivery = result.price_delivery;
+                    $('.result_view_coupon').text("Был использован купон на скидку в "+result.discount+"%");
                 }
             }
         });
@@ -466,13 +508,15 @@ function suces_order(){
                     $('.price_start').text(result.price_start_view + "руб.");
                     $('.price_certificate').text(result.price_view + " руб.");
                     $('.price_total_product span:nth-child(2)').text(result.price_view +" руб." + " (применен сертификат на сумму " + result.sum +" руб." + ")");
-                    $('.last_result_delivery_price').text(result.total_price_view +" руб.")
-                    $('.last_result_delivery_price').attr('data-last_result_delivery_price', result.total_price)
+                    $('.price_total_product_fancybox').text(result.price_view +" руб.");
+                    $('.last_result_delivery_price').text(result.total_price_view +" руб.");
+                    $('.last_result_delivery_price').attr('data-last_result_delivery_price', result.total_price);
                     $('.use_certificate_disabled').attr('disabled', 'disabled');
-                    $('.dell_certificate.hidden').removeClass('hidden')
+                    $('.dell_certificate.hidden').removeClass('hidden');
                     price_total_delivery = result.total_price;
                     price_total_delivery_start = result.total_price_start;
                     price_delivery = result.price_delivery;
+                    $('.result_view_certificate').text("Был использован сертификат на сумму "+result.sum+"%");
                 }
             }
         });
