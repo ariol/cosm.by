@@ -13,9 +13,7 @@ class Controller_Site_Brand extends Controller_Site
         $this->template->page_view = $page_view;
 		$brand_url = $this->param('url');
 		$this->template->set_layout('layout/site/global');
-        
         $lines = Arr::get($_GET, 'line');
-
         $brand = ORM::factory('Brand')->where('url', '=', $brand_url)->where('active', '=', 1)->find();
         if (!$brand->loaded()) {			$this->forward_404();		}
         $this->template->brand = $brand;
@@ -57,8 +55,7 @@ class Controller_Site_Brand extends Controller_Site
             'total_items'    => $countItems,
             'items_per_page' => $this->_items_on_page,
             'view' => 'site/pagination/pagination')	)->render();$this->template->pagination = $pagination;
-        $PDO = ORM::factory('Brand')->PDO();
-        $title = 'Производитель '.$brand->name.' в интернет-магазине 1teh. Продукция '.$name.' в Беларуси';
+        $title = 'Производитель '.$brand->name;
         if ($page > 1) {
             $title .= ' (страница ' . $page . ')';
         }

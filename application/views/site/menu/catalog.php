@@ -11,7 +11,7 @@
     <div class="collapse navbar-collapse navbar-cat-collapse">
         <ul class="nav navbar-nav">
             <li class="dropdown">
-                <a href="category-list.html" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="10">
+                <a href="/" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="10">
                     Бренды
                 </a>
                 <ul class="dropdown-menu" role="menu">

@@ -1,19 +1,15 @@
 <div id="main-container">
     <div class="row">
         <div class="col-md-3">
-            <h3 class="side-heading">Подбор по параметрам</h3>
+            <h3 class="side-heading">Линии</h3>
             <form id="brand_lines" action="/brand/<?php echo $brand->url; ?>">
                 <div class="list-group">
                     <div class="list-group-item">
-                        Линии
-                    </div>
-                    <div class="list-group-item">
                         <div class="filter-group">
                             <?php foreach($line as $item){?>
-                                <label class="checkbox">
-                                    <input <?php if(isset($_GET['line'][$item['id']])) { ?>checked<?php } ?> name="line[<?php echo $item['id']; ?>]" type="checkbox" value="1" />
-                                    <?php echo $item['name'];?>
-                                </label>
+                                <div>
+                                    <a href="/brand/<?php echo $brand->url; ?>/<?php echo $item['url'];?>"><?php echo $item['name'];?></a>
+                                </div>
                             <?php } ?>
                         </div>
                     </div>

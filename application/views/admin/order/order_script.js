@@ -215,6 +215,8 @@ $(document).ready(function() {
         var email = $('input[name="email"]').val();
         var phone = $('input[name="phone"]').val();
         var adress = $('input[name="adress"]').val();
+        var city = $('input[name="city"]').val();
+        var index = $('input[name="index"]').val();
         var quantity = $('input[name="quantity"]').val();
         var delivery = $('input[name="delivery"]:checked').val();
         var certificate = $('#cancel_certificate').attr('data-code_certificate');
@@ -242,7 +244,9 @@ $(document).ready(function() {
                 delivery: delivery,
                 coupon: coupon,
                 certificate: certificate,
-                order_id: order_id
+                order_id: order_id,
+                city: city,
+                index: index
             },
             success: function (result) {
                 alert('Заказ изменен');

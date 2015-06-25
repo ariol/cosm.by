@@ -184,12 +184,14 @@
                     <div>
                         <?php if($reviews){
                             foreach ($reviews as $review){  ?>
-                                <div>
-                                    <?php echo $review->name;?>
-                                </div>
-                                <div>
-                                    <?php echo $review->content;?>
-                                </div>
+                                <div class="media">
+                                    <div class="media-body">
+                                        <h4 class="media-heading"> <?php echo $review->name;?></h4>
+                                        <div class="comment">
+                                        <?php echo $review->content;?>
+                                            </div>
+                                    </div>
+
                                 <?php
                                 switch ($review->rating) {
                                     case 1:
@@ -208,6 +210,7 @@
                                         echo "Оценка 5";
                                         break;
                                 }?>
+                                </div>
                             <? } ?>
                         <?php } ?>
                     </div>

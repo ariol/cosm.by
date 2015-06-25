@@ -19,7 +19,6 @@
             </div>
             <div id="selection"></div>
             <form class="form-horizontal" role="form">
-                Поиск клиентов, покупавших товар такой-то (артикул товара)
                 <div class="form-group">
                     <label for="inputFname" class="col-sm-2 control-label">Введите артикул :</label>
                     <div class="col-sm-3">
@@ -34,7 +33,7 @@
                     </div>
                 </div>
                 <div class="article_table ">
-                    <div class="article_table ">
+                    <div class="article_table <?php if(!$orders_array){?>hidden<?php } ?>">
                         <table class="table table-bordered table-striped table-condensed" id="tabledata_clients_article">
                             <tbody class="main">
                             <tr>

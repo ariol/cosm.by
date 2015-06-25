@@ -13,12 +13,13 @@
             <button type="submit" class="btn btn-black filter_button_count">Подобрать</button>
         </div>
     </div>
+    <?php if($brand) { ?>
     <div class="list-group-item">
         Бренды
     </div>
     <div class="list-group-item">
         <div class="filter-group">
-            <?php foreach($brand as $item){?>
+            <?php foreach($brand as $item) { ?>
             <label class="checkbox">
                 <input data-type="brand" name="brands[]" <?php if(in_array($item['id'], Arr::get($_GET, 'brands', array()))) { ?>checked<?php } ?> type="checkbox" value="<?php echo $item['id']; ?>" />
                 <?php echo $item['name'];?>
@@ -26,6 +27,7 @@
             <?php } ?>
         </div>
     </div>
+    <?php } ?>
     <?php if ($line) { ?>
     <div class="list-group-item lines">
         Линии
@@ -41,6 +43,7 @@
         </div>
     </div>
     <?php } ?>
+    <?php if($property) { ?>
     <div class="list-group-item">
         Назначение
     </div>
@@ -54,6 +57,8 @@
                 </label>
             <?php } ?>
         </div>
-    </div></div>
+    </div>
+    </div>
+    <?php } ?>
 </div>
 </form>

@@ -10,7 +10,6 @@
             </div>
             <div id="selection"></div>
             <form class="form-horizontal" role="form">
-                Клиенты по количеству заказов
                 <div class="form-group">
                     <label for="inputFname" class="col-sm-2 control-label">Не менее :</label>
                     <div class="col-sm-3">

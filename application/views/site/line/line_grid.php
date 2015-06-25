@@ -1,16 +1,15 @@
 <div id="main-container">
     <div class="row">
         <div class="col-md-3">
-            <?php if($line) { ?>
             <h3 class="side-heading">Линии</h3>
             <form id="brand_lines" action="/brand/<?php echo $brand->url; ?>">
                 <div class="list-group">
-                    <?php if($line) { ?>
+                    <?php if($line_brand) { ?>
                     <div class="list-group-item">
                         <div class="filter-group">
-                            <?php foreach($line as $item) { ?>
+                            <?php foreach($line_brand as $item){?>
                                 <div>
-                                    <a href="/brand/<?php echo $brand->url; ?>/<?php echo $item['url'];?>"><?php echo $item['name'];?></a>
+                                    <?php if($item->name != $line->name ) { ?><a href="/brand/<?php echo $brand->url; ?>/<?php echo $item['url'];?>"><?php echo $item['name'];?></a><?php } else { echo $item['name'];}?>
                                 </div>
                             <?php } ?>
                         </div>
@@ -18,7 +17,6 @@
                     <?php } ?>
                 </div>
             </form>
-            <?php } ?>
             <div id="vk_groups"></div>
             <script type="text/javascript">
                 VK.Widgets.Group("vk_groups", {mode: 0, width: "250", height: "400"}, 73341072);
@@ -31,7 +29,8 @@
             <!-- Breadcrumb Starts -->
             <ol class="breadcrumb">
                 <li><a href="/">Главная</a></li>
-                <li><?php echo $brand->name; ?></li>
+                <li><a href="/brand/<?php echo $brand->url; ?>"><?php echo $brand->name; ?></a></li>
+                <li><?php echo $line->name; ?></li>
             </ol>
             <!-- Breadcrumb Ends -->
             <!-- Main Heading Starts -->

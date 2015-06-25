@@ -5,16 +5,13 @@
         <!-- Shipment Information Block Starts -->
         <div class="panel panel-smart">
             <div class="panel-heading">
-                <h2 class="panel-title">
-                    Расчет прибыли
-                </h2>
             </div>
             <div id="selection"></div>
             <form class="form-horizontal" role="form">
                 <div class="panel-smart panel_hidden">
                     <div class="input_product"></div>
                     <div class="form-group">
-                        <label for="inputFname" class="col-sm-3 control-label">Расчет прибыли за период :</label>
+                        <label for="inputFname" class="col-sm-3 control-label">Взаиморасчет по поставщикам :</label>
                         <div class="col-sm-2">
                             <input class="form-control" type="text" name="from"  placeholder="от" value="<?php echo $from?>"/>
                         </div>

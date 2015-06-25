@@ -211,7 +211,6 @@ class Model_Product extends ORM
 			->where('product.active', '=', 1)
 			->where('product.price', '>=', $price_start)
 			->where('product.price', '<=', $price_end);
-		
 		return $products->limit($limit)->offset($offset)->find_all();
 	}
 	

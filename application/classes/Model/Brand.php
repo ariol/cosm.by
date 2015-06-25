@@ -77,7 +77,6 @@ class Model_Brand extends ORM
 	public function save(Validation $validation = NULL)
 	{
 		$this->md5_url = md5($this->url);
-
 		return parent::save($validation);
 	}
 
@@ -109,7 +108,6 @@ class Model_Brand extends ORM
 		$brand = ORM::factory('Brand')->where('name', '=', $name)->find();
 		if (!$brand->loaded()) {
 			$url = Helpers_Url::translit($name);
-		
 			$brand = ORM::factory('Brand');
 			$brand->name = $name;
 			$brand->url = $url;

@@ -9,7 +9,97 @@ class Controller_Admin_Statistics extends Controller_Crud
     }
     public function action_order()
     {
-
+        $page = $_GET['page'];
+        if(!$page)
+            $page = 1;
+        $limit = 20;
+        $price_start =  $_GET['price_start'];
+        $price_final = $_GET['price_final'];
+        $this->template->price_start = $price_start;
+        $this->template->price_final = $price_final;
+        $PDO_product = ORM::factory('Orders')->PDO();
+        $offset = $page * $limit - $limit;
+        $query = "SELECT  orders.id,
+                        orders.name,
+                        orders.email,
+                        orders.phone,
+                        orders.status,
+                        orders.created_at,
+                        orderproduct.prod_price,
+                        ordercertificate.cert_price,
+                        code_certificate,
+                        coupons.discount,
+                        order_certificate.to_amount
+                        FROM orders
+                      LEFT JOIN (SELECT order_id, product_id, SUM(quantity * price) as prod_price
+                      FROM order_product
+                      GROUP BY order_id) as orderproduct ON orderproduct.order_id = orders.id
+                      LEFT JOIN
+                      (SELECT order_id, SUM(price) as cert_price
+                      FROM order_certificate
+                      GROUP BY order_id) as  ordercertificate
+                      ON orders.id = ordercertificate.order_id
+                      LEFT JOIN  coupons ON coupons.code = orders.code_coupon
+                      LEFT JOIN order_certificate ON order_certificate.code = orders.code_certificate
+                      ORDER BY orderproduct.prod_price DESC";
+        $result = $PDO_product->query($query)->fetchAll(PDO::FETCH_ASSOC);
+        $orders_array = [];
+        $total_product = 0;
+        foreach ($result as $item) {
+            $price = $item['prod_price'];
+            if ($item['discount'])
+                $price = $item['prod_price'] - ($item['prod_price'] / 100 * $item['discount']);
+            if ($item['to_amount'])
+                $price = $item['prod_price'] - $item['to_amount'];
+            if ($item['discount'] and $item['to_amount'])
+                $price = ($item['prod_price'] - ($item['prod_price'] / 100 * $item['discount'])) - $item['to_amount'];
+            $price += $item['cert_price'];
+            if ($price >= $price_start and $price <= $price_final) {
+                $price = $price;
+                switch ($item['status']) {
+                    case 1:
+                        $status_value = '<span class="label label-info">Новый</span>';
+                        break;
+                    case 2:
+                        $status_value = '<span class="label label-primary">Подтверждён</span>';
+                        break;
+                    case 3:
+                        $status_value = '<span class="label label-warning">Отправлен</span>';
+                        break;
+                    case 4:
+                        $status_value = '<span class="label label-success">Доставлен</span>';
+                        break;
+                    case 5:
+                        $status_value = '<span class="label label-default">Нет на складе</span>';
+                        break;
+                    case 6:
+                        $status_value = '<span class="label label-danger">Возврат</span>';
+                        break;
+                }
+                $total_product++;
+                $orders_array[] = ['name' => $item['name'], 'phone' => $item['phone'], 'created_at' => $item['created_at'], 'price' => $price, 'id' => $item['id'], 'status' => $status_value];
+            }
+        }
+        usort ($orders_array, function($x, $y) {
+            if ($x['price'] == $y['price'])
+                return 0;
+            else if ($x['price'] > $y ['price'])
+                return -1;
+            else
+                return 1;
+        });
+        $orders_array = array_slice($orders_array, $offset, $limit);
+        $this->template->result = $orders_array;
+        $total_page = ceil($total_product / $limit);
+        $this->template->pagination =
+            Pagination::factory(
+                array(
+                    'total_items'    => $total_page,
+                    'items_per_page' => $this->_items_on_page,
+                    'view' => 'extasy/pagination/basic',
+                    'current_page'   => array('source' => 'query_string', 'key' => 'page'),
+                )
+            )->render();
     }
 
     public function action_provider_calculation()
@@ -392,94 +482,6 @@ class Controller_Admin_Statistics extends Controller_Crud
         }
         $result_price = number_format($result_price, 0, '', ' ');
         exit(json_encode(array('quantity' => $quantity, 'result_price' => $result_price)));
-    }
-
-    public function action_range_orders()
-    {
-        $page = $this->request->post('page');
-        if(!$page)
-            $page = 1;
-        $limit = 20;
-        $price_start = $this->request->post('price_start');
-        $price_final = $this->request->post('price_final');
-        $PDO_product = ORM::factory('Orders')->PDO();
-        $query = "SELECT  orders.id,
-                        orders.name,
-                        orders.email,
-                        orders.phone,
-                        orders.status,
-                        orders.created_at,
-                        orderproduct.prod_price,
-                        ordercertificate.cert_price,
-                        code_certificate,
-                        coupons.discount,
-                        order_certificate.to_amount
-                        FROM orders
-                      LEFT JOIN (SELECT order_id, product_id, SUM(quantity * price) as prod_price
-                      FROM order_product
-                      GROUP BY order_id) as orderproduct ON orderproduct.order_id = orders.id
-                      LEFT JOIN
-                      (SELECT order_id, SUM(price) as cert_price
-                      FROM order_certificate
-                      GROUP BY order_id) as  ordercertificate
-                      ON orders.id = ordercertificate.order_id
-                      LEFT JOIN  coupons ON coupons.code = orders.code_coupon
-                      LEFT JOIN order_certificate ON order_certificate.code = orders.code_certificate
-                      ORDER BY orderproduct.prod_price DESC";
-        $result = $PDO_product->query($query)->fetchAll(PDO::FETCH_ASSOC);
-        $orders_array = [];
-        $total_page = 0;
-        foreach ($result as $item) {
-                $price = $item['prod_price'];
-                if ($item['discount'])
-                    $price = $item['prod_price'] - ($item['prod_price'] / 100 * $item['discount']);
-                if ($item['to_amount'])
-                    $price = $item['prod_price'] - $item['to_amount'];
-                if ($item['discount'] and $item['to_amount'])
-                    $price = ($item['prod_price'] - ($item['prod_price'] / 100 * $item['discount'])) - $item['to_amount'];
-                $price += $item['cert_price'];
-                if ($price >= $price_start and $price <= $price_final) {
-                    $price = number_format($price, 0, '', ' ');
-                    switch ($item['status']) {
-                        case 1:
-                            $status_value = '<span class="label label-info">Новый</span>';
-                            break;
-                        case 2:
-                            $status_value = '<span class="label label-primary">Подтверждён</span>';
-                            break;
-                        case 3:
-                            $status_value = '<span class="label label-warning">Отправлен</span>';
-                            break;
-                        case 4:
-                            $status_value = '<span class="label label-success">Доставлен</span>';
-                            break;
-                        case 5:
-                            $status_value = '<span class="label label-default">Нет на складе</span>';
-                            break;
-                        case 6:
-                            $status_value = '<span class="label label-danger">Возврат</span>';
-                            break;
-                    }
-                    $total_page++;
-                    $orders_array[] = [$item['name'], $item['phone'], $item['created_at'], $price, '<a href="/ariol-admin/order/view/' . $item['id'] . '">Детали заказа<span class="glyphicon glyphicon-link"></span></a>', $status_value];
-                }
-            }
-        if($total_page > $limit) {
-            $page_array = array_chunk($orders_array, $limit);
-            $last_page = count($page_array);
-            $next_page = $page + 1;
-            $prev_page = $page - 1;
-            exit(json_encode(array(
-                'orders_array' => $page_array[$page - 1],
-                'total_page' => $last_page,
-                'next_page' => $next_page,
-                'prev_page' => $prev_page,
-                'page' => $page
-                )));
-        }
-        else{
-            exit(json_encode(array('orders_array' => $orders_array)));
-        }
     }
 
     public function action_autocomplete_article()

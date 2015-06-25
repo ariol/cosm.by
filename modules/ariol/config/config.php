@@ -28,6 +28,10 @@ return array(
                     'label' => 'Пароль',
                     'field' => new CM_Field_Password(),
                 ),
+                'mailer.admin' => array(
+                    'label' => 'Почта администратора',
+                    'field' => new CM_Field_String(),
+                ),
                 'mailer.port' => array(
                     'label' => 'Порт',
                     'field' => new CM_Field_Int(),

@@ -200,6 +200,10 @@ return array(
 		'route' => 'admin-statistics:order',
 		'parent' => 'admin.statistics.index'
 	),
+	'admin.reviews.index' => array(
+		'title' => 'Отзывы',
+		'route' => 'admin-reviews',
+	),
 	'admin.statistics.clients_summ' => array(
 		'title' => 'Клиенты по сумме ',
 		'route' => 'admin-statistics:clients_summ',

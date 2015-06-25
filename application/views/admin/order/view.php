@@ -25,9 +25,9 @@
                 </td>
                 <td><?php echo $item->article; ?></td>
                 <td><?php echo $data['quantity']; ?></td>
-                <td><?php echo number_format($data['price'], 0, ' ', ' '); ?></td>
-                <td><?php echo number_format($data['price'] * $data['quantity'], 0, ' ', ' '); ?></td>
-                <td><?php echo number_format($item->purchase_price, 0, ' ', ' '); ?></td>
+                <td><?php echo number_format($data['price'], 0, ' ', ' '); ?>р.</td>
+                <td><?php echo number_format($data['price'] * $data['quantity'], 0, ' ', ' '); ?>р.</td>
+                <td><?php echo number_format($item->purchase_price, 0, ' ', ' '); ?>р.</td>
 				<?php $full_price += $data['price'] * $data['quantity']; ?>
                 <?php $pur_chase += $item->purchase_price; ?>
             </tr>
@@ -73,7 +73,7 @@
     <tr>
         <td><?php echo $item->name; ?></td>
         <td><?php echo $certificate['code']; ?></td>
-        <td><?php echo number_format($certificate['price'], 0, ' ', ' '); ?></td>
+        <td><?php echo number_format($certificate['price'], 0, ' ', ' '); ?>р.</td>
         <?php $price_certificate += $certificate['price'];?>
     </tr>
             <?php } ?>

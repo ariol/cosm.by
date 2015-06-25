@@ -124,6 +124,13 @@ Route::set('site-brand', 'brand/<url>(/<page>)', array('page' => '\d+'))
 		'action' => 'index',
 	));
 
+Route::set('site-line', 'brand/<brand>/<line>(/<page>)', array('page' => '\d+'))
+	->defaults(array(
+		'directory' => 'site',
+		'controller' => 'line',
+		'action' => 'index',
+	));
+
 Route::set('site-category', '<category>(/<page>)', array('page' => '\d+'))
     ->defaults(array(
         'directory' => 'site',

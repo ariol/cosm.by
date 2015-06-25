@@ -1436,3 +1436,10 @@ hr{
     color: #ffffff;
     font-size: 12px;
 }
+.media{
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+.media .comment{
+    padding-left: 10px;
+}
