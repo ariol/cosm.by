@@ -58,7 +58,7 @@
                 <tr data-id="<?php echo $key; ?>">
                     <td class="text-center">
                         <a href="/<?php echo $category->url; ?>/<?php echo $url; ?>">
-                            <img src="<?php echo Lib_Image::resize_width($prod->main_image, 'product', $prod->id, 137, 183); ?>" alt="<?php echo $prod->name ?>" title="Product Name" class="img-thumbnail" />
+                            <img src="<?php echo Lib_Image::resize_bg($prod->main_image, 'product', $prod->id, 233, 233); ?>" alt="<?php echo $prod->name ?>" title="Product Name" class="img-thumbnail" />
                         </a>
                         <div>
                             <?php if($prod->color){
@@ -255,78 +255,10 @@
         <!-- Shipping Section Starts -->
         <section class="registration-area">
             <div class="row">
-                <!-- Shipping & Shipment Block Starts -->
-                <div class="col-sm-6">
-                    <!-- Shipment Information Block Starts -->
-                    <div class="panel panel-smart">
-                        <div class="panel-heading">
-                            <h3 class="panel-title">
-                                Оформление заказа
-                            </h3>
-                        </div>
-                        <div class="panel-body">
-                            <!-- Form Starts -->
-                            <form class="form-horizontal" role="form">
-                                <div class="form-group">
-                                    <p class="col-sm-3 control-label">Доставка:</p>
-                                    <div class="col-sm-9">
-                                        <label class="hide_city"><input type="radio" name="delivery" data-price="50000"  value="2" checked/> Доставка курьером (<?php if($lastprice + $certificate_lastprice <= 600000) { ?>30 000.руб<?php } else { ?>Бесплатно<?php }?>)</label><br>
-                                        <label class="show_city"><input type="radio" name="delivery" data-price="50000" value="3"/> Наложным платежем (<?php if($lastprice + $certificate_lastprice <= 1000000) { ?>50 000.руб<?php } else { ?>Бесплатно<?php }?>)</label>
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="inputFname" class="col-sm-3 control-label">Имя :</label>
-                                    <div class="col-sm-9">
-                                        <input type="text" class="form-control" id="inputFname" name="name" placeholder="имя">
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="inputEmail" class="col-sm-3 control-label">Email :</label>
-                                    <div class="col-sm-9">
-                                        <input type="text" class="form-control" id="inputEmail" name="email" placeholder="email">
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="inputPhone" class="col-sm-3 control-label">Телефон :</label>
-                                    <div class="col-sm-9">
-                                        <input type="text" class="form-control" id="inputPhone" name="phone" placeholder="телефон">
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label for="inputAddress" class="col-sm-3 control-label">Адрес :</label>
-                                    <div class="col-sm-9">
-                                        <input type="text" class="form-control" id="inputAddress" name="adress" placeholder="адрес">
-                                    </div>
-                                </div>
-                                <div class="form-group city hidden">
-                                    <label for="inputAddress" class="col-sm-3 control-label">Город :</label>
-                                    <div class="col-sm-9">
-                                        <input type="text" class="form-control" id="inputAddress" name="city" placeholder="адрес">
-                                    </div>
-                                </div>
-                                <div class="form-group city hidden">
-                                    <label for="inputAddress" class="col-sm-3 control-label">Индекс :</label>
-                                    <div class="col-sm-9">
-                                        <input type="text" class="form-control" id="inputAddress" name="index" placeholder="адрес">
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <div class="col-sm-offset-3 col-sm-9">
-                                        <button type="submit" class="btn btn-black coupon" data-type="add_order">
-                                            Оформить заказ
-                                        </button>
-                                    </div>
-                                </div>
-                            </form>
-                            <!-- Form Ends -->
-                        </div>
-                    </div>
-                    <!-- Shipment Information Block Ends -->
-                </div>
-
-                <!-- Shipping & Shipment Block Ends -->
+			
+			 <!-- Shipping & Shipment Block Ends -->
                 <!-- Discount & Conditions Blocks Starts -->
-                <div class="col-sm-6">
+                <div class="col-sm-6 col-sm-push-6">
                     <!-- Discount Coupon Block Starts -->
                     <div class="panel panel-smart">
                         <div class="panel-heading">
@@ -392,9 +324,9 @@
                             <!-- Form Starts -->
                             <form class="form-horizontal" role="form">
                                 <div class="form-group">
-                                    <label for="inputCouponCode" class="col-sm-3 control-label">Номер :</label>
+                                    <label for="inputCouponCode2" class="col-sm-3 control-label">Номер :</label>
                                     <div class="col-sm-9">
-                                        <input type="text" class="form-control" id="inputCouponCode" name="certificate" placeholder="Введите номер сертификата">
+                                        <input type="text" class="form-control" id="inputCouponCode2" name="certificate" placeholder="Введите номер сертификата">
                                     </div>
                                 </div>
                                 <div class="form-group">
@@ -441,6 +373,78 @@
 
 
                 <!-- Discount & Conditions Blocks Ends -->
+			
+			
+                <!-- Shipping & Shipment Block Starts -->
+                <div class="col-sm-6 col-sm-pull-6">
+                    <!-- Shipment Information Block Starts -->
+                    <div class="panel panel-smart">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">
+                                Оформление заказа
+                            </h3>
+                        </div>
+                        <div class="panel-body">
+                            <!-- Form Starts -->
+                            <form class="form-horizontal" role="form">
+                                <div class="form-group">
+                                    <p class="col-sm-3 control-label">Доставка:</p>
+                                    <div class="col-sm-9">
+                                        <label class="hide_city"><input type="radio" name="delivery" data-price="50000"  value="2" checked/> Доставка курьером (<?php if($lastprice + $certificate_lastprice <= 600000) { ?>30 000.руб<?php } else { ?>Бесплатно<?php }?>)</label><br>
+                                        <label class="show_city"><input type="radio" name="delivery" data-price="50000" value="3"/> Наложным платежем (<?php if($lastprice + $certificate_lastprice <= 1000000) { ?>50 000.руб<?php } else { ?>Бесплатно<?php }?>)</label>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputFname" class="col-sm-3 control-label">Имя :</label>
+                                    <div class="col-sm-9">
+                                        <input type="text" class="form-control" id="inputFname" name="name" placeholder="имя">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputEmail" class="col-sm-3 control-label">Email :</label>
+                                    <div class="col-sm-9">
+                                        <input type="text" class="form-control" id="inputEmail" name="email" placeholder="email">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputPhone" class="col-sm-3 control-label">Телефон :</label>
+                                    <div class="col-sm-9">
+                                        <input type="text" class="form-control" id="inputPhone" name="phone" placeholder="телефон">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="inputAddress" class="col-sm-3 control-label">Адрес :</label>
+                                    <div class="col-sm-9">
+                                        <input type="text" class="form-control" id="inputAddress" name="adress" placeholder="адрес">
+                                    </div>
+                                </div>
+                                <div class="form-group city hidden">
+                                    <label for="inputAddressCity" class="col-sm-3 control-label">Город :</label>
+                                    <div class="col-sm-9">
+                                        <input type="text" class="form-control" id="inputAddressCity" name="city" placeholder="адрес">
+                                    </div>
+                                </div>
+                                <div class="form-group city hidden">
+                                    <label for="inputAddressIndex" class="col-sm-3 control-label">Индекс :</label>
+                                    <div class="col-sm-9">
+                                        <input type="text" class="form-control" id="inputAddressIndex" name="index" placeholder="адрес">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-sm-offset-3 col-sm-9">
+                                        <button type="submit" class="btn btn-black coupon" data-type="add_order">
+                                            Оформить заказ
+                                        </button>
+                                    </div>
+                                </div>
+                            </form>
+                            <!-- Form Ends -->
+                        </div>
+                    </div>
+                    <!-- Shipment Information Block Ends -->
+                </div>
+
+              
             </div>
             </div>
 

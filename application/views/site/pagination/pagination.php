@@ -19,9 +19,11 @@
 	}
 ?>
     <!-- Pagination Starts -->
-    <div class="col-sm-8 pagination-block">
+    <div class="col-sm-12 pagination-block">
         <ul class="pagination">
+            <?php if ($current_page > 1) { ?>
             <li><a href="<?php echo urldecode($page->url($current_page - 1)); ?>">&laquo;</a></li>
+            <?php } ?>
             <?php for ($i = $min_page; $i <= $max_page; $i++) { ?>
                 <?php if ($i == $current_page) { ?>
                     <li class="active"><a href="<?php echo urldecode($page->url($i)) ?>"><?php echo $i; ?></a></li>
@@ -29,7 +31,9 @@
             <li><a href="<?php echo urldecode($page->url($i)) ?>"><?php echo $i; ?></a></li>
                 <?php } ?>
             <?php } ?>
+            <?php if ($current_page < $max_page) { ?>
             <li><a href="<?php echo urldecode($page->url($current_page + 1)); ?>">&raquo;</a></li>
+            <?php } ?>
         </ul>
     </div>
     <!-- Pagination Ends -->

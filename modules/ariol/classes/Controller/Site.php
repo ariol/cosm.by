@@ -97,10 +97,6 @@ class Controller_Site extends Controller
 
         $model = ORM::factory($name)
             ->get_page_by_url($url);
-			
-		if (array_key_exists('main_image', $model->list_columns()) && !$model->main_image) {
-			$this->forward_404();
-		}
 
         if(!$model->loaded() || (isset($model->md5_url) && $model->md5_url != md5($url))) {
             $this->forward_404();

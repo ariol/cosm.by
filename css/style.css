@@ -1,5 +1,5 @@
 body{
-    background:#8CC96C url(../images/bg.png) repeat fixed;
+    background:#EAEFAD url(../images/bg.png) repeat fixed;
     color:#212121;
     font:14px/22px 'Roboto Condensed', sans-serif;
 }
@@ -198,6 +198,16 @@ hr{
 #logo{
     margin-top: 15px;
 }
+#logo .logo_slogan{
+	color: #888888;
+	display: block;
+	margin-top: 10px;
+}
+#logo a:hover ,
+#logo a:focus,
+#logo a:active{
+	text-decoration: none !important;
+}
 #search{
     margin:12px 0 0 0;
 }
@@ -358,6 +368,10 @@ hr{
     -moz-border-radius:0;
     border-radius:0;
 }
+#main-menu .navbar-text{
+	color: #ffffff;
+	margin-left: 10px;
+}
 #main-menu .navbar-nav > li{
 }
 #main-menu .navbar-nav > li + li{
@@ -466,6 +480,17 @@ hr{
     height:18px;
     background-color:#669933;
 }
+#main-carousel .carousel-control .glyphicon{
+	font-size: 50px;
+}
+.carousel-control{
+	text-shadow: none !important;
+	filter: alpha(opacity=20);
+	opacity: 0.2;
+}
+#main-carousel .carousel-control{
+	margin-top: -25px;
+}
 
 /* Column Banner Styles Starts */
 
@@ -500,8 +525,8 @@ hr{
     text-align:left;
 }
 .product-col.list .image{
-    padding:0 30px 10px 0;
-    float:left;
+   /*  padding:0 30px 10px 0; */
+    /* float:left; */
 }
 .product-col .caption{
     padding: 0 0 20px 0;
@@ -564,7 +589,7 @@ hr{
 .product-col .btn-cart{
     font-size:16px;
     font-weight:600;
-    text-transform:capitalize;
+  /*   text-transform:capitalize; */
     color:#d5e163;
     background:none;
 }
@@ -1362,6 +1387,10 @@ hr{
 .scrollbar-light{
 	max-height: 260px;
 	border: 1px solid #d5d5d5;
+	border-bottom: 0px;
+}
+#filters .list-group .scrollbar-light:last-child{
+	border-bottom: 1px solid #d5d5d5;
 }
 .scrollbar-light .list-group-item{
 	border: none;
@@ -1393,7 +1422,8 @@ hr{
     font-size: 12px;
 }
 .filter_button_count{
-    margin-left: 20px;
+    /* margin-left: 20px; */
+	border-radius: 0px;
 }
 
 #growl {
@@ -1443,3 +1473,126 @@ hr{
 .media .comment{
     padding-left: 10px;
 }
+button.filter_cnt{
+	position: absolute;
+	right: -95px;
+	border: 1px solid #8CC96C;
+	background: #ffffff;
+	z-index: 25;
+	text-decoration: underline;
+	-webkit-box-shadow: 0 1px rgba(0, 0, 0, 0.2);
+	-moz-box-shadow: 0 1px rgba(0, 0, 0, 0.2);
+	-ms-box-shadow: 0 1px rgba(0, 0, 0, 0.2);
+	box-shadow: 0 1px rgba(0, 0, 0, 0.2);
+}
+button.filter_cnt:hover{
+	color: #8CC96C;
+}
+button.filter_cnt:after{
+	  background: url(../images/left-filtr_decor.png) no-repeat 0 0;
+	  content: "";
+	  display: block;
+	  position: absolute;
+	  top: -1px;
+	  left: -11px;
+	  width: 11px;
+	  height: 26px;
+}
+
+#brand_lines>.list-group>.list-group-item>.filter-group{
+	margin-left: 4px;
+}
+
+.price_slider  .slider.slider-horizontal{
+	width: 100%;
+}
+.price_slider .slider-horizontal{
+	  border-bottom: 0px;
+	  margin-bottom: 15px;
+}
+.price_slider .slider-track{
+	  background-color: #e7ecf3;
+	  -webkit-box-shadow: 0 1px 1px #ccc;
+	  box-shadow: 0 1px 1px #ccc;
+	  border-radius: 0px;
+}
+.price_slider .slider-selection{
+	  background-color: #9299a5;
+	  background-image: none;
+	  -webkit-box-shadow: 0 1px 1px #ccc;
+	  box-shadow: 0 1px 1px #ccc;
+	  border-radius: 0px;
+}
+.price_slider .slider-handle{
+	border: 3px solid #ffffff;
+	background: #8cc96c;
+	-webkit-box-shadow: 0 1px 1px #ccc;
+	  box-shadow: 0 1px 1px #ccc;
+}
+.price_slider .min-price,
+.price_slider .max-price{
+	text-transform: none;
+	font-size: 12px;
+}
+.price_slider .min-price{
+	float: left;
+}
+.price_slider .max-price{
+	float: right;
+}
+
+#filters  .filter-group{
+	margin-left: 0px;
+}
+#filters label{
+	cursor: pointer;
+}
+.icheckbox_minimal,
+.iradio_minimal {
+	margin-right: 5px !important;
+}
+
+.scrollbar-light > .scroll-element.scroll-y .scroll-bar,
+.scrollbar-light > .scroll-element.scroll-y .scroll-element_outer,
+.scrollbar-light > .scroll-element .scroll-element_size{
+	border-radius: 0px;
+	-webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+}
+
+.header_phones>div{
+    margin-top: 15px;
+}
+.mts_phone,
+.velcome_phone{
+	color: #212121;
+}
+.mts_phone:hover,
+.velcome_phone:hover{
+	text-decoration: none;
+	color: #212121 !important;
+}
+.navbar-collapse{
+	padding:0;
+}
+#info-navbar{
+	margin-bottom: 0px;
+}
+#info-navbar .header-links li{
+	display: block;
+}
+#info-navbar  .navbar-text{
+	margin-left: 10px;
+}
+#main-carousel{
+	overflow: hidden;
+} 
+
+.preloader{
+	position: absolute;
+	background: url(../images/preloader.gif) no-repeat 0 0;
+	background-size: contain;
+	background-position: center center;
+	width: 90%;
+	height: 64px;
+} 

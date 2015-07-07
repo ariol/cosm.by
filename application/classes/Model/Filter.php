@@ -7,6 +7,9 @@ class Model_Filter extends ORM
 	CONST TYPE_SELECT = 3;
 	CONST TYPE_MULTI_SELECT = 4;
 	CONST TYPE_COLOR = 5;
+	
+	CONST TYPE_BY = 1;
+	CONST TYPE_TYPE = 2;
 
 	protected $_table_name = 'filters';
 
@@ -24,12 +27,24 @@ class Model_Filter extends ORM
 			self::TYPE_COLOR => 'Выбор цвета'*/
 		);
 	}
+	
+	public function get_property_types()
+	{
+		return array(
+			self::TYPE_BY => 'Назначение',
+			self::TYPE_TYPE => 'Тип средства'
+		);
+	}
 
 	protected $_grid_columns = array(
 		'name' => null,
 		'type' => array(
 			'type' => 'template',
 			'template' => '${type_value}'
+		),
+		'property_type' => array(
+			'type' => 'template',
+			'template' => '${property_type_value}'
 		),
 		'active' => 'bool',
 		'edit' => array(
@@ -56,7 +71,8 @@ class Model_Filter extends ORM
 	{
 		return array(
 			'name' => 'Название',
-			'type' => 'Тип'
+			'type' => 'Тип',
+			'property_type' => 'Тип фильтра'
 		);
 	}
 
@@ -83,6 +99,13 @@ class Model_Filter extends ORM
 		return $types[$this->type];
 	}
 
+	public function get_property_type_value()
+	{
+		$types = $this->get_property_types();
+
+		return $types[$this->property_type];
+	}
+	
 	public function fetchByCategory($id)
 	{
 		$filters = ORM::factory('Filter')->where('category_id', '=', $id)->where('active', '=', 1)->find_all();

@@ -14,8 +14,8 @@
         <div class="row product-info full">
             <!-- Left Starts -->
             <div class="col-sm-4 images-block">
-                <a href="<?php echo $main_image;?>">
-                    <img src="<?php echo $main_image;?>" alt="Image" class="img-responsive thumbnail" />
+                <a href="<?php echo $main_image ? $main_image : '/images/blank.png';?>">
+                    <img src="<?php echo $main_image ? $main_image : '/images/blank.png';?>" alt="Image" class="img-responsive thumbnail" />
                 </a>
                 <ul class="list-unstyled list-inline">
                     <?php if($more_images) { ?>
@@ -41,14 +41,14 @@
                     <!-- Manufacturer Starts -->
                     <ul class="list-unstyled manufacturer">
                         <li>
-                            <span>Бренд:</span> <?php echo $brand->name; ?>
+                            <span>Бренд:</span><?php echo $brand->name; ?>
                         </li>
                         <li><span>Артикул:</span><span id="article"> <?php echo $article?></span></li>
                         <?php if($volume){?>
                         <li><span>Объем:</span><span id="volume"> <?php echo $volume?></span></li>
                         <?php } ?>
                         <li>
-                            <span>Наличие:</span> <strong class="label <?php if ($active) { ?> label-success"> В наличии<?php } else{ ?> label-danger"> Отсутствует<?php } ?></strong>
+                            <span>Наличие:</span><strong class="label <?php if ($active) { ?> label-success"> В наличии<?php } else{ ?> label-danger"> Отсутствует<?php } ?></strong>
                         </li>
                     </ul>
                     <!-- Manufacturer Ends -->
@@ -180,9 +180,11 @@
                             </div>
                         </div>
                     </form>
+					<?php if($reviews->as_array()) { ?>
                     <h2>Отзывы</h2>
+					<?php } ?>
                     <div>
-                        <?php if($reviews){
+                        <?php if($reviews->as_array()){
                             foreach ($reviews as $review){  ?>
                                 <div class="media">
                                     <div class="media-body">

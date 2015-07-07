@@ -2,8 +2,9 @@
     <!-- Nav Header Starts -->
     <div class="navbar-header">
         <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-cat-collapse">
-            <span class="sr-only">Toggle Navigation</span>
+            <span class="sr-only"></span>
             <i class="fa fa-bars"></i>
+			<span class="navbar-text">Каталог продукции</span>
         </button>
     </div>
     <!-- Nav Header Ends -->
@@ -15,7 +16,7 @@
                     Бренды
                 </a>
                 <ul class="dropdown-menu" role="menu">
-                    <?php $brands = ORM::factory('Brand')->where('active', '=', 1)->find_all();?>
+                    <?php $brands = ORM::factory('Brand')->where('active', '=', 1)->order_by('position', 'ASC')->order_by('name', 'ASC')->find_all();?>
                     <?php foreach($brands as $brand){?>
                         <li><a tabindex="-1" href="/brand/<?php echo $brand->url?>"><?php echo $brand->name?></a></li>
                     <?php } ?>
