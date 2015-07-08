@@ -18,7 +18,7 @@ class Extasy_Field_Roles extends CM_Field_Int
 
 		foreach (Kohana::$config->load('auth.roles') as $role => $mask)
 		{
-			$role_checkbox = new CM_Field_Boolean();
+			$role_checkbox = new CM_Field_Radio();
 			$role_checkbox->set_name($this->get_name().'_'.$role);
 			$role_checkbox->set_value_source($this->get_value_source());
 			$role_checkbox->set_raw_value($this->get_value()->get_raw() & $mask);

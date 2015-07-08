@@ -5,7 +5,7 @@
 return array(
 	'driver' => 'extasy',
 	'hash_method'  => 'sha256',
-	'hash_key'     => 'ergEr4d124Nwqefii$123x',
+	'hash_key'     => 'hash_key',
 	'roles' => array(
 		'admin'   => 1,
 		'user'   => 2,
