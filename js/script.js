@@ -682,4 +682,26 @@ function suces_order(){
         $.magnificPopup.close();
     });
 
+
+    $('button[data-type="feedback"]').click(function(e) {
+        e.preventDefault();
+        var name = $('input[name="name"]').val();
+        var email = $('input[name="email"]').val();
+        var phone = $('input[name="phone"]').val();
+        var message = $('textarea[name="message"]').val();
+        if (!name || !email || !phone || !message) {
+            alert('Заполните обязательные поля');
+            return false;
+        }
+        $.ajax({
+            url : "/page/saveFeedback",
+            type : "POST",
+            dataType : "json",
+            data : {name: name, email: email, phone: phone, message: message },
+            success : function(result) {
+                $('.feedback').addClass('hidden');
+                $('.success_message.hidden').removeClass('hidden');
+                }
+            });
+        });
     });

@@ -141,13 +141,19 @@
                     <div class="form-group">
                         <label for="inputAddress" class="col-sm-3 control-label">Город :</label>
                         <div class="col-sm-9">
-                            <input type="text" class="form-control" id="inputAddress" value="<?php echo $order->city?>" name="city" placeholder="адрес">
+                            <input type="text" class="form-control" id="inputAddress"  name="city" placeholder="адрес">
                         </div>
                     </div>
                     <div class="form-group">
                         <label for="inputAddress" class="col-sm-3 control-label">Игдекс :</label>
                         <div class="col-sm-9">
-                            <input type="text" class="form-control" id="inputAddress" value="<?php echo $order->index?>" name="index" placeholder="адрес">
+                            <input type="text" class="form-control" id="inputAddress"  name="index" placeholder="адрес">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="inputAddress" class="col-sm-3 control-label">Примечание:</label>
+                        <div class="col-sm-9">
+                            <textarea rows="5"  class="form-control" id="inputAddress" name="comment" placeholder="примечание"></textarea>
                         </div>
                     </div>
                     <div class="form-group">

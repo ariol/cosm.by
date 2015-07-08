@@ -20,12 +20,21 @@ Route::set('site-redirect', 'catalog/<url>', array('url' => '.*'))
 		'action' => 'redirect'
 	));
 
+Route::set('site-contacts-save', 'page/saveFeedback')
+    ->defaults(array(
+        'directory' => 'site',
+        'controller' => 'page',
+        'action' => 'saveFeedback',
+    ));
+
+
 Route::set('site-contacts', 'page/contacts')
 	->defaults(array(
-		'directory' => 'site/contacts',
+		'directory' => 'site',
 		'controller' => 'page',
 		'action' => 'contacts',
 	));
+
 
 Route::set('site-page', 'page/<url>')
 	->defaults(array(

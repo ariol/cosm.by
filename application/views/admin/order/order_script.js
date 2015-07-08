@@ -168,13 +168,12 @@ $(document).ready(function() {
         var email = $('input[name="email"]').val();
         var phone = $('input[name="phone"]').val();
         var adress = $('input[name="adress"]').val();
-        var quantity = $('input[name="quantity"]').val();
         var delivery = $('input[name="delivery"]:checked').val();
         var certificate = $('input[name="code_certificate"]').val();
         var coupon = $('input[name="code_coupon"]').val();
         var city = $('input[name="city"]').val();
         var index = $('input[name="index"]').val();
-        var color = $('.a_color.active').attr('data-color');
+        var comment = $('textarea[name="comment"]').val();
         var admin_order = true;
         var error = 0;
         $.each($('tr .a_color'), function (index, value) {
@@ -195,12 +194,12 @@ $(document).ready(function() {
                 email: email,
                 phone: phone,
                 adress: adress,
-                quantity: quantity,
                 delivery: delivery,
                 coupon: coupon,
                 certificate: certificate,
                 color: color,
-                admin_order: admin_order
+                admin_order: admin_order,
+                comment: comment
             },
             success: function (result) {
                 alert('Ваш заказ принят');
@@ -217,8 +216,8 @@ $(document).ready(function() {
         var adress = $('input[name="adress"]').val();
         var city = $('input[name="city"]').val();
         var index = $('input[name="index"]').val();
-        var quantity = $('input[name="quantity"]').val();
         var delivery = $('input[name="delivery"]:checked').val();
+        var comment = $('textarea[name="comment"]').val();
         var certificate = $('#cancel_certificate').attr('data-code_certificate');
         var coupon = $('#cancel_coupon').attr('data-code_coupons');
         var error = 0;
@@ -240,13 +239,13 @@ $(document).ready(function() {
                 email: email,
                 phone: phone,
                 adress: adress,
-                quantity: quantity,
                 delivery: delivery,
                 coupon: coupon,
                 certificate: certificate,
                 order_id: order_id,
                 city: city,
-                index: index
+                index: index,
+                comment: comment
             },
             success: function (result) {
                 alert('Заказ изменен');

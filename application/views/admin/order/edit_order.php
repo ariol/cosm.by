@@ -193,6 +193,12 @@
                         </div>
                     </div>
                     <div class="form-group">
+                        <label for="inputAddress" class="col-sm-3 control-label">Примечание:</label>
+                        <div class="col-sm-9">
+                            <textarea rows="5"  class="form-control" value="<?php echo $order->comment?>" id="inputAddress" name="comment" placeholder="примечание"></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group">
                         <p class="col-sm-3 control-label">Доставка:</p>
                         <div class="col-sm-9">
                             <label><input type="radio" name="delivery" value="5" <?php if($order->delivery == 5) { ?>checked<?php } ?> /> Бесплатная доставка наложным платежем</label><br>
