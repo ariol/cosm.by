@@ -30,10 +30,10 @@
     <?php } ?>
 <?php } ?>
 <?php if($code) { ?>
-    <p>Был использован купон: <?php echo $code?></p>
+    <p>Был использован купон: <?php echo $code?> на скидку <?php echo  $coupon_discount?> %</p></p>
 <?php } ?>
 <?php if($code_certificate) { ?>
-    <p>Был использован сертификат: <?php echo $code_certificate?></p>
+    <p>Был использован сертификат: <?php echo $code_certificate?> на сумму <?php echo $to_amount?>руб.</p>
 <?php } ?>
 <p>_________________________</p>
 
@@ -49,10 +49,10 @@
 <?php
 switch($delivery) {
     case '2':
-        echo "доставка курьером "; if($full_price_not_discount + $price_certificate < 600000) { $price_delivery = 30000; echo " 30 000 руб. "; } else { $price_delivery = 0;  echo  " бесплатно" ;}
+        echo "доставка курьером "; if($full_price_not_discount + $full_price_certificate < 600000) { $price_delivery = 30000; echo " 30 000 руб. "; } else { $price_delivery = 0;  echo  " бесплатно" ;}
         break;
     case '3':
-        echo "доставка наложным платежем "; if($full_price_not_discount + $price_certificate < 1000000) { $price_delivery = 50000; echo " 50 000 руб. ";}  else { $price_delivery = 0; echo " бесплатно" ;}
+        echo "доставка наложным платежем "; if($full_price_not_discount + $full_price_certificate < 1000000) { $price_delivery = 50000; echo " 50 000 руб. ";}  else { $price_delivery = 0; echo " бесплатно" ;}
         break;
     case '4':
         echo "бесплатная доставка курьером ";

@@ -5,9 +5,9 @@ return array(
 		'type'	     => 'MySQLi',
 		'connection' => array(
 			'username'   => 'root',
-			'password'   => '',
+			'password'   => 'woo4aDoo',
 			'database'   => 'cosm',
-			'hostname'   => 'localhost',
+			'hostname'   => 'ariol.by',
 		),
 		'table_prefix' => '',
         'charset'      => 'utf8',

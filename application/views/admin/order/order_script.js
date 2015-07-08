@@ -197,7 +197,6 @@ $(document).ready(function() {
                 delivery: delivery,
                 coupon: coupon,
                 certificate: certificate,
-                color: color,
                 admin_order: admin_order,
                 comment: comment
             },

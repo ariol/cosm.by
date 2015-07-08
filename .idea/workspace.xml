@@ -35,7 +35,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/application/views/site/brand/index.php" />
         <option value="$PROJECT_DIR$/application/views/site/index/index.php" />
         <option value="$PROJECT_DIR$/application/config/menu.php" />
         <option value="$PROJECT_DIR$/application/views/admin/statistics/clients_summ.php" />
@@ -68,24 +67,25 @@
         <option value="$PROJECT_DIR$/application/views/admin/statistics/order.php" />
         <option value="$PROJECT_DIR$/modules/ariol/config/config.php" />
         <option value="$PROJECT_DIR$/application/views/admin/order/usermessage_delivery.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/order/usermessage.php" />
         <option value="$PROJECT_DIR$/application/views/admin/order/view.php" />
         <option value="$PROJECT_DIR$/application/classes/Model/Orders.php" />
         <option value="$PROJECT_DIR$/application/views/site/cart/index.php" />
-        <option value="$PROJECT_DIR$/application/config/database.php" />
-        <option value="$PROJECT_DIR$/application/views/site/order/adminmessage.php" />
         <option value="$PROJECT_DIR$/modules/page/classes/Controller/Site/Page.php" />
         <option value="$PROJECT_DIR$/application/routes/site.php" />
         <option value="$PROJECT_DIR$/application/classes/Controller/Site/Page.php" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/modules/page/views/site/page/contacts.php" />
-        <option value="$PROJECT_DIR$/application/views/admin/order/order_script.js" />
-        <option value="$PROJECT_DIR$/application/views/admin/order/adminmessage.php" />
-        <option value="$PROJECT_DIR$/application/classes/Controller/Site/Cart.php" />
         <option value="$PROJECT_DIR$/application/classes/Controller/Admin/Order.php" />
-        <option value="$PROJECT_DIR$/application/views/site/order/usermessage.php" />
         <option value="$PROJECT_DIR$/application/views/admin/order/edit_order.php" />
         <option value="$PROJECT_DIR$/application/views/admin/order/create.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/order/adminmessage.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/order/usermessage.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/order/order_script.js" />
+        <option value="$PROJECT_DIR$/application/views/site/order/usermessage.php" />
+        <option value="$PROJECT_DIR$/application/views/site/order/adminmessage.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Site/Cart.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/order/print_page.php" />
       </list>
     </option>
   </component>
@@ -255,6 +255,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1teh.by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1teh.by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -278,32 +292,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1teh.by" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="1teh.by" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="site" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="order" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -370,6 +358,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1teh.by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1teh.by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="admin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="order" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -596,13 +610,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Site/Line.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6977612" vertical-offset="112" max-vertical-offset="1170">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/classes/Model/Statistics.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
@@ -736,13 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27376425" vertical-offset="0" max-vertical-offset="526">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/classes/Model/Orders.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.33333334" vertical-offset="2763" max-vertical-offset="3762">
@@ -754,13 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17110266" vertical-offset="0" max-vertical-offset="526">
           <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/order/usermessage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49122807" vertical-offset="0" max-vertical-offset="513">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -876,48 +869,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/site/order/usermessage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1754386" vertical-offset="0" max-vertical-offset="1224">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/order/adminmessage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2631578" vertical-offset="0" max-vertical-offset="1224">
-          <caret line="36" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/site/order/adminmessage.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.245614" vertical-offset="531" max-vertical-offset="1278">
-          <caret line="65" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Admin/Order.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54385966" vertical-offset="4905" max-vertical-offset="11718">
-          <caret line="288" column="48" selection-start-line="288" selection-start-column="48" selection-end-line="288" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49074075" vertical-offset="6719" max-vertical-offset="12834">
-          <caret line="388" column="58" selection-start-line="388" selection-start-column="7" selection-end-line="388" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/order/order_script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73960215" vertical-offset="3461" max-vertical-offset="4716">
-          <caret line="215" column="12" selection-start-line="215" selection-start-column="12" selection-end-line="215" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/admin/order/edit_order.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.80701756" vertical-offset="3132" max-vertical-offset="9504">
@@ -939,17 +890,134 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23954372" vertical-offset="0" max-vertical-offset="526">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0055555" vertical-offset="10671" max-vertical-offset="12834">
+          <caret line="623" column="66" selection-start-line="623" selection-start-column="66" selection-end-line="623" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/order/usermessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9298246" vertical-offset="639" max-vertical-offset="1224">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/order/adminmessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1754386" vertical-offset="648" max-vertical-offset="1224">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/order/order_script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2525" max-vertical-offset="4698">
+          <caret line="164" column="58" selection-start-line="164" selection-start-column="58" selection-end-line="164" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/site/order/adminmessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.0" vertical-offset="522" max-vertical-offset="1278">
+          <caret line="35" column="102" selection-start-line="35" selection-start-column="102" selection-end-line="35" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/site/order/usermessage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.0" vertical-offset="765" max-vertical-offset="1278">
+          <caret line="35" column="102" selection-start-line="35" selection-start-column="66" selection-end-line="35" selection-end-column="102" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/order/print_page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.0350876" vertical-offset="153" max-vertical-offset="3798">
+          <caret line="152" column="29" selection-start-line="152" selection-start-column="29" selection-end-line="152" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#td#0;n#tr#1;n#tbody#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/classes/Controller/Site/Cart.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4107884" vertical-offset="6570" max-vertical-offset="9378">
-          <caret line="376" column="37" selection-start-line="376" selection-start-column="18" selection-end-line="376" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.75633526" vertical-offset="6902" max-vertical-offset="9378">
+          <caret line="405" column="0" selection-start-line="405" selection-start-column="0" selection-end-line="405" selection-end-column="0" />
+          <folding>
+            <marker date="1436370255446" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
+            <marker date="1436370255446" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
+            <marker date="1436370255446" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436370255446" expanded="true" signature="-1:-1" placeholder="SELECT certi..certificate..." />
+            <marker date="1436370255446" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436370255446" expanded="true" signature="-1:-1" placeholder="UPDATE coupo..." />
+            <marker date="1436370255446" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436370255446" expanded="true" signature="-1:-1" placeholder="UPDATE order..." />
+            <marker date="1436370255446" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
+            <marker date="1436370255446" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Admin/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.988304" vertical-offset="573" max-vertical-offset="11718">
+          <caret line="288" column="48" selection-start-line="288" selection-start-column="48" selection-end-line="288" selection-end-column="48" />
+          <folding>
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT order..order_product..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT id, o..order_certificate..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT disco..coupons..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT disco..coupons..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT to_am..order_certificate..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT order..order_product..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT id, o..order_certificate..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT disco..coupons..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT disco..coupons..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT to_am..order_certificate..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT order..order_product..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT certi..order_certificate..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT disco..coupons..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT to_am..order_certificate..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="UPDATE order..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT certi..certificate..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="UPDATE coupo..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="UPDATE coupo..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="UPDATE order..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT price..product..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT id, c..certificate..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
+            <marker date="1436366074310" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/admin/order/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5614035" vertical-offset="3402" max-vertical-offset="3960">
-          <caret line="205" column="46" selection-start-line="205" selection-start-column="46" selection-end-line="205" selection-end-column="46" />
+        <state vertical-scroll-proportion="1.6842105" vertical-offset="2664" max-vertical-offset="3960">
+          <caret line="196" column="21" selection-start-line="196" selection-start-column="21" selection-end-line="196" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>

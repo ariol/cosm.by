@@ -1,12 +1,15 @@
-<p>В интернет-магазине https://<?=$_SERVER['SERVER_NAME']?> <?=date("d F Y");?> в <?=date("H:i:s");?> был изменен заказ на имя <?=$name;?>
+<p>В интернет-магазине https://<?=$_SERVER['SERVER_NAME']?> <?=date("d F Y");?> в <?=date("H:i:s");?> был создан заказ.
 <?php if ($email) { ?><p><strong>Email: </strong><?=$email;?></p><?php } ?>
 <p><strong>Телефон: </strong><?=$phone;?></p>
 <p><strong>Адрес: </strong><?=$adress;?></p>
-<?php if($city) { ?><p><strong>Город: </strong><?php echo $city;?></p><?php } ?>
-<?php if($index) { ?><p><strong>Индекс: </strong><?php echo $index;?></p><?php } ?>
-<?php if($cart) { ?>
+<?php if($city){?><p><strong>Город: </strong><?php echo $city;?></p><?php } ?>
+<?php if($index){?><p><strong>Индекс: </strong><?php echo $index;?></p><?php } ?>
+<?php if($comment){?><p><strong>Примечание: </strong><?=$comment;?></p><?php } ?>
+<?php $full_price_product = 0; ?>
+<?php $full_price_not_discount = 0; ?>
+<?php $full_price_certificate = 0; ?>
+<?php if($cart!=null) { ?>
     <?php foreach($cart as $item) {
-        $prod = ORM::factory('Product')->fetchProdById($item->id);?>
         $prod = ORM::factory('Product')->fetchProdById($item->id);?>
         <p><a target="_blank" href="http://<?=$_SERVER['SERVER_NAME']?><?php echo $prod->getSiteUrl(); ?>"><?=$prod->name;?></a></p>
         <p>Количество - <?=$item->quantity?></p>
@@ -16,8 +19,8 @@
         <?php $full_price_not_discount += $item->price * $item->quantity; ?>
     <?php } ?>
 <?php } ?>
-<?php if($cert) { ?>
-    <?php foreach($cert as $item) {
+<?php if($certificate_mail) { ?>
+    <?php foreach($certificate_mail as $item) {
         $certificate = ORM::factory('Certificate')->fetchCertificateById($item->id);?>
         <p><a target="_blank" href="http://<?=$_SERVER['SERVER_NAME']?>/<?php echo $certificate->url; ?>"><?=$certificate->name;?></a></p>
         <p>Количество - <?=$item->quantity?></p>
@@ -26,11 +29,11 @@
         <?php $full_price_certificate += $item->price * $item->quantity;?>
     <?php } ?>
 <?php } ?>
-<?php if($code){ ?>
-    <p>Был использован купон: <?php echo $code?></p>
+<?php if($code) { ?>
+    <p>Был использован купон: <?php echo $code?> на скидку <?php echo  $coupon_discount?> %</p>
 <?php } ?>
-<?php if($code_certificate){ ?>
-    <p>Был использован сертификат: <?php echo $code_certificate?></p>
+<?php if($code_certificate) { ?>
+    <p>Был использован сертификат: <?php echo $code_certificate?> на сумму <?php echo $to_amount?>руб.</p>
 <?php } ?>
 <p>_________________________</p>
 
@@ -46,10 +49,10 @@
 <?php
 switch($delivery) {
     case '2':
-        echo "доставка курьером "; if($full_price_not_discount + $price_certificate < 600000) { $price_delivery = 30000; echo " 30 000 руб. "; } else { $price_delivery = 0;  echo  " бесплатно" ;}
+        echo "доставка курьером "; if($full_price_not_discount + $full_price_certificate < 600000) { $price_delivery = 30000; echo " 30 000 руб. "; } else { $price_delivery = 0;  echo  " бесплатно" ;}
         break;
     case '3':
-        echo "доставка наложным платежем "; if($full_price_not_discount + $price_certificate < 1000000) { $price_delivery = 50000; echo " 50 000 руб. ";}  else { $price_delivery = 0; echo " бесплатно" ;}
+        echo "доставка наложным платежем "; if($full_price_not_discount + $full_price_certificate < 1000000) { $price_delivery = 50000; echo " 50 000 руб. ";}  else { $price_delivery = 0; echo " бесплатно" ;}
         break;
     case '4':
         echo "бесплатная доставка курьером ";
