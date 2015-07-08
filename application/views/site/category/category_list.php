@@ -2,46 +2,9 @@
 <div id="main-container">
     <div class="row">
         <!-- Sidebar Starts -->
-        <div class="col-md-3">
-            <?php echo View::factory('site/filter/index', array('category' => $category, 'brand' => $brand, 'line' => $line, 'property' => $property, 'max_price' => $max_price, 'min_price' => $min_price));?>
-            <h3 class="side-heading">Спецпредложение</h3>
-            <?php $specialProduct = ORM::factory('Product')->fetchProdSpecial($category->id); ?>
-            <?php foreach($specialProduct as $topprod){
-                $price = ORM::factory('Product')->getPriceValue($topprod->id);?>
-                <div class="product-col">
-                    <div class="image">
-                        <a href="<?php echo $category->url; ?>/<?php echo $topprod->url; ?>">
-                            <img src="<?php echo Lib_Image::resize_width($topprod->main_image, 'product', $topprod->id, 250, 250); ?>" alt="product" class="img-responsive" />
-                        </a>
-                    </div>
-                    <div class="caption">
-                        <div class="price">
-                            <span class="price-new"><?php echo number_format($price, 0, ' ', ' '); ?>руб.</span>
-                        </div>
-                        <?php if($topprod->new_price){ ?>
-                            <div class="price">
-                                <span class="price-old"><?php echo number_format($topprod->price, 0, ' ', ' '); ?>руб.</span>
-                            </div>
-                        <?php } ?>
-                        <h4><a href="<?php echo $category->url; ?>/<?php echo $topprod->url; ?>"><?php echo $topprod->name;?></a></h4>
-                        <div class="cart-button button-group">
-                            <button type="button" class="btn btn-cart add_cart" data-id="<?php echo $topprod->id; ?>" data-price="<?php echo $price ?>">
-                                <i class="fa fa-shopping-cart"></i><br>
-                                Добавить в корзину
-                            </button>
-                        </div>
-                    </div>
-                </div>
-            <?php } ?>
-            <div id="vk_groups"></div>
-            <script type="text/javascript">
-                VK.Widgets.Group("vk_groups", {mode: 0, width: "250", height: "400"}, 73341072);
-            </script>
-            <!-- Bestsellers Links Ends -->
-        </div>
         <!-- Sidebar Ends -->
         <!-- Primary Content Starts -->
-        <div class="col-md-9">
+        <div class="col-md-9 col-md-push-3">
             <!-- Breadcrumb Starts -->
             <ol class="breadcrumb">
                 <li><a href="/">Главная</a></li>
@@ -98,28 +61,35 @@
                     <input type="hidden" name="quantity" value="1"  />
                 <div class="col-xs-12">
                     <div class="product-col list clearfix">
-                        <div class="image">
+                        <div class="col-sm-3">
+							 <div class="image">
                             <a href="/<?php echo $category->url;?>/<?php echo $prod->url; ?>">
                                 <img src="<?php echo Lib_Image::resize_bg($prod->main_image, 'product', $prod->id, 250, 250); ?>" alt=<?php echo $prod->name; ?> class="img-responsive" />
                             </a>
-                        </div>
-                        <div class="caption">
-                            <h4><a href="/<?php echo $category->url;?>/<?php echo $prod->url; ?>"><?php echo $prod->name; ?></a></h4>
-                            <div class="price">
-                                <span class="price-new"><?php echo number_format($price, 0, ' ', ' ');?>руб.</span>
-                            </div>
-                            <?php if($prod->new_price){ ?>
-                                <div class="price">
-                                    <span class="price-old"><?php echo number_format($prod->price, 0, ' ', ' '); ?>руб.</span>
-                                </div>
-                            <?php } ?>
-                            <div class="cart-button button-group">
+							</div>
+						</div>
+						<div class="col-sm-6">
+							 <div class="caption">
+								<h4><a href="/<?php echo $category->url;?>/<?php echo $prod->url; ?>"><?php echo $prod->name; ?></a></h4>
+								<div class="price">
+									<span class="price-new"><?php echo number_format($price, 0, ' ', ' ');?> руб.</span>
+								</div>
+								<?php if($prod->new_price){ ?>
+									<div class="price">
+										<span class="price-old"><?php echo number_format($prod->price, 0, ' ', ' '); ?> руб.</span>
+									</div>
+								<?php } ?>
+							</div>
+						</div>
+                        <div class="col-sm-3">
+							<div class="cart-button button-group">
                                 <button type="button" class="btn btn-cart add_cart" data-id="<?php echo $prod->id; ?>" data-price="<?php echo $price ?>">
                                     <i class="fa fa-shopping-cart"></i><br>
                                     Добавить в корзину
                                 </button>
                             </div>
-                        </div>
+						</div>
+						
                     </div>
                 </div>
                 <?php } ?>
@@ -132,5 +102,55 @@
                 </div>
             </div>
         </div>
-    </div>
+    
+		<div class="col-md-3 col-md-pull-9">
+            <?php echo View::factory('site/filter/index', array(
+                'category' => $category, 
+                'brand' => $brand, 
+                'line' => $line, 
+                'filters' => $filters, 
+                'max_price' => $max_price, 
+                'min_price' => $min_price,
+                'current_min_price' => $current_min_price,
+                'current_max_price' => $current_max_price
+            ));?>
+			<?php $specialProduct = ORM::factory('Product')->fetchProdSpecial($category->id); ?>
+			<?php if ($specialProduct->as_array()) { ?>
+            <h3 class="side-heading">Спецпредложение</h3>
+            <?php foreach($specialProduct as $topprod){
+                $price = ORM::factory('Product')->getPriceValue($topprod->id);?>
+                <div class="product-col">
+                    <div class="image">
+                        <a href="<?php echo $category->url; ?>/<?php echo $topprod->url; ?>">
+                            <img src="<?php echo Lib_Image::resize_width($topprod->main_image, 'product', $topprod->id, 250, 250); ?>" alt="product" class="img-responsive" />
+                        </a>
+                    </div>
+                    <div class="caption">
+                        <div class="price">
+                            <span class="price-new"><?php echo number_format($price, 0, ' ', ' '); ?> руб.</span>
+                        </div>
+                        <?php if($topprod->new_price){ ?>
+                            <div class="price">
+                                <span class="price-old"><?php echo number_format($topprod->price, 0, ' ', ' '); ?> руб.</span>
+                            </div>
+                        <?php } ?>
+                        <h4><a href="<?php echo $category->url; ?>/<?php echo $topprod->url; ?>"><?php echo $topprod->name;?></a></h4>
+                        <div class="cart-button button-group">
+                            <button type="button" class="btn btn-cart add_cart" data-id="<?php echo $topprod->id; ?>" data-price="<?php echo $price ?>">
+                                <i class="fa fa-shopping-cart"></i><br>
+                                Добавить в корзину
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            <?php } ?>
+			<?php } ?>
+            <div id="vk_groups"></div>
+            <script type="text/javascript">
+                VK.Widgets.Group("vk_groups", {mode: 0, width: "250", height: "400"}, 73341072);
+            </script>
+            <!-- Bestsellers Links Ends -->
+        </div>
+        
+	</div>
 

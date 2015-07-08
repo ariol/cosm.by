@@ -120,7 +120,7 @@ class Model_Product extends ORM
 	
 	public function getSiteUrl()
 	{
-		return '/' .$this->url;
+		return '/' . $this->category->url . '/' .$this->url;
 	}
 	
 
@@ -234,15 +234,19 @@ class Model_Product extends ORM
 	
 	public function insertSelect(ORM $product, $productData)
 	{
+		$product = ORM::factory('Product', $productData['id']);
+		if (!$product->id) {
+			$product = ORM::factory('Product');
+		}
+
         foreach ($productData as $field => $value) {
             $product->{$field} = $value;
         }
+		if (!$product->created_at) {
+			$product->created_at = date('Y-m-d H:i:s');
+		}
         $product->save();
 
-		unset($url);
-		unset($content);
-		unset($short_content);
-		unset($price);
 		return $product;
 	}
 

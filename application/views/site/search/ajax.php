@@ -12,7 +12,7 @@
         $price = $item->price;
     ?>
     <div class="item">
-        <div class="image"><a href="/<?php echo $category->url; ?>/<?php echo $item->url; ?>"><img src="<?php echo Lib_Image::resize_width($item->main_image, 'product', $item->id, null, 150); ?>"></a></div>
+        <div class="image"><a href="/<?php echo $category->url; ?>/<?php echo $item->url; ?>"><img src="<?php echo Lib_Image::resize_bg($item->main_image, 'product', $item->id, 150, 150); ?>"></a></div>
         <div class="name"><a href="/<?php echo $category->url; ?>/<?php echo $item->url; ?>"><?=$item->name?></a></div>
         <div class="price two">
                 <span class="new-price"><?php echo number_format($price, 0, '', ' ');?> руб.</span>

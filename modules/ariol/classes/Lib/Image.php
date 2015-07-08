@@ -15,7 +15,7 @@ class Lib_Image
 		$test_name = 'test-' . $width.'-' . $height . '-' . time() . '.jpg';
 	
 		if (!$image) {
-			return $startImage;
+			return '/images/blank.png';
 		}
 	
 		$directory = self::checkAndCreateDirectory($model, $id, self::RESIZE_BG_PATH, $width, $height);

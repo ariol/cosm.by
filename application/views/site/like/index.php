@@ -38,7 +38,7 @@
                 <tr data-type="<?php echo $key; ?>">
                     <td>
                         <a href="/<?php echo $category->url; ?>/<?php echo $prod->url; ?>">
-                            <img src="<?php echo Lib_Image::resize_width($prod->main_image, 'product', $prod->id, 128, null); ?>" alt="image" title="image" class="img-thumbnail" />
+                            <img src="<?php echo Lib_Image::resize_bg($prod->main_image, 'product', $prod->id, 233, 233); ?>" alt="image" title="image" class="img-thumbnail" />
                         </a>
                     </td>
                     <td class="name">

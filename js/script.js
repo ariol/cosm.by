@@ -41,10 +41,57 @@ function addNotice(notice) {
         .fadeIn(10);
     setTimeout(function() { $('.notice').animate({border: 'none', height: 0, opacity: 0, queue: false}, 1000, function() {$('.notice').remove();});}, 5000);
 }
+function number_format( number, decimals, dec_point, thousands_sep ) {	
+		var i, j, kw, kd, km;
+		if( isNaN(decimals = Math.abs(decimals)) ){
+			decimals = 2;
+		}
+		if( dec_point == undefined ){
+			dec_point = ",";
+		}
+		if( thousands_sep == undefined ){
+			thousands_sep = ".";
+		}
+
+		i = parseInt(number = (+number || 0).toFixed(decimals)) + "";
+
+		if( (j = i.length) > 3 ){
+			j = j % 3;
+		} else{
+			j = 0;
+		}
+		km = (j ? i.substr(0, j) + thousands_sep : "");
+		kw = i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + thousands_sep);
+		kd = (decimals ? dec_point + Math.abs(number - i).toFixed(decimals).replace(/-/, 0).slice(2) : "");
+		return km + kw + kd;
+}
 $(document).ready(function() {
-    $('.messaging').click( function() {
-        addNotice("Welcome to StarTrackr!");
-    });
+   
+	$( window ).load(function() {
+	    $('#filters').removeClass('invisible');
+		$('.preloader').remove();
+	});
+   
+	$("#price_slider0").slider({
+		tooltip: 'hide'
+	});
+	$(".price_slider input").on('slide', function(e){
+		var val1 = number_format(e.value[0], 0, '', ' ');
+		var val2 = number_format(e.value[1], 0, '', ' ');
+		
+		$(this).parent('.price_slider').find('.min-price').text(val1 + ' руб.');
+		$(this).parent('.price_slider').find('.max-price').text(val2 + ' руб.');
+	});	
+	
+
+	$(".price_slider input").on('slideStop', function(e){
+        var val1 = number_format(e.value[0], 0, '', ' ');
+        var val2 = number_format(e.value[1], 0, '', ' ');
+        
+        $(this).parent('.price_slider').find('.min-price').text(val1 + ' руб.');
+        $(this).parent('.price_slider').find('.max-price').text(val2 + ' руб.');
+    }); 
+    
 
     $('#growl')
         .find('.close')
@@ -62,12 +109,30 @@ $(document).ready(function() {
                 });
         });
 
+	$('.filter-group input').iCheck({
+		checkboxClass: 'icheckbox_minimal',
+		radioClass: 'iradio_minimal',
+		increaseArea: '20%' // optional
+	});
+		
     $('.scrollbar-light').scrollbar();
-    $('.filter-group input').on('change', function() {
-        $('#filters').submit();
-    });
-    $('#brand_lines input').on('change', function() {
-        $('#brand_lines').submit();
+    $('.filter-group input').on('ifChanged', function() {
+		var self = this;
+		var current_top = $(this).offset().top;
+		var filters_top = $("#main-container .col-md-3>.side-heading").offset().top;
+		var button_offsetTop = current_top - filters_top - 10;
+		
+		$.ajax({
+			url: window.location.pathname,
+			dataType: 'json',
+			data: $('form#filters').serialize(),
+			type: 'get',
+			success: function(result) {
+				$('.filter_cnt').remove();
+				// $(self).parent().parent().parent().parent().parent().after("<button class='filter_cnt' type='submit'>Найдено "+result.count+"</button>");
+				$("#filters").append("<button class='filter_cnt' type='submit' style='top:"+button_offsetTop+"px;'>Найдено "+result.count+"</button>").find('.filter_cnt').delay(10000).fadeOut(1500);		
+			}
+		});
     });
     $( '.a_color' ).click(function(e) {
         var id = $(this).attr('data-id');
@@ -113,7 +178,7 @@ $(document).ready(function() {
     });
 
     $('.add_cart').click(function () {
-        addNotice('Товар добавлен в корзину');
+        addNotice('Товар добавлен в <a href="/cart">корзину</a>');
         var id = $(this).attr('data-id');
         var price = $(this).attr('data-price');
         var quantity = $('input[name="quantity"]').val();
@@ -138,7 +203,7 @@ $(document).ready(function() {
     });
 
     $('.add_cart_sertificate').click(function () {
-        addNotice('Сертификат добавлен в корзину');
+        addNotice('Сертификат добавлен в <a href="/cart">корзину</a>');
         var id = $(this).attr('data-id');
         var price = $(this).attr('data-price');
         var quantity = $('input[name="quantity"]').val();
@@ -160,7 +225,7 @@ $(document).ready(function() {
 
     $('.add_wish').click(function (e) {
         e.preventDefault();
-        addNotice('Товар добавлен в избранное');
+        addNotice('Товар добавлен в <a href="/like">избранное</a>');
         var id = $(this).attr('data-id');
         var price = $(this).attr('data-price');
         var key = $(this).attr('data-key');

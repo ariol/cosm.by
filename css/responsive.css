@@ -13,6 +13,13 @@
 /* Medium Devices Styles Starts */
 
 @media (min-width: 992px) and (max-width: 1199px) {
+	#logo .logo_slogan{
+		font-size: 12px;
+	}
+	.header_phones>div {
+	   margin-top: 11px;
+	   font-size: 22px;
+	}
 
     /* Tooltip Styles Starts */
 
@@ -66,6 +73,11 @@
 
 @media (min-width: 768px) and (max-width: 991px) {
 
+	.header_phones>div {
+	   margin-top: 10px;
+	   font-size: 16px;
+	}
+	
     /* Main Menu Styles Starts */
 
     #main-menu .navbar-nav > li > a{
@@ -146,6 +158,24 @@
 
 @media (max-width: 767px) {
 
+	#logo .logo_slogan{
+		text-align: center;
+	}
+
+	.header_phones{
+		margin-bottom: -10px;
+	}
+	.header_phones>div {
+	   margin-top: 15px;
+	   text-align: center;
+	}
+	#main-carousel .carousel-control {
+	   margin-top: -65px;
+	}
+
+	button.filter_cnt{
+		right: 35px;
+	}
     /* Responsive Image Styles Starts */
 
     #logo .img-responsive,
@@ -162,14 +192,34 @@
         text-align:center;
     }
 
+	#info-navbar .navbar-toggle {
+		  float: none;
+		  margin-right: 0px;
+		  font-size: 18px;
+		  width: 100%;
+		  text-align: left;
+	}
+	#info-navbar .header-links>ul{
+		margin-top: -10px;
+	}
     /* Main Menu Styles Starts */
 
     #main-menu .navbar-collapse {
-        border-top:1px solid #683f28;
+        border-top:1px solid #669933;
     }
     #main-menu .navbar-toggle {
         color:#fff;
+		float: none;
+		margin-right: 0px;
+		font-size: 18px;
+		width: 100%;
+		text-align: left;
     }
+	#main-menu  .navbar-nav,
+	#info-navbar  .navbar-nav{
+		margin-left: 0px;
+		margin-right: 0px;
+	}
     #main-menu .navbar-toggle:focus {
         color:#fff;
     }

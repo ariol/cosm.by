@@ -29,7 +29,7 @@ $certificate_items = json_decode($cart_certificate['cart_certificate']);
             <tr data-prod-id="<?php echo $key; ?>">
                 <td class="text-center">
                     <a href="/<?php echo $category->url; ?>/<?php echo $url; ?>">
-                        <img src="<?php echo Lib_Image::resize_width($prod->main_image, 'product', $prod->id, 128, null); ?>" alt="<?php echo $prod->name ?>"  title="image" class="img-thumbnail img-responsive" />
+                        <img src="<?php echo Lib_Image::resize_bg($prod->main_image, 'product', $prod->id, 128, 128); ?>" alt="<?php echo $prod->name ?>"  title="image" class="img-thumbnail img-responsive" />
                     </a>
                 </td>
                 <td class="text-left">

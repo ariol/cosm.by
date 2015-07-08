@@ -29,8 +29,13 @@
             <!-- Product Grid Display Starts -->
             <section class="products-list">
             <div class="row">
+				<?php $i = 0; ?>
                 <?php if($items) { ?>
                 <?php foreach ($items as $index => $prod) { ?>
+					<?php if ($i && !($i % 3)) { ?>
+						<div class="clearfix"></div>
+					<?php } ?>
+					<?php $i++; ?>
                     <?php  $category = ORM::factory('Category')->where('id', '=', $prod->category_id)->find(); ?>
                     <?php   $price = ORM::factory('Product')->getPriceValue($prod->id); ?>
                     <input type="hidden" name="quantity" value="1"  />

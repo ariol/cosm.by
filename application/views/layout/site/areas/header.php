@@ -18,8 +18,10 @@
     <!-- CSS Files -->
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 	<link href="/css/jquery.scrollbar.css" rel="stylesheet">
-    <link href="/css/style.css?v1" rel="stylesheet">
-    <link href="/css/responsive.css" rel="stylesheet">
+	<link href="/css/bootstrap-slider.css" rel="stylesheet">
+	<link href="/css/minimal/minimal.css" rel="stylesheet">
+    <link href="/css/style.css?v11" rel="stylesheet">
+    <link href="/css/responsive.css?v4" rel="stylesheet">
     <!--[if lt IE 9]>
     <script src="/js/ie8-responsive-file-warning.js"></script>
     <![endif]-->
@@ -29,7 +31,7 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
 
     <script src="/js/jquery-1.11.1.min.js"></script>
     <script src="/js/jquery-migrate-1.2.1.min.js"></script>
@@ -38,8 +40,10 @@
     <script src="/js/bootstrap-hover-dropdown.min.js"></script>
     <script src="/js/jquery.magnific-popup.min.js"></script>
     <script src="http://vk.com/js/api/openapi.js" type="text/javascript"></script>
+	<script src="/js/bootstrap-slider.js"></script>
+	<script src="/js/icheck.js"></script>
     <script src="/js/custom.js"></script>
-    <script src="/js/script.js?v1"></script>
+    <script src="/js/script.js?v8"></script>
 
 
 
@@ -54,27 +58,33 @@
         <div class="header-top">
             <div class="row">
                 <!-- Currency & Languages Starts -->
-                <div class="col-sm-6 col-xs-12">
-                    <div class="header-links">
-                        <ul class="nav navbar-nav pull-left">
-                            <li><a href="/page/dostavka-oplata"><span>Оплата и доставка</span></a></li>
-                            <li><a href="/page/usloviya-obslujivaniya"><span>Условия обслуживания</span></a></li>
-                            <li><a href="/page/publichnaya-oferta">Публичная оферта</a></li>
-                        </ul>
-                    </div>
+                <div class="col-sm-12 col-md-8 col-xs-12">
+                    <div class="navbar" id="info-navbar">
+						<div class="navbar-header">
+							<button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-about-collapse">
+								<span class="sr-only"></span>
+								<i class="fa fa-bars"></i>
+								<span class="navbar-text">Для покупателей</span>
+							</button>
+						</div>
+						 <div class="collapse navbar-collapse navbar-about-collapse">
+							<div class="header-links">
+								<ul class="nav navbar-nav pull-left">
+									<li><a href="/page/dostavka-oplata"><span>Оплата и доставка</span></a></li>
+									<li><a href="/page/usloviya-obslujivaniya"><span>Условия обслуживания</span></a></li>
+									<li><a href="/page/publichnaya-oferta">Публичная оферта</a></li>
+									<li><a href="/page/contacts"><i class="fa fa-map-marker"></i><span> Контакты</span></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
                 </div>
-                <div class="col-sm-6 col-xs-12">
+                <div class="col-sm-12 col-md-4 col-xs-12">
                     <div class="header-links">
                         <ul class="nav navbar-nav pull-right">
                             <li>
-                                <a href="/page/contacts">
-										<span>
-											Контакты
-										</span>
-                                </a>
-                            </li>
-                            <li>
                                 <a href="/like">
+										<i class="fa fa-heart"></i>
 										<span>
 											Избранное (<span id="like-total"><?php echo $summlikes;?></span>)
 										</span>
@@ -82,10 +92,10 @@
                             </li>
                             <li>
                                 <a href="/cart">
+										<i class="fa fa-shopping-cart"></i>
 										<span>
 											Корзина
 										</span>
-                                    <i class="fa fa-shopping-cart"></i>
                                 </a>
                             </li>
                         </ul>
@@ -99,14 +109,24 @@
         <div class="main-header">
             <div class="row">
                 <!-- Logo Starts -->
-                <div class="col-sm-5 col-md-6">
+                <div class="col-sm-3 col-md-4">
                     <div id="logo">
-                        <a href="/"><img src="/images/logo.png" title="Chocolate Shoppe" alt="Chocolate Shoppe" class="img-responsive" /></a>
+                        <a href="/">
+							<img src="/images/logo.png" title="Профессиональная косметика в Минске" alt="Chocolate Shoppe" class="img-responsive" />
+							<!--<img src="/images/slogan.png" title="Интернет магазин косметики" alt="Интернет магазин косметики" class="img-responsive" />-->
+							<span class="logo_slogan hidden-sm">Интернет магазин профессиональной косметики</span>
+						</a>
                     </div>
                 </div>
                 <!-- Logo Starts -->
+				<div class="col-md-3 col-sm-3">
+					<div class="header_phones">
+						<div class="main-heading2"><a class="mts_phone" href="tel:+375(29)5251515">+375 (29) 525 15 15</a></div>
+						<div class="main-heading2"><a class="velcome_phone" href="tel:+375(29)6676233">+375 (29) 667 62 33</a></div>
+					</div>
+				</div>
                 <!-- Shopping Cart Starts -->
-                <div class="col-sm-3">
+                <div class="col-sm-2 col-md-2">
                     <div id="cart" class="btn-group btn-block animate">
                         <button name="cart" id="open_cart" type="button" data-toggle="dropdown" class="btn btn-block btn-lg dropdown-toggle">
                             <i class="fa fa-shopping-cart"></i>
@@ -127,7 +147,7 @@
                             </form>
 <!--                            <div id="result"></div>-->
                             <span class="input-group-btn search action-search">
-								<button class="btn btn-lg search_button" type="button" title="Поиск" value="javascript:void(0)" onclick="$('form').submit();"  class="action-search">
+								<button class="btn btn-lg search_button" type="button" title="Поиск" value="javascript:void(0)" onclick="$('form.search').submit();"  class="action-search">
                                     <i class="fa fa-search"></i>
                                 </button>
 							  </span>

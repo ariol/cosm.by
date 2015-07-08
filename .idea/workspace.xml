@@ -24,124 +24,7 @@
     <favorites_list name="1teh.by" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="view.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/admin/order/view.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-100.666664" vertical-offset="972" max-vertical-offset="3960">
-              <caret line="205" column="46" selection-start-line="205" selection-start-column="46" selection-end-line="205" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/page/views/site/page/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="324">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contacts.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/page/views/site/page/contacts.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="342">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Order.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/classes/Controller/Admin/Order.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="93.59259" vertical-offset="4165" max-vertical-offset="11466">
-              <caret line="91" column="60" selection-start-line="91" selection-start-column="60" selection-end-line="91" selection-end-column="60" />
-              <folding>
-                <marker date="1436342729531" expanded="true" signature="1130:1392" placeholder="SELECT order..order_product..." />
-                <marker date="1436342729531" expanded="true" signature="1498:1657" placeholder="SELECT id, o..order_certificate..." />
-                <marker date="1436342729531" expanded="true" signature="1743:1846" placeholder="SELECT disco..coupons..." />
-                <marker date="1436342729531" expanded="true" signature="2022:2126" placeholder="SELECT disco..coupons..." />
-                <marker date="1436342729531" expanded="true" signature="2266:2375" placeholder="SELECT to_am..order_certificate..." />
-                <marker date="1436342729531" expanded="true" signature="3312:3574" placeholder="SELECT order..order_product..." />
-                <marker date="1436342729531" expanded="true" signature="3680:3839" placeholder="SELECT id, o..order_certificate..." />
-                <marker date="1436342729531" expanded="true" signature="3925:4018" placeholder="SELECT disco..coupons..." />
-                <marker date="1436342729531" expanded="true" signature="4194:4288" placeholder="SELECT disco..coupons..." />
-                <marker date="1436342729531" expanded="true" signature="4428:4537" placeholder="SELECT to_am..order_certificate..." />
-                <marker date="1436342729531" expanded="true" signature="5416:5692" placeholder="SELECT order..order_product..." />
-                <marker date="1436342729531" expanded="true" signature="6478:6689" placeholder="SELECT certi..order_certificate..." />
-                <marker date="1436342729531" expanded="true" signature="7324:7389" placeholder="SELECT disco..coupons..." />
-                <marker date="1436342729531" expanded="true" signature="7735:7816" placeholder="SELECT to_am..order_certificate..." />
-                <marker date="1436342729531" expanded="true" signature="9489:10220" placeholder="UPDATE order..." />
-                <marker date="1436342729531" expanded="true" signature="10291:10347" placeholder="DELETE FROM ..." />
-                <marker date="1436342729531" expanded="true" signature="10427:10595" placeholder="INSERT INTO ..." />
-                <marker date="1436342729531" expanded="true" signature="11250:11310" placeholder="DELETE FROM ..." />
-                <marker date="1436342729531" expanded="true" signature="11473:11713" placeholder="SELECT certi..certificate..." />
-                <marker date="1436342729531" expanded="true" signature="11861:13149" placeholder="INSERT INTO ..." />
-                <marker date="1436342729531" expanded="true" signature="14022:14076" placeholder="UPDATE coupo..." />
-                <marker date="1436342729531" expanded="true" signature="16013:16067" placeholder="UPDATE coupo..." />
-                <marker date="1436342729531" expanded="true" signature="16341:16405" placeholder="UPDATE order..." />
-                <marker date="1436342729531" expanded="true" signature="23313:23506" placeholder="SELECT price..product..." />
-                <marker date="1436342729531" expanded="true" signature="24647:24838" placeholder="SELECT id, c..certificate..." />
-                <marker date="1436342729531" expanded="true" signature="25772:25932" placeholder="SELECT coupo..coupons..." />
-                <marker date="1436342729531" expanded="true" signature="26496:26688" placeholder="SELECT order..order_certificate..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Orders.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/classes/Model/Orders.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0350877" vertical-offset="2709" max-vertical-offset="3762">
-              <caret line="180" column="24" selection-start-line="180" selection-start-column="24" selection-end-line="180" selection-end-column="24" />
-              <folding>
-                <marker date="1436354122686" expanded="true" signature="2941:2998" placeholder="SELECT succe..orders..." />
-                <marker date="1436354122686" expanded="true" signature="3420:3480" placeholder="UPDATE order..." />
-                <marker date="1436354122686" expanded="true" signature="3618:3771" placeholder="SELECT order..order_product..." />
-                <marker date="1436354122686" expanded="true" signature="3894:4074" placeholder="SELECT coupo..coupons..." />
-                <marker date="1436354122686" expanded="true" signature="4238:4333" placeholder="UPDATE coupo..." />
-                <marker date="1436354122686" expanded="true" signature="5307:5477" placeholder="SELECT id, t..order_certificate..." />
-                <marker date="1436354122686" expanded="true" signature="5917:6023" placeholder="UPDATE order..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="site.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/routes/site.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.333333" vertical-offset="216" max-vertical-offset="3024">
-              <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Page.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/page/classes/Controller/Site/Page.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.666667" vertical-offset="0" max-vertical-offset="558">
-              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/classes/Controller/Site/Index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="360">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -187,16 +70,16 @@
         <option value="$PROJECT_DIR$/application/views/site/order/adminmessage.php" />
         <option value="$PROJECT_DIR$/application/views/admin/order/create.php" />
         <option value="$PROJECT_DIR$/application/views/admin/order/order_script.js" />
-        <option value="$PROJECT_DIR$/application/classes/Controller/Admin/Order.php" />
         <option value="$PROJECT_DIR$/application/views/site/order/usermessage.php" />
-        <option value="$PROJECT_DIR$/application/views/site/cart/index.php" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/application/views/admin/order/view.php" />
         <option value="$PROJECT_DIR$/modules/page/views/site/page/contacts.php" />
         <option value="$PROJECT_DIR$/application/routes/site.php" />
         <option value="$PROJECT_DIR$/modules/page/classes/Controller/Site/Page.php" />
-        <option value="$PROJECT_DIR$/application/classes/Controller/Site/Cart.php" />
         <option value="$PROJECT_DIR$/application/classes/Model/Orders.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Site/Cart.php" />
+        <option value="$PROJECT_DIR$/application/views/site/cart/index.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Admin/Order.php" />
       </list>
     </option>
   </component>
@@ -425,6 +308,54 @@
               <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1teh.by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1teh.by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cart" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1teh.by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1teh.by" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -629,10 +560,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="28" width="1368" height="708" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25378788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25378788" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -967,19 +898,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/site/cart/index.php">
+    <entry file="file://$PROJECT_DIR$/application/views/admin/order/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4269006" vertical-offset="5415" max-vertical-offset="11970">
-          <caret line="313" column="103" selection-start-line="313" selection-start-column="93" selection-end-line="313" selection-end-column="103" />
+        <state vertical-scroll-proportion="-100.666664" vertical-offset="972" max-vertical-offset="3960">
+          <caret line="205" column="46" selection-start-line="205" selection-start-column="46" selection-end-line="205" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/page/views/site/page/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="324">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Model/Orders.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0350877" vertical-offset="2709" max-vertical-offset="3762">
+          <caret line="180" column="24" selection-start-line="180" selection-start-column="24" selection-end-line="180" selection-end-column="24" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <marker date="1436354122686" expanded="true" signature="-1:-1" placeholder="SELECT succe..orders..." />
+            <marker date="1436354122686" expanded="true" signature="-1:-1" placeholder="UPDATE order..." />
+            <marker date="1436354122686" expanded="true" signature="-1:-1" placeholder="SELECT order..order_product..." />
+            <marker date="1436354122686" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
+            <marker date="1436354122686" expanded="true" signature="-1:-1" placeholder="UPDATE coupo..." />
+            <marker date="1436354122686" expanded="true" signature="-1:-1" placeholder="SELECT id, t..order_certificate..." />
+            <marker date="1436354122686" expanded="true" signature="-1:-1" placeholder="UPDATE order..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/page/views/site/page/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="342">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/routes/site.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.333333" vertical-offset="216" max-vertical-offset="3024">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/page/classes/Controller/Site/Page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.666667" vertical-offset="0" max-vertical-offset="558">
+        <state vertical-scroll-proportion="0.5475285" vertical-offset="0" max-vertical-offset="558">
           <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding />
         </state>
@@ -993,105 +962,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/routes/site.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.333333" vertical-offset="216" max-vertical-offset="3024">
-          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/order/view.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-100.666664" vertical-offset="972" max-vertical-offset="3960">
-          <caret line="205" column="46" selection-start-line="205" selection-start-column="46" selection-end-line="205" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/page/views/site/page/contacts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="342">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/classes/Controller/Site/Cart.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="10.052631" vertical-offset="1953" max-vertical-offset="9324">
-          <caret line="395" column="12" selection-start-line="395" selection-start-column="12" selection-end-line="395" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.75438595" vertical-offset="8775" max-vertical-offset="9288">
+          <caret line="509" column="1" selection-start-line="509" selection-start-column="1" selection-end-line="509" selection-end-column="1" />
           <folding>
-            <marker date="1436354066370" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
-            <marker date="1436354066370" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
-            <marker date="1436354066370" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1436354066370" expanded="true" signature="-1:-1" placeholder="SELECT certi..certificate..." />
-            <marker date="1436354066370" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1436354066370" expanded="true" signature="-1:-1" placeholder="UPDATE coupo..." />
-            <marker date="1436354066370" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1436354066370" expanded="true" signature="-1:-1" placeholder="UPDATE order..." />
-            <marker date="1436354066370" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
-            <marker date="1436354066370" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="SELECT certi..certificate..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="UPDATE coupo..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="UPDATE order..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="SELECT certi..certificate..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="UPDATE coupo..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="UPDATE order..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
+            <marker date="1436354633718" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/page/views/site/page/index.php">
+    <entry file="file://$PROJECT_DIR$/application/views/site/cart/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.6666665" vertical-offset="0" max-vertical-offset="324">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="-19.877193" vertical-offset="10485" max-vertical-offset="11970">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#td#0;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/classes/Controller/Admin/Order.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="93.59259" vertical-offset="4165" max-vertical-offset="11466">
-          <caret line="91" column="60" selection-start-line="91" selection-start-column="60" selection-end-line="91" selection-end-column="60" />
+        <state vertical-scroll-proportion="-2.1754386" vertical-offset="1404" max-vertical-offset="11466">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding>
-            <marker date="1436342729531" expanded="true" signature="1130:1392" placeholder="SELECT order..order_product..." />
-            <marker date="1436342729531" expanded="true" signature="1498:1657" placeholder="SELECT id, o..order_certificate..." />
-            <marker date="1436342729531" expanded="true" signature="1743:1846" placeholder="SELECT disco..coupons..." />
-            <marker date="1436342729531" expanded="true" signature="2022:2126" placeholder="SELECT disco..coupons..." />
-            <marker date="1436342729531" expanded="true" signature="2266:2375" placeholder="SELECT to_am..order_certificate..." />
-            <marker date="1436342729531" expanded="true" signature="3312:3574" placeholder="SELECT order..order_product..." />
-            <marker date="1436342729531" expanded="true" signature="3680:3839" placeholder="SELECT id, o..order_certificate..." />
-            <marker date="1436342729531" expanded="true" signature="3925:4018" placeholder="SELECT disco..coupons..." />
-            <marker date="1436342729531" expanded="true" signature="4194:4288" placeholder="SELECT disco..coupons..." />
-            <marker date="1436342729531" expanded="true" signature="4428:4537" placeholder="SELECT to_am..order_certificate..." />
-            <marker date="1436342729531" expanded="true" signature="5416:5692" placeholder="SELECT order..order_product..." />
-            <marker date="1436342729531" expanded="true" signature="6478:6689" placeholder="SELECT certi..order_certificate..." />
-            <marker date="1436342729531" expanded="true" signature="7324:7389" placeholder="SELECT disco..coupons..." />
-            <marker date="1436342729531" expanded="true" signature="7735:7816" placeholder="SELECT to_am..order_certificate..." />
-            <marker date="1436342729531" expanded="true" signature="9489:10220" placeholder="UPDATE order..." />
-            <marker date="1436342729531" expanded="true" signature="10291:10347" placeholder="DELETE FROM ..." />
-            <marker date="1436342729531" expanded="true" signature="10427:10595" placeholder="INSERT INTO ..." />
-            <marker date="1436342729531" expanded="true" signature="11250:11310" placeholder="DELETE FROM ..." />
-            <marker date="1436342729531" expanded="true" signature="11473:11713" placeholder="SELECT certi..certificate..." />
-            <marker date="1436342729531" expanded="true" signature="11861:13149" placeholder="INSERT INTO ..." />
-            <marker date="1436342729531" expanded="true" signature="14022:14076" placeholder="UPDATE coupo..." />
-            <marker date="1436342729531" expanded="true" signature="16013:16067" placeholder="UPDATE coupo..." />
-            <marker date="1436342729531" expanded="true" signature="16341:16405" placeholder="UPDATE order..." />
-            <marker date="1436342729531" expanded="true" signature="23313:23506" placeholder="SELECT price..product..." />
-            <marker date="1436342729531" expanded="true" signature="24647:24838" placeholder="SELECT id, c..certificate..." />
-            <marker date="1436342729531" expanded="true" signature="25772:25932" placeholder="SELECT coupo..coupons..." />
-            <marker date="1436342729531" expanded="true" signature="26496:26688" placeholder="SELECT order..order_certificate..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/classes/Model/Orders.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0350877" vertical-offset="2709" max-vertical-offset="3762">
-          <caret line="180" column="24" selection-start-line="180" selection-start-column="24" selection-end-line="180" selection-end-column="24" />
-          <folding>
-            <marker date="1436354122686" expanded="true" signature="2941:2998" placeholder="SELECT succe..orders..." />
-            <marker date="1436354122686" expanded="true" signature="3420:3480" placeholder="UPDATE order..." />
-            <marker date="1436354122686" expanded="true" signature="3618:3771" placeholder="SELECT order..order_product..." />
-            <marker date="1436354122686" expanded="true" signature="3894:4074" placeholder="SELECT coupo..coupons..." />
-            <marker date="1436354122686" expanded="true" signature="4238:4333" placeholder="UPDATE coupo..." />
-            <marker date="1436354122686" expanded="true" signature="5307:5477" placeholder="SELECT id, t..order_certificate..." />
-            <marker date="1436354122686" expanded="true" signature="5917:6023" placeholder="UPDATE order..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT order..order_product..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT id, o..order_certificate..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT disco..coupons..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT disco..coupons..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT to_am..order_certificate..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT order..order_product..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT id, o..order_certificate..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT disco..coupons..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT disco..coupons..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT to_am..order_certificate..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT order..order_product..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT certi..order_certificate..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT disco..coupons..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT to_am..order_certificate..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="UPDATE order..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="DELETE FROM ..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT certi..certificate..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="UPDATE coupo..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="UPDATE coupo..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="UPDATE order..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT price..product..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT id, c..certificate..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT coupo..coupons..." />
+            <marker date="1436354711426" expanded="true" signature="-1:-1" placeholder="SELECT order..order_certificate..." />
           </folding>
         </state>
       </provider>

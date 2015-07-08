@@ -10,22 +10,20 @@ class Task_Sitemap extends Minion_Task
         $categories = ORM::factory('Category')->fetchActive();
 		$products = ORM::factory('Product')->fetchActive();
 		$pages = ORM::factory('Page')->fetchActive();
-		$sections = ORM::factory('Section')->fetchActive();
 
         $sitemap = new Sitemap;
         $url = new Sitemap_URL;
-        $sitemap->gzip = true;
 		
 		$page = ORM::factory('Page')->where('url', '=', '')->find();
 		
-		$url->set_loc("https://1teh.by")
+		$url->set_loc("http://cosm.by")
 			->set_last_mod(strtotime($page->updated_at))
 			->set_priority(1);
 		$sitemap->add($url);
         
 		foreach ($pages as $page) {
 			if ($page->url) {
-				$url->set_loc("https://1teh.by/page/" . $page->url)
+				$url->set_loc("http://cosm.by/page/" . $page->url)
 					->set_last_mod(strtotime($page->updated_at))
 					->set_change_frequency('monthly')
 					->set_priority(0.2);
@@ -41,26 +39,25 @@ class Task_Sitemap extends Minion_Task
 						HAVING COUNT(pr.id) > 0";
 		$brands = $PDO->query($brandsQuery)->fetchAll(PDO::FETCH_ASSOC);
 		foreach ($brands as $brand) {
-			$url->set_loc("https://1teh.by/brand/" . $brand['url'])
+			$url->set_loc("http://cosm.by/brand/" . $brand['url'])
 				->set_change_frequency('monthly')
 				->set_priority(0.5);
 			$sitemap->add($url);
 		}
 		
 		foreach ($brands as $brand) {
-			$query = "SELECT categories.url, categories.name, sections.url as section_url, categories.updated_at FROM categories
-					LEFT JOIN categories_product ON (categories.id=categories_product.category_id)
-					LEFT JOIN product ON product.id = categories_product.product_id
-					LEFT JOIN sections ON sections.id = categories.section_id
+			$query = "SELECT line.url, line.name, product.updated_at FROM categories
+					LEFT JOIN product ON product.category_id = categories.id
+					LEFT JOIN line ON line.id = product.line_id
 					WHERE product.brand_id = {$brand['id']}
 					AND product.active = 1
-					GROUP BY categories.id
+					GROUP BY line.id
 					HAVING COUNT(product.id) > 0
-					ORDER BY categories.name ASC";
+					ORDER BY line.name ASC";
 					
 			$brandCategories = $PDO->query($query)->fetchAll(PDO::FETCH_ASSOC);
 			foreach ($brandCategories as $category) {
-				$url->set_loc("https://1teh.by/" . $category['section_url'] . "/" . $category['url'] . "/" . $brand['url'])
+				$url->set_loc("http://cosm.by/brand/" . $brand['url'] . "/" . $category['url'])
 					->set_last_mod(strtotime($category['updated_at']))
 					->set_change_frequency('weekly');
 				$sitemap->add($url);
@@ -68,29 +65,21 @@ class Task_Sitemap extends Minion_Task
 		}
 		
 		foreach ($categories as $category) {
-            $url->set_loc("https://1teh.by" . $category->getSiteUrl())
+            $url->set_loc("http://cosm.by/" . $category->url)
                 ->set_last_mod(strtotime($category->updated_at))
                 ->set_change_frequency('weekly');
             $sitemap->add($url);
         }
 		
 		foreach ($products as $product) {
-            $url->set_loc("https://1teh.by".$product->getSiteUrl())
+            $url->set_loc("https://cosm.by".$product->getSiteUrl())
                 ->set_last_mod(strtotime($product->updated_at))
                 ->set_change_frequency('daily')
                 ->set_priority(1);
             $sitemap->add($url);
         }
 
-        foreach ($sections as $section) {
-            $url->set_loc("https://1teh.by".$section->getSiteUrl())
-                ->set_last_mod(strtotime($section->updated_at))
-                ->set_change_frequency('monthly')
-                ->set_priority(0.2);
-            $sitemap->add($url);
-        }
-
 		$response = $sitemap->render();
-        file_put_contents('sitemap.xml.gz', $response);
+        file_put_contents('sitemap.xml', $response);
     }
 }

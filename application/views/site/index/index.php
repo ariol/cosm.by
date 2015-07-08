@@ -17,6 +17,14 @@
             <?php } ?>
         </div>
         <!-- Wrapper For Slides Ends -->
+		
+		 <!-- Controls -->
+		  <a class="left carousel-control" href="#main-carousel" data-slide="prev">
+			<span class="glyphicon glyphicon-chevron-left"></span>
+		  </a>
+		  <a class="right carousel-control" href="#main-carousel" data-slide="next">
+			<span class="glyphicon glyphicon-chevron-right"></span>
+		  </a>
     </div>
 </div>
 <!-- Slider Ends -->
@@ -95,7 +103,7 @@
 
     <div class="clearfix"><!-- MODULE Block cmsinfo -->
         <div id="cmsinfo_block">
-            <div class="col-xs-12 col-sm-6"><ul>
+            <div class="col-xs-12 col-sm-5"><ul>
                     <li><em class="icon-truck" id="icon-truck"></em>
                         <div class="type-text">
                             <h3>Доставка</h3>
@@ -116,7 +124,7 @@
                         </div>
                     </li>
                 </ul></div>
-            <div class="col-xs-12 col-sm-6"><h3>Интернет-магазин профессиональной косметики COSM.by</h3>
+            <div class="col-xs-12 col-sm-7"><h3>Интернет-магазин профессиональной косметики COSM.by</h3>
                 <p>В Интернет-магазине представлена профессиональная косметика Кристина/Christina (Израиль), Эриксон/Ericson (Франция), Premium/Премиум (Россия) для домашнего ухода. Весь товар сертифицирован. Косметические препараты закупаются у официальных дистрибьютеров. Кристина, Эриксон - ЧУП "Косметика и медицина" (kosmed.by). Премиум - Минский филиал Московского Института Красоты (cosmetika.ru).</p>
                 <p>Для правильного подбора косметических средств рекомендуем проконсультироваться у своего косметолога.</p></div>
         </div>

@@ -7,7 +7,7 @@
         <?php if($index){?><p><strong>Индекс: </strong><?php echo $index;?></p><?php } ?>
 		<?php foreach($cart as $item) { 
 			$prod = ORM::factory('Product')->fetchProdById($item->id);?>
-			<p><a target="_blank" href="https://<?=$_SERVER['SERVER_NAME']?>/<?php echo $prod->url; ?>"><?=$prod->name;?></a></p>
+			<p><a target="_blank" href="http://<?=$_SERVER['SERVER_NAME']?><?php echo $prod->getSiteUrl(); ?>"><?=$prod->name;?></a></p>
 			<p>Количество - <?=$item->quantity?></p>
             <p>Цена - <?=number_format($item->price, 0, '', ' ')?> руб</p>
 			<p>_________________________</p>
