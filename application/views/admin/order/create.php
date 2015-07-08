@@ -155,8 +155,8 @@
                         <div class="col-sm-9">
                             <label><input type="radio" name="delivery" value="5" /> Бесплатная доставка курьером</label><br>
                             <label><input type="radio" name="delivery" value="4" /> Бесплатная доставка наложным платежем</label><br>
-                            <label calss="delivery2"><input type="radio"  name="delivery" value="2" checked/> Доставка курьером(до 600000 - 30 000.руб после бесплатно)</label><br>
-                            <label><input type="radio" name="delivery" value="3"/> Наложным платежем(до 1000000 - 50 000.руб после бесплатно)</label>
+                            <label calss="delivery2"><input type="radio"  name="delivery" value="2" checked/> Доставка курьером</label><br>
+                            <label><input type="radio" name="delivery" value="3"/> Наложным платежем</label>
                         </div>
                     </div>
 

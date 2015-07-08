@@ -204,7 +204,7 @@ $(document).ready(function() {
             },
             success: function (result) {
                 alert('Ваш заказ принят');
-                window.location.reload();
+                window.location.href = "http://chocolate.local/ariol-admin/order/view/"+result.order_id
             }
         });
     });
