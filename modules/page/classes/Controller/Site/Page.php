@@ -14,4 +14,13 @@ class Controller_Site_Page extends Controller_Site
 		
 		$this->set_metatags_and_content($url);
     }
+    public function action_contacts()
+    {
+		$url = $this->param('url');
+		if(preg_match('|.html|', arr::get($_SERVER, 'REQUEST_URI'))) {
+			$url .= '.html';
+		}
+
+		$this->set_metatags_and_content($url);
+    }
 }

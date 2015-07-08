@@ -311,6 +311,12 @@
                                     </div>
                                 </div>
                                 <div class="form-group">
+                                    <label for="inputAddress" class="col-sm-3 control-label">Примечание:</label>
+                                    <div class="col-sm-9">
+                                        <textarea rows="5"  class="form-control" id="inputAddress" name="comment" placeholder="примечание"></textarea>
+                                    </div>
+                                </div>
+                                <div class="form-group">
                                     <div class="col-sm-offset-3 col-sm-9">
                                         <button type="submit" class="btn btn-black coupon" data-type="add_order">
                                             Оформить заказ

@@ -20,11 +20,11 @@ Route::set('site-redirect', 'catalog/<url>', array('url' => '.*'))
 		'action' => 'redirect'
 	));
 
-Route::set('site-test', 'test')
+Route::set('site-contacts', 'page/contacts')
 	->defaults(array(
-		'directory' => 'site',
-		'controller' => 'index',
-		'action' => 'test',
+		'directory' => 'site/contacts',
+		'controller' => 'page',
+		'action' => 'contacts',
 	));
 
 Route::set('site-page', 'page/<url>')

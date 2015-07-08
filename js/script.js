@@ -321,6 +321,7 @@ function suces_order(){
         var adress = $('input[name="adress"]').val();
         var city = $('input[name="city"]').val();
         var index = $('input[name="index"]').val();
+        var comment = $('textarea[name="comment"]').val();
         var coupon = $('.code_coupon').attr('data-code_coupon');
         var delivery = $('input[name="delivery"]:checked').val();
         var certificate = $('.code_certificate').attr('data-code_certificate');
@@ -370,14 +371,15 @@ function suces_order(){
                 coupon: coupon,
                 certificate: certificate,
                 city: city,
-                index: index
+                index: index,
+                comment: comment
             },
             success : function(result) {
                 alert('Ваш заказ принят');
                 suces_order();
                 $('#cart-total').text('0');
                 $('.cartlayer').html('<p>Спасибо, ваш заказ принят! В ближайшее время с вами свяжется наш менеджер.</p> <h3>Ваша корзина пуста</h3>');
-                $('.data_order_delivery_result').html("<ul class='list-unstyled ul_data_order_delivery_result'> <li>Имя: "+ name +"</li> <li>E-mail: "+email+"</li> <li>Телефон: "+phone+"</li> <li>Адрес: "+adress+"</ul>");
+                $('.data_order_delivery_result').html("<ul class='list-unstyled ul_data_order_delivery_result'> <li>Имя: "+ name +"</li> <li>E-mail: "+email+"</li> <li>Телефон: "+phone+"</li> <li>Адрес: "+adress+"</li><li>Примечание: "+comment+"</li></ul>");
                 if(city){
                     $('.ul_data_order_delivery_result').append("<li>Город: "+city+"</li><li>Индекс "+index+"</li>")
                 }
@@ -516,7 +518,7 @@ function suces_order(){
                     price_total_delivery = result.total_price;
                     price_total_delivery_start = result.total_price_start;
                     price_delivery = result.price_delivery;
-                    $('.result_view_certificate').text("Был использован сертификат на сумму "+result.sum+"%");
+                    $('.result_view_certificate').text("Был использован сертификат на сумму "+result.sum+"руб.");
                 }
             }
         });

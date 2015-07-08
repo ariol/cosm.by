@@ -14,7 +14,7 @@
 		<?php } ?>
         <?php if($cert_mail) { ?>
             <?php foreach($cert_mail as $item) {
-                $certificate = ORM::factory('Product')->fetchCertificateById($item->id);?>
+                $certificate = ORM::factory('Certificate')->fetchCertificateById($item->id);?>
                 <p><a target="_blank" href="http://<?=$_SERVER['SERVER_NAME']?>/<?php echo $certificate->url; ?>"><?=$certificate->name;?></a></p>
                 <p>Количество - <?=$item->quantity?></p>
                 <p>Цена - <?=number_format($item->price, 0, '', ' ')?> руб</p>
