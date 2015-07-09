@@ -47,9 +47,9 @@ class Controller_Admin_Statistics extends Controller_Crud
         $total_product = 0;
         foreach ($result as $item) {
             $price = $item['prod_price'];
-            if ($item['discount'])
+            if ($item['discount'] and !$item['to_amount'])
                 $price = $item['prod_price'] - ($item['prod_price'] / 100 * $item['discount']);
-            if ($item['to_amount'])
+            if ($item['to_amount'] and !$item['discount'])
                 $price = $item['prod_price'] - $item['to_amount'];
             if ($item['discount'] and $item['to_amount'])
                 $price = ($item['prod_price'] - ($item['prod_price'] / 100 * $item['discount'])) - $item['to_amount'];

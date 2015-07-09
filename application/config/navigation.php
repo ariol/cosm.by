@@ -50,6 +50,11 @@ return array(
 		'route' => 'admin-orders:edit',
 		'parent' => 'admin.orders.index'
 	),
+	'admin.order.edit_order' => array(
+		'title' => 'Редактирование заказа',
+		'route' => 'admin-orders:edit',
+		'parent' => 'admin.orders.index'
+	),
 	'admin.category.edit' => array(
 		'title' => 'Редактирование категории',
 		'route' => 'admin-category:edit',

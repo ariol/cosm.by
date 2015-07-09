@@ -248,7 +248,7 @@ $(document).ready(function() {
             },
             success: function (result) {
                 alert('Заказ изменен');
-                window.location.reload();
+                window.location.href = "http://chocolate.local/ariol-admin/order/view/"+result.order_id;
             }
         });
     });
