@@ -74,7 +74,7 @@
                                     <span class="price-old"><?php echo number_format($product->price, 0, ' ', ' '); ?>руб.</span>
                                 </div>
                             <?php } ?>
-                            <h4><a href="/<?php echo $product->url; ?>"><?php echo $product->name?> </a></h4>
+                            <h4><a href="/<?php echo $category->url; ?>/<?php echo $product->url; ?>"><?php echo $product->name?> </a></h4>
                             <div class="cart-button button-group">
                                 <button class="btn btn-cart add_cart topLink" data-id="<?php echo $product->id; ?>" data-price="<?php echo $price ?>">
                                     <i class="fa fa-shopping-cart"></i><br>

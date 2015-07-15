@@ -72,27 +72,26 @@ class Task_UploadProperty extends Minion_Task
                         $property = $propertiesHash[$index];
                         $PDO->query("INSERT INTO product_properties (product_id, property_id, value)
                                         VALUES ('{$product->id}', '{$property['id']}', $match)");
+										
+						$filter = $PDO->query("
+							SELECT id FROM filters WHERE category_id = '{$product->category_id}' AND property_id = '{$property['id']}'
+						")->fetch(PDO::FETCH_COLUMN);
+						
+						if ($filter) {
+							$filtersIds[] = $filter;
+						} else {
+							$PDO->query("INSERT IGNORE INTO filters (category_id, property_id, type, active)
+												VALUES ('{$product->category_id}', '{$property['id']}', 2, 1)");
+							$filter = $PDO->query("
+								SELECT id FROM filters WHERE category_id = '{$product->category_id}' AND property_id = '{$property['id']}'
+							")->fetch(PDO::FETCH_COLUMN);
+							
+							if ($filter) {
+								$filtersIds[] = $filter;
+							}
+						}
                     }
                 }
-				
-				
-				$filter = $PDO->query("
-					SELECT id FROM filters WHERE category_id = '{$product->category_id}' AND property_id = '{$property['id']}'
-				")->fetch(PDO::FETCH_COLUMN);
-				
-				if ($filter) {
-					$filtersIds[] = $filter;
-				} else {
-					$PDO->query("INSERT IGNORE INTO filters (category_id, property_id, type, active)
-                                        VALUES ('{$product->category_id}', '{$property['id']}', 2, 1)");
-					$filter = $PDO->query("
-						SELECT id FROM filters WHERE category_id = '{$product->category_id}' AND property_id = '{$property['id']}'
-					")->fetch(PDO::FETCH_COLUMN);
-					
-					if ($filter) {
-						$filtersIds[] = $filter;
-					}
-				}
             }
             fclose($handle);
         }

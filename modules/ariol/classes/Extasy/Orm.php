@@ -478,7 +478,7 @@ class Extasy_Orm extends Kohana_ORM implements ArrayAccess
 
 	public function get_page_by_url($url = '')
 	{
-		return $this->where('url', '=', $url)
+		return $this->where('md5_url', '=', md5($url))
 			->find();
 	}
 

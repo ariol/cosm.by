@@ -234,7 +234,6 @@ class Model_Product extends ORM
 	
 	public function insertSelect(ORM $product, $productData)
 	{
-		$product = ORM::factory('Product', $productData['id']);
 		if (!$product->id) {
 			$product = ORM::factory('Product');
 		}

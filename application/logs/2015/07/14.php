@@ -1,0 +1,36 @@
+<?php defined('SYSPATH') OR die('No direct script access.'); ?>
+
+2015-07-14 13:08:38 --- EMERGENCY: Swift_RfcComplianceException [ 0 ]: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. ~ MODPATH/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php [ 319 ] in /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php:249
+2015-07-14 13:08:38 --- DEBUG: #0 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php(249): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php(107): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php(71): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/SimpleHeaderFactory.php(74): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/SimpleHeaderSet.php(87): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/SimpleMessage.php(311): Swift_Mime_SimpleHeaderSet->addMailboxHeader('To', Array)
+#6 /home/cosm.by/modules/email/classes/Email.php(99): Swift_Mime_SimpleMessage->setTo('')
+#7 /home/cosm.by/modules/ariol/classes/Helpers/Email.php(22): Email::send('', 'test@ariol.by', '\xD0\x9D\xD0\xBE\xD0\xB2\xD1\x8B\xD0\xB9 \xD0\xB7\xD0\xB0...', NULL, true)
+#8 /home/cosm.by/application/classes/Controller/Site/Cart.php(423): Helpers_Email::send('', '\xD0\x9D\xD0\xBE\xD0\xB2\xD1\x8B\xD0\xB9 \xD0\xB7\xD0\xB0...', NULL, true)
+#9 /home/cosm.by/system/classes/Kohana/Controller.php(84): Controller_Site_Cart->action_order()
+#10 [internal function]: Kohana_Controller->execute()
+#11 /home/cosm.by/system/classes/Kohana/Request/Client/Internal.php(97): ReflectionMethod->invoke(Object(Controller_Site_Cart))
+#12 /home/cosm.by/system/classes/Kohana/Request/Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#13 /home/cosm.by/system/classes/Kohana/Request.php(986): Kohana_Request_Client->execute(Object(Request))
+#14 /home/cosm.by/index.php(149): Kohana_Request->execute()
+#15 {main} in /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php:249
+2015-07-14 13:08:42 --- EMERGENCY: Swift_RfcComplianceException [ 0 ]: Address in mailbox given [] does not comply with RFC 2822, 3.6.2. ~ MODPATH/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php [ 319 ] in /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php:249
+2015-07-14 13:08:42 --- DEBUG: #0 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php(249): Swift_Mime_Headers_MailboxHeader->_assertValidAddress('')
+#1 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php(107): Swift_Mime_Headers_MailboxHeader->normalizeMailboxes(Array)
+#2 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php(71): Swift_Mime_Headers_MailboxHeader->setNameAddresses(Array)
+#3 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/SimpleHeaderFactory.php(74): Swift_Mime_Headers_MailboxHeader->setFieldBodyModel(Array)
+#4 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/SimpleHeaderSet.php(87): Swift_Mime_SimpleHeaderFactory->createMailboxHeader('To', Array)
+#5 /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/SimpleMessage.php(311): Swift_Mime_SimpleHeaderSet->addMailboxHeader('To', Array)
+#6 /home/cosm.by/modules/email/classes/Email.php(99): Swift_Mime_SimpleMessage->setTo('')
+#7 /home/cosm.by/modules/ariol/classes/Helpers/Email.php(22): Email::send('', 'test@ariol.by', '\xD0\x9D\xD0\xBE\xD0\xB2\xD1\x8B\xD0\xB9 \xD0\xB7\xD0\xB0...', NULL, true)
+#8 /home/cosm.by/application/classes/Controller/Site/Cart.php(423): Helpers_Email::send('', '\xD0\x9D\xD0\xBE\xD0\xB2\xD1\x8B\xD0\xB9 \xD0\xB7\xD0\xB0...', NULL, true)
+#9 /home/cosm.by/system/classes/Kohana/Controller.php(84): Controller_Site_Cart->action_order()
+#10 [internal function]: Kohana_Controller->execute()
+#11 /home/cosm.by/system/classes/Kohana/Request/Client/Internal.php(97): ReflectionMethod->invoke(Object(Controller_Site_Cart))
+#12 /home/cosm.by/system/classes/Kohana/Request/Client.php(114): Kohana_Request_Client_Internal->execute_request(Object(Request), Object(Response))
+#13 /home/cosm.by/system/classes/Kohana/Request.php(986): Kohana_Request_Client->execute(Object(Request))
+#14 /home/cosm.by/index.php(149): Kohana_Request->execute()
+#15 {main} in /home/cosm.by/modules/email/vendor/swift/classes/Swift/Mime/Headers/MailboxHeader.php:249

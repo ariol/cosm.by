@@ -1,5 +1,4 @@
 <div id="main-container">
-        <!-- Breadcrumb Starts -->
         <ol class="breadcrumb">
             <li><a href="/">Главная</a></li>
             <li>
@@ -9,8 +8,6 @@
                <?php echo $name?>
             </li>
         </ol>
-        <!-- Breadcrumb Ends -->
-        <!-- Product Info Starts -->
         <div class="row product-info full">
             <!-- Left Starts -->
             <div class="col-sm-4 images-block">
@@ -235,7 +232,7 @@
                     <div class="product-col">
                         <div class="image">
                             <a href="/<?php echo $category->url; ?>/<?php echo $related_prod->url; ?>">
-                                <img src="<?php echo Lib_Image::resize_bg($related_prod->main_image, '$related', $related_prod->id, 250, 250); ?>"  alt="product" class="img-responsive" />
+                                <img src="<?php echo Lib_Image::resize_bg($related_prod->main_image, 'product', $related_prod->id, 250, 250); ?>"  alt="product" class="img-responsive" />
                             </a>
                         </div>
                         <div class="caption">
