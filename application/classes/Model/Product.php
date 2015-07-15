@@ -177,9 +177,10 @@ class Model_Product extends ORM
 		return $this->where('product.active', '=', 1)
 			->where('product.id', '=', $id)->find();
 	}
-	public function fetchProdRelated($category, $id)
+	public function fetchProdRelated($category, $id, $line_id)
 	{
 		return $this->where('product.category_id', '=', $category)
+            ->where( 'product.line_id', '=', $line_id)
             ->where( 'product.parent_product', '=', '')
             ->where( 'product.id', '!=', $id)
             ->where('product.active', '=', 1)
