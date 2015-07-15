@@ -141,13 +141,13 @@
                     <div class="form-group">
                         <label for="inputAddress" class="col-sm-3 control-label">Город :</label>
                         <div class="col-sm-9">
-                            <input type="text" class="form-control" id="inputAddress"  name="city" placeholder="адрес">
+                            <input type="text" class="form-control" id="inputAddress"  name="city" placeholder="город">
                         </div>
                     </div>
                     <div class="form-group">
-                        <label for="inputAddress" class="col-sm-3 control-label">Игдекс :</label>
+                        <label for="inputAddress" class="col-sm-3 control-label">Индекс :</label>
                         <div class="col-sm-9">
-                            <input type="text" class="form-control" id="inputAddress"  name="index" placeholder="адрес">
+                            <input type="text" class="form-control" id="inputAddress"  name="index" placeholder="индекс">
                         </div>
                     </div>
                     <div class="form-group">
@@ -277,7 +277,7 @@
                     response($.map(data, function(item){
                         return {
                             plink: item.product_id,
-                            label: item.product  + 'Объем: '+ item.volume,
+                            label: item.product + ' Объем: '+ item.volume + ' Артикул: ' + item.article,
                             price: item.price,
                             price_view: item.price_view,
                             article: item.article,

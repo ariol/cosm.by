@@ -6,6 +6,7 @@
 <?php if($index) { ?><p><strong>Индекс: </strong><?php echo $index;?></p><?php } ?>
 <?php if($cart) { ?>
 <?php foreach($cart as $item) {
+    if($item->quantity > 0){
     $prod = ORM::factory('Product')->fetchProdById($item->id);?>
         $prod = ORM::factory('Product')->fetchProdById($item->id);?>
         <p><a target="_blank" href="http://<?=$_SERVER['SERVER_NAME']?><?php echo $prod->getSiteUrl(); ?>"><?=$prod->name;?></a></p>
@@ -14,6 +15,7 @@
         <p>_________________________</p>
         <?php $full_price_product += $item->price * $item->quantity; ?>
         <?php $full_price_not_discount += $item->price * $item->quantity; ?>
+    <?php } ?>
 <?php } ?>
 <?php } ?>
 <?php if($cert) { ?>

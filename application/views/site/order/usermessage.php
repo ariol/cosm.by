@@ -10,13 +10,15 @@
 <?php $full_price_certificate = 0; ?>
 <?php if($cart!=null) { ?>
     <?php foreach($cart as $item) {
-        $prod = ORM::factory('Product')->fetchProdById($item->id);?>
-        <p><a target="_blank" href="http://<?=$_SERVER['SERVER_NAME']?><?php echo $prod->getSiteUrl(); ?>"><?=$prod->name;?></a></p>
-        <p>Количество - <?=$item->quantity?></p>
-        <p>Цена - <?=number_format($item->price, 0, '', ' ')?> руб</p>
-        <p>_________________________</p>
-        <?php $full_price_product += $item->price * $item->quantity; ?>
-        <?php $full_price_not_discount += $item->price * $item->quantity; ?>
+        if($item->quantity > 0){
+            $prod = ORM::factory('Product')->fetchProdById($item->id);?>
+            <p><a target="_blank" href="http://<?=$_SERVER['SERVER_NAME']?><?php echo $prod->getSiteUrl(); ?>"><?=$prod->name;?></a></p>
+            <p>Количество - <?=$item->quantity?></p>
+            <p>Цена - <?=number_format($item->price, 0, '', ' ')?> руб</p>
+            <p>_________________________</p>
+            <?php $full_price_product += $item->price * $item->quantity; ?>
+            <?php $full_price_not_discount += $item->price * $item->quantity; ?>
+        <?php } ?>
     <?php } ?>
 <?php } ?>
 <?php if($certificate_mail) { ?>

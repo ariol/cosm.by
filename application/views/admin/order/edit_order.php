@@ -183,13 +183,13 @@
                     <div class="form-group">
                         <label for="inputAddress" class="col-sm-3 control-label">Город :</label>
                         <div class="col-sm-9">
-                            <input type="text" class="form-control" id="inputAddress" value="<?php echo $order->city?>" name="city" placeholder="адрес">
+                            <input type="text" class="form-control" id="inputAddress" value="<?php echo $order->city?>" name="city" placeholder="город">
                         </div>
                     </div>
                     <div class="form-group">
-                        <label for="inputAddress" class="col-sm-3 control-label">Игдекс :</label>
+                        <label for="inputAddress" class="col-sm-3 control-label">Индекс :</label>
                         <div class="col-sm-9">
-                            <input type="text" class="form-control" id="inputAddress" value="<?php echo $order->index?>" name="index" placeholder="адрес">
+                            <input type="text" class="form-control" id="inputAddress" value="<?php echo $order->index?>" name="index" placeholder="индекс">
                         </div>
                     </div>
                     <div class="form-group">
@@ -203,8 +203,8 @@
                         <div class="col-sm-9">
                             <label><input type="radio" name="delivery" value="5" <?php if($order->delivery == 5) { ?>checked<?php } ?> /> Бесплатная доставка наложным платежем</label><br>
                             <label><input type="radio" name="delivery" value="4" <?php if($order->delivery == 4) { ?>checked<?php } ?> /> Бесплатная доставка курьером</label><br>
-                            <label><input type="radio"  name="delivery" value="2" <?php if($order->delivery == 2){?>checked<?php } ?>/> Доставка курьером(от 600 000 руб. - 30 000.руб после - бесплатно)</label><br>
-                            <label><input type="radio" name="delivery" value="3" <?php if($order->delivery == 3){?>checked<?php } ?>/> Наложным платежем(от 1 000 000 руб. - 50 000.руб после - бесплатно)</label>
+                            <label><input type="radio"  name="delivery" value="2" <?php if($order->delivery == 2){?>checked<?php } ?>/> Доставка курьером</label><br>
+                            <label><input type="radio" name="delivery" value="3" <?php if($order->delivery == 3){?>checked<?php } ?>/> Наложным платежем</label>
                         </div>
                     </div>
 
@@ -352,7 +352,7 @@
                     response($.map(data, function(item){
                         return {
                             plink: item.product_id,
-                            label: item.product + ' Объем: '+ item.volume,
+                            label: item.product + ' Объем: '+ item.volume + 'Артикул: ' + item.article,
                             price: item.price,
                             price_view: item.price_view,
                             article: item.article,

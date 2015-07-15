@@ -198,11 +198,12 @@ $(document).ready(function() {
                 coupon: coupon,
                 certificate: certificate,
                 admin_order: admin_order,
-                comment: comment
+                comment: comment,
+                city: city
             },
             success: function (result) {
                 alert('Ваш заказ принят');
-                window.location.href = "http://chocolate.local/ariol-admin/order/view/"+result.order_id
+                window.location.href = "/ariol-admin/order/view/"+result.order_id
             }
         });
     });
