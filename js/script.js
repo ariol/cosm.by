@@ -610,14 +610,14 @@ function suces_order(){
             if( price_total_delivery_start > price_total_delivery) {
                 if (value == 3) {
                     $(".form-group.city.hidden").removeClass("hidden");
-                    if (price_total_delivery_start < 1000000 && price_total_delivery_start < 600000) {
+                    if (price_total_delivery_start < 3000000 && price_total_delivery_start < 600000) {
                         var total_price = price_total_delivery - price_delivery + 50000;
                         $('.last_result_delivery_price').text(numFormat(total_price) + ' руб.');
                         $('.delivery_type').text("Стоимость доставки наложным платежем:");
                         $('.result_delivery').text(numFormat(50000) + ' руб.');
                         $('.last_result_delivery_price').attr('data-last_result_delivery_price', total_price);
                     }
-                    if (price_total_delivery_start < 1000000 && price_total_delivery_start >= 600000) {
+                    if (price_total_delivery_start < 3000000 && price_total_delivery_start >= 600000) {
                         var total_price = price_total_delivery - price_delivery + 50000;
                         $('.last_result_delivery_price').text(numFormat(total_price) + ' руб.');
                         $('.delivery_type').text("Стоимость доставки наложным платежем:");
@@ -627,14 +627,14 @@ function suces_order(){
                 }
                 if (value == 2) {
                     $(".form-group.city").addClass("hidden");
-                    if (price_total_delivery_start < 600000 && price_total_delivery_start < 1000000) {
+                    if (price_total_delivery_start < 600000 && price_total_delivery_start < 3000000) {
                         var total_price = price_total_delivery - price_delivery + 30000 ;
                         $('.last_result_delivery_price').text(numFormat(total_price) + ' руб.');
                         $('.delivery_type').text("Стоимость доставки курьером:");
                         $('.result_delivery').text(numFormat(30000) + ' руб.');
                         $('.last_result_delivery_price').attr('data-last_result_delivery_price', total_price);
                     }
-                    if (price_total_delivery_start >= 600000 && price_total_delivery_start < 1000000) {
+                    if (price_total_delivery_start >= 600000 && price_total_delivery_start < 3000000) {
                         var total_price = price_total_delivery - price_delivery;
                         $('.last_result_delivery_price').text(numFormat(total_price) + ' руб.');
                         $('.delivery_type').text("Стоимость доставки курьером:");
@@ -645,7 +645,7 @@ function suces_order(){
             } else {
                 if (value == 3) {
                     $(".form-group.city.hidden").removeClass("hidden");
-                    if (price_total_delivery >= 1000000) {
+                    if (price_total_delivery >= 3000000) {
                         var total_price = price_total_delivery;
                         $('.last_result_delivery_price').text(numFormat(total_price) + ' руб.');
                         $('.delivery_type').text("Стоимость доставки наложным платежем:");

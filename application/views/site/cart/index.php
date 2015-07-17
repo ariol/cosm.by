@@ -271,7 +271,7 @@
                                     <p class="col-sm-3 control-label">Доставка:</p>
                                     <div class="col-sm-9">
                                         <label class="hide_city"><input type="radio" name="delivery" data-price="50000"  value="2" checked/> Доставка курьером (<?php if($lastprice + $certificate_lastprice <= 600000) { ?>30 000.руб<?php } else { ?>Бесплатно<?php }?>)</label><br>
-                                        <label class="show_city"><input type="radio" name="delivery" data-price="50000" value="3"/> Наложным платежем (<?php if($lastprice + $certificate_lastprice <= 1000000) { ?>50 000.руб<?php } else { ?>Бесплатно<?php }?>)</label>
+                                        <label class="show_city"><input type="radio" name="delivery" data-price="50000" value="3"/> Наложным платежем (<?php if($lastprice + $certificate_lastprice <= 3000000) { ?>50 000.руб<?php } else { ?>Бесплатно<?php }?>)</label>
                                     </div>
                                 </div>
                                 <div class="form-group">

@@ -51,7 +51,7 @@ switch($delivery) {
         echo "доставка курьером "; if($full_price_not_discount + $full_price_certificate < 600000) { $price_delivery = 30000; echo " 30 000 руб. "; } else { $price_delivery = 0;  echo  " бесплатно" ;}
         break;
     case '3':
-        echo "доставка наложным платежем "; if($full_price_not_discount + $full_price_certificate < 1000000) { $price_delivery = 50000; echo " 50 000 руб. ";}  else { $price_delivery = 0; echo " бесплатно" ;}
+        echo "доставка наложным платежем "; if($full_price_not_discount + $full_price_certificate < 3000000) { $price_delivery = 50000; echo " 50 000 руб. ";}  else { $price_delivery = 0; echo " бесплатно" ;}
         break;
     case '4':
         echo "бесплатная доставка курьером ";
