@@ -1,22 +1,19 @@
 <!doctype html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="utf-8">
     <!--[if IE]>
     <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="author" content="cosm.by">
     <title><?php echo $s_title; ?></title>
-    <!-- Bootstrap Core CSS -->
+	<meta name="description" content="<?php echo $s_title; ?>">
+	<meta name="keywords" content="<?php echo $s_title; ?>">
     <link href="/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Google Web Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Roboto:300,700,400&subset=cyrillic,latin' rel='stylesheet' type='text/css'>
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400" rel="stylesheet" type="text/css">
-    <link href="/css/magnific-popup.css" rel="stylesheet">
-    <!-- CSS Files -->
-    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<link href="/css/magnific-popup.css" rel="stylesheet">
+    <link href="/css/fontawesome.min.css" rel="stylesheet">
 	<link href="/css/jquery.scrollbar.css" rel="stylesheet">
 	<link href="/css/bootstrap-slider.css" rel="stylesheet">
 	<link href="/css/minimal/minimal.css" rel="stylesheet">
@@ -32,7 +29,6 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     <link rel="shortcut icon" href="/favicon.ico">
-
     <script src="/js/jquery-1.11.1.min.js"></script>
     <script src="/js/jquery-migrate-1.2.1.min.js"></script>
 	<script src="/js/jquery.scrollbar.js"></script>
@@ -44,11 +40,7 @@
 	<script src="/js/icheck.js"></script>
     <script src="/js/custom.js"></script>
     <script src="/js/script.js?v8"></script>
-
-
-
 </head>
-
 <body>
 <!-- Container Starts -->
 <div id="wrapper" class="container">
@@ -135,7 +127,7 @@
                         <ul class="dropdown-menu pull-right result" id="result_busket"></ul>
                     </div>
                 </div>
-     <!-- Shopping Cart Ends -->
+				<!-- Shopping Cart Ends -->
                 <!-- Search Starts -->
                 <div class="col-sm-4 col-md-3">
                     <div id="search">
@@ -145,7 +137,7 @@
                                 <a rel="nofollow" href="javascript:void(0)" onclick="$('form').submit();" title="Найдись!" class="action-search"></a>
                                 <div id="result"></div>
                             </form>
-<!--                            <div id="result"></div>-->
+							<!--<div id="result"></div>-->
                             <span class="input-group-btn search action-search">
 								<button class="btn btn-lg search_button" type="button" title="Поиск" value="javascript:void(0)" onclick="$('form.search').submit();"  class="action-search">
                                     <i class="fa fa-search"></i>

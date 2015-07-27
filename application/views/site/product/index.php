@@ -220,44 +220,44 @@
         </div>
         <!-- Tabs Ends -->
         <!-- Related Products Starts -->
-            <section class="products-list">
-            <div class="product-info-box">
-            <h4 class="heading col-xs-12">Смотрите еще</h4>
-            <div class="row">
-                <?php $price = ORM::factory('Product')->getPriceValue();?>
-                <?php foreach($related as $related_prod){
-                    $price = ORM::factory('Product')->getPriceValue($related_prod->id);
-                    ?>
-                <div class="col-md-3 col-sm-6">
-                    <div class="product-col">
-                        <div class="image">
-                            <a href="/<?php echo $category->url; ?>/<?php echo $related_prod->url; ?>">
-                                <img src="<?php echo Lib_Image::resize_bg($related_prod->main_image, 'product', $related_prod->id, 250, 250); ?>"  alt="product" class="img-responsive" />
-                            </a>
-                        </div>
-                        <div class="caption">
-                            <br>
-                            <div class="price">
-                                <span class="price-new"><?php echo number_format($price, 0, ' ', ' ') ?>руб.</span>
-                            </div>
-                            <?php if($related_prod->new_price){ ?>
-                                <div class="price">
-                                    <span class="price-old"><?php echo number_format($related_prod->price, 0, ' ', ' '); ?>руб.</span>
-                                </div>
-                            <?php } ?>
-                            <h4><a href="/<?php echo $category->url; ?>/<?php echo $related_prod->url; ?>"><?php echo $related_prod->name?></a></h4>
-                            <div class="cart-button button-group">
-                                <button type="button" class="btn btn-cart add_cart" data-id="<?php echo $related_prod->id; ?>" data-price="<?php echo $price ?>">
-                                    <i class="fa fa-shopping-cart"></i><br>
-                                    Добавить в корзину
-                                </button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <?php } ?>
-            </div>
-        </div>
+            <section class="products-list col-xs-12">
+				<div class="product-info-box">
+					<h4 class="heading col-xs-12">Смотрите еще</h4>
+					<div class="row">
+						<?php $price = ORM::factory('Product')->getPriceValue();?>
+						<?php foreach($related as $related_prod){
+							$price = ORM::factory('Product')->getPriceValue($related_prod->id);
+							?>
+						<div class="col-md-3 col-sm-6">
+							<div class="product-col">
+								<div class="image">
+									<a href="/<?php echo $category->url; ?>/<?php echo $related_prod->url; ?>">
+										<img src="<?php echo Lib_Image::resize_bg($related_prod->main_image, 'product', $related_prod->id, 250, 250); ?>"  alt="product" class="img-responsive" />
+									</a>
+								</div>
+								<div class="caption">
+									<br>
+									<div class="price">
+										<span class="price-new"><?php echo number_format($price, 0, ' ', ' ') ?>руб.</span>
+									</div>
+									<?php if($related_prod->new_price){ ?>
+										<div class="price">
+											<span class="price-old"><?php echo number_format($related_prod->price, 0, ' ', ' '); ?>руб.</span>
+										</div>
+									<?php } ?>
+									<h4><a href="/<?php echo $category->url; ?>/<?php echo $related_prod->url; ?>"><?php echo $related_prod->name?></a></h4>
+									<div class="cart-button button-group">
+										<button type="button" class="btn btn-cart add_cart" data-id="<?php echo $related_prod->id; ?>" data-price="<?php echo $price ?>">
+											<i class="fa fa-shopping-cart"></i><br>
+											Добавить в корзину
+										</button>
+									</div>
+								</div>
+							</div>
+						</div>
+						<?php } ?>
+					</div>
+				</div>
             </section>
     </div>
     </div>
