@@ -48,7 +48,7 @@ class Extasy_Orm extends Kohana_ORM implements ArrayAccess
 			$resultArray = $database->query($sql)->fetch(PDO::FETCH_ASSOC);
 		}
 		
-		$countItems = $database->query('SELECT FOUND_ROWS()')->fetchColumn(); 
+		$countItems = $database->query('SELECT FOUND_ROWS()')->fetchColumn();
 
 		if ($fetchArray) {
 			return array(
@@ -478,7 +478,7 @@ class Extasy_Orm extends Kohana_ORM implements ArrayAccess
 
 	public function get_page_by_url($url = '')
 	{
-		return $this->where('md5_url', '=', md5($url))
+		return $this->where('url', '=', $url)
 			->find();
 	}
 

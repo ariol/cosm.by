@@ -11,12 +11,16 @@ class Controller_Site_Certificate extends Controller_Site
         $this->set_metatags_and_content('', 'page');
         $certificate = ORM::factory('Certificate')->fetcCertificateForMmain()->as_array();
         $this->template->certificate = $certificate;
+        $this->_model->name = 'Сертификаты';
+        $this->template->s_title = $this->_model->name . ' - купить ' . ' в Минске в интернет магазине cosm.by: лучшие цены, большой каталог, отзывы';
     }
 
     public function action_product()
     {
         $this->set_metatags_and_content($this->param('url'), 'certificate');
         $this->template->set_layout('layout/site/global');
+        $this->template->s_title = $this->_model->name . ' - купить ' . ' в Минске в интернет магазине cosm.by: лучшие цены, большой каталог, отзывы';
+
     }
 
     public function action_add()

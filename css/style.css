@@ -1594,4 +1594,8 @@ button.filter_cnt:after{
 	background-position: center center;
 	width: 90%;
 	height: 64px;
-} 
+}
+
+.delivery_style_main{
+    list-style: disc !important;
+}

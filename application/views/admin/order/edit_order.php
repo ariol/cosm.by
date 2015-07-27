@@ -224,10 +224,8 @@
 <script>
     var ignore_ids = [];
     var ignore_ids_certificate= [];
-
     recount();
     recount_certificate();
-
     $(window).unload(function(){
         $.ajax({
             url: "/ariol-admin/order/empty_cart"

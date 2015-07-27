@@ -18,7 +18,7 @@ class Controller_Site_Category extends Controller_Site
 			Cookie::set('page_view', 'grid', time() + 86400);
             $page_view = "grid";
         }
-		
+
         $this->template->page_view = $page_view;
         $page = intval($this->param('page'));
 
